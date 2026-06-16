@@ -252,7 +252,7 @@ def fetch_google_news(query: str, max_items: int = 4) -> list[dict[str, str]]:
     return items
 
 
-def extract_keyword_themes(headlines: list[dict[str, str]], max_themes: int = 3) -> list[str]:
+def extract_keyword_themes(headlines: list[dict[str, str]], max_themes: int = 4) -> list[str]:
     text = " ".join(h.get("title", "") for h in headlines).lower()
     themes = []
     for label, keywords in KEYWORD_LABELS.items():
@@ -261,13 +261,23 @@ def extract_keyword_themes(headlines: list[dict[str, str]], max_themes: int = 3)
     return themes[:max_themes]
 
 
+POSITIVE_WORDS = [
+    "rise", "rises", "rising", "gain", "gains", "higher", "record", "rally", "surge", "jumps", "beats",
+    "upgrade", "bullish", "strong", "growth", "boost", "soars", "outperform", "erholung", "steigt", "gewinn",
+]
+NEGATIVE_WORDS = [
+    "fall", "falls", "drop", "drops", "lower", "slump", "selloff", "weak", "miss", "misses", "downgrade",
+    "probe", "lawsuit", "antitrust", "tariff", "risk", "fear", "concern", "recession", "druck", "fällt", "verlust",
+]
+
+
 def movement_sentence(asset: dict[str, Any]) -> tuple[str, str]:
     change = asset.get("change_pct")
     if change is None:
-        return "seitwärts", "Es liegt keine verlässliche Tagesveränderung vor."
+        return "unklar", "Für den heutigen Tag liegt keine verlässliche Tagesveränderung vor."
     abs_change = abs(change)
     if abs_change < 0.05:
-        return "seitwärts", "Der Kurs liegt nahezu unverändert gegenüber dem letzten Schlusskurs."
+        return "kaum verändert", "Der Kurs liegt nahezu unverändert gegenüber dem letzten Schlusskurs."
     strength = "leicht"
     if abs_change >= 1.0:
         strength = "deutlich"
@@ -275,7 +285,67 @@ def movement_sentence(asset: dict[str, Any]) -> tuple[str, str]:
         strength = "spürbar"
     direction = "gestiegen" if change > 0 else "gefallen"
     sign = "+" if change > 0 else ""
-    return direction, f"Der Kurs ist heute {strength} {direction} ({sign}{change:.2f} % gegenüber dem vorherigen Schlusskurs)."
+    return direction, f"Der Kurs ist {strength} {direction}: {sign}{change:.2f} % gegenüber dem vorherigen Schlusskurs."
+
+
+def headline_sentiment(headlines: list[dict[str, str]]) -> dict[str, int]:
+    text = " ".join(h.get("title", "") for h in headlines).lower()
+    pos = sum(1 for w in POSITIVE_WORDS if w in text)
+    neg = sum(1 for w in NEGATIVE_WORDS if w in text)
+    return {"positive": pos, "negative": neg}
+
+
+def source_based_summary(asset: dict[str, Any], headlines: list[dict[str, str]], themes: list[str]) -> tuple[str, list[str], str]:
+    """Return summary, bullets, confidence.
+
+    Important: this function does not invent a cause. It only says what the
+    public headline context suggests. If headline evidence is weak, it says so.
+    """
+    direction, move_text = movement_sentence(asset)
+    change = asset.get("change_pct")
+    bullets = [move_text]
+
+    if not headlines:
+        return (
+            "Keine belastbare Begründung gefunden: Für diesen Wert wurden beim automatischen Abruf keine aktuellen verwertbaren Schlagzeilen gefunden. Es wird daher bewusst keine Ursache behauptet.",
+            bullets + ["Nächster sinnvoller Schritt: Nachrichtenlage manuell prüfen oder eine bessere News-API anbinden."],
+            "niedrig",
+        )
+
+    titles = [h.get("title", "") for h in headlines[:3] if h.get("title")]
+    sentiment = headline_sentiment(headlines)
+    theme_text = ", ".join(themes) if themes else "keine klaren Themen erkannt"
+
+    bullets.append("Gefundene Nachrichten-Themen: " + theme_text + ".")
+    bullets.append("Wichtigste gefundene Headlines: " + " | ".join(titles[:2]) + ".")
+
+    # Only make a stronger statement when headline wording and price direction align.
+    if isinstance(change, (int, float)) and abs(change) < 0.05:
+        return (
+            "Kaum Kursbewegung: Obwohl aktuelle Schlagzeilen gefunden wurden, ist die Tagesbewegung zu klein für eine sinnvolle Ursache-Wirkung-Aussage.",
+            bullets,
+            "niedrig",
+        )
+
+    if isinstance(change, (int, float)):
+        if change > 0 and sentiment["positive"] > sentiment["negative"]:
+            return (
+                "Plausibler Nachrichtenbezug: Der Kurs ist gestiegen und die gefundenen Schlagzeilen enthalten überwiegend positiv wirkende Formulierungen. Die Quellen passen damit zur Richtung, beweisen aber keine Kausalität.",
+                bullets,
+                "mittel",
+            )
+        if change < 0 and sentiment["negative"] > sentiment["positive"]:
+            return (
+                "Plausibler Nachrichtenbezug: Der Kurs ist gefallen und die gefundenen Schlagzeilen enthalten überwiegend belastend wirkende Formulierungen. Die Quellen passen damit zur Richtung, beweisen aber keine Kausalität.",
+                bullets,
+                "mittel",
+            )
+
+    return (
+        "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
+        bullets,
+        "niedrig",
+    )
 
 
 def market_mood(assets: list[dict[str, Any]]) -> str:
@@ -291,44 +361,10 @@ def market_mood(assets: list[dict[str, Any]]) -> str:
     return "neutral"
 
 
-def market_context_sentence(asset_name: str, change: float | None, mood: str) -> str:
-    if mood == "risk-on":
-        if asset_name == "Gold":
-            return "Das Gesamtbild der Watchlist wirkt eher risk-on; Gold kann in solchen Phasen hinter Aktien zurückbleiben, außer Zinsen/Dollar oder Sicherheitsnachfrage dominieren."
-        return "Das Gesamtbild der Watchlist wirkt risk-on; das unterstützt typischerweise Aktien-ETFs und wachstumsorientierte Titel."
-    if mood == "risk-off":
-        if asset_name == "Gold":
-            return "Das Gesamtbild der Watchlist wirkt risk-off; das kann Gold stützen, wenn Anleger Sicherheit suchen."
-        return "Das Gesamtbild der Watchlist wirkt risk-off; Risikoanlagen wie Aktien-ETFs stehen dann eher unter Druck."
-    return "Das Gesamtbild ist gemischt; die Bewegung dürfte eher durch produktspezifische Nachrichten und einzelne Makrothemen getrieben sein."
-
-
 def build_explanation(asset: dict[str, Any], asset_config: dict[str, Any], headlines: list[dict[str, str]], mood: str) -> dict[str, Any]:
-    direction, move_text = movement_sentence(asset)
+    direction, _ = movement_sentence(asset)
     themes = extract_keyword_themes(headlines)
-    change = asset.get("change_pct")
-
-    if headlines and themes:
-        theme_text = ", ".join(themes)
-        summary = f"Mögliche Treiber: {theme_text}. Die verlinkten Schlagzeilen liefern Kontext; die Kursbewegung wird daraus nicht sicher kausal bewiesen."
-    elif headlines:
-        summary = "Mögliche Treiber ergeben sich aus der aktuellen Schlagzeilenlage. Die Links dienen als Kontext, nicht als sicherer Kausalnachweis."
-    else:
-        summary = "Keine aktuellen Schlagzeilen gefunden; die Einordnung basiert daher nur auf Kursbewegung und typischen Markttreibern."
-
-    bullets = [
-        move_text,
-        market_context_sentence(asset["name"], change, mood),
-        asset_config.get("driver_hint", "Beobachte Nachrichtenlage, Makrodaten und Marktstimmung."),
-    ]
-
-    if headlines:
-        titles = [h["title"] for h in headlines[:2]]
-        bullets.append("Aktuelle Quellen im Blick: " + " | ".join(titles))
-
-    confidence = "mittel" if headlines else "niedrig"
-    if change is not None and abs(change) < 0.05:
-        confidence = "niedrig"
+    summary, bullets, confidence = source_based_summary(asset, headlines, themes)
 
     return {
         "direction": direction,
