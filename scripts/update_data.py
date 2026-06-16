@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
-"""Fetch public market data from Stooq and write data/dashboard-data.json.
+"""Fetch public market data and write data/dashboard-data.json.
 
-No API key required. Intended for GitHub Actions or local execution.
+Uses the public Yahoo Finance chart endpoint without API keys. Intended for
+GitHub Actions or local execution.
 """
 
 from __future__ import annotations
 
-import csv
 import json
 import math
 import statistics
@@ -14,7 +14,8 @@ import sys
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
-from urllib.error import URLError, HTTPError
+from urllib.error import HTTPError, URLError
+from urllib.parse import quote
 from urllib.request import Request, urlopen
 from zoneinfo import ZoneInfo
 
@@ -24,79 +25,122 @@ OUTPUT = ROOT / "data" / "dashboard-data.json"
 ASSETS = [
     {
         "name": "MSCI World",
-        "symbol": "IWDA.UK",
-        "stooq_symbol": "iwda.uk",
-        "currency": "USD",
+        "symbol": "EUNL.DE",
+        "yahoo_symbols": ["EUNL.DE", "IWDA.AS", "IWDA.L"],
+        "currency": "EUR",
         "description": "iShares Core MSCI World UCITS ETF als handelbarer Developed-Markets-Proxy",
         "price_decimals": 2,
     },
     {
         "name": "MSCI Emerging Markets",
-        "symbol": "EIMI.UK",
-        "stooq_symbol": "eimi.uk",
-        "currency": "USD",
+        "symbol": "IS3N.DE",
+        "yahoo_symbols": ["IS3N.DE", "EIMI.L"],
+        "currency": "EUR",
         "description": "iShares Core MSCI EM IMI UCITS ETF als Emerging-Markets-Proxy",
         "price_decimals": 2,
     },
     {
         "name": "MSCI World Small Caps",
         "symbol": "IUSN.DE",
-        "stooq_symbol": "iusn.de",
+        "yahoo_symbols": ["IUSN.DE"],
         "currency": "EUR",
         "description": "iShares MSCI World Small Cap UCITS ETF als Small-Cap-Proxy",
         "price_decimals": 3,
     },
     {
         "name": "Alphabet",
-        "symbol": "GOOGL.US",
-        "stooq_symbol": "googl.us",
+        "symbol": "GOOGL",
+        "yahoo_symbols": ["GOOGL"],
         "currency": "USD",
         "description": "Alphabet Inc. Class A",
         "price_decimals": 2,
     },
     {
         "name": "Gold",
-        "symbol": "XAUUSD",
-        "stooq_symbol": "xauusd",
+        "symbol": "GC=F",
+        "yahoo_symbols": ["GC=F", "XAUUSD=X"],
         "currency": "USD/oz",
-        "description": "Gold Spotpreis gegen US-Dollar",
+        "description": "Goldpreis, primär über Gold-Future, fallback XAU/USD",
         "price_decimals": 2,
     },
 ]
 
 
-def fetch_stooq_csv(symbol: str) -> list[dict[str, Any]]:
-    url = f"https://stooq.com/q/d/l/?s={symbol}&i=d"
-    request = Request(url, headers={"User-Agent": "market-pulse-dashboard/1.0"})
+def fetch_json(url: str) -> dict[str, Any]:
+    request = Request(
+        url,
+        headers={
+            "User-Agent": "Mozilla/5.0 (compatible; MarketPulseDashboard/1.0)",
+            "Accept": "application/json,text/plain,*/*",
+        },
+    )
     try:
         with urlopen(request, timeout=30) as response:
             text = response.read().decode("utf-8", errors="replace")
     except (URLError, HTTPError) as exc:
-        raise RuntimeError(f"Could not fetch {symbol}: {exc}") from exc
+        raise RuntimeError(f"Could not fetch {url}: {exc}") from exc
+
+    try:
+        return json.loads(text)
+    except json.JSONDecodeError as exc:
+        raise RuntimeError(f"Response was not JSON. Starts with: {text[:120]!r}") from exc
+
+
+def fetch_yahoo_rows(symbol: str) -> list[dict[str, Any]]:
+    encoded = quote(symbol, safe="")
+    url = f"https://query1.finance.yahoo.com/v8/finance/chart/{encoded}?range=1y&interval=1d&includePrePost=false&events=history"
+    data = fetch_json(url)
+
+    chart = data.get("chart", {})
+    error = chart.get("error")
+    if error:
+        raise RuntimeError(f"Yahoo returned error for {symbol}: {error}")
+
+    results = chart.get("result") or []
+    if not results:
+        raise RuntimeError(f"No chart result for {symbol}")
+
+    result = results[0]
+    timestamps = result.get("timestamp") or []
+    quote_data = ((result.get("indicators") or {}).get("quote") or [{}])[0]
+
+    closes = quote_data.get("close") or []
+    opens = quote_data.get("open") or []
+    highs = quote_data.get("high") or []
+    lows = quote_data.get("low") or []
+    volumes = quote_data.get("volume") or []
 
     rows: list[dict[str, Any]] = []
-    reader = csv.DictReader(text.splitlines())
-    for row in reader:
-        try:
-            if not row.get("Date") or row.get("Close") in (None, "", "N/D"):
-                continue
-            rows.append(
-                {
-                    "date": row["Date"],
-                    "open": float(row["Open"]),
-                    "high": float(row["High"]),
-                    "low": float(row["Low"]),
-                    "close": float(row["Close"]),
-                    "volume": None if not row.get("Volume") or row.get("Volume") == "N/D" else float(row["Volume"]),
-                }
-            )
-        except (ValueError, TypeError, KeyError):
+    for i, ts in enumerate(timestamps):
+        close = closes[i] if i < len(closes) else None
+        if close is None:
             continue
+        day = datetime.fromtimestamp(ts, tz=timezone.utc).strftime("%Y-%m-%d")
+        rows.append(
+            {
+                "date": day,
+                "open": opens[i] if i < len(opens) else None,
+                "high": highs[i] if i < len(highs) else None,
+                "low": lows[i] if i < len(lows) else None,
+                "close": float(close),
+                "volume": volumes[i] if i < len(volumes) else None,
+            }
+        )
 
     rows.sort(key=lambda item: item["date"])
     if len(rows) < 2:
-        raise RuntimeError(f"Not enough data for {symbol}. Response starts with: {text[:120]!r}")
+        raise RuntimeError(f"Not enough Yahoo data for {symbol}")
     return rows
+
+
+def fetch_first_working(symbols: list[str]) -> tuple[str, list[dict[str, Any]]]:
+    errors = []
+    for symbol in symbols:
+        try:
+            return symbol, fetch_yahoo_rows(symbol)
+        except Exception as exc:
+            errors.append(f"{symbol}: {exc}")
+    raise RuntimeError("; ".join(errors))
 
 
 def pct(current: float | None, previous: float | None) -> float | None:
@@ -137,15 +181,15 @@ def annualized_volatility(rows: list[dict[str, Any]], days: int = 30) -> float |
 
 
 def build_asset_payload(asset: dict[str, Any]) -> dict[str, Any]:
-    rows = fetch_stooq_csv(asset["stooq_symbol"])
+    used_symbol, rows = fetch_first_working(asset["yahoo_symbols"])
     last = rows[-1]
     prev = rows[-2]
     latest_close = last["close"]
 
-    payload = {
+    return {
         "name": asset["name"],
-        "symbol": asset["symbol"],
-        "source_symbol": asset["stooq_symbol"],
+        "symbol": used_symbol,
+        "source_symbol": used_symbol,
         "currency": asset["currency"],
         "description": asset["description"],
         "price_decimals": asset["price_decimals"],
@@ -162,7 +206,6 @@ def build_asset_payload(asset: dict[str, Any]) -> dict[str, Any]:
         "volatility_30d_pct": annualized_volatility(rows, 30),
         "sparkline": [{"date": r["date"], "close": r["close"]} for r in rows[-90:]],
     }
-    return payload
 
 
 def main() -> int:
@@ -174,12 +217,12 @@ def main() -> int:
     for asset in ASSETS:
         try:
             assets.append(build_asset_payload(asset))
-        except Exception as exc:  # keep dashboard usable if one symbol fails
+        except Exception as exc:
             errors.append({"symbol": asset["symbol"], "error": str(exc)})
 
     data = {
         "is_sample": False,
-        "source": "Stooq public daily CSV",
+        "source": "Yahoo Finance public chart endpoint",
         "generated_at_utc": now_utc.isoformat(timespec="seconds"),
         "generated_at_vienna": now_vienna.strftime("%d.%m.%Y, %H:%M Uhr"),
         "assets": assets,
@@ -192,7 +235,10 @@ def main() -> int:
     if errors:
         print("Completed with symbol errors:", errors, file=sys.stderr)
     print(f"Wrote {OUTPUT} with {len(assets)} assets")
-    return 0 if assets else 1
+
+    # Do not fail the workflow just because one external source is temporarily unavailable.
+    # The dashboard can still show partial data and the stored errors.
+    return 0
 
 
 if __name__ == "__main__":
