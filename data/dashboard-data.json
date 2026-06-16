@@ -1,8 +1,8 @@
 {
   "is_sample": false,
   "source": "Yahoo Finance public chart endpoint",
-  "generated_at_utc": "2026-06-16T08:06:02+00:00",
-  "generated_at_vienna": "16.06.2026, 10:06 Uhr",
+  "generated_at_utc": "2026-06-16T08:11:37+00:00",
+  "generated_at_vienna": "16.06.2026, 10:11 Uhr",
   "assets": [
     {
       "name": "MSCI World",
@@ -12,15 +12,15 @@
       "description": "iShares Core MSCI World UCITS ETF als handelbarer Developed-Markets-Proxy",
       "price_decimals": 2,
       "last_date": "2026-06-16",
-      "last_close": 124.30500030517578,
+      "last_close": 124.34500122070312,
       "previous_close": 124.2699966430664,
-      "change_abs": 0.04,
-      "change_pct": 0.03,
-      "change_5d_pct": 2.8,
-      "change_1m_pct": 3.23,
-      "change_3m_pct": 10.8,
+      "change_abs": 0.08,
+      "change_pct": 0.06,
+      "change_5d_pct": 2.83,
+      "change_1m_pct": 3.27,
+      "change_3m_pct": 10.84,
       "change_1y_pct": null,
-      "ytd_pct": 11.21,
+      "ytd_pct": 11.25,
       "volatility_30d_pct": 11.09,
       "sparkline": [
         {
@@ -381,7 +381,7 @@
         },
         {
           "date": "2026-06-16",
-          "close": 124.30500030517578
+          "close": 124.34500122070312
         }
       ]
     },
@@ -393,16 +393,16 @@
       "description": "iShares Core MSCI EM IMI UCITS ETF als Emerging-Markets-Proxy",
       "price_decimals": 2,
       "last_date": "2026-06-16",
-      "last_close": 48.80500030517578,
+      "last_close": 48.84199905395508,
       "previous_close": 49.106998443603516,
-      "change_abs": -0.3,
-      "change_pct": -0.61,
-      "change_5d_pct": 5.73,
-      "change_1m_pct": 7.16,
-      "change_3m_pct": 18.2,
+      "change_abs": -0.26,
+      "change_pct": -0.54,
+      "change_5d_pct": 5.81,
+      "change_1m_pct": 7.24,
+      "change_3m_pct": 18.29,
       "change_1y_pct": null,
-      "ytd_pct": 27.27,
-      "volatility_30d_pct": 26.79,
+      "ytd_pct": 27.37,
+      "volatility_30d_pct": 26.77,
       "sparkline": [
         {
           "date": "2026-02-05",
@@ -762,7 +762,7 @@
         },
         {
           "date": "2026-06-16",
-          "close": 48.80500030517578
+          "close": 48.84199905395508
         }
       ]
     },
@@ -774,16 +774,16 @@
       "description": "iShares MSCI World Small Cap UCITS ETF als Small-Cap-Proxy",
       "price_decimals": 3,
       "last_date": "2026-06-16",
-      "last_close": 9.081999778747559,
+      "last_close": 9.085000038146973,
       "previous_close": 9.09000015258789,
-      "change_abs": -0.008,
-      "change_pct": -0.09,
-      "change_5d_pct": 3.72,
-      "change_1m_pct": 5.91,
-      "change_3m_pct": 12.68,
+      "change_abs": -0.005,
+      "change_pct": -0.06,
+      "change_5d_pct": 3.76,
+      "change_1m_pct": 5.95,
+      "change_3m_pct": 12.72,
       "change_1y_pct": null,
-      "ytd_pct": 16.74,
-      "volatility_30d_pct": 13.48,
+      "ytd_pct": 16.77,
+      "volatility_30d_pct": 13.47,
       "sparkline": [
         {
           "date": "2026-02-05",
@@ -1143,7 +1143,7 @@
         },
         {
           "date": "2026-06-16",
-          "close": 9.081999778747559
+          "close": 9.085000038146973
         }
       ]
     },
@@ -1536,16 +1536,16 @@
       "description": "Goldpreis, primär über Gold-Future, fallback XAU/USD",
       "price_decimals": 2,
       "last_date": "2026-06-16",
-      "last_close": 4353.60009765625,
+      "last_close": 4354.60009765625,
       "previous_close": 4328.0,
-      "change_abs": 25.6,
-      "change_pct": 0.59,
-      "change_5d_pct": 2.2,
-      "change_1m_pct": -4.44,
-      "change_3m_pct": -12.95,
-      "change_1y_pct": 28.18,
-      "ytd_pct": 0.65,
-      "volatility_30d_pct": 24.78,
+      "change_abs": 26.6,
+      "change_pct": 0.61,
+      "change_5d_pct": 2.22,
+      "change_1m_pct": -4.42,
+      "change_3m_pct": -12.93,
+      "change_1y_pct": 28.21,
+      "ytd_pct": 0.67,
+      "volatility_30d_pct": 24.79,
       "sparkline": [
         {
           "date": "2026-02-06",
@@ -1905,7 +1905,7 @@
         },
         {
           "date": "2026-06-16",
-          "close": 4353.60009765625
+          "close": 4354.60009765625
         }
       ]
     }
