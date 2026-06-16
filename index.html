@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Market Pulse Dashboard</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="hero">
+    <div>
+      <p class="eyebrow">Market Pulse</p>
+      <h1>Was hat sich am Markt getan?</h1>
+      <p class="subline">MSCI World · Emerging Markets · Small Caps · Alphabet · Gold</p>
+    </div>
+    <div class="status-card">
+      <span class="status-label">Letzte Aktualisierung</span>
+      <strong id="updated-at">lade...</strong>
+      <small id="data-source">Datenquelle: Yahoo Finance</small>
+    </div>
+  </header>
+
+  <main>
+    <section class="summary-grid">
+      <article class="summary-card compass">
+        <span>Markt-Kompass</span>
+        <strong id="market-mood">–</strong>
+        <p id="market-comment">Daten werden geladen.</p>
+      </article>
+      <article class="summary-card">
+        <span>Positive Werte heute</span>
+        <strong id="positive-count">–</strong>
+        <p>von 5 beobachteten Produkten</p>
+      </article>
+      <article class="summary-card">
+        <span>Stärkster Wert</span>
+        <strong id="best-asset">–</strong>
+        <p id="best-asset-sub">–</p>
+      </article>
+      <article class="summary-card">
+        <span>Schwächster Wert</span>
+        <strong id="worst-asset">–</strong>
+        <p id="worst-asset-sub">–</p>
+      </article>
+    </section>
+
+    <section class="section-title">
+      <div>
+        <h2>Watchlist</h2>
+        <p>Letzter Schlusskurs, Tagesbewegung, Trends und quellenbasierte Einordnung. Keine Begründung ohne passende Schlagzeilen.</p>
+      </div>
+      <button id="refresh-button" type="button">Neu laden</button>
+    </section>
+
+    <section id="asset-grid" class="asset-grid" aria-live="polite"></section>
+
+    <section class="panel-grid">
+      <article class="panel">
+        <h2>Performance-Übersicht</h2>
+        <div class="table-wrap">
+          <table id="performance-table">
+            <thead>
+              <tr>
+                <th>Produkt</th>
+                <th>Heute</th>
+                <th>5T</th>
+                <th>1M</th>
+                <th>YTD</th>
+                <th>1J</th>
+                <th>Vol. 30T</th>
+              </tr>
+            </thead>
+            <tbody></tbody>
+          </table>
+        </div>
+      </article>
+      <article class="panel">
+        <h2>Was bedeutet das?</h2>
+        <ul class="notes">
+          <li><strong>MSCI World:</strong> globaler Developed-Markets-Proxy über IWDA.</li>
+          <li><strong>Emerging Markets:</strong> EM-Proxy über EIMI.</li>
+          <li><strong>Small Caps:</strong> Developed-World-Small-Cap-Proxy über IUSN.</li>
+          <li><strong>Alphabet:</strong> Einzelaktie GOOGL.</li>
+          <li><strong>Gold:</strong> Spotpreis XAU/USD.</li>
+        </ul>
+      </article>
+    </section>
+
+    <section class="panel">
+      <h2>Quellen & Hinweise</h2>
+      <p>
+        Dieses Dashboard nutzt frei zugängliche Kursdaten über ein automatisches Update-Script.
+        Die Aktualisierung ist standardmäßig auf 06:00 und 18:00 Uhr österreichischer Sommerzeit eingestellt.
+        Die Daten können verzögert sein. Kursbewegungen werden nur dann eingeordnet, wenn passende Quellen gefunden werden; das ersetzt keine Anlageberatung.
+      </p>
+    </section>
+  </main>
+
+  <footer>
+    <span>Market Pulse Dashboard</span>
+    <span>Automatisch aktualisiert via GitHub Actions</span>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
