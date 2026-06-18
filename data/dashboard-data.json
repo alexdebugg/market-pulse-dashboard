@@ -1,8 +1,8 @@
 {
   "is_sample": false,
   "source": "Yahoo Finance Kursdaten + Google News RSS Kontext",
-  "generated_at_utc": "2026-06-18T14:35:50+00:00",
-  "generated_at_vienna": "18.06.2026, 16:35 Uhr",
+  "generated_at_utc": "2026-06-18T18:25:22+00:00",
+  "generated_at_vienna": "18.06.2026, 20:25 Uhr",
   "market_mood_internal": "neutral",
   "assets": [
     {
@@ -13,16 +13,16 @@
       "description": "iShares Core MSCI World UCITS ETF als handelbarer Developed-Markets-Proxy",
       "price_decimals": 2,
       "last_date": "2026-06-18",
-      "last_close": 124.76000213623047,
+      "last_close": 124.63999938964844,
       "previous_close": 124.20999908447266,
-      "change_abs": 0.55,
-      "change_pct": 0.44,
-      "change_5d_pct": 3.21,
-      "change_1m_pct": 2.81,
-      "change_3m_pct": 11.67,
+      "change_abs": 0.43,
+      "change_pct": 0.35,
+      "change_5d_pct": 3.11,
+      "change_1m_pct": 2.71,
+      "change_3m_pct": 11.56,
       "change_1y_pct": null,
-      "ytd_pct": 11.62,
-      "volatility_30d_pct": 10.77,
+      "ytd_pct": 11.51,
+      "volatility_30d_pct": 10.75,
       "sparkline": [
         {
           "date": "2026-02-09",
@@ -382,7 +382,7 @@
         },
         {
           "date": "2026-06-18",
-          "close": 124.76000213623047
+          "close": 124.63999938964844
         }
       ],
       "explanation": {
@@ -394,7 +394,7 @@
           "China/EM"
         ],
         "bullets": [
-          "Der Kurs ist spürbar gestiegen: +0.44 % gegenüber dem vorherigen Schlusskurs.",
+          "Der Kurs ist spürbar gestiegen: +0.35 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: Zinsen/Fed, China/EM.",
           "Wichtigste gefundene Headlines: IncomeShares Nasdaq 100 Options ETP | XS2875105608 | A4A50Q - extraETF | MSCI Emerging Markets: Dieser Indexfonds läuft noch besser als der MSCI World - DIE ZEIT."
         ],
@@ -434,16 +434,16 @@
       "description": "iShares Core MSCI EM IMI UCITS ETF als Emerging-Markets-Proxy",
       "price_decimals": 2,
       "last_date": "2026-06-18",
-      "last_close": 50.16999816894531,
+      "last_close": 50.15399932861328,
       "previous_close": 49.24700164794922,
-      "change_abs": 0.92,
-      "change_pct": 1.87,
-      "change_5d_pct": 8.02,
-      "change_1m_pct": 9.36,
-      "change_3m_pct": 21.43,
+      "change_abs": 0.91,
+      "change_pct": 1.84,
+      "change_5d_pct": 7.99,
+      "change_1m_pct": 9.32,
+      "change_3m_pct": 21.39,
       "change_1y_pct": null,
-      "ytd_pct": 30.83,
-      "volatility_30d_pct": 26.98,
+      "ytd_pct": 30.79,
+      "volatility_30d_pct": 26.97,
       "sparkline": [
         {
           "date": "2026-02-09",
@@ -803,7 +803,7 @@
         },
         {
           "date": "2026-06-18",
-          "close": 50.16999816894531
+          "close": 50.15399932861328
         }
       ],
       "explanation": {
@@ -817,7 +817,7 @@
           "Gewinne/Analysten"
         ],
         "bullets": [
-          "Der Kurs ist deutlich gestiegen: +1.87 % gegenüber dem vorherigen Schlusskurs.",
+          "Der Kurs ist deutlich gestiegen: +1.84 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: US-Dollar, China/EM, Geopolitik/Sicherheit, Gewinne/Analysten.",
           "Wichtigste gefundene Headlines: Schwacher US-Dollar und hohe Defizite: Rückenwind für Emerging Markets? - e-fundresearch.com | EM-Anleihen: Diese rohstoffreichen Schwellenländer profitieren - das investment."
         ],
@@ -857,15 +857,15 @@
       "description": "iShares MSCI World Small Cap UCITS ETF als Small-Cap-Proxy",
       "price_decimals": 3,
       "last_date": "2026-06-18",
-      "last_close": 9.083000183105469,
+      "last_close": 9.09000015258789,
       "previous_close": 9.081999778747559,
-      "change_abs": 0.001,
-      "change_pct": 0.01,
-      "change_5d_pct": 3.02,
-      "change_1m_pct": 5.29,
-      "change_3m_pct": 12.61,
+      "change_abs": 0.008,
+      "change_pct": 0.09,
+      "change_5d_pct": 3.1,
+      "change_1m_pct": 5.37,
+      "change_3m_pct": 12.7,
       "change_1y_pct": null,
-      "ytd_pct": 16.75,
+      "ytd_pct": 16.84,
       "volatility_30d_pct": 13.11,
       "sparkline": [
         {
@@ -1226,40 +1226,40 @@
         },
         {
           "date": "2026-06-18",
-          "close": 9.083000183105469
+          "close": 9.09000015258789
         }
       ],
       "explanation": {
-        "direction": "kaum verändert",
+        "direction": "gestiegen",
         "confidence": "niedrig",
-        "summary": "Kaum Kursbewegung: Obwohl aktuelle Schlagzeilen gefunden wurden, ist die Tagesbewegung zu klein für eine sinnvolle Ursache-Wirkung-Aussage.",
+        "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
           "Regulierung",
           "China/EM"
         ],
         "bullets": [
-          "Der Kurs liegt nahezu unverändert gegenüber dem letzten Schlusskurs.",
+          "Der Kurs ist leicht gestiegen: +0.09 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: Regulierung, China/EM.",
-          "Wichtigste gefundene Headlines: Brookfield Business Corp (BBUC) Aktionärsstruktur: Hauptaktionäre & institutionelle Bestände - TradingKey | Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraETF."
+          "Wichtigste gefundene Headlines: Aktueller RUSSELL.DEC26 Kurs | Micro E-mini Russell 2000 Dec 26 Future] Stand & Chart - eToro | Outlook Therapeutics Inc (OTLK) Aktionärsstruktur: Hauptaktionäre & institutionelle Bestände - TradingKey."
         ],
         "headlines": [
           {
-            "title": "Brookfield Business Corp (BBUC) Aktionärsstruktur: Hauptaktionäre & institutionelle Bestände - TradingKey",
-            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5JUEJ2Q29LZ1VsSTN3ZGVaaVgzQTRDdElPZThtcFZvRE12ZjRJUHM2NVVPWDBUWWpDdTFIVG1ZbGNpTXl3WE9VTzlxUFVnOGc0dTNjeElfM3FoSF9aWVI3dzlRTUNKY3RNT0Q2X2ZaWXp2Vkxj?oc=5",
-            "source": "TradingKey",
-            "published": "18.06., 07:35"
-          },
-          {
-            "title": "Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraETF",
-            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBfSEFMN1dKOFVhZUdmcE5WbGh1V3VIUTVJTE5SdWVzS2hYemNGRWgzRi1MZF8xZXdrbUl3RHVKeTk0SDNRUmhSWGgyQUpMQlRXb2JPS0Jxb2txVm5LM0w3anphOWo5WWIwSDF5Qjg4clFwR0VWUkQ5Qg?oc=5",
-            "source": "extraETF",
-            "published": "28.04., 10:37"
+            "title": "Aktueller RUSSELL.DEC26 Kurs | Micro E-mini Russell 2000 Dec 26 Future] Stand & Chart - eToro",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XNHdVaWR2S29wSnRkeTlhWkUyV2tlb1JxUC15UHFJZHA1NVJ2Q0ZaQkZJbGlJMHJwbElLRlZrZHhLUDdrVzY3QVFiblVKU05GMFBpTWFVcjB1dw?oc=5",
+            "source": "eToro",
+            "published": "18.06., 16:25"
           },
           {
             "title": "Outlook Therapeutics Inc (OTLK) Aktionärsstruktur: Hauptaktionäre & institutionelle Bestände - TradingKey",
             "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5WUkZrS0ZXNkdkMGJBUzFwR1JVS3d2MUdwbzFFd1VCTmw0YUUtTlJSbU04MnhiMUNFazdjZ0hnQU5BWkpOWmpOazdiUV9qc21sUnd0STdFWXNLU2R5d2xoaG9ZLWN4YWY0ekxfWEVscW9vYWEx?oc=5",
             "source": "TradingKey",
             "published": "18.06., 00:50"
+          },
+          {
+            "title": "Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraETF",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBfSEFMN1dKOFVhZUdmcE5WbGh1V3VIUTVJTE5SdWVzS2hYemNGRWgzRi1MZF8xZXdrbUl3RHVKeTk0SDNRUmhSWGgyQUpMQlRXb2JPS0Jxb2txVm5LM0w3anphOWo5WWIwSDF5Qjg4clFwR0VWUkQ5Qg?oc=5",
+            "source": "extraETF",
+            "published": "28.04., 10:37"
           },
           {
             "title": "Equities: Risk rally on Iran de‑escalation hopes – Danske Bank - TMGM",
@@ -1278,16 +1278,16 @@
       "description": "Alphabet Inc. Class A",
       "price_decimals": 2,
       "last_date": "2026-06-18",
-      "last_close": 362.739990234375,
+      "last_close": 367.9200134277344,
       "previous_close": 363.7900085449219,
-      "change_abs": -1.05,
-      "change_pct": -0.29,
-      "change_5d_pct": 1.39,
-      "change_1m_pct": -6.43,
-      "change_3m_pct": 18.11,
+      "change_abs": 4.13,
+      "change_pct": 1.14,
+      "change_5d_pct": 2.84,
+      "change_1m_pct": -5.09,
+      "change_3m_pct": 19.79,
       "change_1y_pct": null,
-      "ytd_pct": 15.89,
-      "volatility_30d_pct": 28.45,
+      "ytd_pct": 17.55,
+      "volatility_30d_pct": 28.75,
       "sparkline": [
         {
           "date": "2026-02-10",
@@ -1647,21 +1647,20 @@
         },
         {
           "date": "2026-06-18",
-          "close": 362.739990234375
+          "close": 367.9200134277344
         }
       ],
       "explanation": {
-        "direction": "gefallen",
-        "confidence": "niedrig",
-        "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
+        "direction": "gestiegen",
+        "confidence": "mittel",
+        "summary": "Plausibler Nachrichtenbezug: Der Kurs ist gestiegen und die gefundenen Schlagzeilen enthalten überwiegend positiv wirkende Formulierungen. Die Quellen passen damit zur Richtung, beweisen aber keine Kausalität.",
         "themes": [
           "Zinsen/Fed",
-          "KI/Tech",
-          "Regulierung"
+          "KI/Tech"
         ],
         "bullets": [
-          "Der Kurs ist leicht gefallen: -0.29 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: Zinsen/Fed, KI/Tech, Regulierung.",
+          "Der Kurs ist deutlich gestiegen: +1.14 % gegenüber dem vorherigen Schlusskurs.",
+          "Gefundene Nachrichten-Themen: Zinsen/Fed, KI/Tech.",
           "Wichtigste gefundene Headlines: Kühne+Nagel: „Wolkenfreier Himmel“ für Google Cloud - Österreichische Verkehrszeitung - | Google AI Overviews verletzen keine Markenrechte - Onlinehändler-News."
         ],
         "headlines": [
@@ -1678,10 +1677,10 @@
             "published": "18.06., 13:23"
           },
           {
-            "title": "Amadeus migriert Plattform in Google Cloud - tageskarte.io",
-            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPS0hmLVcyOGk0aC1DaDkwUmV5S0JoVUtzaXRGY011NUpqZGRQMHdaQW04N2liSWxyTkM4eVI5bEhBV2FTcjVXN1VIREVJR0FQR0tiQklmMDVmYzRfUXlRUzY5RW9OemR2MkYtUUkxNVdVaFppVWNOTXRkSWN5aHhFUV9tdnU4Vmh2YjRlV2ZqZE9vdGNTQlhF?oc=5",
-            "source": "tageskarte.io",
-            "published": "17.06., 23:56"
+            "title": "GitLab erweitert Kooperation mit Google - it-daily",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAyczVxTkNUVmdVS2Vtb2V0NU1KNXJ3a2k1dTBHT1VkYjJYeEkyc3lzcDFzbnFIVEhPWGNrR3RSWm13NHN2dVA1ZnhKTGpqdTVlTlQ5S1pISkE1WnBROUlrSHk1aUd4X3RXQXoxNGxDbDc2QQ?oc=5",
+            "source": "it-daily",
+            "published": "18.06., 17:13"
           },
           {
             "title": "Mars kooperiert mit Google Cloud, um Mitarbeitende weltweit mit Gemini Enterprise zu unterstützen | Mars - Mars, Incorporated",
@@ -1700,16 +1699,16 @@
       "description": "Goldpreis, primär über Gold-Future, fallback XAU/USD",
       "price_decimals": 2,
       "last_date": "2026-06-18",
-      "last_close": 4273.60009765625,
+      "last_close": 4246.2998046875,
       "previous_close": 4358.89990234375,
-      "change_abs": -85.3,
-      "change_pct": -1.96,
-      "change_5d_pct": 4.48,
-      "change_1m_pct": -5.16,
-      "change_3m_pct": -7.11,
-      "change_1y_pct": 26.07,
-      "ytd_pct": -1.2,
-      "volatility_30d_pct": 23.6,
+      "change_abs": -112.6,
+      "change_pct": -2.58,
+      "change_5d_pct": 3.81,
+      "change_1m_pct": -5.77,
+      "change_3m_pct": -7.7,
+      "change_1y_pct": 25.27,
+      "ytd_pct": -1.83,
+      "volatility_30d_pct": 24.05,
       "sparkline": [
         {
           "date": "2026-02-10",
@@ -2069,7 +2068,7 @@
         },
         {
           "date": "2026-06-18",
-          "close": 4273.60009765625
+          "close": 4246.2998046875
         }
       ],
       "explanation": {
@@ -2077,39 +2076,38 @@
         "confidence": "niedrig",
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
-          "Zinsen/Fed",
           "US-Dollar",
           "Geopolitik/Sicherheit"
         ],
         "bullets": [
-          "Der Kurs ist deutlich gefallen: -1.96 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: Zinsen/Fed, US-Dollar, Geopolitik/Sicherheit.",
-          "Wichtigste gefundene Headlines: Gold: Ist die Goldschwäche eine Einstiegschance? Das sagen Experten - Handelsblatt | Gold zieht bei Reserveanlagen am US-Dollar vorbei: Warum Notenbanken jetzt umdenken - finanzen.at."
+          "Der Kurs ist deutlich gefallen: -2.58 % gegenüber dem vorherigen Schlusskurs.",
+          "Gefundene Nachrichten-Themen: US-Dollar, Geopolitik/Sicherheit.",
+          "Wichtigste gefundene Headlines: Gold: Fällt auf 4.252 Dollar unter 50er-Linie - Börse Express | Gold zieht bei Reserveanlagen am US-Dollar vorbei: Warum Notenbanken jetzt umdenken - finanzen.at."
         ],
         "headlines": [
           {
-            "title": "Gold: Ist die Goldschwäche eine Einstiegschance? Das sagen Experten - Handelsblatt",
-            "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdExkd09meHRJb3UxSVI1d0psc1pScXBEZVlNRmdYOUJuWmMxdFFGanJGWmVDZXBHcENWY1liV2Y3T3BFenVpTE5JcW5iOE9tbjlfYWljZnh3M3dBeXJ1S1o2V3lsLU1hRXllQ055dFBNUkdEYzJxVVlIMXpuTEpvN3lhd0NvNVQ3NUowM1NKbURKWVJtM01vaE01Ui12b3lBZl91bXQ1UXNlVXVRS2xYbzF5UHRuZmt6QmU3OEFtWW1nNFRHWXpVY1JIMGVnMWJtOEpWd3FieTQ2aDhRaHY2LU93?oc=5",
-            "source": "Handelsblatt",
-            "published": "18.06., 07:37"
+            "title": "Gold: Fällt auf 4.252 Dollar unter 50er-Linie - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbEx4VkFtcV8wbzhaTVVyWUxiekZ0VDFTeU5NMExGNTNramZqNXd4eVRjaDV6QnRXZ1ItSFBFYmowTkF4czJIcldFa00tQWNHcHVhWGVDNEpTZjlUbHVFV1dNS0VzYlJBbHpwa1lzRmFYdnNnSndOQllTckFIOXZiYVNwQlc2bFNTVk43bncxYjUwVW5OWkhsR3pZdE8?oc=5",
+            "source": "Börse Express",
+            "published": "18.06., 19:49"
           },
           {
             "title": "Gold zieht bei Reserveanlagen am US-Dollar vorbei: Warum Notenbanken jetzt umdenken - finanzen.at",
             "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbjNrcnNCX1IxY2dweXI3Wm1HcVV0VjYzUlZjZWc0YmdXSjF3Z25yOERHaEtJc05jem1aZWhqYW1DTGFqaDAtaDk5R2tkeFVMMXhTem5iM3RYYi1DVHgyT3BjM29KR0xfbHY0R0tmdm5jVnFXTTVZTFV3N3l2UUpXN0RXLTZNejhQakZNd2Vtd1N3Q1A1cFVlbWRMWmFoOGJwWkZmcld4UzZQczFHWDktM1N4YnhlWjhHNjl5eWdxYi13M2tWZWhuRENiYWk4bFd5SzRKTFJ3?oc=5",
             "source": "finanzen.at",
-            "published": "18.06., 12:08"
+            "published": "18.06., 18:14"
           },
           {
-            "title": "Gold: Fed-Entscheidung trifft Zentralbank-Trend - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeGh3ZDFLejBnQVZiek5jd0psUVEzZEJVeWF2aG1QQW9hWVY3QVhydWFaYkNaekYxay1Uc1A4ODFMZmlrT2t0OEU3WUlyUGhXSnJXZGdYbl9fMlZuOHFkcjlIQWpPcGwzR2RUSkpKMGJOMFY2ekpBOFNyT0FtRFNwZDNGYjI0TmZ1WVhiWDVEU1EtQ2hDeWEzUWFUX0F2T2M?oc=5",
-            "source": "Börse Express",
-            "published": "16.06., 16:46"
+            "title": "Dollar steigt, Gold fällt - was jetzt? - Wallstreet Online",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWTFVTjBfZ043OF9EdU0tVW5YLTlJZVJkNXVpVmFtc25GeUU2ZENzcnJTeS1aaWpaZlRkRUk4Z0U1QnpEVngyQkJNTkJpNDZZUURBaU9saU9NWWNZRGk0V1RzOFcwLUd4aG5xUk1ZOW9laHd4MVd6QzEwRGgwSkF6R2ViZkpsX21lZVRZbjlCWFFQNWtUU0tCbWhFMUt2Z3JlUF9v?oc=5",
+            "source": "Wallstreet Online",
+            "published": "18.06., 17:01"
           },
           {
-            "title": "Gold: Fed bremst Rallye bei 4.340 Dollar - Finanztrends",
-            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1uT25rbTN0N244Vjc4RU9mYm5KUVlMRUgwY1p2WTdWQmFtNDFuMHhsUGxRbDlrR0dfMVRtZXVYVUEyRnFUZEVGMlYwZ3JYTU5rc01lLUl0TGJ2THVjeG82V0xTS290NzlIWXduZ2drcnByblNhR3c4dUtYSGl2dw?oc=5",
-            "source": "Finanztrends",
-            "published": "18.06., 13:30"
+            "title": "Vom sicheren Hafen zum Risiko? Gold im Spannungsfeld des Iran-Konflikts - Finanzen.net",
+            "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRVN1dUd4X0gxdFNaVnhNQVpVWTQxUWtsc25LaHNnWUw1cXM4R2Q2cWdKcG9BWTJaOXZNTFRrNk0teGJ1OXN4eEMzaFlnRUZEYUNJS3BqblpQdHFqTEdwQzVIVmlCWTUxeXlRSW5VQThSOWZPOG9mNVNKOHNlM21vOExjWFJGeV9LaXJXZGpiekhKUnp3TXhRUllrWmpWOFpNX01TMkttVmJNNlhpZzV4cW5GZXJObzlCc1ExN1ctajNOMEJydHlTZ0dsSFhHczk0a1lnR2VCc3c?oc=5",
+            "source": "Finanzen.net",
+            "published": "18.06., 19:17"
           }
         ]
       }
