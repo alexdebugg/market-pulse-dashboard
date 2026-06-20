@@ -1,8 +1,8 @@
 {
   "is_sample": false,
   "source": "Yahoo Finance Kursdaten + Google News RSS Kontext",
-  "generated_at_utc": "2026-06-19T17:55:16+00:00",
-  "generated_at_vienna": "19.06.2026, 19:55 Uhr",
+  "generated_at_utc": "2026-06-20T07:49:10+00:00",
+  "generated_at_vienna": "20.06.2026, 09:49 Uhr",
   "market_mood_internal": "neutral",
   "assets": [
     {
@@ -1239,7 +1239,7 @@
         "bullets": [
           "Der Kurs ist leicht gestiegen: +0.29 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: Zinsen/Fed, China/EM.",
-          "Wichtigste gefundene Headlines: Aktueller RUSSELL.DEC26 Kurs | Micro E-mini Russell 2000 Dec 26 Future] Stand & Chart - eToro | Brookfield Business Corp (BBUC) Aktionärsstruktur: Hauptaktionäre & institutionelle Bestände - TradingKey."
+          "Wichtigste gefundene Headlines: Aktueller RUSSELL.DEC26 Kurs | Micro E-mini Russell 2000 Dec 26 Future] Stand & Chart - eToro | Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraETF."
         ],
         "headlines": [
           {
@@ -1249,16 +1249,16 @@
             "published": "18.06., 16:25"
           },
           {
-            "title": "Brookfield Business Corp (BBUC) Aktionärsstruktur: Hauptaktionäre & institutionelle Bestände - TradingKey",
-            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5JUEJ2Q29LZ1VsSTN3ZGVaaVgzQTRDdElPZThtcFZvRE12ZjRJUHM2NVVPWDBUWWpDdTFIVG1ZbGNpTXl3WE9VTzlxUFVnOGc0dTNjeElfM3FoSF9aWVI3dzlRTUNKY3RNT0Q2X2ZaWXp2Vkxj?oc=5",
-            "source": "TradingKey",
-            "published": "18.06., 07:35"
-          },
-          {
             "title": "Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraETF",
             "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBfSEFMN1dKOFVhZUdmcE5WbGh1V3VIUTVJTE5SdWVzS2hYemNGRWgzRi1MZF8xZXdrbUl3RHVKeTk0SDNRUmhSWGgyQUpMQlRXb2JPS0Jxb2txVm5LM0w3anphOWo5WWIwSDF5Qjg4clFwR0VWUkQ5Qg?oc=5",
             "source": "extraETF",
             "published": "28.04., 10:37"
+          },
+          {
+            "title": "Innovate Corp (VATE) Aktionärsstruktur: Hauptaktionäre & institutionelle Bestände - TradingKey",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA0UUJjZjBnQzN5VUlvSDdPYkstVXdoM3FGOGtPbi1BUU0wam9VRFpMMEZrbzNyWERwS0RaTGxCbjlaaHNHNExsS0pQSzdsMVRiYjhBTlF4Z1hVUkV3OVhvbEdmWXVOVEgtdGJtVXktQmVqTHRN?oc=5",
+            "source": "TradingKey",
+            "published": "17.06., 04:47"
           },
           {
             "title": "ETF-Portfolio – die besten Musterportfolios und ETF-Strategien - Finanzen.net",
@@ -1651,17 +1651,17 @@
       ],
       "explanation": {
         "direction": "gestiegen",
-        "confidence": "niedrig",
-        "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
+        "confidence": "mittel",
+        "summary": "Plausibler Nachrichtenbezug: Der Kurs ist gestiegen und die gefundenen Schlagzeilen enthalten überwiegend positiv wirkende Formulierungen. Die Quellen passen damit zur Richtung, beweisen aber keine Kausalität.",
         "themes": [
-          "US-Dollar",
+          "Zinsen/Fed",
           "KI/Tech",
           "Regulierung"
         ],
         "bullets": [
           "Der Kurs ist deutlich gestiegen: +1.17 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: US-Dollar, KI/Tech, Regulierung.",
-          "Wichtigste gefundene Headlines: Palantir Aktie: Google-Cloud-Integration als Distributions-Play - Börse Express | Google Vertex AI SDK Fehler ermöglicht Modell-Hijacking - it-daily."
+          "Gefundene Nachrichten-Themen: Zinsen/Fed, KI/Tech, Regulierung.",
+          "Wichtigste gefundene Headlines: Palantir Aktie: Google-Cloud-Integration als Distributions-Play - Börse Express | Mars kooperiert mit Google Cloud, um Mitarbeitende weltweit mit Gemini Enterprise zu unterstützen | Mars - Mars, Incorporated."
         ],
         "headlines": [
           {
@@ -1671,22 +1671,22 @@
             "published": "19.06., 18:34"
           },
           {
-            "title": "Google Vertex AI SDK Fehler ermöglicht Modell-Hijacking - it-daily",
-            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWTMtY0JQNEFuaWZkQy0wLWRYVG15X0FLQ0tpN0dYdEJTOVV0TS1FdGI1WWVmMjJCa3pNVjF5VnV0LUdJLU5lbE5hb182ZDFwUmNPcUQxWjlSR0NQRkp6Rkp0T2YwTVRBY1VTX0RkY0VUT2VQSGZJUko5QjNPcXNxLXJGYTBEVndo?oc=5",
-            "source": "it-daily",
-            "published": "19.06., 08:01"
+            "title": "Mars kooperiert mit Google Cloud, um Mitarbeitende weltweit mit Gemini Enterprise zu unterstützen | Mars - Mars, Incorporated",
+            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQd1o4eTVVMEpUWU5yZVlIc2ZNMXhwQ1VhT3VSSTFxX1JYTzM3RGNJRWUwOWs5VERxSGtsUFk0Tm8tN0VrSHdGU3VIcUZtbmQ1emMxaFdSRWNncXc3elZxeFBVZDJBazNzOXFublhlaUE0VkNyNDVvWmNIM2xtXy1idWdXZU1ROEFjSy03UUY1Y2dJcHJCcGhEWlYzSzVqdnZLemllN1lRZUFRc1FyakhRZ09sRFF5d2d0R3JpTk5wYUNfaXNvSzBOcF9EYjRTV3JYWkRGTEJTcw?oc=5",
+            "source": "Mars, Incorporated",
+            "published": "15.06., 20:25"
+          },
+          {
+            "title": "Kühne+Nagel: „Wolkenfreier Himmel“ für Google Cloud - Österreichische Verkehrszeitung -",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9rYXpWUm1mLS1sN2ozdGVNUHBvUFBvWkx1VjVVTjk5U25lSlVmdnFvUVZ1eVJPaHJFRXFqMnFPUzV4eHBrb1NPNmEwQkVGVnRLcnFtU2VhX3VReVFXQXMtM0s2TUZYRjkxVm1UcTVocGpoZ0RHcXc?oc=5",
+            "source": "Österreichische Verkehrszeitung -",
+            "published": "18.06., 08:58"
           },
           {
             "title": "Google Cloud: Souveräne Cloud in Deutschland bis Ende 2026 - heise online",
             "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUC1zdlJVZXFnNFQydEhxcS1qWjYzQ0ZIMjZmRmtoYnBocktsQzBDUkV5MzllVUtlcUNGMFRKTHpjbmV6b29ZLUNFYmVQdm92dV9zb3d4cndOZzZmZncwbDgyV1NTdEFqSHZIWUZtTGVDWXN1cFAzMUE1aVcyTkhHdGx4RVc2cDNTcnJ3SHFJZ0ZiRHpuY3kyYnl5OElrTWs?oc=5",
             "source": "heise online",
             "published": "19.06., 11:01"
-          },
-          {
-            "title": "Google Cloud zieht an AWS und Azure vorbei: Was Alphabets 462-Milliarden-Dollar-Auftragsbuch für Anleger bedeutet - Ariva",
-            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaHpxaUxmdGtJZjhqSTRQMHZvbGxzdjY5NDE3dkpKZ21Xc08yaVZNaEZRTkFxX2w0bVk5bng1RzRMQXJpSmpUX1lCZlRKbUFObUtqNkVpYTB0QlhNTVpVZTUtVm44YXpFNEdaanJZWkszX011Y0xFRUlIUWdKR29XUE8xNDRRaG9odnFLRWI1RElhNVpXOFVqOVlkOGxVYXl1ejZtQUFQV1Yyd0NidEo2dEFqZmZvdmx1U21R?oc=5",
-            "source": "Ariva",
-            "published": "19.06., 15:41"
           }
         ]
       }
@@ -2082,9 +2082,15 @@
         "bullets": [
           "Der Kurs ist deutlich gefallen: -1.21 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: Zinsen/Fed, US-Dollar.",
-          "Wichtigste gefundene Headlines: Börse Aktuell: Goldpreis fällt weiter - Fed, Dollar und Anleiherenditen belasten Gold - XTB.com | Gold: Sollten Anleger die Goldschwäche als Einstiegschance nutzen? - Handelsblatt."
+          "Wichtigste gefundene Headlines: Gold: Goldman senkt Ziel auf 4.900 Dollar - Börse Express | Börse Aktuell: Goldpreis fällt weiter - Fed, Dollar und Anleiherenditen belasten Gold - XTB.com."
         ],
         "headlines": [
+          {
+            "title": "Gold: Goldman senkt Ziel auf 4.900 Dollar - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQXNVbzFSTkhmZlFMaEJKc3dpSkZtMzl1Q05sdUwzV2JveTdJYTJiZENaYVZDUnI0cmJQUDJNbDJOZ0dQbG1VNlp0VERrODd3OV9mZjU1dlJBTktsMEs3NW9oRnRoc01YN3dUcEswYmNySjh5QjhRVllBVVVjTHFLVUtMX3djbkhha0hwVHFqd2xzcXMwNkE?oc=5",
+            "source": "Börse Express",
+            "published": "20.06., 06:47"
+          },
           {
             "title": "Börse Aktuell: Goldpreis fällt weiter - Fed, Dollar und Anleiherenditen belasten Gold - XTB.com",
             "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQN3JBYnBrOUxPOHhucEMtMzBBOWtYU3FTMGFNbGszUHphWWhIZUc5blM3ckJrcWRveWYzS1VYcDlBTmNQa0ZrREZQcU5ra2lEMGhJeW1rQ0ltUVNJblJoZ2J2eE5mbkREQndBZEIxZ09nRXJuSV9DY09fTmp4TTNtSXJibjkyZ2dhY0ZaSzhNN3U1cEdmUklvdFN1SS1GTFYtT2VPSE1sOXVvNHNxUkpsMC16d2JydU5Fa1lMMVhZMU9UUUVOcHVtMjBB?oc=5",
@@ -2092,22 +2098,16 @@
             "published": "19.06., 15:04"
           },
           {
-            "title": "Gold: Sollten Anleger die Goldschwäche als Einstiegschance nutzen? - Handelsblatt",
-            "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOX2xoZHBHbUMxNkNXTEhzVDZXQi1Ubk1uYkZQNEg1cFhJQ3FDN2Z3UFhNZXRfMzdaV0M5QTVnZndtZC1zOWMtc3IxMExkQXFwU0VtcnpUcVB6RDJvUWRsYzFaRHU0RlFTRUR6NHFyWW92RTI5ZDRua19RX1g5Yko0clVBTExJR3lQTVdjNE5lckp6TkxTR2ZhZXRBSS1MM0ItMThRVEh0RE0zSngyOGhTbFhydFYwLWlZTzdVcHZvOEdnOUo3WHVndkhwOXhNVkkyZXZvRU83VGdSejBR?oc=5",
-            "source": "Handelsblatt",
-            "published": "19.06., 09:24"
-          },
-          {
-            "title": "Fed-Falken und Hormuz-Frieden: Gold, Öl und Kaffee unter Druck - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTldXWUw0dHB6U2J3R283MWxRUlBXUXdMUGhSOHYyUHUyMlB5bXFCQVFKcmNCeXp6aXprc3M4WE9uLVZLUWlkMVY5ejYxM1hLdkFnczNRazJSakRlVUIyV0pQNWE2dDAxMlVrdHFLOXhLN0R6dHczSFJQa3dEb0NwOUUyTlZPa201ZWVPckI1Vl9aX2prZ0ZadFdOcDMyR2RIQzNaSDZMUXJVeWRHcGYtNzAwZw?oc=5",
-            "source": "Börse Express",
-            "published": "19.06., 07:14"
-          },
-          {
             "title": "Goldpreis: Lässt die Fed Gold von der Kette? Anleger setzen jetzt auf Goldaktien - Wallstreet Online",
             "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTm9IR2p2aVRSY2JKcmdNZ2xVQjZaNEQ1M0pnNjlWZDQ4c3l5dnRBWWtDUS1YWVhuOWlicFBxcGkxT2lSMnowOE5GcnE3WGNFbld2U1FVQUMwWHgzTXIwRko2WWs2QVVXQlN5U1d3S1ZyckxXeHhWcTljTnpRTkVpSkJLSkdNeHoxRGF4eHFkekRoQlNfWk5IRlg1VFBQM0hfOVlMeTM4QmhBamlWbTZhX2d3WWhWNlQzVkE?oc=5",
             "source": "Wallstreet Online",
             "published": "16.06., 10:00"
+          },
+          {
+            "title": "Gold: Sollten Anleger die Goldschwäche als Einstiegschance nutzen? - Handelsblatt",
+            "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOX2xoZHBHbUMxNkNXTEhzVDZXQi1Ubk1uYkZQNEg1cFhJQ3FDN2Z3UFhNZXRfMzdaV0M5QTVnZndtZC1zOWMtc3IxMExkQXFwU0VtcnpUcVB6RDJvUWRsYzFaRHU0RlFTRUR6NHFyWW92RTI5ZDRua19RX1g5Yko0clVBTExJR3lQTVdjNE5lckp6TkxTR2ZhZXRBSS1MM0ItMThRVEh0RE0zSngyOGhTbFhydFYwLWlZTzdVcHZvOEdnOUo3WHVndkhwOXhNVkkyZXZvRU83VGdSejBR?oc=5",
+            "source": "Handelsblatt",
+            "published": "19.06., 09:24"
           }
         ]
       }
