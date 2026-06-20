@@ -1,8 +1,8 @@
 {
   "is_sample": false,
   "source": "Yahoo Finance Kursdaten + Google News RSS Kontext",
-  "generated_at_utc": "2026-06-20T07:49:10+00:00",
-  "generated_at_vienna": "20.06.2026, 09:49 Uhr",
+  "generated_at_utc": "2026-06-20T17:25:01+00:00",
+  "generated_at_vienna": "20.06.2026, 19:25 Uhr",
   "market_mood_internal": "neutral",
   "assets": [
     {
@@ -387,22 +387,28 @@
       ],
       "explanation": {
         "direction": "gestiegen",
-        "confidence": "mittel",
-        "summary": "Plausibler Nachrichtenbezug: Der Kurs ist gestiegen und die gefundenen Schlagzeilen enthalten überwiegend positiv wirkende Formulierungen. Die Quellen passen damit zur Richtung, beweisen aber keine Kausalität.",
+        "confidence": "niedrig",
+        "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
           "China/EM"
         ],
         "bullets": [
           "Der Kurs ist leicht gestiegen: +0.13 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: China/EM.",
-          "Wichtigste gefundene Headlines: Leverage Shares -5x Short Nasdaq 100 ETP Securities | XS3373449761 | A4AU1Y - extraETF | IncomeShares Nasdaq 100 Options ETP | XS2875105608 | A4A50Q - extraETF."
+          "Wichtigste gefundene Headlines: Leverage Shares -5x Short Nasdaq 100 ETP Securities | XS3373449761 | A4AU1Y - extraETF | Schwab wird mit S&P-500-Optionskontrakten auf Ereignisbasis in das Rennen der Prognosemärkte einsteigen: WSJ - CoinDesk."
         ],
         "headlines": [
           {
             "title": "Leverage Shares -5x Short Nasdaq 100 ETP Securities | XS3373449761 | A4AU1Y - extraETF",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmZUhjNmxQU3JodWVkRkFCMUR2M3d0Y0x6NTdOTDNIU0dvWFB2OFBGaUN4UktyMTdaV3hhQ0JsWG1mZUJPSkI5dnJYOC1sRXM1cVNRVElQaFZ5QmRY?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9LZUk3Nm5xV2I0V0R3ZWxhWjBaZENFUlMtbGtKX080ZDZsdFU0Y2xBVXlIUVRhbFBtcmxOUjh1THdxYnFzb0djb242S3VmQ0xTZzhLQTlhWkRhOEZC?oc=5",
             "source": "extraETF",
-            "published": "19.06., 05:52"
+            "published": "19.06., 13:25"
+          },
+          {
+            "title": "Schwab wird mit S&P-500-Optionskontrakten auf Ereignisbasis in das Rennen der Prognosemärkte einsteigen: WSJ - CoinDesk",
+            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVWV5dHljNndiTVdqeHZMT3pMVG51bWpxT0FsTWVyMTkzZXBJR3JLY2c0Vkxwc0dweDdJRDVHUUxhaC1nUm9pamdfUWN3RVJFcXhzYkFTLWtaWkF3Zk90U3FBNzVXR1FrYWhGWU5QYjJyc0ZwTGpoSzRUU3YxNVh3akI3R2ExeXNBTGdMRHZsUWtORjVhUmFpWHV0cU42OElBVjVzdTMzb0RXVFV2c0x2TmN2SmI5aVl2dzhNMk84WHFmNVF0?oc=5",
+            "source": "CoinDesk",
+            "published": "19.06., 10:51"
           },
           {
             "title": "IncomeShares Nasdaq 100 Options ETP | XS2875105608 | A4A50Q - extraETF",
@@ -415,12 +421,6 @@
             "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbFU0aFRrN1BpUnN4eXZ6YVdjUU5nMmtjcGQyRmlTajlIQ3ZleVNIT1pQTEhVUElXZ2RKcUZKZ0xCaDVrRF9mMlQ1bnpRUVdZYUFULW5Fa1JMdkpYYWhDLW1ES3ozNnltbjI1YVhyS1p5bDJMemJvZkFqWEpodkF3MlBaYXM2TF9lU2c?oc=5",
             "source": "DIE ZEIT",
             "published": "05.06., 09:00"
-          },
-          {
-            "title": "Nebius and CoreWeave Stocks Surge Following Announcement of Nasdaq 100 Addition - TIKR.com",
-            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbkVtaDN0eExOTHNSRGpjSmdfX1hzNVRqR0h1MHhsa0JBTnZSY1g3M0R2SGxLaC13cmU0ZGtlb0R6VU5rSHFrcEhuR2lDMW45bzROMzhrZVpDendlOXlRdU1jbHhWeTFHTnpKRF9sdGxZcVExU2VBczB6WVFvMElPRnA4ZExfVzJUYU0tUDZtNy1oaThpc1FheFdmSU40SFdyWWp4TXhiZ1JlRzdpUndzb0cwdzJaOXJmN3FNVHAzY09kQ3df?oc=5",
-            "source": "TIKR.com",
-            "published": "14.06., 13:53"
           }
         ]
       }
@@ -1239,14 +1239,14 @@
         "bullets": [
           "Der Kurs ist leicht gestiegen: +0.29 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: Zinsen/Fed, China/EM.",
-          "Wichtigste gefundene Headlines: Aktueller RUSSELL.DEC26 Kurs | Micro E-mini Russell 2000 Dec 26 Future] Stand & Chart - eToro | Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraETF."
+          "Wichtigste gefundene Headlines: High Activity Penny Stock Strategy V6 von Pridarasx - TradingView | Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraETF."
         ],
         "headlines": [
           {
-            "title": "Aktueller RUSSELL.DEC26 Kurs | Micro E-mini Russell 2000 Dec 26 Future] Stand & Chart - eToro",
-            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XNHdVaWR2S29wSnRkeTlhWkUyV2tlb1JxUC15UHFJZHA1NVJ2Q0ZaQkZJbGlJMHJwbElLRlZrZHhLUDdrVzY3QVFiblVKU05GMFBpTWFVcjB1dw?oc=5",
-            "source": "eToro",
-            "published": "18.06., 16:25"
+            "title": "High Activity Penny Stock Strategy V6 von Pridarasx - TradingView",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQ0FfQ2lFQkc3YjFnSkE0cFVHQXVpSktQYVROQ3R0dHFWMTFDaWt1YU9pczcteUZvRlJYVTBfcno1MkM1NE5JTTVQV3hNMGI4LUVrVHpkaGhQMFp5QmROR3NGb0hlWUttNkxjUXI2NEYtUC1CV0VhbTFJSDlkOGx4dkRqZzRSUUZB?oc=5",
+            "source": "TradingView",
+            "published": "20.06., 11:48"
           },
           {
             "title": "Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraETF",
@@ -1255,10 +1255,10 @@
             "published": "28.04., 10:37"
           },
           {
-            "title": "Innovate Corp (VATE) Aktionärsstruktur: Hauptaktionäre & institutionelle Bestände - TradingKey",
-            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA0UUJjZjBnQzN5VUlvSDdPYkstVXdoM3FGOGtPbi1BUU0wam9VRFpMMEZrbzNyWERwS0RaTGxCbjlaaHNHNExsS0pQSzdsMVRiYjhBTlF4Z1hVUkV3OVhvbEdmWXVOVEgtdGJtVXktQmVqTHRN?oc=5",
+            "title": "Performant Healthcare Inc (PHLT) Aktionärsstruktur: Hauptaktionäre & institutionelle Bestände - TradingKey",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5IVlYwSG42NlhvTlR4U0lQWG9kdFFCMmJsdVdlS1dmblNKNGNsMF9iUTZ5QVZNcElRaGVlWnU3d0VWNGhaTlFiVmFLano4S3NBLVdQcUNQVnJtR3ZiRkVOVzZvOVJBTEpFbHlmekxwRXRWYkFO?oc=5",
             "source": "TradingKey",
-            "published": "17.06., 04:47"
+            "published": "17.06., 23:49"
           },
           {
             "title": "ETF-Portfolio – die besten Musterportfolios und ETF-Strategien - Finanzen.net",
@@ -1661,14 +1661,14 @@
         "bullets": [
           "Der Kurs ist deutlich gestiegen: +1.17 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: Zinsen/Fed, KI/Tech, Regulierung.",
-          "Wichtigste gefundene Headlines: Palantir Aktie: Google-Cloud-Integration als Distributions-Play - Börse Express | Mars kooperiert mit Google Cloud, um Mitarbeitende weltweit mit Gemini Enterprise zu unterstützen | Mars - Mars, Incorporated."
+          "Wichtigste gefundene Headlines: 2.000 alte Google-Pixel-Handys sollen eine Cloud antreiben - Futurezone | Mars kooperiert mit Google Cloud, um Mitarbeitende weltweit mit Gemini Enterprise zu unterstützen | Mars - Mars, Incorporated."
         ],
         "headlines": [
           {
-            "title": "Palantir Aktie: Google-Cloud-Integration als Distributions-Play - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZlBFa1U5MWE1dXQxY09kMVEwenRiVHlwWVRJbHA4dFhlTGpKazROSHY2d0YzQUJKMGdTTm9SS2ZsZGNHTDB0S3pPNFg2MENMT052OTR6N2MydDl6VmstWW9GTGVjNncwbUVXYjRfZks2a2Q2LW15VG9NY3JDeTFUZ0ZHOHBaXzZLdGd4Vk5NUTdWdlJQWGJhc0U4WHRKc0V2SmJrUXFSRC1WeV8yejVEaVUwMEc?oc=5",
-            "source": "Börse Express",
-            "published": "19.06., 18:34"
+            "title": "2.000 alte Google-Pixel-Handys sollen eine Cloud antreiben - Futurezone",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMGgwVmlIS3czMjVMVXdIaFIyTWRha1puQTg0ejE1bzAyTEJucmVidW5Vd3liSWZmSzRCb2FEZVd0c1NuOWE1Rlc0N2xpZmU0Sm13ekozb05TSVFhNm9WaUlETWxjTVlOR1ZPUTJ0Z3V2akRzbE80RndvVmhXcVk0bWgtVUhESmMtYjBFTUlmQmtYNzBVaUJr0gGcAUFVX3lxTE9JWGhZOThFbGZXcnhkcXliemhjbGg4MmZrcjBxYlRNLWk0UjJNMkhHMi1ycEZTeFlmUzBjVWU1QURQVzkyOHE0RXZDd2NDbkF0LVVmRmpnRUk3WFJOZ3dqVDYtSG5HOHBINUQyeFFQSmZ0dHJCQTI1NEN1bjE2WWtTM0ZUdWFlUE1xejVkbnNsWUtGeFI1Y3h6Yllsaw?oc=5",
+            "source": "Futurezone",
+            "published": "20.06., 14:50"
           },
           {
             "title": "Mars kooperiert mit Google Cloud, um Mitarbeitende weltweit mit Gemini Enterprise zu unterstützen | Mars - Mars, Incorporated",
@@ -1677,10 +1677,10 @@
             "published": "15.06., 20:25"
           },
           {
-            "title": "Kühne+Nagel: „Wolkenfreier Himmel“ für Google Cloud - Österreichische Verkehrszeitung -",
-            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9rYXpWUm1mLS1sN2ozdGVNUHBvUFBvWkx1VjVVTjk5U25lSlVmdnFvUVZ1eVJPaHJFRXFqMnFPUzV4eHBrb1NPNmEwQkVGVnRLcnFtU2VhX3VReVFXQXMtM0s2TUZYRjkxVm1UcTVocGpoZ0RHcXc?oc=5",
-            "source": "Österreichische Verkehrszeitung -",
-            "published": "18.06., 08:58"
+            "title": "Palantir Aktie: Google-Cloud-Integration als Distributions-Play - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZlBFa1U5MWE1dXQxY09kMVEwenRiVHlwWVRJbHA4dFhlTGpKazROSHY2d0YzQUJKMGdTTm9SS2ZsZGNHTDB0S3pPNFg2MENMT052OTR6N2MydDl6VmstWW9GTGVjNncwbUVXYjRfZks2a2Q2LW15VG9NY3JDeTFUZ0ZHOHBaXzZLdGd4Vk5NUTdWdlJQWGJhc0U4WHRKc0V2SmJrUXFSRC1WeV8yejVEaVUwMEc?oc=5",
+            "source": "Börse Express",
+            "published": "19.06., 18:34"
           },
           {
             "title": "Google Cloud: Souveräne Cloud in Deutschland bis Ende 2026 - heise online",
@@ -2077,31 +2077,32 @@
         "summary": "Plausibler Nachrichtenbezug: Der Kurs ist gefallen und die gefundenen Schlagzeilen enthalten überwiegend belastend wirkende Formulierungen. Die Quellen passen damit zur Richtung, beweisen aber keine Kausalität.",
         "themes": [
           "Zinsen/Fed",
-          "US-Dollar"
+          "US-Dollar",
+          "Geopolitik/Sicherheit"
         ],
         "bullets": [
           "Der Kurs ist deutlich gefallen: -1.21 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: Zinsen/Fed, US-Dollar.",
-          "Wichtigste gefundene Headlines: Gold: Goldman senkt Ziel auf 4.900 Dollar - Börse Express | Börse Aktuell: Goldpreis fällt weiter - Fed, Dollar und Anleiherenditen belasten Gold - XTB.com."
+          "Gefundene Nachrichten-Themen: Zinsen/Fed, US-Dollar, Geopolitik/Sicherheit.",
+          "Wichtigste gefundene Headlines: Gold: Kurs fällt auf 4.172,90 Dollar - Börse Express | Goldpreis-Prognose 2026: Fed zieht Zügel an – Droht Gold rasanter Preissturz? - Wallstreet Online."
         ],
         "headlines": [
           {
-            "title": "Gold: Goldman senkt Ziel auf 4.900 Dollar - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQXNVbzFSTkhmZlFMaEJKc3dpSkZtMzl1Q05sdUwzV2JveTdJYTJiZENaYVZDUnI0cmJQUDJNbDJOZ0dQbG1VNlp0VERrODd3OV9mZjU1dlJBTktsMEs3NW9oRnRoc01YN3dUcEswYmNySjh5QjhRVllBVVVjTHFLVUtMX3djbkhha0hwVHFqd2xzcXMwNkE?oc=5",
+            "title": "Gold: Kurs fällt auf 4.172,90 Dollar - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNi16TmRoXzhuc2dzazNnZDlXUGJSWnpNOHNNMElZTXRaMGZlczhaalgxR0VJbVNLdWRFbWZXd2J3QURqMHRWTms5ajRjRnpLaVFTSUJwQ2pGZTYta0J0dUFkemJxSUVCSU1vaTF6U1pUMHQ3eWN6WTFDX1cwa2lUSl9XZHpaYVc3SXE3eW5tWQ?oc=5",
             "source": "Börse Express",
-            "published": "20.06., 06:47"
+            "published": "20.06., 17:46"
           },
           {
-            "title": "Börse Aktuell: Goldpreis fällt weiter - Fed, Dollar und Anleiherenditen belasten Gold - XTB.com",
-            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQN3JBYnBrOUxPOHhucEMtMzBBOWtYU3FTMGFNbGszUHphWWhIZUc5blM3ckJrcWRveWYzS1VYcDlBTmNQa0ZrREZQcU5ra2lEMGhJeW1rQ0ltUVNJblJoZ2J2eE5mbkREQndBZEIxZ09nRXJuSV9DY09fTmp4TTNtSXJibjkyZ2dhY0ZaSzhNN3U1cEdmUklvdFN1SS1GTFYtT2VPSE1sOXVvNHNxUkpsMC16d2JydU5Fa1lMMVhZMU9UUUVOcHVtMjBB?oc=5",
-            "source": "XTB.com",
-            "published": "19.06., 15:04"
-          },
-          {
-            "title": "Goldpreis: Lässt die Fed Gold von der Kette? Anleger setzen jetzt auf Goldaktien - Wallstreet Online",
-            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTm9IR2p2aVRSY2JKcmdNZ2xVQjZaNEQ1M0pnNjlWZDQ4c3l5dnRBWWtDUS1YWVhuOWlicFBxcGkxT2lSMnowOE5GcnE3WGNFbld2U1FVQUMwWHgzTXIwRko2WWs2QVVXQlN5U1d3S1ZyckxXeHhWcTljTnpRTkVpSkJLSkdNeHoxRGF4eHFkekRoQlNfWk5IRlg1VFBQM0hfOVlMeTM4QmhBamlWbTZhX2d3WWhWNlQzVkE?oc=5",
+            "title": "Goldpreis-Prognose 2026: Fed zieht Zügel an – Droht Gold rasanter Preissturz? - Wallstreet Online",
+            "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQT0daVW1BUUJNeTJURlVHakNrbDNUbVhua1BQMVNRTmFhMjEwbzVqajZfWWNnQ0FaNHB6VFVTOV9OR19BTWxMMlRZT1Fabld4clczWE5fZ1ZVeVhESEZRbEs3dzByX3NXVGhKWnFlTE8yTnI4NXVHZWRHa1BtR0VrWmNqb1JsZXhoQVl2SEI3alZxdHBTT0lMU0lVaWJOeHh4UV9nYld2UFlaUFAycGN5R25zZ1JoZnhfc1d1X01LdVJXU1ZsOFhDYU1yQkV6cFFFcDROdHZodHlLNm90d2M4?oc=5",
             "source": "Wallstreet Online",
-            "published": "16.06., 10:00"
+            "published": "20.06., 13:03"
+          },
+          {
+            "title": "Goldpreis-Einbruch im Irankrieg: Der Mythos vom sicheren Hafen bröckelt - Finanzen.net",
+            "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRVN1dUd4X0gxdFNaVnhNQVpVWTQxUWtsc25LaHNnWUw1cXM4R2Q2cWdKcG9BWTJaOXZNTFRrNk0teGJ1OXN4eEMzaFlnRUZEYUNJS3BqblpQdHFqTEdwQzVIVmlCWTUxeXlRSW5VQThSOWZPOG9mNVNKOHNlM21vOExjWFJGeV9LaXJXZGpiekhKUnp3TXhRUllrWmpWOFpNX01TMkttVmJNNlhpZzV4cW5GZXJObzlCc1ExN1ctajNOMEJydHlTZ0dsSFhHczk0a1lnR2VCc3fSAcMBQVVfeXFMT2N3YklNMDZ5UnAyVzdYdUo1VHhiY3VCelFXR0RsckVIR013WDFacWxHdkRLZ0dUYkI4cVV6ZDN6OGZGLVVLVk1PQkxUVmdsU3VtU3kwbjlaa2hWeW0wZWw2bnlGdWo0Y3ZSQmVDZGJYSFU2M2tRcTMxYV…",
+            "source": "Finanzen.net",
+            "published": "20.06., 08:42"
           },
           {
             "title": "Gold: Sollten Anleger die Goldschwäche als Einstiegschance nutzen? - Handelsblatt",
