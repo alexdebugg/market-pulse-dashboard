@@ -1,8 +1,8 @@
 {
   "is_sample": false,
   "source": "Yahoo Finance Kursdaten + Google News RSS Kontext",
-  "generated_at_utc": "2026-06-21T08:28:33+00:00",
-  "generated_at_vienna": "21.06.2026, 10:28 Uhr",
+  "generated_at_utc": "2026-06-21T17:26:07+00:00",
+  "generated_at_vienna": "21.06.2026, 19:26 Uhr",
   "market_mood_internal": "neutral",
   "assets": [
     {
@@ -390,12 +390,13 @@
         "confidence": "niedrig",
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
-          "China/EM"
+          "China/EM",
+          "Geopolitik/Sicherheit"
         ],
         "bullets": [
           "Der Kurs ist leicht gestiegen: +0.13 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: China/EM.",
-          "Wichtigste gefundene Headlines: Leverage Shares -5x Short Nasdaq 100 ETP Securities | XS3373449761 | A4AU1Y - extraETF | Schwab wird mit S&P-500-Optionskontrakten auf Ereignisbasis in das Rennen der Prognosemärkte einsteigen: WSJ - CoinDesk."
+          "Gefundene Nachrichten-Themen: China/EM, Geopolitik/Sicherheit.",
+          "Wichtigste gefundene Headlines: Leverage Shares -5x Short Nasdaq 100 ETP Securities | XS3373449761 | A4AU1Y - extraETF | MSCI World Index: Aktuelle Analysen zum Welt-Index für ETF - Stiftung Warentest."
         ],
         "headlines": [
           {
@@ -403,6 +404,12 @@
             "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9LZUk3Nm5xV2I0V0R3ZWxhWjBaZENFUlMtbGtKX080ZDZsdFU0Y2xBVXlIUVRhbFBtcmxOUjh1THdxYnFzb0djb242S3VmQ0xTZzhLQTlhWkRhOEZC?oc=5",
             "source": "extraETF",
             "published": "19.06., 13:25"
+          },
+          {
+            "title": "MSCI World Index: Aktuelle Analysen zum Welt-Index für ETF - Stiftung Warentest",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FYlFrd0VGbjBaX3NteWlDNUgtcjRYTzlmYzNBN2gwNUlFUGM3a0ZTdmc1cFdUREJueGU3Q2c0SUpDRUo0YmtHclNmeWNCdjZqX04tRHJBdHJjb1U?oc=5",
+            "source": "Stiftung Warentest",
+            "published": "19.06., 09:00"
           },
           {
             "title": "Schwab wird mit S&P-500-Optionskontrakten auf Ereignisbasis in das Rennen der Prognosemärkte einsteigen: WSJ - CoinDesk",
@@ -415,12 +422,6 @@
             "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbFU0aFRrN1BpUnN4eXZ6YVdjUU5nMmtjcGQyRmlTajlIQ3ZleVNIT1pQTEhVUElXZ2RKcUZKZ0xCaDVrRF9mMlQ1bnpRUVdZYUFULW5Fa1JMdkpYYWhDLW1ES3ozNnltbjI1YVhyS1p5bDJMemJvZkFqWEpodkF3MlBaYXM2TF9lU2c?oc=5",
             "source": "DIE ZEIT",
             "published": "05.06., 09:00"
-          },
-          {
-            "title": "Fidelity Nasdaq Composite Index ETF [Common Shares] Fonds | Kurs | Realtime | Chart - boerse.de",
-            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMEFfZUlGeTd3SW4zTXFqYzhxTWRocElHY1JOenp3X2Yza3NRQ2NhMjh2d3U3bXcwV3Z5ZENJeWZVZEM5elVEYjFBTHJUNkExaFJ2aTU4VzRJTHVObFlmcS1UZTliU2tSVnhnTmFFSmVONFdMX1pRazNJLTI0WlBoNzdQem1Vc3lDXzJzR1dHZ3NNRzdf?oc=5",
-            "source": "boerse.de",
-            "published": "13.05., 05:34"
           }
         ]
       }
@@ -811,13 +812,13 @@
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
           "US-Dollar",
+          "KI/Tech",
           "China/EM",
-          "Geopolitik/Sicherheit",
-          "Gewinne/Analysten"
+          "Geopolitik/Sicherheit"
         ],
         "bullets": [
           "Der Kurs ist spürbar gefallen: -0.69 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: US-Dollar, China/EM, Geopolitik/Sicherheit, Gewinne/Analysten.",
+          "Gefundene Nachrichten-Themen: US-Dollar, KI/Tech, China/EM, Geopolitik/Sicherheit.",
           "Wichtigste gefundene Headlines: Schwacher US-Dollar und hohe Defizite: Rückenwind für Emerging Markets? - e-fundresearch.com | EM-Anleihen: Diese rohstoffreichen Schwellenländer profitieren - das investment."
         ],
         "headlines": [
@@ -840,10 +841,10 @@
             "published": "17.04., 09:00"
           },
           {
-            "title": "Emerging Markets-Aktienausblick 2026: Von der Erholung zur Rotation - e-fundresearch.com",
-            "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTHpVSnRYWUtGN1FaTlZaRUQ0LVVOWVdRM1AtVU9lMlM2d244TjVzLW5ycnp3T09qeVlwdENBUEZXV3hIQlgxNlF6RkR2UEpfMVRzN1ZnUlB3WkZRMUhycGNtcDRRaGRVejFSWklUSkg3NS1RYnBmZUNEVzV4c3BscjlZM1psR091U044UDBvQVRDc3J6Y1A3VWJVQW1pSkxsek9vT3J4MnFDMXdFejJCdHRiVXlRcWNuMVlTc0k4eTllb3U2ckdrUzliTENRUlhjSHJtc3VVSmVSUHBaQTZXY1lyZjNQNGVIeS1ubjlQdw?oc=5",
-            "source": "e-fundresearch.com",
-            "published": "15.01., 09:00"
+            "title": "Die 30-Billionen-Dollar-Wette: Wie KI die Schwellenländer völlig umkrempelt - PLATOW Börse",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPY0Y4LWFQN3lSNEJMVEFMYmZVdENMZ3d1ZmE3eWRuRW1DZzNKNE00MkRISkd1bUxGY29ZMTE1Qnk4TUotc3preG9YR2MzMGJjM3lMY0ctLUJERmxlVlNQQzJvZmx6VTgwNGptRHFuM1JvV0h5NUtnLXpiUVhNdWprMlRoVFlYdkR4cHdjakdCYkdGTENwN2hZaEZyM2pKMzJCV0ppZURpR0R1THdWRFdsZllnYWJSVWs?oc=5",
+            "source": "PLATOW Börse",
+            "published": "03.06., 14:31"
           }
         ]
       }
@@ -1234,11 +1235,12 @@
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
           "Zinsen/Fed",
+          "Regulierung",
           "China/EM"
         ],
         "bullets": [
           "Der Kurs ist leicht gestiegen: +0.29 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: Zinsen/Fed, China/EM.",
+          "Gefundene Nachrichten-Themen: Zinsen/Fed, Regulierung, China/EM.",
           "Wichtigste gefundene Headlines: High Activity Penny Stock Strategy V6 von Pridarasx - TradingView | Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraETF."
         ],
         "headlines": [
@@ -1261,10 +1263,10 @@
             "published": "03.06., 09:00"
           },
           {
-            "title": "MSCI World Small Cap ETFs 2026 - LYNX Online Broker",
-            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcU4yRTBRZ25DSmViRmFBTVBTcFJDOGZUQ2JCcFpBaDZjaGlUY0dSRjc1dzl1OW51bC1kOUFoazhiTE5nblRzVzhIVVJoRE9Ec0NibURya0x3cnNSVkxjbGRzVWhyN1hvM0RLV3VyNEVxUHpjM0lwNk9reFFENThtam5ndU9hYlpwS3JaTEliQXB4dw?oc=5",
-            "source": "LYNX Online Broker",
-            "published": "20.05., 09:00"
+            "title": "Drei europäische Small-Cap-Aktien für das Jahr 2026 - Morningstar",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMEs2TEZTckdDLWpCakI1eHFNUW45VXNjbk5LN3ZBWDgwNXJPUGFEa1JFVE9QYWpmdmdfUVpZRmxYVG92bGFzOURGZTBOY2JTcllqSUxhTDVoMktobkRPMUtlX0gyVTZmWGFTVUZCQnh2TFA1bHhXeEt4RWZoU0FWbFBzTjY4NXdRdmNYUDVGRWNwMjVL?oc=5",
+            "source": "Morningstar",
+            "published": "23.01., 09:00"
           }
         ]
       }
@@ -1651,18 +1653,29 @@
       ],
       "explanation": {
         "direction": "gestiegen",
-        "confidence": "mittel",
-        "summary": "Plausibler Nachrichtenbezug: Der Kurs ist gestiegen und die gefundenen Schlagzeilen enthalten überwiegend positiv wirkende Formulierungen. Die Quellen passen damit zur Richtung, beweisen aber keine Kausalität.",
+        "confidence": "niedrig",
+        "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
-          "Zinsen/Fed",
           "KI/Tech"
         ],
         "bullets": [
           "Der Kurs ist deutlich gestiegen: +1.17 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: Zinsen/Fed, KI/Tech.",
-          "Wichtigste gefundene Headlines: 2.000 alte Google-Pixel-Handys sollen eine Cloud antreiben - Futurezone | Mars kooperiert mit Google Cloud, um Mitarbeitende weltweit mit Gemini Enterprise zu unterstützen | Mars - Mars, Incorporated."
+          "Gefundene Nachrichten-Themen: KI/Tech.",
+          "Wichtigste gefundene Headlines: KI-Agenten: SAP und Google Cloud revolutionieren E-Commerce - BornCity | Konkurrenz: Google greift Nvidia mit eigenem KI-Chip-Geschäft an - ComputerBase."
         ],
         "headlines": [
+          {
+            "title": "KI-Agenten: SAP und Google Cloud revolutionieren E-Commerce - BornCity",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOajZ2OFFvRWVOMUlRYVhHZkhmMFV3S2dWNFdJeVBTZXBsUXljNkQ4cnlMeE5FX1hGbmlDN2FhdHVtNFlfSzF3S21rSHB0bU1FQ1pET3FYQW9aMVM5bkZUU3NOUHpKMElPejlpbzZXUnAzRnF4RC1mc3N3bkdVZkNkSTZkcXRGNEpOS2poU1hB?oc=5",
+            "source": "BornCity",
+            "published": "21.06., 15:08"
+          },
+          {
+            "title": "Konkurrenz: Google greift Nvidia mit eigenem KI-Chip-Geschäft an - ComputerBase",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSGMxcFBYYkRtcUdUeEdDNXk4OXRqZXVfQkdLUmd2RTFSNllsSmwwZndyVjdSaVJLY0pBU2E0aThhMUN4MElCZVBxakdyaFpsNDVLNTVhcS0tV3BpNnZBZTR1WlI3YmxEek16WHVyZXRzRWdxUzR4YjQtN3g2OEVDMG9RcFN0Z0hqMmRxQ2ZreEt2eFlHcGhaVXViamJmRmFuUFE2andIRE83UTdNUGpyMWpQY0tKQQ?oc=5",
+            "source": "ComputerBase",
+            "published": "21.06., 13:00"
+          },
           {
             "title": "2.000 alte Google-Pixel-Handys sollen eine Cloud antreiben - Futurezone",
             "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMGgwVmlIS3czMjVMVXdIaFIyTWRha1puQTg0ejE1bzAyTEJucmVidW5Vd3liSWZmSzRCb2FEZVd0c1NuOWE1Rlc0N2xpZmU0Sm13ekozb05TSVFhNm9WaUlETWxjTVlOR1ZPUTJ0Z3V2akRzbE80RndvVmhXcVk0bWgtVUhESmMtYjBFTUlmQmtYNzBVaUJr0gGcAUFVX3lxTE9JWGhZOThFbGZXcnhkcXliemhjbGg4MmZrcjBxYlRNLWk0UjJNMkhHMi1ycEZTeFlmUzBjVWU1QURQVzkyOHE0RXZDd2NDbkF0LVVmRmpnRUk3WFJOZ3dqVDYtSG5HOHBINUQyeFFQSmZ0dHJCQTI1NEN1bjE2WWtTM0ZUdWFlUE1xejVkbnNsWUtGeFI1Y3h6Yllsaw?oc=5",
@@ -1670,22 +1683,10 @@
             "published": "20.06., 14:50"
           },
           {
-            "title": "Mars kooperiert mit Google Cloud, um Mitarbeitende weltweit mit Gemini Enterprise zu unterstützen | Mars - Mars, Incorporated",
-            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQd1o4eTVVMEpUWU5yZVlIc2ZNMXhwQ1VhT3VSSTFxX1JYTzM3RGNJRWUwOWs5VERxSGtsUFk0Tm8tN0VrSHdGU3VIcUZtbmQ1emMxaFdSRWNncXc3elZxeFBVZDJBazNzOXFublhlaUE0VkNyNDVvWmNIM2xtXy1idWdXZU1ROEFjSy03UUY1Y2dJcHJCcGhEWlYzSzVqdnZLemllN1lRZUFRc1FyakhRZ09sRFF5d2d0R3JpTk5wYUNfaXNvSzBOcF9EYjRTV3JYWkRGTEJTcw?oc=5",
-            "source": "Mars, Incorporated",
-            "published": "15.06., 20:25"
-          },
-          {
             "title": "Kühne+Nagel: „Wolkenfreier Himmel“ für Google Cloud - Österreichische Verkehrszeitung -",
             "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9rYXpWUm1mLS1sN2ozdGVNUHBvUFBvWkx1VjVVTjk5U25lSlVmdnFvUVZ1eVJPaHJFRXFqMnFPUzV4eHBrb1NPNmEwQkVGVnRLcnFtU2VhX3VReVFXQXMtM0s2TUZYRjkxVm1UcTVocGpoZ0RHcXc?oc=5",
             "source": "Österreichische Verkehrszeitung -",
             "published": "18.06., 08:58"
-          },
-          {
-            "title": "Palantir Aktie: Google-Cloud-Integration als Distributions-Play - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZlBFa1U5MWE1dXQxY09kMVEwenRiVHlwWVRJbHA4dFhlTGpKazROSHY2d0YzQUJKMGdTTm9SS2ZsZGNHTDB0S3pPNFg2MENMT052OTR6N2MydDl6VmstWW9GTGVjNncwbUVXYjRfZks2a2Q2LW15VG9NY3JDeTFUZ0ZHOHBaXzZLdGd4Vk5NUTdWdlJQWGJhc0U4WHRKc0V2SmJrUXFSRC1WeV8yejVEaVUwMEc?oc=5",
-            "source": "Börse Express",
-            "published": "19.06., 18:34"
           }
         ]
       }
@@ -1698,15 +1699,15 @@
       "description": "Goldpreis, primär über Gold-Future, fallback XAU/USD",
       "price_decimals": 2,
       "last_date": "2026-06-19",
-      "last_close": 4172.89990234375,
+      "last_close": 4245.89990234375,
       "previous_close": 4224.10009765625,
-      "change_abs": -51.2,
-      "change_pct": -1.21,
-      "change_5d_pct": -1.0,
-      "change_1m_pct": -7.91,
-      "change_3m_pct": -8.7,
+      "change_abs": 21.8,
+      "change_pct": 0.52,
+      "change_5d_pct": 0.73,
+      "change_1m_pct": -6.3,
+      "change_3m_pct": -7.1,
       "change_1y_pct": null,
-      "ytd_pct": -3.53,
+      "ytd_pct": -1.84,
       "volatility_30d_pct": 24.54,
       "sparkline": [
         {
@@ -2067,47 +2068,47 @@
         },
         {
           "date": "2026-06-19",
-          "close": 4172.89990234375
+          "close": 4245.89990234375
         }
       ],
       "explanation": {
-        "direction": "gefallen",
-        "confidence": "mittel",
-        "summary": "Plausibler Nachrichtenbezug: Der Kurs ist gefallen und die gefundenen Schlagzeilen enthalten überwiegend belastend wirkende Formulierungen. Die Quellen passen damit zur Richtung, beweisen aber keine Kausalität.",
+        "direction": "gestiegen",
+        "confidence": "niedrig",
+        "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
           "Zinsen/Fed",
           "US-Dollar",
           "Geopolitik/Sicherheit"
         ],
         "bullets": [
-          "Der Kurs ist deutlich gefallen: -1.21 % gegenüber dem vorherigen Schlusskurs.",
+          "Der Kurs ist spürbar gestiegen: +0.52 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: Zinsen/Fed, US-Dollar, Geopolitik/Sicherheit.",
-          "Wichtigste gefundene Headlines: Gold versagt im Krisentest: Daten stellen Safe-Haven-These infrage - finanzen.at | Gold: Kurs fällt auf 4.172,90 Dollar - Börse Express."
+          "Wichtigste gefundene Headlines: Gold: Drittes Wochenminus, 4.173 Dollar - Börse Express | Gold versagt im Krisentest: Daten stellen Safe-Haven-These infrage - finanzen.at."
         ],
         "headlines": [
+          {
+            "title": "Gold: Drittes Wochenminus, 4.173 Dollar - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYVl6TmdGM2NpZG5wLWprMEJrT3ExV2Z5cEJERUxnUGpmMENtOHY4cEttc3YtZFoxTnRHREZvMTRnWkt5SW1zS2NCQ3NXMC0xdC1SOXpKdjlCLUQ3NWlXYm40aUw2ckw3WHhsdWFhcXAtWUsxSDlZazJtVlVaeU1IUzlsTnBka2tLcVhXTGtHSDJpdw?oc=5",
+            "source": "Börse Express",
+            "published": "21.06., 16:00"
+          },
           {
             "title": "Gold versagt im Krisentest: Daten stellen Safe-Haven-These infrage - finanzen.at",
             "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZFdWZXFObW5ncFNGeVhRWVg4V0Rtc25Cc3UtZUZFZUlnRE5Lb2prYU1vZ2FqMm1XQjR6SlU2NUpfUlVzM2hDbXNqeFhVRm9iSUpnZkpPRHJObFQwT1dac3VTWXpXaEh6VkxLalVBanZSNU5QVzFNMk5OclA5VjlKSXp4Q2FhQUNGbFhnQmhOWHB1LUxJWmduOVE4Z0NMQmVtUElnNFJuUXhsdEFBWFhTNDRWYzBEV0pITkZmdjNkYw?oc=5",
             "source": "finanzen.at",
-            "published": "21.06., 04:21"
+            "published": "21.06., 10:18"
           },
           {
-            "title": "Gold: Kurs fällt auf 4.172,90 Dollar - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNi16TmRoXzhuc2dzazNnZDlXUGJSWnpNOHNNMElZTXRaMGZlczhaalgxR0VJbVNLdWRFbWZXd2J3QURqMHRWTms5ajRjRnpLaVFTSUJwQ2pGZTYta0J0dUFkemJxSUVCSU1vaTF6U1pUMHQ3eWN6WTFDX1cwa2lUSl9XZHpaYVc3SXE3eW5tWQ?oc=5",
-            "source": "Börse Express",
-            "published": "20.06., 17:46"
+            "title": "Gold auf Rekordkurs bei Notenbanken: Warum der Dollar unter Druck gerät - FAZ",
+            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNV0Y1SDhjOFBvYTNPVjRwY0s2UkozUnVTbktUZk1LcDBHRjFHamNBbWZBV2ljVWNuUmNkREdXaUxiNlRWdTRZWG5jZjJXZVJWNEVNWWw4c3FuS3A4OGxCOVBZQk1fVXc2bEo2U0RMZk9zeW5TNlgxaTBaQWZBMW9fNWJnLTBTVEdjNkNlNS1QQVRGZUJKUmtjeVlOVnpZaWlpUHliNDJiaWd3MklPUjNmWVQ1Y3hLVkMzeEhBXzlpTy1yRGVYM0tOMjdkOEpMeV9k?oc=5",
+            "source": "FAZ",
+            "published": "16.06., 15:18"
           },
           {
-            "title": "Gold unter Druck: Goldman Sachs senkt Jahresziel um 500 Dollar - Wallstreet Online",
-            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTEE0OHktMVVnRFNnOTg0d3RiRTdaNFNXbkplbkJ0SXc1dzA4dGRBcFp3SlcyZ0RuYnhzNWtLV2pwNjV1S0NkM2g1WDVJZFktS3hZZU5iVnpkbDlnc1Q4cXgwRDJJTnF1STBhTXJjR2JYMnM2MzFVWGpoZmJhZ3RqV3l5R0JqSGlwRzFLZS1wLUJuOU1oRWhyZ2l0bjRjY1U?oc=5",
+            "title": "Goldpreis: Lässt die Fed Gold von der Kette? Anleger setzen jetzt auf Goldaktien - Wallstreet Online",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTm9IR2p2aVRSY2JKcmdNZ2xVQjZaNEQ1M0pnNjlWZDQ4c3l5dnRBWWtDUS1YWVhuOWlicFBxcGkxT2lSMnowOE5GcnE3WGNFbld2U1FVQUMwWHgzTXIwRko2WWs2QVVXQlN5U1d3S1ZyckxXeHhWcTljTnpRTkVpSkJLSkdNeHoxRGF4eHFkekRoQlNfWk5IRlg1VFBQM0hfOVlMeTM4QmhBamlWbTZhX2d3WWhWNlQzVkE?oc=5",
             "source": "Wallstreet Online",
-            "published": "21.06., 07:43"
-          },
-          {
-            "title": "Börse Aktuell: Goldpreis fällt weiter - Fed, Dollar und Anleiherenditen belasten Gold - XTB.com",
-            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQN3JBYnBrOUxPOHhucEMtMzBBOWtYU3FTMGFNbGszUHphWWhIZUc5blM3ckJrcWRveWYzS1VYcDlBTmNQa0ZrREZQcU5ra2lEMGhJeW1rQ0ltUVNJblJoZ2J2eE5mbkREQndBZEIxZ09nRXJuSV9DY09fTmp4TTNtSXJibjkyZ2dhY0ZaSzhNN3U1cEdmUklvdFN1SS1GTFYtT2VPSE1sOXVvNHNxUkpsMC16d2JydU5Fa1lMMVhZMU9UUUVOcHVtMjBB?oc=5",
-            "source": "XTB.com",
-            "published": "19.06., 15:04"
+            "published": "16.06., 10:00"
           }
         ]
       }
