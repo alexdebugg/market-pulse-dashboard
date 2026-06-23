@@ -1,8 +1,8 @@
 {
   "is_sample": false,
   "source": "Yahoo Finance Kursdaten + Google News RSS Kontext",
-  "generated_at_utc": "2026-06-23T07:46:15+00:00",
-  "generated_at_vienna": "23.06.2026, 09:46 Uhr",
+  "generated_at_utc": "2026-06-23T17:52:09+00:00",
+  "generated_at_vienna": "23.06.2026, 19:52 Uhr",
   "market_mood_internal": "risk-off",
   "assets": [
     {
@@ -13,16 +13,16 @@
       "description": "iShares Core MSCI World UCITS ETF als handelbarer Developed-Markets-Proxy",
       "price_decimals": 2,
       "last_date": "2026-06-23",
-      "last_close": 123.3949966430664,
+      "last_close": 123.9800033569336,
       "previous_close": 125.05999755859375,
-      "change_abs": -1.67,
-      "change_pct": -1.33,
-      "change_5d_pct": -0.58,
-      "change_1m_pct": -0.09,
-      "change_3m_pct": 13.05,
+      "change_abs": -1.08,
+      "change_pct": -0.86,
+      "change_5d_pct": -0.11,
+      "change_1m_pct": 0.39,
+      "change_3m_pct": 13.58,
       "change_1y_pct": null,
-      "ytd_pct": 10.4,
-      "volatility_30d_pct": 11.33,
+      "ytd_pct": 10.92,
+      "volatility_30d_pct": 10.88,
       "sparkline": [
         {
           "date": "2026-02-12",
@@ -382,21 +382,21 @@
         },
         {
           "date": "2026-06-23",
-          "close": 123.3949966430664
+          "close": 123.9800033569336
         }
       ],
       "explanation": {
         "direction": "gefallen",
-        "confidence": "mittel",
-        "summary": "Plausibler Nachrichtenbezug: Der Kurs ist gefallen und die gefundenen Schlagzeilen enthalten überwiegend belastend wirkende Formulierungen. Die Quellen passen damit zur Richtung, beweisen aber keine Kausalität.",
+        "confidence": "niedrig",
+        "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
           "China/EM",
           "Geopolitik/Sicherheit"
         ],
         "bullets": [
-          "Der Kurs ist deutlich gefallen: -1.33 % gegenüber dem vorherigen Schlusskurs.",
+          "Der Kurs ist spürbar gefallen: -0.86 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: China/EM, Geopolitik/Sicherheit.",
-          "Wichtigste gefundene Headlines: Leverage Shares -5x Short Nasdaq 100 ETP Securities | XS3373449761 | A4AU1Y - extraETF | U.S. Stocks Move Mostly Lower, Nasdaq Slumps As SpaceX Plunges - FinanzNachrichten.de."
+          "Wichtigste gefundene Headlines: Leverage Shares -5x Short Nasdaq 100 ETP Securities | XS3373449761 | A4AU1Y - extraETF | MSCI World Index: Aktuelle Analysen zum Welt-Index für ETF - Stiftung Warentest."
         ],
         "headlines": [
           {
@@ -404,12 +404,6 @@
             "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9LZUk3Nm5xV2I0V0R3ZWxhWjBaZENFUlMtbGtKX080ZDZsdFU0Y2xBVXlIUVRhbFBtcmxOUjh1THdxYnFzb0djb242S3VmQ0xTZzhLQTlhWkRhOEZC?oc=5",
             "source": "extraETF",
             "published": "19.06., 13:25"
-          },
-          {
-            "title": "U.S. Stocks Move Mostly Lower, Nasdaq Slumps As SpaceX Plunges - FinanzNachrichten.de",
-            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRXpTV21tUm1hb1BhSjFuRWxYSUhNSGYtYVBIYnphcXRSaWVuSUg5aUZERkJFUXNqeHBoQjYyYk4wQmJ3ZzBKeC14T3N3cHpPelpGejBvRG0zYXBBOV84VjhlU185YmNXbTZBbjVSN0dLZzM0ZTA2S2VMMkJ0YXBrN2VFb2MyLXROeXgxNTlaeE9jMS1IUHlzVmVGbGstYmh6UnJGczc2VDF2dUduMUtkQzZROWV6VkRRR0tlWFpuYklBWDI0Z1pQNzRB?oc=5",
-            "source": "FinanzNachrichten.de",
-            "published": "22.06., 22:30"
           },
           {
             "title": "MSCI World Index: Aktuelle Analysen zum Welt-Index für ETF - Stiftung Warentest",
@@ -422,6 +416,12 @@
             "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbFU0aFRrN1BpUnN4eXZ6YVdjUU5nMmtjcGQyRmlTajlIQ3ZleVNIT1pQTEhVUElXZ2RKcUZKZ0xCaDVrRF9mMlQ1bnpRUVdZYUFULW5Fa1JMdkpYYWhDLW1ES3ozNnltbjI1YVhyS1p5bDJMemJvZkFqWEpodkF3MlBaYXM2TF9lU2c?oc=5",
             "source": "DIE ZEIT",
             "published": "05.06., 09:00"
+          },
+          {
+            "title": "Robinhood Markets platziert milliardenschwere Wandelanleihe, Aktie im Nasdaq Handel gefragt - AD HOC NEWS",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTlpQalhnVGZIUXRDSDZxS3dtcmk2SThqd0VPTVdodEJlMmlRVHVEQWtCYnNyLXBLb0ZORDB2QTlhSkVlOF9aZ0NVbmtsWVhFdlM5cTQ2TlFtWlp4QTR1Qml6emE3TXZodGlMU1VzelRBOFoxeXYwTVRLb2tHWUU5RHVZTm1vQ1FESkwtRXpKTzFUOU5mNkROQ3djR0puX1hKeDhtTUZXQWRQTXBTVGNtcGRCZC0wbW8xN00zdTJWV3k0ejZaR0E?oc=5",
+            "source": "AD HOC NEWS",
+            "published": "23.06., 12:21"
           }
         ]
       }
@@ -434,16 +434,16 @@
       "description": "iShares Core MSCI EM IMI UCITS ETF als Emerging-Markets-Proxy",
       "price_decimals": 2,
       "last_date": "2026-06-23",
-      "last_close": 48.387001037597656,
+      "last_close": 48.50400161743164,
       "previous_close": 50.68600082397461,
-      "change_abs": -2.3,
-      "change_pct": -4.54,
-      "change_5d_pct": -0.46,
-      "change_1m_pct": 2.08,
-      "change_3m_pct": 20.71,
+      "change_abs": -2.18,
+      "change_pct": -4.3,
+      "change_5d_pct": -0.22,
+      "change_1m_pct": 2.33,
+      "change_3m_pct": 21.01,
       "change_1y_pct": null,
-      "ytd_pct": 26.18,
-      "volatility_30d_pct": 28.71,
+      "ytd_pct": 26.48,
+      "volatility_30d_pct": 28.38,
       "sparkline": [
         {
           "date": "2026-02-12",
@@ -803,7 +803,7 @@
         },
         {
           "date": "2026-06-23",
-          "close": 48.387001037597656
+          "close": 48.50400161743164
         }
       ],
       "explanation": {
@@ -817,7 +817,7 @@
           "Gewinne/Analysten"
         ],
         "bullets": [
-          "Der Kurs ist deutlich gefallen: -4.54 % gegenüber dem vorherigen Schlusskurs.",
+          "Der Kurs ist deutlich gefallen: -4.30 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: US-Dollar, China/EM, Geopolitik/Sicherheit, Gewinne/Analysten.",
           "Wichtigste gefundene Headlines: Schwacher US-Dollar und hohe Defizite: Rückenwind für Emerging Markets? - e-fundresearch.com | EM-Anleihen: Diese rohstoffreichen Schwellenländer profitieren - das investment."
         ],
@@ -857,16 +857,16 @@
       "description": "iShares MSCI World Small Cap UCITS ETF als Small-Cap-Proxy",
       "price_decimals": 3,
       "last_date": "2026-06-23",
-      "last_close": 9.02299976348877,
+      "last_close": 9.081999778747559,
       "previous_close": 9.152000427246094,
-      "change_abs": -0.129,
-      "change_pct": -1.41,
-      "change_5d_pct": -0.21,
-      "change_1m_pct": 1.7,
-      "change_3m_pct": 14.33,
+      "change_abs": -0.07,
+      "change_pct": -0.76,
+      "change_5d_pct": 0.44,
+      "change_1m_pct": 2.37,
+      "change_3m_pct": 15.08,
       "change_1y_pct": null,
-      "ytd_pct": 15.98,
-      "volatility_30d_pct": 13.0,
+      "ytd_pct": 16.74,
+      "volatility_30d_pct": 12.45,
       "sparkline": [
         {
           "date": "2026-02-12",
@@ -1226,7 +1226,7 @@
         },
         {
           "date": "2026-06-23",
-          "close": 9.02299976348877
+          "close": 9.081999778747559
         }
       ],
       "explanation": {
@@ -1239,7 +1239,7 @@
           "Geopolitik/Sicherheit"
         ],
         "bullets": [
-          "Der Kurs ist deutlich gefallen: -1.41 % gegenüber dem vorherigen Schlusskurs.",
+          "Der Kurs ist spürbar gefallen: -0.76 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: Zinsen/Fed, China/EM, Geopolitik/Sicherheit.",
           "Wichtigste gefundene Headlines: Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraETF | „Disziplin schlägt Glamour“ – Warum AllianzGI mit systematischem Faktor-Investing jetzt auf US Small Caps setzt - e-fundresearch.com."
         ],
@@ -1278,22 +1278,18 @@
       "currency": "USD",
       "description": "Alphabet Inc. Class A",
       "price_decimals": 2,
-      "last_date": "2026-06-22",
-      "last_close": 349.67999267578125,
-      "previous_close": 368.0299987792969,
-      "change_abs": -18.35,
-      "change_pct": -4.99,
-      "change_5d_pct": -2.78,
-      "change_1m_pct": -10.09,
-      "change_3m_pct": 16.17,
+      "last_date": "2026-06-23",
+      "last_close": 347.3800048828125,
+      "previous_close": 349.67999267578125,
+      "change_abs": -2.3,
+      "change_pct": -0.66,
+      "change_5d_pct": -5.95,
+      "change_1m_pct": -10.39,
+      "change_3m_pct": 15.0,
       "change_1y_pct": null,
-      "ytd_pct": 11.72,
-      "volatility_30d_pct": 31.85,
+      "ytd_pct": 10.98,
+      "volatility_30d_pct": 31.68,
       "sparkline": [
-        {
-          "date": "2026-02-11",
-          "close": 310.9599914550781
-        },
         {
           "date": "2026-02-12",
           "close": 309.0
@@ -1649,6 +1645,10 @@
         {
           "date": "2026-06-22",
           "close": 349.67999267578125
+        },
+        {
+          "date": "2026-06-23",
+          "close": 347.3800048828125
         }
       ],
       "explanation": {
@@ -1660,9 +1660,9 @@
           "Regulierung"
         ],
         "bullets": [
-          "Der Kurs ist deutlich gefallen: -4.99 % gegenüber dem vorherigen Schlusskurs.",
+          "Der Kurs ist spürbar gefallen: -0.66 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: KI/Tech, Regulierung.",
-          "Wichtigste gefundene Headlines: Palantir Aktie: Gemini über Google Cloud Marketplace integriert - Börse Express | 2.000 alte Google-Pixel-Handys sollen eine Cloud antreiben - Futurezone."
+          "Wichtigste gefundene Headlines: Palantir Aktie: Gemini über Google Cloud Marketplace integriert - Börse Express | Claude Desktop: Anthropic startet auf AWS, Google Cloud und Azure - BornCity."
         ],
         "headlines": [
           {
@@ -1672,16 +1672,16 @@
             "published": "23.06., 08:28"
           },
           {
-            "title": "2.000 alte Google-Pixel-Handys sollen eine Cloud antreiben - Futurezone",
-            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMGgwVmlIS3czMjVMVXdIaFIyTWRha1puQTg0ejE1bzAyTEJucmVidW5Vd3liSWZmSzRCb2FEZVd0c1NuOWE1Rlc0N2xpZmU0Sm13ekozb05TSVFhNm9WaUlETWxjTVlOR1ZPUTJ0Z3V2akRzbE80RndvVmhXcVk0bWgtVUhESmMtYjBFTUlmQmtYNzBVaUJr0gGcAUFVX3lxTE9JWGhZOThFbGZXcnhkcXliemhjbGg4MmZrcjBxYlRNLWk0UjJNMkhHMi1ycEZTeFlmUzBjVWU1QURQVzkyOHE0RXZDd2NDbkF0LVVmRmpnRUk3WFJOZ3dqVDYtSG5HOHBINUQyeFFQSmZ0dHJCQTI1NEN1bjE2WWtTM0ZUdWFlUE1xejVkbnNsWUtGeFI1Y3h6Yllsaw?oc=5",
-            "source": "Futurezone",
-            "published": "20.06., 14:50"
+            "title": "Claude Desktop: Anthropic startet auf AWS, Google Cloud und Azure - BornCity",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNb1VrSWZFTndQSk1GX3lPejM0bWRFUnE4X0ptdnpxYmcwY0pYejJzUzdXaEZSdFA0MzhoUFgwMktJdUphcmtVUlcya1ktRldNeEdyaW9JSUMtYml5cXBWanlIOWVvcGpCYjRmTW5vRHJzNWluc2NRWnJ6bF9MZFV6eHp4M19TSm4xZUp2WDZZc20yRFpW?oc=5",
+            "source": "BornCity",
+            "published": "23.06., 11:27"
           },
           {
-            "title": "Google fordert Nvidia mit eigenen KI-Chips heraus - it-daily",
-            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBuU2ppWFk4U3RpZFRpdktHb3hiUEhHd3BpQjVFOFc4TUswcFRUZjJxTjVBdlFqX3lPRGFza0cwN1Q0czJYUXFiSFRqQVNiWlBfbk9Nd096VFh3STM2TktxbFd2aWRuVi1QVmFJQkRzQQ?oc=5",
-            "source": "it-daily",
-            "published": "22.06., 16:44"
+            "title": "ROCKITdigital GmbH: Prompt-O-Mat: das kostenlose Tool zeigt, wie Kunden KI wirklich fragen / Neues Werkzeug generiert realistische Zero-Sho…",
+            "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxPblJYWURJVGhtRkhsOEp4dy1FazdKdjN3UmFJekVCN2hZcm5XN0xJNl8wZlk0Q0hXNEllU0JwMWVQR1VMb0dKaDUtdXpHSTJmSXB6U3ZoYnJ1d19YOWZNbldDVWdQSzVQdWxjSng5bnYyQnVkZ1NSWHAzZllwX3hzU0dqMDFmUWF1RDNoakVLVF9YVTdBY1R5eG1kWWd3R1dIb3QyVVp0MURpaVo0eDBTbk1LVXQ4TFhGMUpqM3A1OTFLMlF4LWp1WHdIMjRtZ0NUS0NOaTNURl9kUEVMOUlzVW5RaGRmRmFkcGMxeGluMHZxdWhaUUk2WlZSZ29mWXg5amhqRXU1X0RCYlVJcVNmc1E1S1pjcGhHeldUU1dzeEFmV2swLVpWSEo1bnBTZDJQLS11Z0ItUFlvZmxqTG5rUF9XckNBZnpHbVVjd3F1aENqbUJGdW…",
+            "source": "Handelsblatt",
+            "published": "23.06., 11:00"
           },
           {
             "title": "Frank Fischer: Alphabet und Deutsche Börse neu im TSR-Olymp - e-fundresearch.com",
@@ -1700,16 +1700,16 @@
       "description": "Goldpreis, primär über Gold-Future, fallback XAU/USD",
       "price_decimals": 2,
       "last_date": "2026-06-23",
-      "last_close": 4132.2001953125,
+      "last_close": 4148.0,
       "previous_close": 4181.89990234375,
-      "change_abs": -49.7,
-      "change_pct": -1.19,
-      "change_5d_pct": -4.52,
-      "change_1m_pct": -8.98,
-      "change_3m_pct": -6.17,
-      "change_1y_pct": 22.34,
-      "ytd_pct": -4.47,
-      "volatility_30d_pct": 24.47,
+      "change_abs": -33.9,
+      "change_pct": -0.81,
+      "change_5d_pct": -4.16,
+      "change_1m_pct": -8.63,
+      "change_3m_pct": -5.82,
+      "change_1y_pct": 22.81,
+      "ytd_pct": -4.11,
+      "volatility_30d_pct": 24.39,
       "sparkline": [
         {
           "date": "2026-02-12",
@@ -2069,7 +2069,7 @@
         },
         {
           "date": "2026-06-23",
-          "close": 4132.2001953125
+          "close": 4148.0
         }
       ],
       "explanation": {
@@ -2079,38 +2079,37 @@
         "themes": [
           "Zinsen/Fed",
           "US-Dollar",
-          "Regulierung",
-          "Geopolitik/Sicherheit"
+          "Regulierung"
         ],
         "bullets": [
-          "Der Kurs ist deutlich gefallen: -1.19 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: Zinsen/Fed, US-Dollar, Regulierung, Geopolitik/Sicherheit.",
-          "Wichtigste gefundene Headlines: Gold: Fed-Kurs trifft Sicherheitsnetz - Börse Express | Gold fällt, da der Dollar angesichts von Erwartungen an Fed-Zinserhöhungen fest bleibt - MarketScreener Deutschland."
+          "Der Kurs ist spürbar gefallen: -0.81 % gegenüber dem vorherigen Schlusskurs.",
+          "Gefundene Nachrichten-Themen: Zinsen/Fed, US-Dollar, Regulierung.",
+          "Wichtigste gefundene Headlines: Gold: Fed-Druck steigt - Börse Express | Rohstoffmarkt: Deutsche Bank kürzt Gold-Prognose kräftig - Handelsblatt."
         ],
         "headlines": [
           {
-            "title": "Gold: Fed-Kurs trifft Sicherheitsnetz - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQS1JfeTFtM1d5N0VmNll1R2FPdHh6bUJiWkJUT0F1cDhaNUZBLThhZEo3UXdrTGtuQTZaS2pNMGFybnp4YUNIZlJIcm9rZHB2NEp6NjMyRWZfMDNZMGtkVXpvT01Mc2pQV1dtS055OUx4OVA2WjFJa1EyaEd2aTVDUWFEUVlpR1J0X05MSVpiZzlmQQ?oc=5",
+            "title": "Gold: Fed-Druck steigt - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9JUjdyVm5oWlpiRGJ5NG84aDVYeGlWekYwdjFlU2xlc2hKMkM4RXRBSy0tcEpadmdIcFFYbml4THRUNlpqZkc3VENfTXBMTl9CTUU5Z09ZNE1nT0s3eWQ3dkkzZm9tRXphOTdoX015MHpKa2VxNWZvYVI0UlNHZw?oc=5",
             "source": "Börse Express",
-            "published": "23.06., 09:26"
+            "published": "23.06., 17:57"
           },
           {
-            "title": "Gold fällt, da der Dollar angesichts von Erwartungen an Fed-Zinserhöhungen fest bleibt - MarketScreener Deutschland",
-            "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNc1VRYnhrM19LOTRwRndRTHcxOThnVk5zZTkwVGIzZ1FPLWtfUHZwVmZqX2l3Y0RuVXhNeFY1MDJCWEsxcDRlNjRSQzY2Zjh2NDVJMHNCYzJIOUdfYUNVUWFCc2pqRVg4Q3NSTDh6bHI0cFVwZFU3UGJmMmh5WnFRX21ScGtVSjlJNU42cmZQN1ZiVW45d0Ztd25sd0RQOFdndlNFR0FNZXd6RlRzOVF0VXFpbzdlcWFLSVFOWW5kOFBQRFREXzFiQmVMcmlpMkNabDUzazVUOVR4NEhTeW9NMFM1QjNLNV9p?oc=5",
-            "source": "MarketScreener Deutschland",
-            "published": "23.06., 04:53"
+            "title": "Rohstoffmarkt: Deutsche Bank kürzt Gold-Prognose kräftig - Handelsblatt",
+            "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbFBDbEl4SEpOaDN3ejFYQWI1NDhySDVRcFBMWFptMWJDdkU4ZGxDQTRsX1ZDQzBYY0pVV2tHNmk5dzhMOWZLWVZUWWNVRXM1ZFoxYVp4OURXUDRmSTVHYTF1VjBUY0pKcXItZmhCR3JjbVhVRnlIVTRadi1zTnFyelVXRXJfNTBrNy1CcmRFS1N1eVlNRG5aVDNDWnc2WGpuaDg2RjFNWG42NWRuM2s5R1hrdzd3NXV2b0dxS0YtSEVwWklVdFJtNU1GdHJtS05ieHc?oc=5",
+            "source": "Handelsblatt",
+            "published": "23.06., 13:31"
           },
           {
-            "title": "Gold versagt im Krisentest: Daten stellen Safe-Haven-These infrage - finanzen.at",
-            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZFdWZXFObW5ncFNGeVhRWVg4V0Rtc25Cc3UtZUZFZUlnRE5Lb2prYU1vZ2FqMm1XQjR6SlU2NUpfUlVzM2hDbXNqeFhVRm9iSUpnZkpPRHJObFQwT1dac3VTWXpXaEh6VkxLalVBanZSNU5QVzFNMk5OclA5VjlKSXp4Q2FhQUNGbFhnQmhOWHB1LUxJWmduOVE4Z0NMQmVtUElnNFJuUXhsdEFBWFhTNDRWYzBEV0pITkZmdjNkYw?oc=5",
-            "source": "finanzen.at",
-            "published": "21.06., 10:18"
+            "title": "Gold könnte bis 3.800 US-Dollar durchgereicht werden - Wallstreet Online",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbjNPbG44UjRFcmZSTVVkQWpKcG1sVzRncW8wZEVTODZ0TFlRc29mbmNSNHlTWnRsWVdiVzFFMjF1dGtyaFNzY0lONXBzT01WNDBLVC01R1owUzBITzBoOHFmVWkzNjVvVTh2V0pjcGV3QXk4cUthSnVkUG1ZY05kUGlDanJKZHA0SDVSMTRiNE1rckhtSU9uRnc3eS1yUzE3TUx5aw?oc=5",
+            "source": "Wallstreet Online",
+            "published": "23.06., 14:00"
           },
           {
-            "title": "Börse Aktuell: Goldpreis fällt weiter - Fed, Dollar und Anleiherenditen belasten Gold - XTB.com",
-            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQN3JBYnBrOUxPOHhucEMtMzBBOWtYU3FTMGFNbGszUHphWWhIZUc5blM3ckJrcWRveWYzS1VYcDlBTmNQa0ZrREZQcU5ra2lEMGhJeW1rQ0ltUVNJblJoZ2J2eE5mbkREQndBZEIxZ09nRXJuSV9DY09fTmp4TTNtSXJibjkyZ2dhY0ZaSzhNN3U1cEdmUklvdFN1SS1GTFYtT2VPSE1sOXVvNHNxUkpsMC16d2JydU5Fa1lMMVhZMU9UUUVOcHVtMjBB?oc=5",
-            "source": "XTB.com",
-            "published": "19.06., 15:04"
+            "title": "Deutsche Bank: Fed-Schritte könnten Gold auf 3800 Dollar drücken - Institutional Money",
+            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTk1QazdveVowdW9GbHBMWm5rMnRpQm5pdkZPdDlpUmF1Uk9hN0tBN08yLTFpN1pteTBWdnczdFQ0VWdiVE1SajJ6aTBaNjBhNDBIaUhJTzJwaVJPWUY3M2tWOTJjbmcxdUR2eUE1Rkl0M0Zudk56T0RqX1d1VzN1dkZnaHM1SHZUbUkteGRRdy1qTDhoOV9NTkxHbWhPSWhUQ1pRUG1CcDNOZmgydGliRXVhenA2TEhwMUN3eEhHNEFmSGJYS2NUcEp3?oc=5",
+            "source": "Institutional Money",
+            "published": "23.06., 09:39"
           }
         ]
       }
