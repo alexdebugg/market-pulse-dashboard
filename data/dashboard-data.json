@@ -1,9 +1,9 @@
 {
   "is_sample": false,
   "source": "Yahoo Finance Kursdaten + Google News RSS Kontext",
-  "generated_at_utc": "2026-06-24T17:53:02+00:00",
-  "generated_at_vienna": "24.06.2026, 19:53 Uhr",
-  "market_mood_internal": "neutral",
+  "generated_at_utc": "2026-06-25T07:40:48+00:00",
+  "generated_at_vienna": "25.06.2026, 09:40 Uhr",
+  "market_mood_internal": "risk-on",
   "assets": [
     {
       "name": "MSCI World",
@@ -12,22 +12,18 @@
       "currency": "EUR",
       "description": "iShares Core MSCI World UCITS ETF als handelbarer Developed-Markets-Proxy",
       "price_decimals": 2,
-      "last_date": "2026-06-24",
-      "last_close": 124.79000091552734,
-      "previous_close": 123.9800033569336,
-      "change_abs": 0.81,
-      "change_pct": 0.65,
-      "change_5d_pct": 0.47,
-      "change_1m_pct": 1.36,
-      "change_3m_pct": 14.36,
+      "last_date": "2026-06-25",
+      "last_close": 124.86000061035156,
+      "previous_close": 124.79000091552734,
+      "change_abs": 0.07,
+      "change_pct": 0.06,
+      "change_5d_pct": 0.18,
+      "change_1m_pct": 1.67,
+      "change_3m_pct": 13.32,
       "change_1y_pct": null,
-      "ytd_pct": 11.64,
-      "volatility_30d_pct": 10.64,
+      "ytd_pct": 11.71,
+      "volatility_30d_pct": 10.02,
       "sparkline": [
-        {
-          "date": "2026-02-13",
-          "close": 112.25499725341797
-        },
         {
           "date": "2026-02-16",
           "close": 112.0
@@ -383,6 +379,10 @@
         {
           "date": "2026-06-24",
           "close": 124.79000091552734
+        },
+        {
+          "date": "2026-06-25",
+          "close": 124.86000061035156
         }
       ],
       "explanation": {
@@ -393,22 +393,22 @@
           "China/EM"
         ],
         "bullets": [
-          "Der Kurs ist spürbar gestiegen: +0.65 % gegenüber dem vorherigen Schlusskurs.",
+          "Der Kurs ist leicht gestiegen: +0.06 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: China/EM.",
-          "Wichtigste gefundene Headlines: Cboe bringt Prediction Markets in den S&P-500-Handel - Crypto Valley Journal | Leverage Shares -5x Short Nasdaq 100 ETP Securities | XS3373449761 | A4AU1Y - extraETF."
+          "Wichtigste gefundene Headlines: Leverage Shares -5x Short Nasdaq 100 ETP Securities | XS3373449761 | A4AU1Y - extraETF | Cboe bringt Prediction Markets in den S&P-500-Handel - Crypto Valley Journal."
         ],
         "headlines": [
+          {
+            "title": "Leverage Shares -5x Short Nasdaq 100 ETP Securities | XS3373449761 | A4AU1Y - extraETF",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmZUhjNmxQU3JodWVkRkFCMUR2M3d0Y0x6NTdOTDNIU0dvWFB2OFBGaUN4UktyMTdaV3hhQ0JsWG1mZUJPSkI5dnJYOC1sRXM1cVNRVElQaFZ5QmRY?oc=5",
+            "source": "extraETF",
+            "published": "23.06., 12:42"
+          },
           {
             "title": "Cboe bringt Prediction Markets in den S&P-500-Handel - Crypto Valley Journal",
             "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNkpJM0VLby1BN2ZwdFZ2eUtZSS1OU2FMeERFMGRtNE9LUEpKM2NYaFY0LUt0RGw3M0RvNVUxUEE5ZjE1U29ab0tEM1BZa3BmTnZ5Zi1IVjRsN3lxR1Rrd054YzJhbENjOGJyS2ZaSTlUdVdTaHlQVjRPdEx0dkZZX3R4aXFuSFE?oc=5",
             "source": "Crypto Valley Journal",
             "published": "24.06., 12:11"
-          },
-          {
-            "title": "Leverage Shares -5x Short Nasdaq 100 ETP Securities | XS3373449761 | A4AU1Y - extraETF",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9LZUk3Nm5xV2I0V0R3ZWxhWjBaZENFUlMtbGtKX080ZDZsdFU0Y2xBVXlIUVRhbFBtcmxOUjh1THdxYnFzb0djb242S3VmQ0xTZzhLQTlhWkRhOEZC?oc=5",
-            "source": "extraETF",
-            "published": "19.06., 13:25"
           },
           {
             "title": "MSCI Emerging Markets: Dieser Indexfonds läuft noch besser als der MSCI World - DIE ZEIT",
@@ -432,22 +432,18 @@
       "currency": "EUR",
       "description": "iShares Core MSCI EM IMI UCITS ETF als Emerging-Markets-Proxy",
       "price_decimals": 2,
-      "last_date": "2026-06-24",
-      "last_close": 48.54999923706055,
-      "previous_close": 48.50400161743164,
-      "change_abs": 0.05,
-      "change_pct": 0.09,
-      "change_5d_pct": -1.42,
-      "change_1m_pct": 1.54,
-      "change_3m_pct": 21.63,
+      "last_date": "2026-06-25",
+      "last_close": 49.39400100708008,
+      "previous_close": 48.54999923706055,
+      "change_abs": 0.84,
+      "change_pct": 1.74,
+      "change_5d_pct": -1.52,
+      "change_1m_pct": 3.34,
+      "change_3m_pct": 21.31,
       "change_1y_pct": null,
-      "ytd_pct": 26.6,
-      "volatility_30d_pct": 27.29,
+      "ytd_pct": 28.8,
+      "volatility_30d_pct": 27.62,
       "sparkline": [
-        {
-          "date": "2026-02-13",
-          "close": 41.99599838256836
-        },
         {
           "date": "2026-02-16",
           "close": 42.20000076293945
@@ -803,30 +799,28 @@
         {
           "date": "2026-06-24",
           "close": 48.54999923706055
+        },
+        {
+          "date": "2026-06-25",
+          "close": 49.39400100708008
         }
       ],
       "explanation": {
         "direction": "gestiegen",
-        "confidence": "niedrig",
-        "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
+        "confidence": "mittel",
+        "summary": "Plausibler Nachrichtenbezug: Der Kurs ist gestiegen und die gefundenen Schlagzeilen enthalten überwiegend positiv wirkende Formulierungen. Die Quellen passen damit zur Richtung, beweisen aber keine Kausalität.",
         "themes": [
           "US-Dollar",
-          "KI/Tech",
           "China/EM",
-          "Geopolitik/Sicherheit"
+          "Geopolitik/Sicherheit",
+          "Gewinne/Analysten"
         ],
         "bullets": [
-          "Der Kurs ist leicht gestiegen: +0.09 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: US-Dollar, KI/Tech, China/EM, Geopolitik/Sicherheit.",
-          "Wichtigste gefundene Headlines: Schwacher US-Dollar und hohe Defizite: Rückenwind für Emerging Markets? - e-fundresearch.com | EM-Anleihen: Diese rohstoffreichen Schwellenländer profitieren - das investment."
+          "Der Kurs ist deutlich gestiegen: +1.74 % gegenüber dem vorherigen Schlusskurs.",
+          "Gefundene Nachrichten-Themen: US-Dollar, China/EM, Geopolitik/Sicherheit, Gewinne/Analysten.",
+          "Wichtigste gefundene Headlines: EM-Anleihen: Diese rohstoffreichen Schwellenländer profitieren - das investment | Kapitalmärkte: Iran-Krieg wird zum Stresstest für die Schwellenländer - Handelsblatt."
         ],
         "headlines": [
-          {
-            "title": "Schwacher US-Dollar und hohe Defizite: Rückenwind für Emerging Markets? - e-fundresearch.com",
-            "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdW5LT0NkQVByWUhHM2JvRDZVWERXUW5RWnpWcEpzVVNxRDA2QzgwTEJBQ3p4Y2lYU1NEelhUa1hUZzJyUDg4SnJPTXVmQUppQzRoalhkVURTWEJtaHZ1Zk1MMHNXekE0ZkpyM2x4aTI3UmU0bkU3REl6NXYyVnZIWWxCckFXT3pKaVdvQlp0cFQxMmpPS3lTN0U4ajBWTHd0NGJHVFI2T0Nhc3hhQ2ZSQkJqclRfaWZYMUVEaERfYXcxdklzYXlvRXY5c2R3ZHJDVUpjZmt4TXlQYWNxSHhCSE83cGVjQzc2Nnc?oc=5",
-            "source": "e-fundresearch.com",
-            "published": "25.11., 09:00"
-          },
           {
             "title": "EM-Anleihen: Diese rohstoffreichen Schwellenländer profitieren - das investment",
             "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNGJtcEp3MGtIVGNpekNsNWQtbnNYaHhIS2JyMHhWYUlDai1mRjZuQ1VRVmZ5c3ZDRE5malN3TTBJMTMza2x4MGpWaUszZDNiZlJMWWd4TnM4RmxYQThTSDFlZF9USUNIQU1pVEpqRVhxYnU3WUNkcHdqYVBBQVFhX3FuZWpNSHpLNUp3N3ZDOTBwLXhJTk5iNDRtSnRYMXQzdE5vX2RR?oc=5",
@@ -840,10 +834,16 @@
             "published": "17.04., 09:00"
           },
           {
-            "title": "Die 30-Billionen-Dollar-Wette: Wie KI die Schwellenländer völlig umkrempelt - PLATOW Börse",
-            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPY0Y4LWFQN3lSNEJMVEFMYmZVdENMZ3d1ZmE3eWRuRW1DZzNKNE00MkRISkd1bUxGY29ZMTE1Qnk4TUotc3preG9YR2MzMGJjM3lMY0ctLUJERmxlVlNQQzJvZmx6VTgwNGptRHFuM1JvV0h5NUtnLXpiUVhNdWprMlRoVFlYdkR4cHdjakdCYkdGTENwN2hZaEZyM2pKMzJCV0ppZURpR0R1THdWRFdsZllnYWJSVWs?oc=5",
-            "source": "PLATOW Börse",
-            "published": "03.06., 09:00"
+            "title": "Emerging Markets-Aktienausblick 2026: Von der Erholung zur Rotation - e-fundresearch.com",
+            "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTHpVSnRYWUtGN1FaTlZaRUQ0LVVOWVdRM1AtVU9lMlM2d244TjVzLW5ycnp3T09qeVlwdENBUEZXV3hIQlgxNlF6RkR2UEpfMVRzN1ZnUlB3WkZRMUhycGNtcDRRaGRVejFSWklUSkg3NS1RYnBmZUNEVzV4c3BscjlZM1psR091U044UDBvQVRDc3J6Y1A3VWJVQW1pSkxsek9vT3J4MnFDMXdFejJCdHRiVXlRcWNuMVlTc0k4eTllb3U2ckdrUzliTENRUlhjSHJtc3VVSmVSUHBaQTZXY1lyZjNQNGVIeS1ubjlQdw?oc=5",
+            "source": "e-fundresearch.com",
+            "published": "15.01., 09:00"
+          },
+          {
+            "title": "iShares MSCI EM Asia: 118,05 Dollar 52-Wochen-Hoch - Ad-hoc-news.de",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNU1ZBSFEybnlQV0hIQVBSQ1pnTlhkanBRQzdTR0N3Tm4wazFaVVpYenRsWXVhWEwybDhYb2kyWF9zYjlFNkV1dWxOLUZSYWg3VzRlb1pBQTA0UUhqbHBMLUdSaVN3WFFmYXRIMDkya0RtWXV6TmtVQzZxRnd3dUYyR3lLaFRuNUw4RnFJYVVRSUoxcU1PNldLUkFsMGEycmNfMFRvNHctZ2pCQVpF?oc=5",
+            "source": "Ad-hoc-news.de",
+            "published": "28.05., 09:00"
           }
         ]
       }
@@ -855,22 +855,18 @@
       "currency": "EUR",
       "description": "iShares MSCI World Small Cap UCITS ETF als Small-Cap-Proxy",
       "price_decimals": 3,
-      "last_date": "2026-06-24",
-      "last_close": 9.152999877929688,
-      "previous_close": 9.081999778747559,
-      "change_abs": 0.071,
-      "change_pct": 0.78,
-      "change_5d_pct": 0.78,
-      "change_1m_pct": 3.18,
-      "change_3m_pct": 15.25,
+      "last_date": "2026-06-25",
+      "last_close": 9.163999557495117,
+      "previous_close": 9.152999877929688,
+      "change_abs": 0.011,
+      "change_pct": 0.12,
+      "change_5d_pct": 0.81,
+      "change_1m_pct": 2.92,
+      "change_3m_pct": 14.22,
       "change_1y_pct": null,
-      "ytd_pct": 17.65,
-      "volatility_30d_pct": 12.46,
+      "ytd_pct": 17.79,
+      "volatility_30d_pct": 12.25,
       "sparkline": [
-        {
-          "date": "2026-02-13",
-          "close": 8.300000190734863
-        },
         {
           "date": "2026-02-16",
           "close": 8.289999961853027
@@ -1226,6 +1222,10 @@
         {
           "date": "2026-06-24",
           "close": 9.152999877929688
+        },
+        {
+          "date": "2026-06-25",
+          "close": 9.163999557495117
         }
       ],
       "explanation": {
@@ -1239,7 +1239,7 @@
           "Geopolitik/Sicherheit"
         ],
         "bullets": [
-          "Der Kurs ist spürbar gestiegen: +0.78 % gegenüber dem vorherigen Schlusskurs.",
+          "Der Kurs ist leicht gestiegen: +0.12 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: Zinsen/Fed, Regulierung, China/EM, Geopolitik/Sicherheit.",
           "Wichtigste gefundene Headlines: Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraETF | „Disziplin schlägt Glamour“ – Warum AllianzGI mit systematischem Faktor-Investing jetzt auf US Small Caps setzt - e-fundresearch.com."
         ],
@@ -1279,16 +1279,16 @@
       "description": "Alphabet Inc. Class A",
       "price_decimals": 2,
       "last_date": "2026-06-24",
-      "last_close": 348.6700134277344,
+      "last_close": 345.2900085449219,
       "previous_close": 346.1300048828125,
-      "change_abs": 2.54,
-      "change_pct": 0.73,
-      "change_5d_pct": -6.59,
-      "change_1m_pct": -8.96,
-      "change_3m_pct": 20.05,
+      "change_abs": -0.84,
+      "change_pct": -0.24,
+      "change_5d_pct": -7.49,
+      "change_1m_pct": -9.84,
+      "change_3m_pct": 18.89,
       "change_1y_pct": null,
-      "ytd_pct": 11.4,
-      "volatility_30d_pct": 30.94,
+      "ytd_pct": 10.32,
+      "volatility_30d_pct": 30.78,
       "sparkline": [
         {
           "date": "2026-02-13",
@@ -1648,19 +1648,19 @@
         },
         {
           "date": "2026-06-24",
-          "close": 348.6700134277344
+          "close": 345.2900085449219
         }
       ],
       "explanation": {
-        "direction": "gestiegen",
-        "confidence": "mittel",
-        "summary": "Plausibler Nachrichtenbezug: Der Kurs ist gestiegen und die gefundenen Schlagzeilen enthalten überwiegend positiv wirkende Formulierungen. Die Quellen passen damit zur Richtung, beweisen aber keine Kausalität.",
+        "direction": "gefallen",
+        "confidence": "niedrig",
+        "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
           "KI/Tech",
           "Regulierung"
         ],
         "bullets": [
-          "Der Kurs ist spürbar gestiegen: +0.73 % gegenüber dem vorherigen Schlusskurs.",
+          "Der Kurs ist leicht gefallen: -0.24 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: KI/Tech, Regulierung.",
           "Wichtigste gefundene Headlines: Google Cloud rüstet Philippinen: 200.000 Beamte mit KI-Tools - Börse Express | Google Fotos: Dank dieser Option sparst du jede Menge Cloud-Speicherplatz - t3n."
         ],
@@ -1678,16 +1678,16 @@
             "published": "24.06., 18:30"
           },
           {
-            "title": "Megatrend Folger: Alphabet steigt in den Dow Jones auf - Der Aktionär",
-            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ09nMnktbmtBSF9xbnd5UTFLMFBraXJETTdUWUFCY2N0QVM1SkFGLVRfTGUxbG04MFdRUzg3OWFOdmt0RmRxUExocjlUZDc2clNLUkRtbEVZU0VCQ2lvNWV1UnJPUDlFbHM5OGFuQUpXV01KZmIwNFVPcHBHOG1xelppeUdTRXZpcS1pdDVjZThLZVo1aVBxcjlRZndUUlp2aTJ3N1FkY0V2VWpLUmRZ?oc=5",
-            "source": "Der Aktionär",
-            "published": "24.06., 13:05"
+            "title": "HCL Technologies baut Allianz mit Google Cloud und ServiceNow für KI-Lösungen für Unternehmen aus - MarketScreener Schweiz",
+            "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNRnppM2FOSTZpWnA1eXE0X2ZWbXQyS3hSdXVLeUlCMWx1ckt0N2E0M3lEZ1M4aXBxdjd2UjV4Y1VCQm9hbFBKbHk5SVBDRUd0ZldsSzUwdEdMNDF6NGNSeWdrVTBnWldMRWgxMWd3NFF2eklpTnJ4R1R3Ull6cHhuc041dFdpeEFYTTIwV1NJWWZ3WlhxZXNNRXdKaGlIWnRsdWZsZDlId3BVR0M3aXQwaU0wc2NjYzU4b3NfTWV2cEc3Nkg3VW90c2lVQXo5ZjRnNS1iYl9VV3lUeXBkVnFmVW9uOFRubGZuQjZpOWNjMklOQi1tUENiVG9R?oc=5",
+            "source": "MarketScreener Schweiz",
+            "published": "25.06., 09:24"
           },
           {
-            "title": "Ask Ad Manager: Google AI Agent für eure Werbung - futurebiz.de",
-            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNmtBTUdnTEZ4dzk4RGRGOUt0NXE1d3V3RG51RS1ZcllHOG43OU1QSlBJU1BrU1pxRXZsdlBqQWFYclUxODAyUm9IRk12cmRIalZaYzJyNW1lbERjOEpuQlZMOUFXTzhFRjl6SEhVekpnQ3REaWFMUGVQckZNZWt6QkIzX0hwZ1l4WFE?oc=5",
-            "source": "futurebiz.de",
-            "published": "24.06., 17:15"
+            "title": "Frank Fischer: Alphabet und Deutsche Börse neu im TSR-Olymp - e-fundresearch.com",
+            "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNNHJNUGpwaU45ck9hS1liaENHWHB3MHpoWFJCYnR2ZWlfUUgyMDlHM3JfREpPMGR0bXhEdTVxZFQ2cmFkaDI4a1dSa2Y5RzE3QlpBWDd4alk2X0djenA1T2dEMmkxT1FKR2lnSWtQNURoNGdaOGloRTAzVDB4ZThud3ZUVE1KYUlFTUJBQkdIZ0ZTWldBcHRCb0lsMFUyZjFfcFNwR0dQV3BpNGNwdzEyYU5MWHFwUzhrYzJTYTQ2dVFiV3A5a3I2cjJkMXE2cXg2S3NDNWJIQU5LOHZaVHZEWA?oc=5",
+            "source": "e-fundresearch.com",
+            "published": "22.06., 09:56"
           }
         ]
       }
@@ -1699,22 +1699,18 @@
       "currency": "USD/oz",
       "description": "Goldpreis, primär über Gold-Future, fallback XAU/USD",
       "price_decimals": 2,
-      "last_date": "2026-06-24",
-      "last_close": 4002.300048828125,
-      "previous_close": 4129.89990234375,
-      "change_abs": -127.6,
-      "change_pct": -3.09,
-      "change_5d_pct": -7.59,
-      "change_1m_pct": -11.47,
-      "change_3m_pct": -9.02,
-      "change_1y_pct": 20.65,
-      "ytd_pct": -7.47,
-      "volatility_30d_pct": 25.63,
+      "last_date": "2026-06-25",
+      "last_close": 4000.300048828125,
+      "previous_close": 3990.300048828125,
+      "change_abs": 10.0,
+      "change_pct": 0.25,
+      "change_5d_pct": -8.23,
+      "change_1m_pct": -11.11,
+      "change_3m_pct": -12.08,
+      "change_1y_pct": 20.23,
+      "ytd_pct": -7.52,
+      "volatility_30d_pct": 25.97,
       "sparkline": [
-        {
-          "date": "2026-02-13",
-          "close": 5022.0
-        },
         {
           "date": "2026-02-17",
           "close": 4882.89990234375
@@ -2069,30 +2065,32 @@
         },
         {
           "date": "2026-06-24",
-          "close": 4002.300048828125
+          "close": 3990.300048828125
+        },
+        {
+          "date": "2026-06-25",
+          "close": 4000.300048828125
         }
       ],
       "explanation": {
-        "direction": "gefallen",
-        "confidence": "mittel",
-        "summary": "Plausibler Nachrichtenbezug: Der Kurs ist gefallen und die gefundenen Schlagzeilen enthalten überwiegend belastend wirkende Formulierungen. Die Quellen passen damit zur Richtung, beweisen aber keine Kausalität.",
+        "direction": "gestiegen",
+        "confidence": "niedrig",
+        "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
-          "Zinsen/Fed",
-          "Inflation",
           "US-Dollar",
-          "KI/Tech"
+          "Regulierung"
         ],
         "bullets": [
-          "Der Kurs ist deutlich gefallen: -3.09 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: Zinsen/Fed, Inflation, US-Dollar, KI/Tech.",
-          "Wichtigste gefundene Headlines: Gold: Fed-Druck verdrängt Geopolitik - Börse Express | Gold: Preis fällt unter Marke von 4000 Dollar - Handelsblatt."
+          "Der Kurs ist leicht gestiegen: +0.25 % gegenüber dem vorherigen Schlusskurs.",
+          "Gefundene Nachrichten-Themen: US-Dollar, Regulierung.",
+          "Wichtigste gefundene Headlines: Gold: Unter 4.000 US-Dollar gefallen - Börse Express | Gold: Preis fällt unter Marke von 4000 Dollar - Handelsblatt."
         ],
         "headlines": [
           {
-            "title": "Gold: Fed-Druck verdrängt Geopolitik - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTzV0aUtZYTFvSG5IQmQ3TkpRcnpxSnU5MEhVWjR0ZTdENWZTZThDNHJmNnpCUkZ2NmdkNkNUbDNLbTZOWFdUT3hJZWtnbGlESkFvUlhuRzdSelJONUYyQjVGOS1UNkZIZFZZdW5YcWxidTBTS2NISkwxVTd5enEtLUNvZE9zZXNYaEFZRU1oSTZOZw?oc=5",
+            "title": "Gold: Unter 4.000 US-Dollar gefallen - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSFR2THQwV2hYRVBETi0ydFp6YTJMdVptSW1kZE9NdlUxUWRtMUxxUHBjT0ZkUHVvcG5hcHltT1lrUy1BVlU2M1pGTmVZTC0xeXNqZ253NkZQWWRMTDRCRVRvb2ctN2txMDZGUnpQbzYwN3hUQ1FzWWVIMVJlUXZyVDU3VlBmVlVuWnFRV3pCYw?oc=5",
             "source": "Börse Express",
-            "published": "24.06., 10:24"
+            "published": "25.06., 06:57"
           },
           {
             "title": "Gold: Preis fällt unter Marke von 4000 Dollar - Handelsblatt",
@@ -2101,16 +2099,16 @@
             "published": "24.06., 17:36"
           },
           {
-            "title": "Gold Prognose im Fokus: Der Sturz unter die 4.000-Dollar-Marke schockiert Anleger. - XTB.com",
-            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRXlRb21RR2EwUlBMV3pCRWhKUFRMWXZZa2FqNzZJcDZGR0t2aE03ODBxWUR3VUktZVZOdEN6b0VSeFJLbTliTTNNZXE2WHlXaTdKX2FsbVNhS2RiTnhxRHB6bzFBUU1aOFA4eUs2WVNqNExzT0FjQUxZWmZZd1F4am9QQXMtMWMybWFXLUU4ZjRzdTAtcXJjVmxmeHhlVFA5ZGUxOHF3Q1F1a3g5ZUl4WUJuQ0ZZb0hzS25WMDRUT2JpcUpPdHNEU0x3?oc=5",
-            "source": "XTB.com",
-            "published": "24.06., 18:44"
+            "title": "Goldpreis rutscht unter 4000 US-Dollar, auch Öl deutlich billiger - Der Standard",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbWtsUVhidXVFRjV2SUtjLXBVVHZZWWpoOWY0d3p1ckJPVklmbjE1Rmg2QTJ1WHlRcXlaeFpTRnd6cFd4YVpXRnl1VTlqTHllb1ljNGhiaVBuc0w1TDF5cnFGWEhVVUdNZFpMS1pYTG8zaEt1SHhFN3VOb1lPSEJxM2dOcmQ4SUV5NWZzYTFfQllrUFhvcHc5MVh2eFRqbXdNQndHLU9QWml6MUNkb2dlZ1N3?oc=5",
+            "source": "Der Standard",
+            "published": "24.06., 15:40"
           },
           {
-            "title": "Steigende Inflation, fallender Goldpreis: der Mythos dahinter - Euronews.com",
-            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdkpRejJzMlNuMDVNMjQ4NnI1U2daLVg2ZjZXN21tUXhWd2IzRkE5elc3aWgtR1pnTWg2bXY1RDA3V2RkbTVQQzcxZUxOYmZVWkdjVDFUQUVuS1Y1YUNyQVlaQXFFdzk2VDJuWGpwUkRUOGhINUNDQU1oYVhfRTc5cVgweXpkR3Ryb1JQYlVWaWtzNGx0dFNCNFhib3o1X1R0LXBXV3owdkt4ZzVKZGhvUGFSWVhtQ1ktaDlubjAwN1p2VmhqYnN3?oc=5",
-            "source": "Euronews.com",
-            "published": "24.06., 07:32"
+            "title": "Goldpreis: Unter Marke von 4.000 Dollar abgerutscht - Finanzen.net",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZXZYaHlzVl9VMGMtYmxtaUFpQ1RUNV9HY1JTN19qUVkxREtjZG50bjBVSEQzV3gzbzg5bG9EU2dlbl9RS1BkNks5a1JXd3ZRcGtQY1NVcWtjNkdqR2tEYWdMMWVhRXRCV0hFSERwcmZ6aERZN1dmQUFKeU8tUE9rdU9VVWNRMzRBbnFHVGFfbERrYm40R1FSTEhmZ0MyMHVtVUdEdFp6T3ZsTF9FSjFnNVNJZFd6N1poaVFhSWNOM2VCQ1ZUYlE?oc=5",
+            "source": "Finanzen.net",
+            "published": "25.06., 08:27"
           }
         ]
       }
