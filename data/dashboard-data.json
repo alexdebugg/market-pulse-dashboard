@@ -1,9 +1,9 @@
 {
   "is_sample": false,
   "source": "Yahoo Finance Kursdaten + Google News RSS Kontext",
-  "generated_at_utc": "2026-06-27T06:51:02+00:00",
-  "generated_at_vienna": "27.06.2026, 08:51 Uhr",
-  "market_mood_internal": "risk-off",
+  "generated_at_utc": "2026-06-27T17:07:33+00:00",
+  "generated_at_vienna": "27.06.2026, 19:07 Uhr",
+  "market_mood_internal": "neutral",
   "assets": [
     {
       "name": "MSCI World",
@@ -411,16 +411,16 @@
             "published": "24.06., 12:11"
           },
           {
-            "title": "Price to sales forward von PayPay Corporation - American Depository Shares – NASDAQ:PAYP - TradingView",
-            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNV1VYbjFTUmtDVDZCZjV5eFpaUm52dEY5SHJvUUVRWEg2aUZVYWR1dzd2VDR6bk1xUGJvRUJIUGVzek0ydWhDcjg4LVhoT01nbE1jOVgxbWhTVWpqdnhOcUhpaG5Dcl9QY2ZvZmtxb2ZmcS1BQ0I1RDNMY2xwQ3ZUNHgtVWdaLUIweF9FSGl1ODRQdENDRV9QWlZlOUY?oc=5",
-            "source": "TradingView",
-            "published": "26.06., 13:16"
-          },
-          {
             "title": "Leverage Shares -5x Short Nasdaq 100 ETP Securities | XS3373449761 | A4AU1Y - extraETF",
             "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmZUhjNmxQU3JodWVkRkFCMUR2M3d0Y0x6NTdOTDNIU0dvWFB2OFBGaUN4UktyMTdaV3hhQ0JsWG1mZUJPSkI5dnJYOC1sRXM1cVNRVElQaFZ5QmRY?oc=5",
             "source": "extraETF",
             "published": "23.06., 12:42"
+          },
+          {
+            "title": "Price to sales forward von PayPay Corporation - American Depository Shares – NASDAQ:PAYP - TradingView",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNV1VYbjFTUmtDVDZCZjV5eFpaUm52dEY5SHJvUUVRWEg2aUZVYWR1dzd2VDR6bk1xUGJvRUJIUGVzek0ydWhDcjg4LVhoT01nbE1jOVgxbWhTVWpqdnhOcUhpaG5Dcl9QY2ZvZmtxb2ZmcS1BQ0I1RDNMY2xwQ3ZUNHgtVWdaLUIweF9FSGl1ODRQdENDRV9QWlZlOUY?oc=5",
+            "source": "TradingView",
+            "published": "26.06., 13:16"
           }
         ]
       }
@@ -1257,16 +1257,16 @@
             "published": "25.03., 08:00"
           },
           {
-            "title": "Drei europäische Small-Cap-Aktien für das Jahr 2026 - Morningstar",
-            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMEs2TEZTckdDLWpCakI1eHFNUW45VXNjbk5LN3ZBWDgwNXJPUGFEa1JFVE9QYWpmdmdfUVpZRmxYVG92bGFzOURGZTBOY2JTcllqSUxhTDVoMktobkRPMUtlX0gyVTZmWGFTVUZCQnh2TFA1bHhXeEt4RWZoU0FWbFBzTjY4NXdRdmNYUDVGRWNwMjVL?oc=5",
-            "source": "Morningstar",
-            "published": "23.01., 09:00"
-          },
-          {
             "title": "ETF-Portfolio – die besten Musterportfolios und ETF-Strategien - Finanzen.net",
             "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAzbmFxUlNtQ2wyOTBPRk5raDBsUDNYZ0dqWTk0dkQxWU5KV0VfWDB5TS1ValNJTUY3OGFMcGtEVWM4NXRMZ0Y1eE9QcG1BT0dtYmZyTDFtTGFVdTY4a2tYSWlMUE5UQ1p3Uk9OcExIbmZHTW9hYWw2Wm9n?oc=5",
             "source": "Finanzen.net",
             "published": "03.06., 09:00"
+          },
+          {
+            "title": "Drei europäische Small-Cap-Aktien für das Jahr 2026 - Morningstar",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMEs2TEZTckdDLWpCakI1eHFNUW45VXNjbk5LN3ZBWDgwNXJPUGFEa1JFVE9QYWpmdmdfUVpZRmxYVG92bGFzOURGZTBOY2JTcllqSUxhTDVoMktobkRPMUtlX0gyVTZmWGFTVUZCQnh2TFA1bHhXeEt4RWZoU0FWbFBzTjY4NXdRdmNYUDVGRWNwMjVL?oc=5",
+            "source": "Morningstar",
+            "published": "23.01., 09:00"
           }
         ]
       }
@@ -1278,18 +1278,22 @@
       "currency": "USD",
       "description": "Alphabet Inc. Class A",
       "price_decimals": 2,
-      "last_date": "2026-06-26",
-      "last_close": 337.3900146484375,
-      "previous_close": 343.7099914550781,
-      "change_abs": -6.32,
-      "change_pct": -1.84,
-      "change_5d_pct": -8.33,
-      "change_1m_pct": -13.23,
-      "change_3m_pct": 20.1,
+      "last_date": "2026-06-25",
+      "last_close": 343.7099914550781,
+      "previous_close": 345.2900085449219,
+      "change_abs": -1.58,
+      "change_pct": -0.46,
+      "change_5d_pct": -5.52,
+      "change_1m_pct": -11.62,
+      "change_3m_pct": 18.14,
       "change_1y_pct": null,
-      "ytd_pct": 7.79,
-      "volatility_30d_pct": 28.17,
+      "ytd_pct": 9.81,
+      "volatility_30d_pct": 30.78,
       "sparkline": [
+        {
+          "date": "2026-02-17",
+          "close": 302.0199890136719
+        },
         {
           "date": "2026-02-18",
           "close": 303.3299865722656
@@ -1645,10 +1649,6 @@
         {
           "date": "2026-06-25",
           "close": 343.7099914550781
-        },
-        {
-          "date": "2026-06-26",
-          "close": 337.3900146484375
         }
       ],
       "explanation": {
@@ -1660,9 +1660,9 @@
           "Regulierung"
         ],
         "bullets": [
-          "Der Kurs ist deutlich gefallen: -1.84 % gegenüber dem vorherigen Schlusskurs.",
+          "Der Kurs ist spürbar gefallen: -0.46 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: KI/Tech, Regulierung.",
-          "Wichtigste gefundene Headlines: Wie kann Europa im KI-Rennen mithalten? - blog.google | Hyperscaler im Q1 2026: Google Cloud übernimmt die Führung im KI-Wachstum - Investing.com Deutsch."
+          "Wichtigste gefundene Headlines: Wie kann Europa im KI-Rennen mithalten? - blog.google | Google Cloud rüstet Philippinen: 200.000 Beamte mit KI-Tools - Börse Express."
         ],
         "headlines": [
           {
@@ -1672,16 +1672,16 @@
             "published": "24.06., 14:05"
           },
           {
-            "title": "Hyperscaler im Q1 2026: Google Cloud übernimmt die Führung im KI-Wachstum - Investing.com Deutsch",
-            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeFZwcl9EcUNXd202UFFBN1JPSFU1Vjc0UXFfc09XakxkM2tMS2NDUEU5WG5DeTY2X2JHNHA1SmZNODFSTWs5Y29NZnBZUHkyQ0lFd3JkbkRTQW1CcERmczI4SlRDVlRkc1RlVjVlUFpOem8wUUxxMi01WFpNeHRLZHo2WHVETWQ4alhwX3Jyb01QdDV1QjV2dm9vcmthUG9MdjZROFo4NHV6ZDBTVkhkRWNuN3BMQ3FWX3lVQ1lBMnVmejRWYkE?oc=5",
-            "source": "Investing.com Deutsch",
-            "published": "27.06., 05:58"
-          },
-          {
             "title": "Google Cloud rüstet Philippinen: 200.000 Beamte mit KI-Tools - Börse Express",
             "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQR0pveVVzWTV4ZC1vZDdYMm0weFFNYmdTTFQwNnRpbTVTd1FNWVdXbFU0a254R0poTmxBLU8tbE16cnE1R25tMGtCaVRycm0za0lBZ0RLNS1nVC1RVGM3QUNDYjRmNnVDT1N3OWFOSzJlMTdNODZWQ1pOZldLSmlNeC1LRGQyNGVxZkhkNU4wUjkzbzFaNGU2dDJxYTJrc2N2T05SRk5oWTZnalVabnNsRA?oc=5",
             "source": "Börse Express",
             "published": "24.06., 14:05"
+          },
+          {
+            "title": "Hyperscaler im Q1 2026: Google Cloud übernimmt Führung im KI-Wettlauf - Investing.com Deutsch",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeFZwcl9EcUNXd202UFFBN1JPSFU1Vjc0UXFfc09XakxkM2tMS2NDUEU5WG5DeTY2X2JHNHA1SmZNODFSTWs5Y29NZnBZUHkyQ0lFd3JkbkRTQW1CcERmczI4SlRDVlRkc1RlVjVlUFpOem8wUUxxMi01WFpNeHRLZHo2WHVETWQ4alhwX3Jyb01QdDV1QjV2dm9vcmthUG9MdjZROFo4NHV6ZDBTVkhkRWNuN3BMQ3FWX3lVQ1lBMnVmejRWYkE?oc=5",
+            "source": "Investing.com Deutsch",
+            "published": "27.06., 05:58"
           },
           {
             "title": "Deal: Google AI Plus mit 74% Rabatt jetzt für nur 1,29 Euro - notebookcheck.com",
@@ -2077,19 +2077,22 @@
         "confidence": "niedrig",
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
-          "US-Dollar"
+          "Zinsen/Fed",
+          "US-Dollar",
+          "KI/Tech",
+          "Geopolitik/Sicherheit"
         ],
         "bullets": [
           "Der Kurs ist deutlich gestiegen: +1.20 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: US-Dollar.",
-          "Wichtigste gefundene Headlines: Gold: Goldman senkt Ziel auf 4.900 Dollar - Börse Express | Nahe 4.000 Dollar: Gold-Bären übernehmen das Ruder | Märkte | 25.06.2026 - FONDS professionell."
+          "Gefundene Nachrichten-Themen: Zinsen/Fed, US-Dollar, KI/Tech, Geopolitik/Sicherheit.",
+          "Wichtigste gefundene Headlines: Gold: Vier Wochen Minus durch hawkishe Fed - Börse Express | Nahe 4.000 Dollar: Gold-Bären übernehmen das Ruder | Märkte | 25.06.2026 - FONDS professionell."
         ],
         "headlines": [
           {
-            "title": "Gold: Goldman senkt Ziel auf 4.900 Dollar - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUVpETjV2YWh5WVZVRW1CMEdhSzBYTEo5TE1VQjMwZGZnYnVmb2ZZejJwdFJGMGU3ZVdScEdoc2FLeG44MlRIODNITGtBYXIzeGdfc1NRdWpQbXAzNVc3M28xcmdWVEtISjFyS2pDb2doNjZhYW1xbkhXOTVmbUpRN1prSVhJRXBLQTZ4YVpxc0lmLUNBY0E?oc=5",
+            "title": "Gold: Vier Wochen Minus durch hawkishe Fed - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUnpYcmkzai1YY2FrVEtiV3R0MGd5ajZUV2oybzZqRFZLRWdZQUlTOEs4MzNJMm5sOFl0Mng5aUxBSTJLYjFuLUlKZnIyZFJYeFRRVjNZX01UVmtMblh0UG1VWGl6QVdVNGp2VkNucERNbllzN1Z4elIwbXVLc1U1cnZnNWJ2YnpxU0JzTnRMQ0UwNDZOS216UA?oc=5",
             "source": "Börse Express",
-            "published": "27.06., 02:40"
+            "published": "27.06., 17:54"
           },
           {
             "title": "Nahe 4.000 Dollar: Gold-Bären übernehmen das Ruder | Märkte | 25.06.2026 - FONDS professionell",
@@ -2104,10 +2107,10 @@
             "published": "24.06., 17:36"
           },
           {
-            "title": "Ende der Rallye? Gold, Silber und Bitcoin stürzen ab - DiePresse.com",
-            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUkg1SFFTN1VEZGVIeVh3MFJsM1Q0bkx1WURsZnB1NFZWRWFkOENJcG04eVB5aF9yR3h5SWU0RHhqLW5MZi1HcWxmOFNyNW9Zb2VfTW9nYXRURllwMURpUXpmYUIxOEt6aVN2MW1HTHFVdWNjeE14Qk9NSmxELWNUdFVYRHRxTFNkN00wQldjWQ?oc=5",
-            "source": "DiePresse.com",
-            "published": "25.06., 16:10"
+            "title": "Warum der starke Dollar plötzlich zum Bitcoin-Problem wird - BTC-ECHO",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVWZWdUlrckxMSTBpVVdWdXVmcWtkcFBBUnM3aGowNTA5VmNUTjNmR1pFcDBqaXN6ZlBXX2VWNXZHbFVzUWM4TFRxUXVOeTdGMWVBR1Vsc3RBUnhuOTlXbTh6akhKSzdwZjhCUzU5ZklTck9sT3hON2swVTd5NDV3cXhhcWVNZ29HcWlKWF84dGw3bGpSNk9ZdC1BMA?oc=5",
+            "source": "BTC-ECHO",
+            "published": "27.06., 11:00"
           }
         ]
       }
