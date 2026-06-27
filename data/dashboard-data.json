@@ -1,9 +1,9 @@
 {
   "is_sample": false,
   "source": "Yahoo Finance Kursdaten + Google News RSS Kontext",
-  "generated_at_utc": "2026-06-26T17:45:37+00:00",
-  "generated_at_vienna": "26.06.2026, 19:45 Uhr",
-  "market_mood_internal": "neutral",
+  "generated_at_utc": "2026-06-27T06:51:02+00:00",
+  "generated_at_vienna": "27.06.2026, 08:51 Uhr",
+  "market_mood_internal": "risk-off",
   "assets": [
     {
       "name": "MSCI World",
@@ -395,20 +395,20 @@
         "bullets": [
           "Der Kurs ist leicht gefallen: -0.28 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: Geopolitik/Sicherheit.",
-          "Wichtigste gefundene Headlines: ISHARES CORE MSCI WORLD ETF Kurs | A0RPWH | IE00B4L5Y983 - Finanzen.net | Leverage Shares -5x Short Nasdaq 100 ETP Securities | XS3373449761 | A4AU1Y - extraETF."
+          "Wichtigste gefundene Headlines: IncomeShares Nasdaq 100 Options ETP | XS2875105608 | A4A50Q - extraETF | Cboe bringt Prediction Markets in den S&P-500-Handel - Crypto Valley Journal."
         ],
         "headlines": [
           {
-            "title": "ISHARES CORE MSCI WORLD ETF Kurs | A0RPWH | IE00B4L5Y983 - Finanzen.net",
-            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1sdDczUXF4SGJ2M0hSYUhPUmw1UXB3WHhXNmhtM19ZX3NSZGtUb2Rwem83Wlc2NzVHOHZic2EwNDEyZTJmWk41NXFhN1N0XzFjamVsUGlvMWw5UWNES20zaVVUTUVOMkxFc3N6V0NjeHB6VlAwZ21Vdg?oc=5",
-            "source": "Finanzen.net",
-            "published": "24.06., 00:00"
+            "title": "IncomeShares Nasdaq 100 Options ETP | XS2875105608 | A4A50Q - extraETF",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9pOXp6WnVQUmdKMWRkY1JPdlZxbHU3UnVkclh1OTctTGxtMmliSUV1NUFPUV9RODRsY2tQUTBUOHViZG5uS2hOTVh1MUNnMGFwTllGRGJtMHdBNExs?oc=5",
+            "source": "extraETF",
+            "published": "24.06., 09:00"
           },
           {
-            "title": "Leverage Shares -5x Short Nasdaq 100 ETP Securities | XS3373449761 | A4AU1Y - extraETF",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmZUhjNmxQU3JodWVkRkFCMUR2M3d0Y0x6NTdOTDNIU0dvWFB2OFBGaUN4UktyMTdaV3hhQ0JsWG1mZUJPSkI5dnJYOC1sRXM1cVNRVElQaFZ5QmRY?oc=5",
-            "source": "extraETF",
-            "published": "23.06., 12:42"
+            "title": "Cboe bringt Prediction Markets in den S&P-500-Handel - Crypto Valley Journal",
+            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5pNDdUNllZNzJwdDVTR1AwU0NHRl9MZDh6Wl82YUJfVEttNi1XX0ZXTGJxVFNVRF9ucERZS1djaHg4N0JUdXBEOXl4OVpoaGxtdUl2S3JvQUQ4cGtrMkJqNlRmNXgzRFh0T0NVTWlxcFBySGtNNkJ4R09hMlo?oc=5",
+            "source": "Crypto Valley Journal",
+            "published": "24.06., 12:11"
           },
           {
             "title": "Price to sales forward von PayPay Corporation - American Depository Shares – NASDAQ:PAYP - TradingView",
@@ -417,10 +417,10 @@
             "published": "26.06., 13:16"
           },
           {
-            "title": "Cboe bringt Prediction Markets in den S&P-500-Handel - Crypto Valley Journal",
-            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5pNDdUNllZNzJwdDVTR1AwU0NHRl9MZDh6Wl82YUJfVEttNi1XX0ZXTGJxVFNVRF9ucERZS1djaHg4N0JUdXBEOXl4OVpoaGxtdUl2S3JvQUQ4cGtrMkJqNlRmNXgzRFh0T0NVTWlxcFBySGtNNkJ4R09hMlo?oc=5",
-            "source": "Crypto Valley Journal",
-            "published": "24.06., 12:11"
+            "title": "Leverage Shares -5x Short Nasdaq 100 ETP Securities | XS3373449761 | A4AU1Y - extraETF",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmZUhjNmxQU3JodWVkRkFCMUR2M3d0Y0x6NTdOTDNIU0dvWFB2OFBGaUN4UktyMTdaV3hhQ0JsWG1mZUJPSkI5dnJYOC1sRXM1cVNRVElQaFZ5QmRY?oc=5",
+            "source": "extraETF",
+            "published": "23.06., 12:42"
           }
         ]
       }
@@ -1279,16 +1279,16 @@
       "description": "Alphabet Inc. Class A",
       "price_decimals": 2,
       "last_date": "2026-06-26",
-      "last_close": 341.1499938964844,
+      "last_close": 337.3900146484375,
       "previous_close": 343.7099914550781,
-      "change_abs": -2.56,
-      "change_pct": -0.74,
-      "change_5d_pct": -7.3,
-      "change_1m_pct": -12.26,
-      "change_3m_pct": 21.44,
+      "change_abs": -6.32,
+      "change_pct": -1.84,
+      "change_5d_pct": -8.33,
+      "change_1m_pct": -13.23,
+      "change_3m_pct": 20.1,
       "change_1y_pct": null,
-      "ytd_pct": 8.99,
-      "volatility_30d_pct": 27.92,
+      "ytd_pct": 7.79,
+      "volatility_30d_pct": 28.17,
       "sparkline": [
         {
           "date": "2026-02-18",
@@ -1648,7 +1648,7 @@
         },
         {
           "date": "2026-06-26",
-          "close": 341.1499938964844
+          "close": 337.3900146484375
         }
       ],
       "explanation": {
@@ -1660,9 +1660,9 @@
           "Regulierung"
         ],
         "bullets": [
-          "Der Kurs ist spürbar gefallen: -0.74 % gegenüber dem vorherigen Schlusskurs.",
+          "Der Kurs ist deutlich gefallen: -1.84 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: KI/Tech, Regulierung.",
-          "Wichtigste gefundene Headlines: Wie kann Europa im KI-Rennen mithalten? - blog.google | Google Cloud rüstet Philippinen: 200.000 Beamte mit KI-Tools - Börse Express."
+          "Wichtigste gefundene Headlines: Wie kann Europa im KI-Rennen mithalten? - blog.google | Hyperscaler im Q1 2026: Google Cloud übernimmt die Führung im KI-Wachstum - Investing.com Deutsch."
         ],
         "headlines": [
           {
@@ -1670,6 +1670,12 @@
             "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWE1HajB1TXR6ajBSZWJiaXA1YkZ5UFpYMzJBWnBaNXdsRWNWeGkzemFmWTJYdHJjMlpsNk1BdUxMM0hNMXpoSXJDSjRLVUhXVlRNcDI4a2JuRnBOZDJFRGJOZ0FSc2VzRml4cXgzT0swenVMNnNVZmZTYWZSemlmMTVwQXhucFI1LVZvcTVCZDlNLXJITFh0ZnZrelNlQ2lwS1hr?oc=5",
             "source": "blog.google",
             "published": "24.06., 14:05"
+          },
+          {
+            "title": "Hyperscaler im Q1 2026: Google Cloud übernimmt die Führung im KI-Wachstum - Investing.com Deutsch",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeFZwcl9EcUNXd202UFFBN1JPSFU1Vjc0UXFfc09XakxkM2tMS2NDUEU5WG5DeTY2X2JHNHA1SmZNODFSTWs5Y29NZnBZUHkyQ0lFd3JkbkRTQW1CcERmczI4SlRDVlRkc1RlVjVlUFpOem8wUUxxMi01WFpNeHRLZHo2WHVETWQ4alhwX3Jyb01QdDV1QjV2dm9vcmthUG9MdjZROFo4NHV6ZDBTVkhkRWNuN3BMQ3FWX3lVQ1lBMnVmejRWYkE?oc=5",
+            "source": "Investing.com Deutsch",
+            "published": "27.06., 05:58"
           },
           {
             "title": "Google Cloud rüstet Philippinen: 200.000 Beamte mit KI-Tools - Börse Express",
@@ -1682,12 +1688,6 @@
             "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNLVBGaGZOQmY5NUtoR19uazNnTGk5aHdBNVlnSVJQN3hKR3MyMWtlU1lRY3ZxT2tLZDU1SjdhU3p1OC00MHRCQkpoZk01SFQtZExtc1FwcEFLSnRwa2RXVUZMcmVteG9WS1pFYVJ0UHpDaWVsVVlLTjlvZS14NTBNdGIxbE9KeXBBRjQ4azU5azFBZHhtS01vMUhwVWdvMWxYM2dibXln?oc=5",
             "source": "notebookcheck.com",
             "published": "25.06., 19:10"
-          },
-          {
-            "title": "Endlich DSGVO-konform: Die besten Cloud-Alternativen zu Google Drive - giga.de",
-            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQT0lsY2ZJS0otTDBQNTZueTFsZEJzY3pDeU52Y3o5VWhSU3psLWJ5Q1JkRS1wM0tudTlNb1lMczhPVlV0ZFU1dGxRanFDMTJkMk5fTmdFV0VRQ3FtallnTlg1Y2dVa2RVdkVZQ2Z2TFRxd2lxa2JkM2dYYm55eGZxbEIxS1MwM0ZzV2llazlXUGhWODRsSlRBV3FzVjBXVzhiR1lzZ2xTUmx4V2ZGd0VYNTJRQWp4SW9CNTZZRQ?oc=5",
-            "source": "giga.de",
-            "published": "26.06., 10:54"
           }
         ]
       }
@@ -1700,16 +1700,16 @@
       "description": "Goldpreis, primär über Gold-Future, fallback XAU/USD",
       "price_decimals": 2,
       "last_date": "2026-06-26",
-      "last_close": 4093.39990234375,
+      "last_close": 4078.699951171875,
       "previous_close": 4030.5,
-      "change_abs": 62.9,
-      "change_pct": 1.56,
-      "change_5d_pct": -3.09,
-      "change_1m_pct": -7.96,
-      "change_3m_pct": -6.45,
-      "change_1y_pct": 22.8,
-      "ytd_pct": -5.37,
-      "volatility_30d_pct": 26.79,
+      "change_abs": 48.2,
+      "change_pct": 1.2,
+      "change_5d_pct": -3.44,
+      "change_1m_pct": -8.29,
+      "change_3m_pct": -6.78,
+      "change_1y_pct": null,
+      "ytd_pct": -5.71,
+      "volatility_30d_pct": 26.58,
       "sparkline": [
         {
           "date": "2026-02-18",
@@ -2069,7 +2069,7 @@
         },
         {
           "date": "2026-06-26",
-          "close": 4093.39990234375
+          "close": 4078.699951171875
         }
       ],
       "explanation": {
@@ -2080,16 +2080,16 @@
           "US-Dollar"
         ],
         "bullets": [
-          "Der Kurs ist deutlich gestiegen: +1.56 % gegenüber dem vorherigen Schlusskurs.",
+          "Der Kurs ist deutlich gestiegen: +1.20 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: US-Dollar.",
-          "Wichtigste gefundene Headlines: Gold: Angriff an der Hormus-Straße über 4.000 Dollar - Börse Express | Nahe 4.000 Dollar: Gold-Bären übernehmen das Ruder | Märkte | 25.06.2026 - FONDS professionell."
+          "Wichtigste gefundene Headlines: Gold: Goldman senkt Ziel auf 4.900 Dollar - Börse Express | Nahe 4.000 Dollar: Gold-Bären übernehmen das Ruder | Märkte | 25.06.2026 - FONDS professionell."
         ],
         "headlines": [
           {
-            "title": "Gold: Angriff an der Hormus-Straße über 4.000 Dollar - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOb3VKMjlnWnFpdVhwYU5XbGlVOVprWnRRSGtNRVE2NFVFdEdDcmNRZ3lfcXhJb2poVjBROFJKMkU2RjloeXp0Tm9LNFotWWhiNmVha3AxQmtYM21Qb2NTOGxodlEwRnFsWFFoSTdHWTl4ZUhxQTlIcWl2R2s4b3pwQkdJWE1ydkQ5aUdnbDhJSUJ3VWJSNEZ3YWFvMWhVMUo5YlpMTlJZdw?oc=5",
+            "title": "Gold: Goldman senkt Ziel auf 4.900 Dollar - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUVpETjV2YWh5WVZVRW1CMEdhSzBYTEo5TE1VQjMwZGZnYnVmb2ZZejJwdFJGMGU3ZVdScEdoc2FLeG44MlRIODNITGtBYXIzeGdfc1NRdWpQbXAzNVc3M28xcmdWVEtISjFyS2pDb2doNjZhYW1xbkhXOTVmbUpRN1prSVhJRXBLQTZ4YVpxc0lmLUNBY0E?oc=5",
             "source": "Börse Express",
-            "published": "26.06., 12:00"
+            "published": "27.06., 02:40"
           },
           {
             "title": "Nahe 4.000 Dollar: Gold-Bären übernehmen das Ruder | Märkte | 25.06.2026 - FONDS professionell",
