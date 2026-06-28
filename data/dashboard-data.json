@@ -1,9 +1,9 @@
 {
   "is_sample": false,
   "source": "Yahoo Finance Kursdaten + Google News RSS Kontext",
-  "generated_at_utc": "2026-06-27T17:07:33+00:00",
-  "generated_at_vienna": "27.06.2026, 19:07 Uhr",
-  "market_mood_internal": "neutral",
+  "generated_at_utc": "2026-06-28T07:49:47+00:00",
+  "generated_at_vienna": "28.06.2026, 09:49 Uhr",
+  "market_mood_internal": "risk-off",
   "assets": [
     {
       "name": "MSCI World",
@@ -411,16 +411,16 @@
             "published": "24.06., 12:11"
           },
           {
-            "title": "Leverage Shares -5x Short Nasdaq 100 ETP Securities | XS3373449761 | A4AU1Y - extraETF",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmZUhjNmxQU3JodWVkRkFCMUR2M3d0Y0x6NTdOTDNIU0dvWFB2OFBGaUN4UktyMTdaV3hhQ0JsWG1mZUJPSkI5dnJYOC1sRXM1cVNRVElQaFZ5QmRY?oc=5",
-            "source": "extraETF",
-            "published": "23.06., 12:42"
-          },
-          {
             "title": "Price to sales forward von PayPay Corporation - American Depository Shares – NASDAQ:PAYP - TradingView",
             "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNV1VYbjFTUmtDVDZCZjV5eFpaUm52dEY5SHJvUUVRWEg2aUZVYWR1dzd2VDR6bk1xUGJvRUJIUGVzek0ydWhDcjg4LVhoT01nbE1jOVgxbWhTVWpqdnhOcUhpaG5Dcl9QY2ZvZmtxb2ZmcS1BQ0I1RDNMY2xwQ3ZUNHgtVWdaLUIweF9FSGl1ODRQdENDRV9QWlZlOUY?oc=5",
             "source": "TradingView",
             "published": "26.06., 13:16"
+          },
+          {
+            "title": "Leverage Shares -5x Short Nasdaq 100 ETP Securities | XS3373449761 | A4AU1Y - extraETF",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9LZUk3Nm5xV2I0V0R3ZWxhWjBaZENFUlMtbGtKX080ZDZsdFU0Y2xBVXlIUVRhbFBtcmxOUjh1THdxYnFzb0djb242S3VmQ0xTZzhLQTlhWkRhOEZC?oc=5",
+            "source": "extraETF",
+            "published": "19.06., 13:25"
           }
         ]
       }
@@ -1230,18 +1230,18 @@
       ],
       "explanation": {
         "direction": "gefallen",
-        "confidence": "niedrig",
-        "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
+        "confidence": "mittel",
+        "summary": "Plausibler Nachrichtenbezug: Der Kurs ist gefallen und die gefundenen Schlagzeilen enthalten überwiegend belastend wirkende Formulierungen. Die Quellen passen damit zur Richtung, beweisen aber keine Kausalität.",
         "themes": [
           "Zinsen/Fed",
+          "KI/Tech",
           "Regulierung",
-          "China/EM",
-          "Geopolitik/Sicherheit"
+          "China/EM"
         ],
         "bullets": [
           "Der Kurs ist leicht gefallen: -0.15 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: Zinsen/Fed, Regulierung, China/EM, Geopolitik/Sicherheit.",
-          "Wichtigste gefundene Headlines: Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraETF | „Disziplin schlägt Glamour“ – Warum AllianzGI mit systematischem Faktor-Investing jetzt auf US Small Caps setzt - e-fundresearch.com."
+          "Gefundene Nachrichten-Themen: Zinsen/Fed, KI/Tech, Regulierung, China/EM.",
+          "Wichtigste gefundene Headlines: Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraETF | S&P 500, Nasdaq Close Lower On Tech Weakness But Recover After-Hours On Strong Micron Earnings — MU, AVGO, GOOGL In Focus - TradingView."
         ],
         "headlines": [
           {
@@ -1251,10 +1251,10 @@
             "published": "28.04., 10:37"
           },
           {
-            "title": "„Disziplin schlägt Glamour“ – Warum AllianzGI mit systematischem Faktor-Investing jetzt auf US Small Caps setzt - e-fundresearch.com",
-            "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQNnU3RmttMXdqOFdseEszZHBlbWZ1Yk9yd1ZPTWhvYUhoQnRSMkcyMGZPYUpTMDQzSDcwX3dZQms4OHJrbmZvR21XbFRlZXRjSzFNWXlLR2Q0b0NrZG5fdDRkM2JyV1JJeFEycTR3ZThPVUFyRGpkbnAwa09WdklUMV9aTVZWa1lkcks1WkR3NzIwbXIzalZqZ1pxRUJGWEdnWTFvN21LbndNVGtQbTNWNVExdVV0R3d2T2FDcGYxSm5ONFR1NzN6bXUyR3JZWjFhSU85TENvb3BOd09HMzFCQlloTE5lZ1FIM3RiVVBUdw?oc=5",
-            "source": "e-fundresearch.com",
-            "published": "25.03., 08:00"
+            "title": "S&P 500, Nasdaq Close Lower On Tech Weakness But Recover After-Hours On Strong Micron Earnings — MU, AVGO, GOOGL In Focus - TradingView",
+            "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPVVZYcWN4bUpzcHcwSHdIRkxHQ09NQ0IwSjR1RVpsTm5OYWx1NFR6Qy01ajczM0x0QWt5ZTBoZERjRGl4bW1ROWpXdVlSN0FNMXpta2dOYWZHWXNvbWNDSmNYMU5mM25OMUtRWkN1RVcyQmhWYzJ0RXkyTkliQkdsbHNRM3ZfV1AxS2xodko2aWN6NWlwZjRxd3FpQzJvUnlOQzdpaEV0UGVxb0kzSWFQLXRQXzdGM3p1QXhFT1hxRml3V1M5SnlXSTQ3R2ctRzlnX1VzcGQ2a3Q0ZWtMV3h5N0RnRDVUS2xBcUZINTk4aTBaYVd1WnNXZGdBajd0OVJlRmVaWWpvMA?oc=5",
+            "source": "TradingView",
+            "published": "25.06., 00:45"
           },
           {
             "title": "ETF-Portfolio – die besten Musterportfolios und ETF-Strategien - Finanzen.net",
@@ -1278,22 +1278,18 @@
       "currency": "USD",
       "description": "Alphabet Inc. Class A",
       "price_decimals": 2,
-      "last_date": "2026-06-25",
-      "last_close": 343.7099914550781,
-      "previous_close": 345.2900085449219,
-      "change_abs": -1.58,
-      "change_pct": -0.46,
-      "change_5d_pct": -5.52,
-      "change_1m_pct": -11.62,
-      "change_3m_pct": 18.14,
+      "last_date": "2026-06-26",
+      "last_close": 337.3900146484375,
+      "previous_close": 343.7099914550781,
+      "change_abs": -6.32,
+      "change_pct": -1.84,
+      "change_5d_pct": -8.33,
+      "change_1m_pct": -13.23,
+      "change_3m_pct": 20.1,
       "change_1y_pct": null,
-      "ytd_pct": 9.81,
-      "volatility_30d_pct": 30.78,
+      "ytd_pct": 7.79,
+      "volatility_30d_pct": 28.17,
       "sparkline": [
-        {
-          "date": "2026-02-17",
-          "close": 302.0199890136719
-        },
         {
           "date": "2026-02-18",
           "close": 303.3299865722656
@@ -1649,6 +1645,10 @@
         {
           "date": "2026-06-25",
           "close": 343.7099914550781
+        },
+        {
+          "date": "2026-06-26",
+          "close": 337.3900146484375
         }
       ],
       "explanation": {
@@ -1660,7 +1660,7 @@
           "Regulierung"
         ],
         "bullets": [
-          "Der Kurs ist spürbar gefallen: -0.46 % gegenüber dem vorherigen Schlusskurs.",
+          "Der Kurs ist deutlich gefallen: -1.84 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: KI/Tech, Regulierung.",
           "Wichtigste gefundene Headlines: Wie kann Europa im KI-Rennen mithalten? - blog.google | Google Cloud rüstet Philippinen: 200.000 Beamte mit KI-Tools - Börse Express."
         ],
@@ -1678,16 +1678,16 @@
             "published": "24.06., 14:05"
           },
           {
-            "title": "Hyperscaler im Q1 2026: Google Cloud übernimmt Führung im KI-Wettlauf - Investing.com Deutsch",
-            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeFZwcl9EcUNXd202UFFBN1JPSFU1Vjc0UXFfc09XakxkM2tMS2NDUEU5WG5DeTY2X2JHNHA1SmZNODFSTWs5Y29NZnBZUHkyQ0lFd3JkbkRTQW1CcERmczI4SlRDVlRkc1RlVjVlUFpOem8wUUxxMi01WFpNeHRLZHo2WHVETWQ4alhwX3Jyb01QdDV1QjV2dm9vcmthUG9MdjZROFo4NHV6ZDBTVkhkRWNuN3BMQ3FWX3lVQ1lBMnVmejRWYkE?oc=5",
-            "source": "Investing.com Deutsch",
-            "published": "27.06., 05:58"
-          },
-          {
             "title": "Deal: Google AI Plus mit 74% Rabatt jetzt für nur 1,29 Euro - notebookcheck.com",
             "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNLVBGaGZOQmY5NUtoR19uazNnTGk5aHdBNVlnSVJQN3hKR3MyMWtlU1lRY3ZxT2tLZDU1SjdhU3p1OC00MHRCQkpoZk01SFQtZExtc1FwcEFLSnRwa2RXVUZMcmVteG9WS1pFYVJ0UHpDaWVsVVlLTjlvZS14NTBNdGIxbE9KeXBBRjQ4azU5azFBZHhtS01vMUhwVWdvMWxYM2dibXln?oc=5",
             "source": "notebookcheck.com",
             "published": "25.06., 19:10"
+          },
+          {
+            "title": "Cloud-Sektor: Brüssel will AWS und Microsoft Azure strenger überwachen - Handelsblatt",
+            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONFhkYndKc1EtOUxCWU5GTUtTTHRzdFhRSmh6UTRhcERnQmtrTS0yWjZjN1F5TjNCd1k4UXdxUHBnZENkREo4cEtCWXNBQ1FOLU9oWHNMUzVWS1U4cU9KSjhaeE1EQmRrNGVoZS13b3dWTWZNejh2T05TMG5jaEwtR3RQQjhjMURMdHlvQ0NGcGF0WGo3QktpTGVsRkdEWU5fSUljajJ6X1RzQWtNV2VvcVdvd29rNlB6MkdhTUVLbUtYZHJya2xtMUpBVnNmc054aUxR?oc=5",
+            "source": "Handelsblatt",
+            "published": "25.06., 08:41"
           }
         ]
       }
@@ -1700,16 +1700,16 @@
       "description": "Goldpreis, primär über Gold-Future, fallback XAU/USD",
       "price_decimals": 2,
       "last_date": "2026-06-26",
-      "last_close": 4078.699951171875,
+      "last_close": 4096.2998046875,
       "previous_close": 4030.5,
-      "change_abs": 48.2,
-      "change_pct": 1.2,
-      "change_5d_pct": -3.44,
-      "change_1m_pct": -8.29,
-      "change_3m_pct": -6.78,
+      "change_abs": 65.8,
+      "change_pct": 1.63,
+      "change_5d_pct": -3.03,
+      "change_1m_pct": -7.9,
+      "change_3m_pct": -6.38,
       "change_1y_pct": null,
-      "ytd_pct": -5.71,
-      "volatility_30d_pct": 26.58,
+      "ytd_pct": -5.3,
+      "volatility_30d_pct": 26.84,
       "sparkline": [
         {
           "date": "2026-02-18",
@@ -2069,7 +2069,7 @@
         },
         {
           "date": "2026-06-26",
-          "close": 4078.699951171875
+          "close": 4096.2998046875
         }
       ],
       "explanation": {
@@ -2079,12 +2079,11 @@
         "themes": [
           "Zinsen/Fed",
           "US-Dollar",
-          "KI/Tech",
-          "Geopolitik/Sicherheit"
+          "KI/Tech"
         ],
         "bullets": [
-          "Der Kurs ist deutlich gestiegen: +1.20 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: Zinsen/Fed, US-Dollar, KI/Tech, Geopolitik/Sicherheit.",
+          "Der Kurs ist deutlich gestiegen: +1.63 % gegenüber dem vorherigen Schlusskurs.",
+          "Gefundene Nachrichten-Themen: Zinsen/Fed, US-Dollar, KI/Tech.",
           "Wichtigste gefundene Headlines: Gold: Vier Wochen Minus durch hawkishe Fed - Börse Express | Nahe 4.000 Dollar: Gold-Bären übernehmen das Ruder | Märkte | 25.06.2026 - FONDS professionell."
         ],
         "headlines": [
@@ -2107,10 +2106,10 @@
             "published": "24.06., 17:36"
           },
           {
-            "title": "Warum der starke Dollar plötzlich zum Bitcoin-Problem wird - BTC-ECHO",
-            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVWZWdUlrckxMSTBpVVdWdXVmcWtkcFBBUnM3aGowNTA5VmNUTjNmR1pFcDBqaXN6ZlBXX2VWNXZHbFVzUWM4TFRxUXVOeTdGMWVBR1Vsc3RBUnhuOTlXbTh6akhKSzdwZjhCUzU5ZklTck9sT3hON2swVTd5NDV3cXhhcWVNZ29HcWlKWF84dGw3bGpSNk9ZdC1BMA?oc=5",
-            "source": "BTC-ECHO",
-            "published": "27.06., 11:00"
+            "title": "Ende der Rallye? Gold, Silber und Bitcoin stürzen ab - DiePresse.com",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUkg1SFFTN1VEZGVIeVh3MFJsM1Q0bkx1WURsZnB1NFZWRWFkOENJcG04eVB5aF9yR3h5SWU0RHhqLW5MZi1HcWxmOFNyNW9Zb2VfTW9nYXRURllwMURpUXpmYUIxOEt6aVN2MW1HTHFVdWNjeE14Qk9NSmxELWNUdFVYRHRxTFNkN00wQldjWQ?oc=5",
+            "source": "DiePresse.com",
+            "published": "25.06., 16:10"
           }
         ]
       }
