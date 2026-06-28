@@ -1,8 +1,8 @@
 {
   "is_sample": false,
   "source": "Yahoo Finance Kursdaten + Google News RSS Kontext",
-  "generated_at_utc": "2026-06-28T07:49:47+00:00",
-  "generated_at_vienna": "28.06.2026, 09:49 Uhr",
+  "generated_at_utc": "2026-06-28T17:08:54+00:00",
+  "generated_at_vienna": "28.06.2026, 19:08 Uhr",
   "market_mood_internal": "risk-off",
   "assets": [
     {
@@ -388,41 +388,13 @@
       "explanation": {
         "direction": "gefallen",
         "confidence": "niedrig",
-        "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
-        "themes": [
-          "Geopolitik/Sicherheit"
-        ],
+        "summary": "Keine belastbare Begründung gefunden: Für diesen Wert wurden beim automatischen Abruf keine aktuellen verwertbaren Schlagzeilen gefunden. Es wird daher bewusst keine Ursache behauptet.",
+        "themes": [],
         "bullets": [
           "Der Kurs ist leicht gefallen: -0.28 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: Geopolitik/Sicherheit.",
-          "Wichtigste gefundene Headlines: IncomeShares Nasdaq 100 Options ETP | XS2875105608 | A4A50Q - extraETF | Cboe bringt Prediction Markets in den S&P-500-Handel - Crypto Valley Journal."
+          "Nächster sinnvoller Schritt: Nachrichtenlage manuell prüfen oder eine bessere News-API anbinden."
         ],
-        "headlines": [
-          {
-            "title": "IncomeShares Nasdaq 100 Options ETP | XS2875105608 | A4A50Q - extraETF",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9pOXp6WnVQUmdKMWRkY1JPdlZxbHU3UnVkclh1OTctTGxtMmliSUV1NUFPUV9RODRsY2tQUTBUOHViZG5uS2hOTVh1MUNnMGFwTllGRGJtMHdBNExs?oc=5",
-            "source": "extraETF",
-            "published": "24.06., 09:00"
-          },
-          {
-            "title": "Cboe bringt Prediction Markets in den S&P-500-Handel - Crypto Valley Journal",
-            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5pNDdUNllZNzJwdDVTR1AwU0NHRl9MZDh6Wl82YUJfVEttNi1XX0ZXTGJxVFNVRF9ucERZS1djaHg4N0JUdXBEOXl4OVpoaGxtdUl2S3JvQUQ4cGtrMkJqNlRmNXgzRFh0T0NVTWlxcFBySGtNNkJ4R09hMlo?oc=5",
-            "source": "Crypto Valley Journal",
-            "published": "24.06., 12:11"
-          },
-          {
-            "title": "Price to sales forward von PayPay Corporation - American Depository Shares – NASDAQ:PAYP - TradingView",
-            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNV1VYbjFTUmtDVDZCZjV5eFpaUm52dEY5SHJvUUVRWEg2aUZVYWR1dzd2VDR6bk1xUGJvRUJIUGVzek0ydWhDcjg4LVhoT01nbE1jOVgxbWhTVWpqdnhOcUhpaG5Dcl9QY2ZvZmtxb2ZmcS1BQ0I1RDNMY2xwQ3ZUNHgtVWdaLUIweF9FSGl1ODRQdENDRV9QWlZlOUY?oc=5",
-            "source": "TradingView",
-            "published": "26.06., 13:16"
-          },
-          {
-            "title": "Leverage Shares -5x Short Nasdaq 100 ETP Securities | XS3373449761 | A4AU1Y - extraETF",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9LZUk3Nm5xV2I0V0R3ZWxhWjBaZENFUlMtbGtKX080ZDZsdFU0Y2xBVXlIUVRhbFBtcmxOUjh1THdxYnFzb0djb242S3VmQ0xTZzhLQTlhWkRhOEZC?oc=5",
-            "source": "extraETF",
-            "published": "19.06., 13:25"
-          }
-        ]
+        "headlines": []
       }
     },
     {
@@ -808,44 +780,13 @@
       "explanation": {
         "direction": "gefallen",
         "confidence": "niedrig",
-        "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
-        "themes": [
-          "US-Dollar",
-          "China/EM",
-          "Geopolitik/Sicherheit",
-          "Gewinne/Analysten"
-        ],
+        "summary": "Keine belastbare Begründung gefunden: Für diesen Wert wurden beim automatischen Abruf keine aktuellen verwertbaren Schlagzeilen gefunden. Es wird daher bewusst keine Ursache behauptet.",
+        "themes": [],
         "bullets": [
           "Der Kurs ist deutlich gefallen: -1.17 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: US-Dollar, China/EM, Geopolitik/Sicherheit, Gewinne/Analysten.",
-          "Wichtigste gefundene Headlines: Schwacher US-Dollar und hohe Defizite: Rückenwind für Emerging Markets? - e-fundresearch.com | EM-Anleihen: Diese rohstoffreichen Schwellenländer profitieren - das investment."
+          "Nächster sinnvoller Schritt: Nachrichtenlage manuell prüfen oder eine bessere News-API anbinden."
         ],
-        "headlines": [
-          {
-            "title": "Schwacher US-Dollar und hohe Defizite: Rückenwind für Emerging Markets? - e-fundresearch.com",
-            "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdW5LT0NkQVByWUhHM2JvRDZVWERXUW5RWnpWcEpzVVNxRDA2QzgwTEJBQ3p4Y2lYU1NEelhUa1hUZzJyUDg4SnJPTXVmQUppQzRoalhkVURTWEJtaHZ1Zk1MMHNXekE0ZkpyM2x4aTI3UmU0bkU3REl6NXYyVnZIWWxCckFXT3pKaVdvQlp0cFQxMmpPS3lTN0U4ajBWTHd0NGJHVFI2T0Nhc3hhQ2ZSQkJqclRfaWZYMUVEaERfYXcxdklzYXlvRXY5c2R3ZHJDVUpjZmt4TXlQYWNxSHhCSE83cGVjQzc2Nnc?oc=5",
-            "source": "e-fundresearch.com",
-            "published": "25.11., 09:00"
-          },
-          {
-            "title": "EM-Anleihen: Diese rohstoffreichen Schwellenländer profitieren - das investment",
-            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNGJtcEp3MGtIVGNpekNsNWQtbnNYaHhIS2JyMHhWYUlDai1mRjZuQ1VRVmZ5c3ZDRE5malN3TTBJMTMza2x4MGpWaUszZDNiZlJMWWd4TnM4RmxYQThTSDFlZF9USUNIQU1pVEpqRVhxYnU3WUNkcHdqYVBBQVFhX3FuZWpNSHpLNUp3N3ZDOTBwLXhJTk5iNDRtSnRYMXQzdE5vX2RR?oc=5",
-            "source": "das investment",
-            "published": "29.05., 09:00"
-          },
-          {
-            "title": "Kapitalmärkte: Iran-Krieg wird zum Stresstest für die Schwellenländer - Handelsblatt",
-            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWHhSNTdKdm9ENnlwNHVYMHVJa3M3VmctRWswSm5tWFFCc29DemNLQk1nVXd4dHcwcFZlemVYcTcxZTJvdm5sYTNFblhwUVZ2UExEbHQxdXFjSUhyV252TUNVam42cnp4Ti15R0pUWEp0S3k4azhUVlFqc1lxNEpRNmRfd09JaU5qTF91Uk91eHRTaW5TVHlBQjlfeHRmVVJvV0Y3Y1lYb1hvWTl3MkxBSkoxR1p6SVBLOGxRXzEzNkQzSV90MTVzY3Z2Mmw?oc=5",
-            "source": "Handelsblatt",
-            "published": "17.04., 09:00"
-          },
-          {
-            "title": "Emerging Markets-Aktienausblick 2026: Von der Erholung zur Rotation - e-fundresearch.com",
-            "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTHpVSnRYWUtGN1FaTlZaRUQ0LVVOWVdRM1AtVU9lMlM2d244TjVzLW5ycnp3T09qeVlwdENBUEZXV3hIQlgxNlF6RkR2UEpfMVRzN1ZnUlB3WkZRMUhycGNtcDRRaGRVejFSWklUSkg3NS1RYnBmZUNEVzV4c3BscjlZM1psR091U044UDBvQVRDc3J6Y1A3VWJVQW1pSkxsek9vT3J4MnFDMXdFejJCdHRiVXlRcWNuMVlTc0k4eTllb3U2ckdrUzliTENRUlhjSHJtc3VVSmVSUHBaQTZXY1lyZjNQNGVIeS1ubjlQdw?oc=5",
-            "source": "e-fundresearch.com",
-            "published": "15.01., 09:00"
-          }
-        ]
+        "headlines": []
       }
     },
     {
@@ -1230,45 +1171,14 @@
       ],
       "explanation": {
         "direction": "gefallen",
-        "confidence": "mittel",
-        "summary": "Plausibler Nachrichtenbezug: Der Kurs ist gefallen und die gefundenen Schlagzeilen enthalten überwiegend belastend wirkende Formulierungen. Die Quellen passen damit zur Richtung, beweisen aber keine Kausalität.",
-        "themes": [
-          "Zinsen/Fed",
-          "KI/Tech",
-          "Regulierung",
-          "China/EM"
-        ],
+        "confidence": "niedrig",
+        "summary": "Keine belastbare Begründung gefunden: Für diesen Wert wurden beim automatischen Abruf keine aktuellen verwertbaren Schlagzeilen gefunden. Es wird daher bewusst keine Ursache behauptet.",
+        "themes": [],
         "bullets": [
           "Der Kurs ist leicht gefallen: -0.15 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: Zinsen/Fed, KI/Tech, Regulierung, China/EM.",
-          "Wichtigste gefundene Headlines: Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraETF | S&P 500, Nasdaq Close Lower On Tech Weakness But Recover After-Hours On Strong Micron Earnings — MU, AVGO, GOOGL In Focus - TradingView."
+          "Nächster sinnvoller Schritt: Nachrichtenlage manuell prüfen oder eine bessere News-API anbinden."
         ],
-        "headlines": [
-          {
-            "title": "Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraETF",
-            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBfSEFMN1dKOFVhZUdmcE5WbGh1V3VIUTVJTE5SdWVzS2hYemNGRWgzRi1MZF8xZXdrbUl3RHVKeTk0SDNRUmhSWGgyQUpMQlRXb2JPS0Jxb2txVm5LM0w3anphOWo5WWIwSDF5Qjg4clFwR0VWUkQ5Qg?oc=5",
-            "source": "extraETF",
-            "published": "28.04., 10:37"
-          },
-          {
-            "title": "S&P 500, Nasdaq Close Lower On Tech Weakness But Recover After-Hours On Strong Micron Earnings — MU, AVGO, GOOGL In Focus - TradingView",
-            "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPVVZYcWN4bUpzcHcwSHdIRkxHQ09NQ0IwSjR1RVpsTm5OYWx1NFR6Qy01ajczM0x0QWt5ZTBoZERjRGl4bW1ROWpXdVlSN0FNMXpta2dOYWZHWXNvbWNDSmNYMU5mM25OMUtRWkN1RVcyQmhWYzJ0RXkyTkliQkdsbHNRM3ZfV1AxS2xodko2aWN6NWlwZjRxd3FpQzJvUnlOQzdpaEV0UGVxb0kzSWFQLXRQXzdGM3p1QXhFT1hxRml3V1M5SnlXSTQ3R2ctRzlnX1VzcGQ2a3Q0ZWtMV3h5N0RnRDVUS2xBcUZINTk4aTBaYVd1WnNXZGdBajd0OVJlRmVaWWpvMA?oc=5",
-            "source": "TradingView",
-            "published": "25.06., 00:45"
-          },
-          {
-            "title": "ETF-Portfolio – die besten Musterportfolios und ETF-Strategien - Finanzen.net",
-            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAzbmFxUlNtQ2wyOTBPRk5raDBsUDNYZ0dqWTk0dkQxWU5KV0VfWDB5TS1ValNJTUY3OGFMcGtEVWM4NXRMZ0Y1eE9QcG1BT0dtYmZyTDFtTGFVdTY4a2tYSWlMUE5UQ1p3Uk9OcExIbmZHTW9hYWw2Wm9n?oc=5",
-            "source": "Finanzen.net",
-            "published": "03.06., 09:00"
-          },
-          {
-            "title": "Drei europäische Small-Cap-Aktien für das Jahr 2026 - Morningstar",
-            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMEs2TEZTckdDLWpCakI1eHFNUW45VXNjbk5LN3ZBWDgwNXJPUGFEa1JFVE9QYWpmdmdfUVpZRmxYVG92bGFzOURGZTBOY2JTcllqSUxhTDVoMktobkRPMUtlX0gyVTZmWGFTVUZCQnh2TFA1bHhXeEt4RWZoU0FWbFBzTjY4NXdRdmNYUDVGRWNwMjVL?oc=5",
-            "source": "Morningstar",
-            "published": "23.01., 09:00"
-          }
-        ]
+        "headlines": []
       }
     },
     {
@@ -1654,42 +1564,13 @@
       "explanation": {
         "direction": "gefallen",
         "confidence": "niedrig",
-        "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
-        "themes": [
-          "KI/Tech",
-          "Regulierung"
-        ],
+        "summary": "Keine belastbare Begründung gefunden: Für diesen Wert wurden beim automatischen Abruf keine aktuellen verwertbaren Schlagzeilen gefunden. Es wird daher bewusst keine Ursache behauptet.",
+        "themes": [],
         "bullets": [
           "Der Kurs ist deutlich gefallen: -1.84 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: KI/Tech, Regulierung.",
-          "Wichtigste gefundene Headlines: Wie kann Europa im KI-Rennen mithalten? - blog.google | Google Cloud rüstet Philippinen: 200.000 Beamte mit KI-Tools - Börse Express."
+          "Nächster sinnvoller Schritt: Nachrichtenlage manuell prüfen oder eine bessere News-API anbinden."
         ],
-        "headlines": [
-          {
-            "title": "Wie kann Europa im KI-Rennen mithalten? - blog.google",
-            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWE1HajB1TXR6ajBSZWJiaXA1YkZ5UFpYMzJBWnBaNXdsRWNWeGkzemFmWTJYdHJjMlpsNk1BdUxMM0hNMXpoSXJDSjRLVUhXVlRNcDI4a2JuRnBOZDJFRGJOZ0FSc2VzRml4cXgzT0swenVMNnNVZmZTYWZSemlmMTVwQXhucFI1LVZvcTVCZDlNLXJITFh0ZnZrelNlQ2lwS1hr?oc=5",
-            "source": "blog.google",
-            "published": "24.06., 14:05"
-          },
-          {
-            "title": "Google Cloud rüstet Philippinen: 200.000 Beamte mit KI-Tools - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQR0pveVVzWTV4ZC1vZDdYMm0weFFNYmdTTFQwNnRpbTVTd1FNWVdXbFU0a254R0poTmxBLU8tbE16cnE1R25tMGtCaVRycm0za0lBZ0RLNS1nVC1RVGM3QUNDYjRmNnVDT1N3OWFOSzJlMTdNODZWQ1pOZldLSmlNeC1LRGQyNGVxZkhkNU4wUjkzbzFaNGU2dDJxYTJrc2N2T05SRk5oWTZnalVabnNsRA?oc=5",
-            "source": "Börse Express",
-            "published": "24.06., 14:05"
-          },
-          {
-            "title": "Deal: Google AI Plus mit 74% Rabatt jetzt für nur 1,29 Euro - notebookcheck.com",
-            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNLVBGaGZOQmY5NUtoR19uazNnTGk5aHdBNVlnSVJQN3hKR3MyMWtlU1lRY3ZxT2tLZDU1SjdhU3p1OC00MHRCQkpoZk01SFQtZExtc1FwcEFLSnRwa2RXVUZMcmVteG9WS1pFYVJ0UHpDaWVsVVlLTjlvZS14NTBNdGIxbE9KeXBBRjQ4azU5azFBZHhtS01vMUhwVWdvMWxYM2dibXln?oc=5",
-            "source": "notebookcheck.com",
-            "published": "25.06., 19:10"
-          },
-          {
-            "title": "Cloud-Sektor: Brüssel will AWS und Microsoft Azure strenger überwachen - Handelsblatt",
-            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONFhkYndKc1EtOUxCWU5GTUtTTHRzdFhRSmh6UTRhcERnQmtrTS0yWjZjN1F5TjNCd1k4UXdxUHBnZENkREo4cEtCWXNBQ1FOLU9oWHNMUzVWS1U4cU9KSjhaeE1EQmRrNGVoZS13b3dWTWZNejh2T05TMG5jaEwtR3RQQjhjMURMdHlvQ0NGcGF0WGo3QktpTGVsRkdEWU5fSUljajJ6X1RzQWtNV2VvcVdvd29rNlB6MkdhTUVLbUtYZHJya2xtMUpBVnNmc054aUxR?oc=5",
-            "source": "Handelsblatt",
-            "published": "25.06., 08:41"
-          }
-        ]
+        "headlines": []
       }
     },
     {
@@ -2075,45 +1956,41 @@
       "explanation": {
         "direction": "gestiegen",
         "confidence": "niedrig",
-        "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
-        "themes": [
-          "Zinsen/Fed",
-          "US-Dollar",
-          "KI/Tech"
-        ],
+        "summary": "Keine belastbare Begründung gefunden: Für diesen Wert wurden beim automatischen Abruf keine aktuellen verwertbaren Schlagzeilen gefunden. Es wird daher bewusst keine Ursache behauptet.",
+        "themes": [],
         "bullets": [
           "Der Kurs ist deutlich gestiegen: +1.63 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: Zinsen/Fed, US-Dollar, KI/Tech.",
-          "Wichtigste gefundene Headlines: Gold: Vier Wochen Minus durch hawkishe Fed - Börse Express | Nahe 4.000 Dollar: Gold-Bären übernehmen das Ruder | Märkte | 25.06.2026 - FONDS professionell."
+          "Nächster sinnvoller Schritt: Nachrichtenlage manuell prüfen oder eine bessere News-API anbinden."
         ],
-        "headlines": [
-          {
-            "title": "Gold: Vier Wochen Minus durch hawkishe Fed - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUnpYcmkzai1YY2FrVEtiV3R0MGd5ajZUV2oybzZqRFZLRWdZQUlTOEs4MzNJMm5sOFl0Mng5aUxBSTJLYjFuLUlKZnIyZFJYeFRRVjNZX01UVmtMblh0UG1VWGl6QVdVNGp2VkNucERNbllzN1Z4elIwbXVLc1U1cnZnNWJ2YnpxU0JzTnRMQ0UwNDZOS216UA?oc=5",
-            "source": "Börse Express",
-            "published": "27.06., 17:54"
-          },
-          {
-            "title": "Nahe 4.000 Dollar: Gold-Bären übernehmen das Ruder | Märkte | 25.06.2026 - FONDS professionell",
-            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORVJ2LWNPa3pDaS0tbW1NTFNRWmJwdVUyYjVZVG1GQjBnak5faTdtNUhDaGFQNDRzQjRXeWxpRXllaXJfRG1TVFM0Q1dCOTdqaTg5RWpzNGQ3RllldkdWWlFURllwVlI0T3h2bTZGQWQybDJ0cGV2NHNLZEZKRDl5Uy1jdmJfYzI4Ti1aN0VFMl9NY3ZxVW5kUE5iN0dvNjIyVHRMQnloaTMwLVdxc2F2WHVITEl0dw?oc=5",
-            "source": "FONDS professionell",
-            "published": "25.06., 12:10"
-          },
-          {
-            "title": "Gold: Preis fällt unter Marke von 4000 Dollar - Handelsblatt",
-            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLWNFalBadHdKZS1DTEZNV3c2SW1FM1lwbWZmczBLZ3dyZEoxenJ3cVFUdE1PMG1Ea3dlMnZtTk52enFJMFlYYXdRbHFoRTFBdU1FRmt1SWpxX1ZSVi1ZMXktSU84a3cwc0JNMndWVmRmSS1nZ2trNUZadndWXzc3VWE3NnZZLU5SNGVkTW9laWhFclZ0Ml9QNDJWRy1BQjVfTDFKeHdFdHJOaGVwTE1RWDRMWm9rTDYwdjR0WUZUb29pZw?oc=5",
-            "source": "Handelsblatt",
-            "published": "24.06., 17:36"
-          },
-          {
-            "title": "Ende der Rallye? Gold, Silber und Bitcoin stürzen ab - DiePresse.com",
-            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUkg1SFFTN1VEZGVIeVh3MFJsM1Q0bkx1WURsZnB1NFZWRWFkOENJcG04eVB5aF9yR3h5SWU0RHhqLW5MZi1HcWxmOFNyNW9Zb2VfTW9nYXRURllwMURpUXpmYUIxOEt6aVN2MW1HTHFVdWNjeE14Qk9NSmxELWNUdFVYRHRxTFNkN00wQldjWQ?oc=5",
-            "source": "DiePresse.com",
-            "published": "25.06., 16:10"
-          }
-        ]
+        "headlines": []
       }
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "symbol": "EUNL.DE",
+      "stage": "news",
+      "error": "Could not fetch https://news.google.com/rss/search?q=%28%22MSCI+World%22+OR+%22global+stocks%22+OR+%22S%26P+500%22+OR+Nasdaq+OR+%22world+stocks%22%29+%28stocks+OR+markets+OR+shares%29&hl=de&gl=AT&ceid=AT%3Ade: HTTP Error 503: Service Unavailable"
+    },
+    {
+      "symbol": "IS3N.DE",
+      "stage": "news",
+      "error": "Could not fetch https://news.google.com/rss/search?q=%28%22emerging+markets%22+OR+China+OR+India%29+%28stocks+OR+equities+OR+markets%29+%28dollar+OR+rates+OR+economy%29&hl=de&gl=AT&ceid=AT%3Ade: HTTP Error 503: Service Unavailable"
+    },
+    {
+      "symbol": "IUSN.DE",
+      "stage": "news",
+      "error": "Could not fetch https://news.google.com/rss/search?q=%28%22small+caps%22+OR+%22small-cap+stocks%22+OR+%22Russell+2000%22%29+%28stocks+OR+markets+OR+rates+OR+economy%29&hl=de&gl=AT&ceid=AT%3Ade: HTTP Error 503: Service Unavailable"
+    },
+    {
+      "symbol": "GOOGL",
+      "stage": "news",
+      "error": "Could not fetch https://news.google.com/rss/search?q=%28Alphabet+OR+Google+OR+GOOGL%29+%28stock+OR+shares+OR+earnings+OR+AI+OR+antitrust+OR+cloud+OR+advertising%29&hl=de&gl=AT&ceid=AT%3Ade: HTTP Error 503: Service Unavailable"
+    },
+    {
+      "symbol": "GC=F",
+      "stage": "news",
+      "error": "Could not fetch https://news.google.com/rss/search?q=%28gold+OR+%22gold+price%22+OR+bullion%29+%28dollar+OR+yields+OR+Fed+OR+inflation+OR+safe-haven+OR+geopolitical%29&hl=de&gl=AT&ceid=AT%3Ade: HTTP Error 503: Service Unavailable"
+    }
+  ]
 }
