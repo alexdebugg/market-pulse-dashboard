@@ -1,8 +1,8 @@
 {
   "is_sample": false,
   "source": "Yahoo Finance Kursdaten + Google News RSS Kontext",
-  "generated_at_utc": "2026-07-02T17:45:05+00:00",
-  "generated_at_vienna": "02.07.2026, 19:45 Uhr",
+  "generated_at_utc": "2026-07-03T07:18:42+00:00",
+  "generated_at_vienna": "03.07.2026, 09:18 Uhr",
   "market_mood_internal": "risk-off",
   "assets": [
     {
@@ -387,8 +387,8 @@
       ],
       "explanation": {
         "direction": "gefallen",
-        "confidence": "niedrig",
-        "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
+        "confidence": "mittel",
+        "summary": "Plausibler Nachrichtenbezug: Der Kurs ist gefallen und die gefundenen Schlagzeilen enthalten überwiegend belastend wirkende Formulierungen. Die Quellen passen damit zur Richtung, beweisen aber keine Kausalität.",
         "themes": [
           "Zinsen/Fed",
           "Regulierung",
@@ -397,32 +397,32 @@
         "bullets": [
           "Der Kurs ist spürbar gefallen: -0.46 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: Zinsen/Fed, Regulierung, Geopolitik/Sicherheit.",
-          "Wichtigste gefundene Headlines: Enterprise value to EBITDA forward von Ingles Markets, Incorporated – NASDAQ:IMKTA - TradingView | Cboe bringt Prediction Markets in den S&P-500-Handel - Crypto Valley Journal."
+          "Wichtigste gefundene Headlines: IncomeShares Nasdaq 100 Options ETP - e-fundresearch.com | Aeon Acquisition I to Begin Separate Trading of Shares, Warrants and Rights on NASDAQ - TradingView."
         ],
         "headlines": [
           {
-            "title": "Enterprise value to EBITDA forward von Ingles Markets, Incorporated – NASDAQ:IMKTA - TradingView",
-            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOXlHUGNqekxXNDFsd1BEcnlwYmhfcGtVbEkxTHc4TkZNdFpGZ0lHOUlSWnA3Vmh4VVZxVC1vS01Sdnd6aDl5M3VYdVowX3ZLWDlQdlFXTDdYclNrZzlFcklTekxHZDY4WXNuZmhLWkYwUWE1dGJDbUdaVWlsbndVZlhVZVl1YXIwOHdzUFdpLWNUd1NSQ01PZWpyV1RVbEh5d3l4WUtWR055am9mOUE?oc=5",
+            "title": "IncomeShares Nasdaq 100 Options ETP - e-fundresearch.com",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYkl4M0daWkNqZFRtS1h6QVRBWnhLeXZtTl92eEZtSmNGUmR3RDFHbVR2MzBZS28zLTFfbS0yTm1mdEFfVEhLNlNKUmZlYTB0NF9zWkh0Ym1SNnY5a21EZU8xOVBiaURtS0p5bFhiSlE5WGZaRXdQQlVxNmFfTnc1TTVFTDdiMWdVUHkzQ2dael9PWDE2UGJsRDJn?oc=5",
+            "source": "e-fundresearch.com",
+            "published": "28.06., 04:24"
+          },
+          {
+            "title": "Aeon Acquisition I to Begin Separate Trading of Shares, Warrants and Rights on NASDAQ - TradingView",
+            "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQQTV3WkpVMDBMNnFPcUlQbkFaTG9DSTBPSkQwY1pvdDM2SGZsRGY0ektTZGtaRlgydHF5QVQzRzFGczlpSEVvYWItdU9SOG9CNFdKcUpkcmhhbEtNSXZUZ1B4LW5VOUpmUkhMYmQwN1lYX3A4NkxCclN6ejRESHhkbVpPM3RvZ2dDWmZoVFdaUTA5Ymoya3lFa0t3WHBNNkdVczltUUFScElGVjN5VVJCU3BGSWozN2VaM1I2WHE5UHhnRlBMclZmb0ZsakhUNVVndEFyMDlvMGN3a0hvV0E?oc=5",
             "source": "TradingView",
-            "published": "01.07., 07:58"
+            "published": "29.06., 23:03"
           },
           {
-            "title": "Cboe bringt Prediction Markets in den S&P-500-Handel - Crypto Valley Journal",
-            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5pNDdUNllZNzJwdDVTR1AwU0NHRl9MZDh6Wl82YUJfVEttNi1XX0ZXTGJxVFNVRF9ucERZS1djaHg4N0JUdXBEOXl4OVpoaGxtdUl2S3JvQUQ4cGtrMkJqNlRmNXgzRFh0T0NVTWlxcFBySGtNNkJ4R09hMlo?oc=5",
-            "source": "Crypto Valley Journal",
-            "published": "24.06., 12:11"
+            "title": "(3⁺) NASDAQ – Der Index fällt, was bleibt? - stock3",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9mUHJ4THhrY293c0VSc0dEMWtHb2ZuWUtua0p6QmNYeUFtTmlPc0VjU1NpZWc1LUdzYlNDVlFIQ1BQSUtFcHBUX19Fdzc3M09WczQ1Z3RWS2tyNnUtVzFqQnRzRF9HLTZoZzFrRmJkTVJCYXpvTWc?oc=5",
+            "source": "stock3",
+            "published": "05.06., 09:00"
           },
           {
-            "title": "Cboe S&P 500 Buffer Protect Index Series von Cboe Global Markets - Neue Indizes fu?r defensiven Opti - AD HOC NEWS",
+            "title": "Cboe S&P 500 Buffer Protect Index Series von Cboe Global Markets - Neue Indizes fu?r defensiven Opti - Ad-hoc-news.de",
             "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdC1vMW1LaXROekRHY2t0VU50aGZFeWUzNEhWM2JhLTFsQno5dXR2aVdqbmhXcWFyWTdwZTc4NDZiS1gtWVFvQW9sY0xobXJRcXY5TllaNVo1WnlQSTY0STJxU0ZYX0dSX0Yxd2t4eFBKY2lBWTUyY3VubjVRaFFNcWRxN0NsS1pucjJ6aGV3d0p3cGdSX3BDeU1WaDBPOUFRd3dNeXlDdDNfRzUwR0xQbU1SdHd0TllXTk55N2NJVnhhM0I3OHc?oc=5",
-            "source": "AD HOC NEWS",
+            "source": "Ad-hoc-news.de",
             "published": "01.07., 13:04"
-          },
-          {
-            "title": "MSCI World Index: Aktuelle Analysen zum Welt-Index für ETF - Stiftung Warentest",
-            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FYlFrd0VGbjBaX3NteWlDNUgtcjRYTzlmYzNBN2gwNUlFUGM3a0ZTdmc1cFdUREJueGU3Q2c0SUpDRUo0YmtHclNmeWNCdjZqX04tRHJBdHJjb1U?oc=5",
-            "source": "Stiftung Warentest",
-            "published": "19.06., 09:00"
           }
         ]
       }
@@ -1279,16 +1279,16 @@
       "description": "Alphabet Inc. Class A",
       "price_decimals": 2,
       "last_date": "2026-07-02",
-      "last_close": 356.6199951171875,
+      "last_close": 359.9100036621094,
       "previous_close": 361.2099914550781,
-      "change_abs": -4.59,
-      "change_pct": -1.27,
-      "change_5d_pct": 3.76,
-      "change_1m_pct": -1.45,
-      "change_3m_pct": 19.92,
+      "change_abs": -1.3,
+      "change_pct": -0.36,
+      "change_5d_pct": 4.71,
+      "change_1m_pct": -0.54,
+      "change_3m_pct": 21.02,
       "change_1y_pct": null,
-      "ytd_pct": 13.94,
-      "volatility_30d_pct": 32.23,
+      "ytd_pct": 14.99,
+      "volatility_30d_pct": 32.08,
       "sparkline": [
         {
           "date": "2026-02-24",
@@ -1648,7 +1648,7 @@
         },
         {
           "date": "2026-07-02",
-          "close": 356.6199951171875
+          "close": 359.9100036621094
         }
       ],
       "explanation": {
@@ -1660,22 +1660,16 @@
           "Regulierung"
         ],
         "bullets": [
-          "Der Kurs ist deutlich gefallen: -1.27 % gegenüber dem vorherigen Schlusskurs.",
+          "Der Kurs ist spürbar gefallen: -0.36 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: KI/Tech, Regulierung.",
-          "Wichtigste gefundene Headlines: Meta plant eigenen Cloud-Dienst - it-daily | Intesa schließt Migration der zentralen IT-Systeme in die Google-Cloud ab - MarketScreener Deutschland."
+          "Wichtigste gefundene Headlines: Intesa Sanpaolo Aktie: 800 Anwendungen in Google Cloud migriert - Börse Express | Datenzentren: Meta erwägt Einstieg ins Cloud-Geschäft - Handelsblatt."
         ],
         "headlines": [
           {
-            "title": "Meta plant eigenen Cloud-Dienst - it-daily",
-            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9jcHg2VnRIb1h5OTFLUUpMNFRZNWlLWDlvTV9FX3VOZUJJOEs4TU1YNndNQ0Uzc3NxTDN0WE5sTzhCV3plSEVxXzFvNG0wS1ROMHBCYV91X2JPd1l1OEw3SXJiTjVUVDRJanRlYi1RelBuOUxG?oc=5",
-            "source": "it-daily",
-            "published": "02.07., 10:33"
-          },
-          {
-            "title": "Intesa schließt Migration der zentralen IT-Systeme in die Google-Cloud ab - MarketScreener Deutschland",
-            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeFNOZmVVOUxiZi1UWHEtN09HRk9uRUxFOFlwd2xLT0hINVZETV94VTdjM0lfVi0xcFRvWFVuX1RMM0xjMmtzWWxINE5VdUZjS3NxN2RfUFdoeDRZcW91cUFFY0R6WjltalZRUV8yNmNqdWtfN1REejdudEtjZkVVc1laRk4xYUNmcW02LXoxMWFIN3R5SWFuYVNKM0g0bmc1Z2dWVk1yZkxrLUlQMGVHVVdhQ2YyWVZvdkZtQzFXUnQ0YkVjUVFLMGhXQmpfU1p0QXdXNXJzZw?oc=5",
-            "source": "MarketScreener Deutschland",
-            "published": "02.07., 11:07"
+            "title": "Intesa Sanpaolo Aktie: 800 Anwendungen in Google Cloud migriert - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORjRmRmI4enNpTklEblVlUzA4VXQ0bW1FbWpPcENPQmJXbU52N251UkNwNFBmX1JwZnVvWmYtZHlZODFTZmFuU2h0T0tVRllDeFVQOVRqMlhLSkVMME82ZmxzME5hcXg2UUN5NzdEZjdLSl9HUWlOeUY4MGtmODRPQURlWGlqR3dpVFhzcEpHcnVUb0lMT19JMlIyNDZad1Zod0QzMUlZTHlBZ3dlMklja0E3V2c?oc=5",
+            "source": "Börse Express",
+            "published": "02.07., 21:04"
           },
           {
             "title": "Datenzentren: Meta erwägt Einstieg ins Cloud-Geschäft - Handelsblatt",
@@ -1684,10 +1678,16 @@
             "published": "01.07., 16:04"
           },
           {
-            "title": "Von Mac-Integration bis MCP Connection: 5 Updates für Googles 24/7 AI Agent Gemini Spark - OnlineMarketing.de",
-            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUlVKSU1VMHNiYkYtb1ZwSmx3R1ppUXllU0VhUVlTWUYyci1SaVFFcTJEdmh5bW1tSXZUMElqUk9ReXhqVURtMk0yUUt5N1RDMFY4UFlDcEZpVnBLT1NpamJ2cDdSS01EOXIyRWN2Y2VsRGhDejRjVUxNY0QzWmNkcUtPMThuLUV1emc?oc=5",
-            "source": "OnlineMarketing.de",
-            "published": "02.07., 11:05"
+            "title": "Meta plant eigenen Cloud-Dienst - it-daily",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9jcHg2VnRIb1h5OTFLUUpMNFRZNWlLWDlvTV9FX3VOZUJJOEs4TU1YNndNQ0Uzc3NxTDN0WE5sTzhCV3plSEVxXzFvNG0wS1ROMHBCYV91X2JPd1l1OEw3SXJiTjVUVDRJanRlYi1RelBuOUxG?oc=5",
+            "source": "it-daily",
+            "published": "02.07., 10:33"
+          },
+          {
+            "title": "Google Education AI bekommt neues Update: Verbesserte Lehrertools und erweiterte Lernfunktionen für Schüler - 36Kr",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5IYWUwN1ZoUXMtUWRtRXhOVDRMSE1kRnhEVnFzNHVYQkYxSDhGcWd1c1hFZmhKQk1XcTFRb1B5TkVkWHlBd0cwakw5Y3JSNmNsUUpj?oc=5",
+            "source": "36Kr",
+            "published": "02.07., 16:48"
           }
         ]
       }
@@ -1699,22 +1699,18 @@
       "currency": "USD/oz",
       "description": "Goldpreis, primär über Gold-Future, fallback XAU/USD",
       "price_decimals": 2,
-      "last_date": "2026-07-02",
-      "last_close": 4124.7998046875,
-      "previous_close": 4068.300048828125,
-      "change_abs": 56.5,
-      "change_pct": 1.39,
-      "change_5d_pct": 2.34,
-      "change_1m_pct": -8.12,
-      "change_3m_pct": -13.76,
-      "change_1y_pct": 23.2,
-      "ytd_pct": -4.64,
-      "volatility_30d_pct": 26.73,
+      "last_date": "2026-07-03",
+      "last_close": 4190.7001953125,
+      "previous_close": 4112.7001953125,
+      "change_abs": 78.0,
+      "change_pct": 1.9,
+      "change_5d_pct": 2.75,
+      "change_1m_pct": -5.54,
+      "change_3m_pct": -9.91,
+      "change_1y_pct": 25.79,
+      "ytd_pct": -3.12,
+      "volatility_30d_pct": 27.23,
       "sparkline": [
-        {
-          "date": "2026-02-24",
-          "close": 5155.7998046875
-        },
         {
           "date": "2026-02-25",
           "close": 5206.39990234375
@@ -2069,22 +2065,26 @@
         },
         {
           "date": "2026-07-02",
-          "close": 4124.7998046875
+          "close": 4112.7001953125
+        },
+        {
+          "date": "2026-07-03",
+          "close": 4190.7001953125
         }
       ],
       "explanation": {
         "direction": "gestiegen",
-        "confidence": "niedrig",
-        "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
+        "confidence": "mittel",
+        "summary": "Plausibler Nachrichtenbezug: Der Kurs ist gestiegen und die gefundenen Schlagzeilen enthalten überwiegend positiv wirkende Formulierungen. Die Quellen passen damit zur Richtung, beweisen aber keine Kausalität.",
         "themes": [
           "US-Dollar",
           "Regulierung",
           "Geopolitik/Sicherheit"
         ],
         "bullets": [
-          "Der Kurs ist deutlich gestiegen: +1.39 % gegenüber dem vorherigen Schlusskurs.",
+          "Der Kurs ist deutlich gestiegen: +1.90 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: US-Dollar, Regulierung, Geopolitik/Sicherheit.",
-          "Wichtigste gefundene Headlines: Gold: 2,45 Prozent Plus auf 4.143,20 Dollar - Börse Express | World Gold Council sieht Chance auf Ausbruch über 4.500 US-Dollar - Wallstreet Online."
+          "Wichtigste gefundene Headlines: Gold: 2,45 Prozent Plus auf 4.143,20 Dollar - Börse Express | Schwache US-Jobdaten treiben Goldpreis zurück über 4.100 Dollar - Wallstreet Online."
         ],
         "headlines": [
           {
@@ -2094,22 +2094,22 @@
             "published": "02.07., 18:15"
           },
           {
-            "title": "World Gold Council sieht Chance auf Ausbruch über 4.500 US-Dollar - Wallstreet Online",
-            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWTVDcE12LXhBeUY2UGVsdnAtRDdidDFJRGNQNUczc1Jaa2pXNWlzZGRxeW82SzdpOHh0cmZMd1FUa1VLa09mQ0hjQk5LQ050WjFJdWlNeXRLUWUyN1RLVTRRb295TmhBM3BxZXJuUHktZG5vaHppb2Y4ZE1UQWFqNUhDdVZfQzFPejdlb0pYMTRtUTdRWFNKeDdJSEFwRV9XdHpUVGJnUmVzRU1tdTU1c1FrWUw3OFZTamc5TA?oc=5",
+            "title": "Schwache US-Jobdaten treiben Goldpreis zurück über 4.100 Dollar - Wallstreet Online",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRGlZclE0YnFGdkVDXzMxcEFQN0ZwSXM3cUZiUXdOUGIwZkFZTUlFenllQkI0TkxLazFZaU1oWHJmTk9SclFFTlBUYV9XcDlpVlVKZ0lsY0IzVEJibnRIQjZvQU92YTFFc1dJUk51dXpXbEpNSHowWmNvM0tpTV94MndOeG1PcUZEcWUzNnhMQ09ZRndnRl96RFZ0V2RjZFR3ekgzYjRxUVQ4dXlvaF9Hby05eHdQSFA5RDhvQzFR?oc=5",
             "source": "Wallstreet Online",
-            "published": "02.07., 08:23"
+            "published": "03.07., 08:20"
+          },
+          {
+            "title": "Goldpreis steigt: Gold wird teurer wegen Zinserwartung - Manager Magazin",
+            "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQYU1GS2FENUdDaVp2U0VDRTBGSW5NVlRseGJaUXRfd0tlR1BTUkZGTzE4c2hJbnRDVVRaZkQwWmh3ekVzR3drd3BZU1FndW5jMVF3S0V0SGd5QnloWmNWV0plNER6Z3V1VTdISGdTblFBT0JIMzJVQkZqNHo0LWxTdkNSSGt0Q0hTVkpId2ItUXdqYVAzT25Gc0FJdkxfMDhvOVNya2dORGlXTUJxSGVQS0stOEduSEVTRUFYMUpqZWNXNlFUNkY4OWpMbmE1NWtOTmp4ZEY5VjlPa2s?oc=5",
+            "source": "Manager Magazin",
+            "published": "02.07., 20:20"
           },
           {
             "title": "Tief seit November - Gold unter 4000-Dollar-Marke: Warum es bergab geht - Kronen Zeitung",
             "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE4yclpmcG91MTg2S1M3MTF3NDdQc2pqMzF2Um9xdklYYTVWNTV5eEViVTZOb3hITWpubVVXNUlnSUVpZw?oc=5",
             "source": "Kronen Zeitung",
             "published": "01.07., 13:15"
-          },
-          {
-            "title": "Goldpreis: Atempause nach deutlichem Überwinden der 4.000-Dollar-Marke - Finanzen.net",
-            "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQcFFHX1JyOXF1SmZkb3pKOTNUNzZSZTdKRTJobXRMb2ppYmc2ZkpCMllhdmE2WERlNjNBYjVqMVFmaWRUNmg5Q0hQWjJ4TzBTdm9OUVVrQU1HUUsxWmJrVmhMSUxRWGpHalV5anVRWlhLUGRtS0tUOEFJdC1pbVJLLUI5a0dGbG1MSlViWTR0M0owaXNNRlVFZWd1bDBZWGJFMFlRUHJvbzhEQklQcXFnd0phZDB5MW1DdG9CZGF1WjRYNFNHM1oteV92V0JSRzZzc25RbHVuTXlnRTA2cXM5NdIBywFBVV95cUxOcDR5M3Y0OEw2aHhHOEJhcEVpQkRoYU40bC16anh3VDJLTUNFNHVTUTlBVXJxYXdqTVhEY0xUQTVzNTVrbUFjYXk2aGhaN2pHa2NvUVRRV0ZIUC16Q2lhMjJsazNLcE1IbnQ5aGxpODJ5Tj…",
-            "source": "Finanzen.net",
-            "published": "02.07., 08:10"
           }
         ]
       }
