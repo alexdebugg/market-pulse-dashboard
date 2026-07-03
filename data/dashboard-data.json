@@ -1,9 +1,9 @@
 {
   "is_sample": false,
   "source": "Yahoo Finance Kursdaten + Google News RSS Kontext",
-  "generated_at_utc": "2026-07-03T07:18:42+00:00",
-  "generated_at_vienna": "03.07.2026, 09:18 Uhr",
-  "market_mood_internal": "risk-off",
+  "generated_at_utc": "2026-07-03T17:23:25+00:00",
+  "generated_at_vienna": "03.07.2026, 19:23 Uhr",
+  "market_mood_internal": "risk-on",
   "assets": [
     {
       "name": "MSCI World",
@@ -12,22 +12,18 @@
       "currency": "EUR",
       "description": "iShares Core MSCI World UCITS ETF als handelbarer Developed-Markets-Proxy",
       "price_decimals": 2,
-      "last_date": "2026-07-02",
-      "last_close": 125.30000305175781,
-      "previous_close": 125.87999725341797,
-      "change_abs": -0.58,
-      "change_pct": -0.46,
-      "change_5d_pct": 0.97,
-      "change_1m_pct": 1.14,
-      "change_3m_pct": 13.54,
+      "last_date": "2026-07-03",
+      "last_close": 125.76000213623047,
+      "previous_close": 125.30000305175781,
+      "change_abs": 0.46,
+      "change_pct": 0.37,
+      "change_5d_pct": 1.62,
+      "change_1m_pct": 1.49,
+      "change_3m_pct": 13.93,
       "change_1y_pct": null,
-      "ytd_pct": 12.1,
-      "volatility_30d_pct": 10.06,
+      "ytd_pct": 12.51,
+      "volatility_30d_pct": 9.65,
       "sparkline": [
-        {
-          "date": "2026-02-23",
-          "close": 112.92500305175781
-        },
         {
           "date": "2026-02-24",
           "close": 113.42500305175781
@@ -383,21 +379,25 @@
         {
           "date": "2026-07-02",
           "close": 125.30000305175781
+        },
+        {
+          "date": "2026-07-03",
+          "close": 125.76000213623047
         }
       ],
       "explanation": {
-        "direction": "gefallen",
-        "confidence": "mittel",
-        "summary": "Plausibler Nachrichtenbezug: Der Kurs ist gefallen und die gefundenen Schlagzeilen enthalten überwiegend belastend wirkende Formulierungen. Die Quellen passen damit zur Richtung, beweisen aber keine Kausalität.",
+        "direction": "gestiegen",
+        "confidence": "niedrig",
+        "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
           "Zinsen/Fed",
           "Regulierung",
           "Geopolitik/Sicherheit"
         ],
         "bullets": [
-          "Der Kurs ist spürbar gefallen: -0.46 % gegenüber dem vorherigen Schlusskurs.",
+          "Der Kurs ist spürbar gestiegen: +0.37 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: Zinsen/Fed, Regulierung, Geopolitik/Sicherheit.",
-          "Wichtigste gefundene Headlines: IncomeShares Nasdaq 100 Options ETP - e-fundresearch.com | Aeon Acquisition I to Begin Separate Trading of Shares, Warrants and Rights on NASDAQ - TradingView."
+          "Wichtigste gefundene Headlines: IncomeShares Nasdaq 100 Options ETP - e-fundresearch.com | Enterprise value to EBITDA forward von Ingles Markets, Incorporated – NASDAQ:IMKTA - TradingView."
         ],
         "headlines": [
           {
@@ -407,10 +407,10 @@
             "published": "28.06., 04:24"
           },
           {
-            "title": "Aeon Acquisition I to Begin Separate Trading of Shares, Warrants and Rights on NASDAQ - TradingView",
-            "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQQTV3WkpVMDBMNnFPcUlQbkFaTG9DSTBPSkQwY1pvdDM2SGZsRGY0ektTZGtaRlgydHF5QVQzRzFGczlpSEVvYWItdU9SOG9CNFdKcUpkcmhhbEtNSXZUZ1B4LW5VOUpmUkhMYmQwN1lYX3A4NkxCclN6ejRESHhkbVpPM3RvZ2dDWmZoVFdaUTA5Ymoya3lFa0t3WHBNNkdVczltUUFScElGVjN5VVJCU3BGSWozN2VaM1I2WHE5UHhnRlBMclZmb0ZsakhUNVVndEFyMDlvMGN3a0hvV0E?oc=5",
+            "title": "Enterprise value to EBITDA forward von Ingles Markets, Incorporated – NASDAQ:IMKTA - TradingView",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOXlHUGNqekxXNDFsd1BEcnlwYmhfcGtVbEkxTHc4TkZNdFpGZ0lHOUlSWnA3Vmh4VVZxVC1vS01Sdnd6aDl5M3VYdVowX3ZLWDlQdlFXTDdYclNrZzlFcklTekxHZDY4WXNuZmhLWkYwUWE1dGJDbUdaVWlsbndVZlhVZVl1YXIwOHdzUFdpLWNUd1NSQ01PZWpyV1RVbEh5d3l4WUtWR055am9mOUE?oc=5",
             "source": "TradingView",
-            "published": "29.06., 23:03"
+            "published": "01.07., 07:58"
           },
           {
             "title": "(3⁺) NASDAQ – Der Index fällt, was bleibt? - stock3",
@@ -434,22 +434,18 @@
       "currency": "EUR",
       "description": "iShares Core MSCI EM IMI UCITS ETF als Emerging-Markets-Proxy",
       "price_decimals": 2,
-      "last_date": "2026-07-02",
-      "last_close": 47.382999420166016,
-      "previous_close": 48.237998962402344,
-      "change_abs": -0.85,
-      "change_pct": -1.77,
-      "change_5d_pct": -2.77,
-      "change_1m_pct": -3.22,
-      "change_3m_pct": 16.59,
+      "last_date": "2026-07-03",
+      "last_close": 48.380001068115234,
+      "previous_close": 47.382999420166016,
+      "change_abs": 1.0,
+      "change_pct": 2.1,
+      "change_5d_pct": 0.45,
+      "change_1m_pct": 0.27,
+      "change_3m_pct": 20.67,
       "change_1y_pct": null,
-      "ytd_pct": 23.56,
-      "volatility_30d_pct": 26.92,
+      "ytd_pct": 26.16,
+      "volatility_30d_pct": 27.31,
       "sparkline": [
-        {
-          "date": "2026-02-23",
-          "close": 43.0
-        },
         {
           "date": "2026-02-24",
           "close": 43.6609992980957
@@ -805,12 +801,16 @@
         {
           "date": "2026-07-02",
           "close": 47.382999420166016
+        },
+        {
+          "date": "2026-07-03",
+          "close": 48.380001068115234
         }
       ],
       "explanation": {
-        "direction": "gefallen",
-        "confidence": "niedrig",
-        "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
+        "direction": "gestiegen",
+        "confidence": "mittel",
+        "summary": "Plausibler Nachrichtenbezug: Der Kurs ist gestiegen und die gefundenen Schlagzeilen enthalten überwiegend positiv wirkende Formulierungen. Die Quellen passen damit zur Richtung, beweisen aber keine Kausalität.",
         "themes": [
           "US-Dollar",
           "China/EM",
@@ -818,7 +818,7 @@
           "Gewinne/Analysten"
         ],
         "bullets": [
-          "Der Kurs ist deutlich gefallen: -1.77 % gegenüber dem vorherigen Schlusskurs.",
+          "Der Kurs ist deutlich gestiegen: +2.10 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: US-Dollar, China/EM, Geopolitik/Sicherheit, Gewinne/Analysten.",
           "Wichtigste gefundene Headlines: Schwacher US-Dollar und hohe Defizite: Rückenwind für Emerging Markets? - e-fundresearch.com | EM-Anleihen: Diese rohstoffreichen Schwellenländer profitieren - das investment."
         ],
@@ -857,22 +857,18 @@
       "currency": "EUR",
       "description": "iShares MSCI World Small Cap UCITS ETF als Small-Cap-Proxy",
       "price_decimals": 3,
-      "last_date": "2026-07-02",
-      "last_close": 9.178000450134277,
-      "previous_close": 9.291999816894531,
-      "change_abs": -0.114,
-      "change_pct": -1.23,
-      "change_5d_pct": -0.2,
-      "change_1m_pct": 3.26,
-      "change_3m_pct": 13.27,
+      "last_date": "2026-07-03",
+      "last_close": 9.222000122070312,
+      "previous_close": 9.178000450134277,
+      "change_abs": 0.044,
+      "change_pct": 0.48,
+      "change_5d_pct": 0.44,
+      "change_1m_pct": 3.24,
+      "change_3m_pct": 14.05,
       "change_1y_pct": null,
-      "ytd_pct": 17.97,
-      "volatility_30d_pct": 12.14,
+      "ytd_pct": 18.53,
+      "volatility_30d_pct": 11.8,
       "sparkline": [
-        {
-          "date": "2026-02-23",
-          "close": 8.305999755859375
-        },
         {
           "date": "2026-02-24",
           "close": 8.369000434875488
@@ -1228,10 +1224,14 @@
         {
           "date": "2026-07-02",
           "close": 9.178000450134277
+        },
+        {
+          "date": "2026-07-03",
+          "close": 9.222000122070312
         }
       ],
       "explanation": {
-        "direction": "gefallen",
+        "direction": "gestiegen",
         "confidence": "niedrig",
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
@@ -1239,7 +1239,7 @@
           "China/EM"
         ],
         "bullets": [
-          "Der Kurs ist deutlich gefallen: -1.23 % gegenüber dem vorherigen Schlusskurs.",
+          "Der Kurs ist spürbar gestiegen: +0.48 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: Regulierung, China/EM.",
           "Wichtigste gefundene Headlines: McEwen added to Russell 2000® Index following June 2026 reconstitution - TradingView | Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraETF."
         ],
@@ -1656,13 +1656,12 @@
         "confidence": "niedrig",
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
-          "KI/Tech",
-          "Regulierung"
+          "KI/Tech"
         ],
         "bullets": [
           "Der Kurs ist spürbar gefallen: -0.36 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: KI/Tech, Regulierung.",
-          "Wichtigste gefundene Headlines: Intesa Sanpaolo Aktie: 800 Anwendungen in Google Cloud migriert - Börse Express | Datenzentren: Meta erwägt Einstieg ins Cloud-Geschäft - Handelsblatt."
+          "Gefundene Nachrichten-Themen: KI/Tech.",
+          "Wichtigste gefundene Headlines: Intesa Sanpaolo Aktie: 800 Anwendungen in Google Cloud migriert - Börse Express | Test von KI im Auto: Gemini soll Umgebung und Verkehrsschilder erklären - heise online."
         ],
         "headlines": [
           {
@@ -1672,22 +1671,22 @@
             "published": "02.07., 21:04"
           },
           {
+            "title": "Test von KI im Auto: Gemini soll Umgebung und Verkehrsschilder erklären - heise online",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZlp0LW9QdmVuYjdpR1lrSm84dTlJZVJtYlljRHZpbjBnb0N1bFlxdnJCRDI1VWJ6N1NFbkxMZG45RktEeVhTdzRHcWYwMm5Ua0t3Tjh5bk9PcTRVQjVBRjlKb0pObHZ0VHhYQnJ6S1g5TnBrS19ILWhON1VKT29sY3lBVmF6NUZFTGhKekJ4SEtNdXJzTGNOekZHMC1sV3lqdDR2OQ?oc=5",
+            "source": "heise online",
+            "published": "03.07., 12:56"
+          },
+          {
             "title": "Datenzentren: Meta erwägt Einstieg ins Cloud-Geschäft - Handelsblatt",
             "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNkVsaV9Kdi1OZm9sSkNQcDJFcmZkNlFrV1BNYjdEN3hXYkVyaXVkdE9hQ0daRm9rb1VXZlNIZGxQZFJ2emY3TnNIelA0VHFJZ013U1ViNlNHMHNKaWJGcGJ1ZmhqRi1OQUxUOFVRQVFybFJNakhGazVCNW56Tng0RXZBSkpqRXlTQno3dk5QcFNBREdQd0dFakhUbkFLemF5LXBka2trSnlSeGVkUjJGVXdncUVqSVZLVFE?oc=5",
             "source": "Handelsblatt",
             "published": "01.07., 16:04"
           },
           {
-            "title": "Meta plant eigenen Cloud-Dienst - it-daily",
-            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9jcHg2VnRIb1h5OTFLUUpMNFRZNWlLWDlvTV9FX3VOZUJJOEs4TU1YNndNQ0Uzc3NxTDN0WE5sTzhCV3plSEVxXzFvNG0wS1ROMHBCYV91X2JPd1l1OEw3SXJiTjVUVDRJanRlYi1RelBuOUxG?oc=5",
-            "source": "it-daily",
-            "published": "02.07., 10:33"
-          },
-          {
-            "title": "Google Education AI bekommt neues Update: Verbesserte Lehrertools und erweiterte Lernfunktionen für Schüler - 36Kr",
-            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5IYWUwN1ZoUXMtUWRtRXhOVDRMSE1kRnhEVnFzNHVYQkYxSDhGcWd1c1hFZmhKQk1XcTFRb1B5TkVkWHlBd0cwakw5Y3JSNmNsUUpj?oc=5",
-            "source": "36Kr",
-            "published": "02.07., 16:48"
+            "title": "Alphabet A bleibt im Fokus der Anleger. Der Konzern steht für Suche, Werbung und Cloud. - Ad-hoc-news.de",
+            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVWYyNkRjdjZxYThDdk5Rby1ZNWZ5dC1zSmtpLWp4UE1JYWlrVDdnR1k3bXFQMGxNYTFzT3ZpQkhrQmFaV1RrTnF2U21wcVM4SkdwaHgyUzJoYlF3SXhib0ZDZ0tsUl9NdFhNT1NGeG40RU9NYi1LcnFPNUZjQ3ZpR1N2Q3l5UTh6blZ5U1JlUFZzeXNHaDJEOXRoaDluSGRRejZuWXY4ck5HNVZkMFVyTVc0VUhiU25RNkplejZnVng2WXJV?oc=5",
+            "source": "Ad-hoc-news.de",
+            "published": "03.07., 13:07"
           }
         ]
       }
@@ -1700,16 +1699,16 @@
       "description": "Goldpreis, primär über Gold-Future, fallback XAU/USD",
       "price_decimals": 2,
       "last_date": "2026-07-03",
-      "last_close": 4190.7001953125,
+      "last_close": 4187.2998046875,
       "previous_close": 4112.7001953125,
-      "change_abs": 78.0,
-      "change_pct": 1.9,
-      "change_5d_pct": 2.75,
-      "change_1m_pct": -5.54,
-      "change_3m_pct": -9.91,
-      "change_1y_pct": 25.79,
-      "ytd_pct": -3.12,
-      "volatility_30d_pct": 27.23,
+      "change_abs": 74.6,
+      "change_pct": 1.81,
+      "change_5d_pct": 2.66,
+      "change_1m_pct": -5.62,
+      "change_3m_pct": -9.98,
+      "change_1y_pct": 25.68,
+      "ytd_pct": -3.2,
+      "volatility_30d_pct": 27.18,
       "sparkline": [
         {
           "date": "2026-02-25",
@@ -2069,7 +2068,7 @@
         },
         {
           "date": "2026-07-03",
-          "close": 4190.7001953125
+          "close": 4187.2998046875
         }
       ],
       "explanation": {
@@ -2082,34 +2081,34 @@
           "Geopolitik/Sicherheit"
         ],
         "bullets": [
-          "Der Kurs ist deutlich gestiegen: +1.90 % gegenüber dem vorherigen Schlusskurs.",
+          "Der Kurs ist deutlich gestiegen: +1.81 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: US-Dollar, Regulierung, Geopolitik/Sicherheit.",
-          "Wichtigste gefundene Headlines: Gold: 2,45 Prozent Plus auf 4.143,20 Dollar - Börse Express | Schwache US-Jobdaten treiben Goldpreis zurück über 4.100 Dollar - Wallstreet Online."
+          "Wichtigste gefundene Headlines: Gold: Goldman senkt Ziel auf 4.900 Dollar - Börse Express | Edelmetalle: Crash bei Gold – wie sich die Alternativen schlagen - Handelsblatt."
         ],
         "headlines": [
           {
-            "title": "Gold: 2,45 Prozent Plus auf 4.143,20 Dollar - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaFBwb0ItTFdIcVJWazZCR3NYUktkR1dkRVAzdDZYV2luVXVLYm9XODVFZGlVeVdTR2gwaDFnckZCRnJEbVBlNDBZTDdMeDZHVFZBNmhjWGpTZ2o5RG1VV1VvNE9TUFVnSmtsN0hnTkN0WjRwVUJZOFo2TzRRN3NFQXhwU09vZXlsbnN3MjYwZDFwVDBtcGc?oc=5",
+            "title": "Gold: Goldman senkt Ziel auf 4.900 Dollar - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWmZuUVZVcVljTW1paXhHeUxpRS1CZ0hQUE80M29mVkVjY05oM0RKMFdTU0N4aTU3cnh6cWQ1Y0U3SjlPbXlpYktwWDJTREdVVnhHRGUtZF9pSFNlMlltY0VHWTVvd1JRQ2tFRjJmUjYyZkFBQXVkVVFOVUpCRlBkRkRNYkRWdzUteExhS1U0NmdqVFNHTFE?oc=5",
             "source": "Börse Express",
-            "published": "02.07., 18:15"
+            "published": "03.07., 17:16"
           },
           {
-            "title": "Schwache US-Jobdaten treiben Goldpreis zurück über 4.100 Dollar - Wallstreet Online",
-            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRGlZclE0YnFGdkVDXzMxcEFQN0ZwSXM3cUZiUXdOUGIwZkFZTUlFenllQkI0TkxLazFZaU1oWHJmTk9SclFFTlBUYV9XcDlpVlVKZ0lsY0IzVEJibnRIQjZvQU92YTFFc1dJUk51dXpXbEpNSHowWmNvM0tpTV94MndOeG1PcUZEcWUzNnhMQ09ZRndnRl96RFZ0V2RjZFR3ekgzYjRxUVQ4dXlvaF9Hby05eHdQSFA5RDhvQzFR?oc=5",
-            "source": "Wallstreet Online",
-            "published": "03.07., 08:20"
+            "title": "Edelmetalle: Crash bei Gold – wie sich die Alternativen schlagen - Handelsblatt",
+            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbklOSGUyNjdmMjFEQ2pWLUFNblZqQ2ltdWRuS0tBRGpsd1FMZ2FHNW52QUZ1OFB5WWszQ3NSTnhMYmNkUXdmRUFkV3RuUi1OTWlzQU1CNXlWRV9ueG03MGJtWTVMTW5JQU5HSG9Wa1M5TTEwdEotTEFTeWNpbkJMb3RGb3FpLXM0cU5CZ2ZkUldSeC0zUTE5NXg5THBFNnRzWVdtTlFmR0kwaG9rcUNhNWVrR2xWVXJYQnhQTVhHbmVTQjNINE9RUUY1WnlPYUJxcEVIbDVobw?oc=5",
+            "source": "Handelsblatt",
+            "published": "03.07., 13:41"
           },
           {
             "title": "Goldpreis steigt: Gold wird teurer wegen Zinserwartung - Manager Magazin",
             "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQYU1GS2FENUdDaVp2U0VDRTBGSW5NVlRseGJaUXRfd0tlR1BTUkZGTzE4c2hJbnRDVVRaZkQwWmh3ekVzR3drd3BZU1FndW5jMVF3S0V0SGd5QnloWmNWV0plNER6Z3V1VTdISGdTblFBT0JIMzJVQkZqNHo0LWxTdkNSSGt0Q0hTVkpId2ItUXdqYVAzT25Gc0FJdkxfMDhvOVNya2dORGlXTUJxSGVQS0stOEduSEVTRUFYMUpqZWNXNlFUNkY4OWpMbmE1NWtOTmp4ZEY5VjlPa2s?oc=5",
             "source": "Manager Magazin",
-            "published": "02.07., 20:20"
+            "published": "03.07., 16:26"
           },
           {
-            "title": "Tief seit November - Gold unter 4000-Dollar-Marke: Warum es bergab geht - Kronen Zeitung",
-            "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE4yclpmcG91MTg2S1M3MTF3NDdQc2pqMzF2Um9xdklYYTVWNTV5eEViVTZOb3hITWpubVVXNUlnSUVpZw?oc=5",
-            "source": "Kronen Zeitung",
-            "published": "01.07., 13:15"
+            "title": "Schwache US-Jobdaten treiben Goldpreis zurück über 4.100 Dollar - Wallstreet Online",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRGlZclE0YnFGdkVDXzMxcEFQN0ZwSXM3cUZiUXdOUGIwZkFZTUlFenllQkI0TkxLazFZaU1oWHJmTk9SclFFTlBUYV9XcDlpVlVKZ0lsY0IzVEJibnRIQjZvQU92YTFFc1dJUk51dXpXbEpNSHowWmNvM0tpTV94MndOeG1PcUZEcWUzNnhMQ09ZRndnRl96RFZ0V2RjZFR3ekgzYjRxUVQ4dXlvaF9Hby05eHdQSFA5RDhvQzFR?oc=5",
+            "source": "Wallstreet Online",
+            "published": "03.07., 08:21"
           }
         ]
       }
