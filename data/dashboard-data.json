@@ -1,8 +1,8 @@
 {
   "is_sample": false,
   "source": "Yahoo Finance Kursdaten + Google News RSS Kontext",
-  "generated_at_utc": "2026-07-03T17:23:25+00:00",
-  "generated_at_vienna": "03.07.2026, 19:23 Uhr",
+  "generated_at_utc": "2026-07-04T06:45:30+00:00",
+  "generated_at_vienna": "04.07.2026, 08:45 Uhr",
   "market_mood_internal": "risk-on",
   "assets": [
     {
@@ -387,8 +387,8 @@
       ],
       "explanation": {
         "direction": "gestiegen",
-        "confidence": "niedrig",
-        "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
+        "confidence": "mittel",
+        "summary": "Plausibler Nachrichtenbezug: Der Kurs ist gestiegen und die gefundenen Schlagzeilen enthalten überwiegend positiv wirkende Formulierungen. Die Quellen passen damit zur Richtung, beweisen aber keine Kausalität.",
         "themes": [
           "Zinsen/Fed",
           "Regulierung",
@@ -397,9 +397,15 @@
         "bullets": [
           "Der Kurs ist spürbar gestiegen: +0.37 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: Zinsen/Fed, Regulierung, Geopolitik/Sicherheit.",
-          "Wichtigste gefundene Headlines: IncomeShares Nasdaq 100 Options ETP - e-fundresearch.com | Enterprise value to EBITDA forward von Ingles Markets, Incorporated – NASDAQ:IMKTA - TradingView."
+          "Wichtigste gefundene Headlines: IncomeShares Nasdaq 100 Options ETP | XS2875105608 | A4A50Q - extraETF | IncomeShares Nasdaq 100 Options ETP - e-fundresearch.com."
         ],
         "headlines": [
+          {
+            "title": "IncomeShares Nasdaq 100 Options ETP | XS2875105608 | A4A50Q - extraETF",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9pOXp6WnVQUmdKMWRkY1JPdlZxbHU3UnVkclh1OTctTGxtMmliSUV1NUFPUV9RODRsY2tQUTBUOHViZG5uS2hOTVh1MUNnMGFwTllGRGJtMHdBNExs?oc=5",
+            "source": "extraETF",
+            "published": "01.07., 09:00"
+          },
           {
             "title": "IncomeShares Nasdaq 100 Options ETP - e-fundresearch.com",
             "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYkl4M0daWkNqZFRtS1h6QVRBWnhLeXZtTl92eEZtSmNGUmR3RDFHbVR2MzBZS28zLTFfbS0yTm1mdEFfVEhLNlNKUmZlYTB0NF9zWkh0Ym1SNnY5a21EZU8xOVBiaURtS0p5bFhiSlE5WGZaRXdQQlVxNmFfTnc1TTVFTDdiMWdVUHkzQ2dael9PWDE2UGJsRDJn?oc=5",
@@ -411,12 +417,6 @@
             "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOXlHUGNqekxXNDFsd1BEcnlwYmhfcGtVbEkxTHc4TkZNdFpGZ0lHOUlSWnA3Vmh4VVZxVC1vS01Sdnd6aDl5M3VYdVowX3ZLWDlQdlFXTDdYclNrZzlFcklTekxHZDY4WXNuZmhLWkYwUWE1dGJDbUdaVWlsbndVZlhVZVl1YXIwOHdzUFdpLWNUd1NSQ01PZWpyV1RVbEh5d3l4WUtWR055am9mOUE?oc=5",
             "source": "TradingView",
             "published": "01.07., 07:58"
-          },
-          {
-            "title": "(3⁺) NASDAQ – Der Index fällt, was bleibt? - stock3",
-            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9mUHJ4THhrY293c0VSc0dEMWtHb2ZuWUtua0p6QmNYeUFtTmlPc0VjU1NpZWc1LUdzYlNDVlFIQ1BQSUtFcHBUX19Fdzc3M09WczQ1Z3RWS2tyNnUtVzFqQnRzRF9HLTZoZzFrRmJkTVJCYXpvTWc?oc=5",
-            "source": "stock3",
-            "published": "05.06., 09:00"
           },
           {
             "title": "Cboe S&P 500 Buffer Protect Index Series von Cboe Global Markets - Neue Indizes fu?r defensiven Opti - Ad-hoc-news.de",
@@ -1656,12 +1656,13 @@
         "confidence": "niedrig",
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
-          "KI/Tech"
+          "KI/Tech",
+          "Regulierung"
         ],
         "bullets": [
           "Der Kurs ist spürbar gefallen: -0.36 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: KI/Tech.",
-          "Wichtigste gefundene Headlines: Intesa Sanpaolo Aktie: 800 Anwendungen in Google Cloud migriert - Börse Express | Test von KI im Auto: Gemini soll Umgebung und Verkehrsschilder erklären - heise online."
+          "Gefundene Nachrichten-Themen: KI/Tech, Regulierung.",
+          "Wichtigste gefundene Headlines: Intesa Sanpaolo Aktie: 800 Anwendungen in Google Cloud migriert - Börse Express | Project Aion: Video leak shows Microsoft's AI-tailored Windows concept - heise online."
         ],
         "headlines": [
           {
@@ -1671,10 +1672,10 @@
             "published": "02.07., 21:04"
           },
           {
-            "title": "Test von KI im Auto: Gemini soll Umgebung und Verkehrsschilder erklären - heise online",
-            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZlp0LW9QdmVuYjdpR1lrSm84dTlJZVJtYlljRHZpbjBnb0N1bFlxdnJCRDI1VWJ6N1NFbkxMZG45RktEeVhTdzRHcWYwMm5Ua0t3Tjh5bk9PcTRVQjVBRjlKb0pObHZ0VHhYQnJ6S1g5TnBrS19ILWhON1VKT29sY3lBVmF6NUZFTGhKekJ4SEtNdXJzTGNOekZHMC1sV3lqdDR2OQ?oc=5",
+            "title": "Project Aion: Video leak shows Microsoft's AI-tailored Windows concept - heise online",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWUJQMmNOd2NhUC00RDVkYk5jZ3VCRUNmcjNJR3Y5eE41b2JoWHRuWTYwX0M3TlVReFZQcVN6U0ttOV9ULS1FQmNBR2pUUFZnTHQ2SU9xcE1Cd3BKMWgyclluUGg1ZjJtWlZ6WHVEaWFJbUdrbkRxRzBGaVlfNEV3YUdONEVpT1lsVUk3R0dDNGhFRUZpZjREZl9kak1aTWFZckYtTDlybjBDNHVuZ0dOQjBR?oc=5",
             "source": "heise online",
-            "published": "03.07., 12:56"
+            "published": "04.07., 00:30"
           },
           {
             "title": "Datenzentren: Meta erwägt Einstieg ins Cloud-Geschäft - Handelsblatt",
@@ -1683,10 +1684,10 @@
             "published": "01.07., 16:04"
           },
           {
-            "title": "Alphabet A bleibt im Fokus der Anleger. Der Konzern steht für Suche, Werbung und Cloud. - Ad-hoc-news.de",
-            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVWYyNkRjdjZxYThDdk5Rby1ZNWZ5dC1zSmtpLWp4UE1JYWlrVDdnR1k3bXFQMGxNYTFzT3ZpQkhrQmFaV1RrTnF2U21wcVM4SkdwaHgyUzJoYlF3SXhib0ZDZ0tsUl9NdFhNT1NGeG40RU9NYi1LcnFPNUZjQ3ZpR1N2Q3l5UTh6blZ5U1JlUFZzeXNHaDJEOXRoaDluSGRRejZuWXY4ck5HNVZkMFVyTVc0VUhiU25RNkplejZnVng2WXJV?oc=5",
+            "title": "Google AI Pro: 5 Terabyte Speicher statt 2 – Neue Features - Ad-hoc-news.de",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTS1RRVFrZEowTFBfV05WRGdXNVN5NTVqQkVlX2ZjbGtHWkNfNUdwa1dQY0JlZ2xIMjJaZFlBUlVrTGFZbDJhMEtRQ19Gb0Y2U2tQNmx5TnhVMy1pOTVwZDF3bGw4RUdrTk5HZ1IxWmhHVWNPS1lybkJvX3NLWUJodUl2S0hmQmRXbXVGT3JKVndmdldwX1BFbktPaGJCRjJ6UEVZZVR5RQ?oc=5",
             "source": "Ad-hoc-news.de",
-            "published": "03.07., 13:07"
+            "published": "04.07., 04:26"
           }
         ]
       }
@@ -2077,13 +2078,12 @@
         "summary": "Plausibler Nachrichtenbezug: Der Kurs ist gestiegen und die gefundenen Schlagzeilen enthalten überwiegend positiv wirkende Formulierungen. Die Quellen passen damit zur Richtung, beweisen aber keine Kausalität.",
         "themes": [
           "US-Dollar",
-          "Regulierung",
           "Geopolitik/Sicherheit"
         ],
         "bullets": [
           "Der Kurs ist deutlich gestiegen: +1.81 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: US-Dollar, Regulierung, Geopolitik/Sicherheit.",
-          "Wichtigste gefundene Headlines: Gold: Goldman senkt Ziel auf 4.900 Dollar - Börse Express | Edelmetalle: Crash bei Gold – wie sich die Alternativen schlagen - Handelsblatt."
+          "Gefundene Nachrichten-Themen: US-Dollar, Geopolitik/Sicherheit.",
+          "Wichtigste gefundene Headlines: Gold: Goldman senkt Ziel auf 4.900 Dollar - Börse Express | Tief seit November - Gold unter 4000-Dollar-Marke: Warum es bergab geht - Kronen Zeitung."
         ],
         "headlines": [
           {
@@ -2093,22 +2093,22 @@
             "published": "03.07., 17:16"
           },
           {
-            "title": "Edelmetalle: Crash bei Gold – wie sich die Alternativen schlagen - Handelsblatt",
-            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbklOSGUyNjdmMjFEQ2pWLUFNblZqQ2ltdWRuS0tBRGpsd1FMZ2FHNW52QUZ1OFB5WWszQ3NSTnhMYmNkUXdmRUFkV3RuUi1OTWlzQU1CNXlWRV9ueG03MGJtWTVMTW5JQU5HSG9Wa1M5TTEwdEotTEFTeWNpbkJMb3RGb3FpLXM0cU5CZ2ZkUldSeC0zUTE5NXg5THBFNnRzWVdtTlFmR0kwaG9rcUNhNWVrR2xWVXJYQnhQTVhHbmVTQjNINE9RUUY1WnlPYUJxcEVIbDVobw?oc=5",
-            "source": "Handelsblatt",
-            "published": "03.07., 13:41"
+            "title": "Tief seit November - Gold unter 4000-Dollar-Marke: Warum es bergab geht - Kronen Zeitung",
+            "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE4yclpmcG91MTg2S1M3MTF3NDdQc2pqMzF2Um9xdklYYTVWNTV5eEViVTZOb3hITWpubVVXNUlnSUVpZw?oc=5",
+            "source": "Kronen Zeitung",
+            "published": "01.07., 13:15"
           },
           {
-            "title": "Goldpreis steigt: Gold wird teurer wegen Zinserwartung - Manager Magazin",
+            "title": "Gold kaufen: Goldpreis steigt wegen veränderter Zinserwartung - Manager Magazin",
             "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQYU1GS2FENUdDaVp2U0VDRTBGSW5NVlRseGJaUXRfd0tlR1BTUkZGTzE4c2hJbnRDVVRaZkQwWmh3ekVzR3drd3BZU1FndW5jMVF3S0V0SGd5QnloWmNWV0plNER6Z3V1VTdISGdTblFBT0JIMzJVQkZqNHo0LWxTdkNSSGt0Q0hTVkpId2ItUXdqYVAzT25Gc0FJdkxfMDhvOVNya2dORGlXTUJxSGVQS0stOEduSEVTRUFYMUpqZWNXNlFUNkY4OWpMbmE1NWtOTmp4ZEY5VjlPa2s?oc=5",
             "source": "Manager Magazin",
-            "published": "03.07., 16:26"
+            "published": "03.07., 18:18"
           },
           {
-            "title": "Schwache US-Jobdaten treiben Goldpreis zurück über 4.100 Dollar - Wallstreet Online",
-            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRGlZclE0YnFGdkVDXzMxcEFQN0ZwSXM3cUZiUXdOUGIwZkFZTUlFenllQkI0TkxLazFZaU1oWHJmTk9SclFFTlBUYV9XcDlpVlVKZ0lsY0IzVEJibnRIQjZvQU92YTFFc1dJUk51dXpXbEpNSHowWmNvM0tpTV94MndOeG1PcUZEcWUzNnhMQ09ZRndnRl96RFZ0V2RjZFR3ekgzYjRxUVQ4dXlvaF9Hby05eHdQSFA5RDhvQzFR?oc=5",
-            "source": "Wallstreet Online",
-            "published": "03.07., 08:21"
+            "title": "Gold mit Aufholchancen im zweiten Halbjahr - WirtschaftsWoche",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNLU9McnZpa1pBSU5tSFIyc05JTVJkSDMtT1ZJdUJmNHo4bTd3dDU1MmZUSHhSSUhqWTZVaFctWGxablVNdExYTXFsMkNDM2FGbVU2ZUVqenl2ek03TTkyOG5NV1RLYWFxMHFCX25xSzRXdnByR0p4X0xSUWx1R0QzaFAzVzdEQWU5aVIzQ2duLWdzM3BnOUQ1N003X1hLUQ?oc=5",
+            "source": "WirtschaftsWoche",
+            "published": "04.07., 08:36"
           }
         ]
       }
