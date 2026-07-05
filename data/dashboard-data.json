@@ -1,8 +1,8 @@
 {
   "is_sample": false,
   "source": "Yahoo Finance Kursdaten + Google News RSS Kontext",
-  "generated_at_utc": "2026-07-05T07:23:31+00:00",
-  "generated_at_vienna": "05.07.2026, 09:23 Uhr",
+  "generated_at_utc": "2026-07-05T17:07:11+00:00",
+  "generated_at_vienna": "05.07.2026, 19:07 Uhr",
   "market_mood_internal": "risk-on",
   "assets": [
     {
@@ -411,10 +411,10 @@
             "published": "04.07., 00:35"
           },
           {
-            "title": "Cboe S&P 500 ESG Index Options von Cboe Global Markets - Nachhaltige Derivate für Profi-Investoren - AD HOC NEWS",
-            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOa1pVZWN4RXNrcUlwbkVtMnZrOXRlMkpzaVl5dzNPQUkzVFd3RHRQWkpIN21hRm9mT3NDeDNPcUdTTVFkdG42M29aRnp1MU5MenpUck9SUEpCMkQyMjdjSHBlTHBDUGlsUXBuRjROajNIVldVUTE4SHl4anZSLV9QNkxpaGFCNE1ka2M4dnlEVWVBc2hNS29mazVEd3I1d1NvUkZGaE1KTTFvMWp2YWNCcnhqRTlhcVM3QjBHaXFyRFhuNmc2Y3RjcA?oc=5",
-            "source": "AD HOC NEWS",
-            "published": "04.07., 18:56"
+            "title": "IncomeShares Nasdaq 100 Options ETP - e-fundresearch.com",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYkl4M0daWkNqZFRtS1h6QVRBWnhLeXZtTl92eEZtSmNGUmR3RDFHbVR2MzBZS28zLTFfbS0yTm1mdEFfVEhLNlNKUmZlYTB0NF9zWkh0Ym1SNnY5a21EZU8xOVBiaURtS0p5bFhiSlE5WGZaRXdQQlVxNmFfTnc1TTVFTDdiMWdVUHkzQ2dael9PWDE2UGJsRDJn?oc=5",
+            "source": "e-fundresearch.com",
+            "published": "28.06., 04:24"
           },
           {
             "title": "INVESCO MARKETS II PLC - INVESCO NASDAQ-100 ESG ETF Kurs | A3CZGT | IE000COQKPO9 - Finanzen.net",
@@ -1654,14 +1654,27 @@
         "confidence": "niedrig",
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
-          "KI/Tech"
+          "KI/Tech",
+          "Regulierung"
         ],
         "bullets": [
           "Der Kurs ist spürbar gefallen: -0.36 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: KI/Tech.",
-          "Wichtigste gefundene Headlines: Intesa Sanpaolo Aktie: 800 Anwendungen in Google Cloud migriert - Börse Express | Google Cloud Vertex AI von Alphabet Inc. - Unternehmen bauen eigene KI-Plattformen - AD HOC NEWS."
+          "Gefundene Nachrichten-Themen: KI/Tech, Regulierung.",
+          "Wichtigste gefundene Headlines: Fitbit Air: Google bringt Fitness-Armband und neue Health-App mit AI-Coach - ComputerBase | Alphabet C zeigt Stärke. Digitale Werbe- und Cloud-Dienste im Fokus - AD HOC NEWS."
         ],
         "headlines": [
+          {
+            "title": "Fitbit Air: Google bringt Fitness-Armband und neue Health-App mit AI-Coach - ComputerBase",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSkdUU1JsczBHMU81cG9uVWJSUkNtQjFXTGJJOGNqWXlhTS1FZ2t1dlN3TzJHcXkzemFtRTZVMjJQV2JVZU5NUEdiU3YwQkRQQllfaFI4SUd4aWlFekppYnh5UXZlSzBEbHdla3M0c1NuUDhTTG10Umg0OFRROWg4VWp4bFRha2g3Q3NPUlU0N0cxRE5ObmFvWDEyZ1EtRURlMWc3STRGYkVBSjl0RUtzbXZUdw?oc=5",
+            "source": "ComputerBase",
+            "published": "05.07., 13:09"
+          },
+          {
+            "title": "Alphabet C zeigt Stärke. Digitale Werbe- und Cloud-Dienste im Fokus - AD HOC NEWS",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaGowYlJvNzFVdk5zTDFfZVFyMGVOcV9wSFNLNFlWREZuYjNURDItbWhiVlhPdVRQVTlSWGJmMmVIN05JVndYT0JrTUp4MU9FTDRNVmlwZ1FreHBIcHB0NEh2VnF6NnJCM1J3MkZCMGJ2RnlIQkJlb2RXX1haRUtTeFdoSGR3R1NSODBBX0Q4YlU5Tk9udl9MVTZSQWFjaXFUY2ozVUtsVFFKU0pIQ2JGVG9SMzdqU1JLR3JiNURCeDM1XzA?oc=5",
+            "source": "AD HOC NEWS",
+            "published": "05.07., 13:50"
+          },
           {
             "title": "Intesa Sanpaolo Aktie: 800 Anwendungen in Google Cloud migriert - Börse Express",
             "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORjRmRmI4enNpTklEblVlUzA4VXQ0bW1FbWpPcENPQmJXbU52N251UkNwNFBmX1JwZnVvWmYtZHlZODFTZmFuU2h0T0tVRllDeFVQOVRqMlhLSkVMME82ZmxzME5hcXg2UUN5NzdEZjdLSl9HUWlOeUY4MGtmODRPQURlWGlqR3dpVFhzcEpHcnVUb0lMT19JMlIyNDZad1Zod0QzMUlZTHlBZ3dlMklja0E3V2c?oc=5",
@@ -1669,22 +1682,10 @@
             "published": "02.07., 21:04"
           },
           {
-            "title": "Google Cloud Vertex AI von Alphabet Inc. - Unternehmen bauen eigene KI-Plattformen - AD HOC NEWS",
-            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOanhwSzctZDk5X1pxdDFoOFdoVmpDdXdJdmNDVHJqblpBVzExWlp3Z0JnaFdMcE55LS1RVFlVckRUX2Z5NHV3dmNEOExRQVNodDAwV3dIVE1ZQlRTd29GZEhWeUlZRTBSMjFRRTU1MUtrdDlVWTNhbEVRVGI4Y2Z5dVg4V0E1TmM0N3M0b2dLcU5UMkdvWXVfVUxYcE40TnZoWGVUa2stcWhObGY1SUx1R1QzX1lDYXl2MTZ6X2VZcDI?oc=5",
-            "source": "AD HOC NEWS",
-            "published": "04.07., 19:01"
-          },
-          {
             "title": "Datenzentren: Meta erwägt Einstieg ins Cloud-Geschäft - Handelsblatt",
             "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNkVsaV9Kdi1OZm9sSkNQcDJFcmZkNlFrV1BNYjdEN3hXYkVyaXVkdE9hQ0daRm9rb1VXZlNIZGxQZFJ2emY3TnNIelA0VHFJZ013U1ViNlNHMHNKaWJGcGJ1ZmhqRi1OQUxUOFVRQVFybFJNakhGazVCNW56Tng0RXZBSkpqRXlTQno3dk5QcFNBREdQd0dFakhUbkFLemF5LXBka2trSnlSeGVkUjJGVXdncUVqSVZLVFE?oc=5",
             "source": "Handelsblatt",
             "published": "01.07., 16:04"
-          },
-          {
-            "title": "Meta plant eigenen Cloud-Dienst - it-daily",
-            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9jcHg2VnRIb1h5OTFLUUpMNFRZNWlLWDlvTV9FX3VOZUJJOEs4TU1YNndNQ0Uzc3NxTDN0WE5sTzhCV3plSEVxXzFvNG0wS1ROMHBCYV91X2JPd1l1OEw3SXJiTjVUVDRJanRlYi1RelBuOUxG?oc=5",
-            "source": "it-daily",
-            "published": "02.07., 10:33"
           }
         ]
       }
@@ -2074,13 +2075,11 @@
         "confidence": "niedrig",
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
-          "Zinsen/Fed",
-          "Inflation",
           "US-Dollar"
         ],
         "bullets": [
           "Der Kurs ist deutlich gestiegen: +1.81 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: Zinsen/Fed, Inflation, US-Dollar.",
+          "Gefundene Nachrichten-Themen: US-Dollar.",
           "Wichtigste gefundene Headlines: Gold: 4.187,30 US-Dollar zum Handelsschluss - Börse Express | 4.000-Dollar-Marke fällt: Gold auf tiefstem Stand seit November | Märkte | 30.06.2026 - FONDS professionell."
         ],
         "headlines": [
@@ -2097,16 +2096,16 @@
             "published": "30.06., 10:00"
           },
           {
-            "title": "Könnten Edelsteine ​​in Zeiten der Inflation das nächste „Gold“ sein? - Vietnam.vn",
-            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUm1aWEtHdGFJWUtXbHI2aXpqR19mdmlqSFZBVUtTWUtpMG9GZzhrUkhvbE04MEJacWthODFYYmpSV2RfTXV6MVR1YnJzZHF5ZmxoSzF4dndVRzZDbk9iT2cyekRNakNoNU96bTRJdjduajVQbWlmcHdUTGZ6M3JYcUl4UkR3VTA?oc=5",
-            "source": "Vietnam.vn",
-            "published": "05.07., 05:27"
+            "title": "Gold vor Rutsch auf 3.800 US-Dollar: Barrick Mining – Könnte dramatisch für die Aktie werden - BörsenNEWS.de",
+            "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNWDczV2xTQWVwVVczZ0xxV1hWWlExYTR6cGRDTG51eS1ia1RXWGFjRmtSUnJmcUdGNTVjZlFwam5MbDRuVDdIYXpabXFseElRMm5ZN2h1RDc3ZkRQSlktVkNmWDgteDFPaGd5a1RIcXlJdld2SUJORWgwMVNxM2F3c0M0N2JrTnNpSU11T1ZHbnN1YmtPTzk4cmlKaDJvN1lwa0VzQVlLZzJ6ZmVCam9zTURjVkxXbnZwQTJqUXdpLVlNaUVGY2p6RWI2LWlxZVRCaEpCQ3dxNzJhejdxYTY0TWdkMTZtZzl4clBmcjltcnU?oc=5",
+            "source": "BörsenNEWS.de",
+            "published": "01.07., 10:07"
           },
           {
-            "title": "Gold soll wieder auf 4.200 $ steigen, da dovish gestimmte Äußerungen der Fed den Goldpreis ankurbeln: Welche Goldaktien und ETFs sind einen…",
-            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQakJCODR3NWFxa20tc1BrR2RHVTRXZEV1SEdOLU8xblI2WVJ0RlF2aVZNWng2LXlxVm9qLVowbXBaT2tWQnV5VGRwb01HODVBYjZLWmdjdGcyeG5ELWNLUEFsMnlrOXpvZ2syb3FWNmZ4TEN1STdtbGpYR2I5NmNGMTNUQnZXdnhBcTlJVDljTncwM3ZvYVRpalVOMnd0SHFIZTB3Z281aUY1NjcxM2V3elV5WUhGYlZjdy1lRzBVNTBsUS1RMzFSQw?oc=5",
-            "source": "TradingKey",
-            "published": "04.07., 17:00"
+            "title": "Goldpreis fällt weiter: Das steckt hinter dem jüngsten Rückgang - DiePresse.com",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOakphc05KZVpDQlBDc0VaS3VlWUszSl9hNUU1NTkwT0FtRVFLYThLb09BaEdPNHJ0Szl2cUZaeVdjMHVwVldRd1pYVTJtNUZZNnQ5THVscmdmQnBNRU9EWmVVcHloZUZVTHFlUkdFZHF6bUZpVUs2QmFPdG9qUnZEUUVzbmk5cEtjMTR2ZmVFSDJlYTY2UkxNNzJVY0VqWWFqc1E?oc=5",
+            "source": "DiePresse.com",
+            "published": "01.07., 10:18"
           }
         ]
       }
