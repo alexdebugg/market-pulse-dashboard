@@ -1,9 +1,9 @@
 {
   "is_sample": false,
   "source": "Yahoo Finance Kursdaten + Google News RSS Kontext",
-  "generated_at_utc": "2026-07-06T08:17:56+00:00",
-  "generated_at_vienna": "06.07.2026, 10:17 Uhr",
-  "market_mood_internal": "neutral",
+  "generated_at_utc": "2026-07-06T18:09:40+00:00",
+  "generated_at_vienna": "06.07.2026, 20:09 Uhr",
+  "market_mood_internal": "risk-on",
   "assets": [
     {
       "name": "MSCI World",
@@ -13,16 +13,16 @@
       "description": "iShares Core MSCI World UCITS ETF als handelbarer Developed-Markets-Proxy",
       "price_decimals": 2,
       "last_date": "2026-07-06",
-      "last_close": 126.16999816894531,
+      "last_close": 126.3499984741211,
       "previous_close": 125.76000213623047,
-      "change_abs": 0.41,
-      "change_pct": 0.33,
-      "change_5d_pct": 1.84,
-      "change_1m_pct": 2.3,
-      "change_3m_pct": 14.99,
+      "change_abs": 0.59,
+      "change_pct": 0.47,
+      "change_5d_pct": 1.99,
+      "change_1m_pct": 2.44,
+      "change_3m_pct": 15.15,
       "change_1y_pct": null,
-      "ytd_pct": 12.88,
-      "volatility_30d_pct": 9.59,
+      "ytd_pct": 13.04,
+      "volatility_30d_pct": 9.63,
       "sparkline": [
         {
           "date": "2026-02-25",
@@ -382,7 +382,7 @@
         },
         {
           "date": "2026-07-06",
-          "close": 126.16999816894531
+          "close": 126.3499984741211
         }
       ],
       "explanation": {
@@ -393,7 +393,7 @@
           "Geopolitik/Sicherheit"
         ],
         "bullets": [
-          "Der Kurs ist leicht gestiegen: +0.33 % gegenüber dem vorherigen Schlusskurs.",
+          "Der Kurs ist spürbar gestiegen: +0.47 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: Geopolitik/Sicherheit.",
           "Wichtigste gefundene Headlines: IncomeShares Nasdaq 100 Options ETP | XS2875105608 | A4A50Q - extraETF | Enterprise value to EBIT forward von KANZHUN LIMITED - American Depository Shares – NASDAQ:BZ - TradingView."
         ],
@@ -411,16 +411,16 @@
             "published": "04.07., 00:35"
           },
           {
-            "title": "IncomeShares Nasdaq 100 Options ETP - e-fundresearch.com",
-            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYkl4M0daWkNqZFRtS1h6QVRBWnhLeXZtTl92eEZtSmNGUmR3RDFHbVR2MzBZS28zLTFfbS0yTm1mdEFfVEhLNlNKUmZlYTB0NF9zWkh0Ym1SNnY5a21EZU8xOVBiaURtS0p5bFhiSlE5WGZaRXdQQlVxNmFfTnc1TTVFTDdiMWdVUHkzQ2dael9PWDE2UGJsRDJn?oc=5",
-            "source": "e-fundresearch.com",
-            "published": "28.06., 04:24"
-          },
-          {
             "title": "INVESCO MARKETS II PLC - INVESCO NASDAQ-100 ESG ETF Kurs | A3CZGT | IE000COQKPO9 - Finanzen.net",
             "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNM3kxZl9Ec3pKR1lfVmJRZ2Z0LXRWYWZPVFFpdkJJcE9PcGttNy12VzR6dldWSWVNU2VQRURrR18ta3ZPQmpHanN1YWFpMzJ6RHdpa0FmeXdTdnJ3OWhWdkpMY0VUTzZ6SkZWal9fa3dBZEJNSkJmaUFuMEdwTUhVTXg2Mlc1aWJFdEd1Q21LLTI5NUQwX3c?oc=5",
             "source": "Finanzen.net",
-            "published": "02.07., 00:00"
+            "published": "03.07., 21:56"
+          },
+          {
+            "title": "Cboe S&P 500 ESG Index Options von Cboe Global Markets - Nachhaltige Derivate für Profi-Investoren - AD HOC NEWS",
+            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOa1pVZWN4RXNrcUlwbkVtMnZrOXRlMkpzaVl5dzNPQUkzVFd3RHRQWkpIN21hRm9mT3NDeDNPcUdTTVFkdG42M29aRnp1MU5MenpUck9SUEpCMkQyMjdjSHBlTHBDUGlsUXBuRjROajNIVldVUTE4SHl4anZSLV9QNkxpaGFCNE1ka2M4dnlEVWVBc2hNS29mazVEd3I1d1NvUkZGaE1KTTFvMWp2YWNCcnhqRTlhcVM3QjBHaXFyRFhuNmc2Y3RjcA?oc=5",
+            "source": "AD HOC NEWS",
+            "published": "04.07., 18:56"
           }
         ]
       }
@@ -433,15 +433,15 @@
       "description": "iShares Core MSCI EM IMI UCITS ETF als Emerging-Markets-Proxy",
       "price_decimals": 2,
       "last_date": "2026-07-06",
-      "last_close": 48.3650016784668,
+      "last_close": 48.49300003051758,
       "previous_close": 48.380001068115234,
-      "change_abs": -0.01,
-      "change_pct": -0.03,
-      "change_5d_pct": 1.26,
-      "change_1m_pct": 3.9,
-      "change_3m_pct": 21.0,
+      "change_abs": 0.11,
+      "change_pct": 0.23,
+      "change_5d_pct": 1.53,
+      "change_1m_pct": 4.17,
+      "change_3m_pct": 21.32,
       "change_1y_pct": null,
-      "ytd_pct": 26.12,
+      "ytd_pct": 26.46,
       "volatility_30d_pct": 26.88,
       "sparkline": [
         {
@@ -802,13 +802,13 @@
         },
         {
           "date": "2026-07-06",
-          "close": 48.3650016784668
+          "close": 48.49300003051758
         }
       ],
       "explanation": {
-        "direction": "kaum verändert",
-        "confidence": "niedrig",
-        "summary": "Kaum Kursbewegung: Obwohl aktuelle Schlagzeilen gefunden wurden, ist die Tagesbewegung zu klein für eine sinnvolle Ursache-Wirkung-Aussage.",
+        "direction": "gestiegen",
+        "confidence": "mittel",
+        "summary": "Plausibler Nachrichtenbezug: Der Kurs ist gestiegen und die gefundenen Schlagzeilen enthalten überwiegend positiv wirkende Formulierungen. Die Quellen passen damit zur Richtung, beweisen aber keine Kausalität.",
         "themes": [
           "US-Dollar",
           "China/EM",
@@ -816,7 +816,7 @@
           "Gewinne/Analysten"
         ],
         "bullets": [
-          "Der Kurs liegt nahezu unverändert gegenüber dem letzten Schlusskurs.",
+          "Der Kurs ist leicht gestiegen: +0.23 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: US-Dollar, China/EM, Geopolitik/Sicherheit, Gewinne/Analysten.",
           "Wichtigste gefundene Headlines: Schwacher US-Dollar und hohe Defizite: Rückenwind für Emerging Markets? - e-fundresearch.com | EM-Anleihen: Diese rohstoffreichen Schwellenländer profitieren - das investment."
         ],
@@ -856,15 +856,15 @@
       "description": "iShares MSCI World Small Cap UCITS ETF als Small-Cap-Proxy",
       "price_decimals": 3,
       "last_date": "2026-07-06",
-      "last_close": 9.248000144958496,
+      "last_close": 9.244000434875488,
       "previous_close": 9.222000122070312,
-      "change_abs": 0.026,
-      "change_pct": 0.28,
-      "change_5d_pct": 1.45,
-      "change_1m_pct": 4.56,
-      "change_3m_pct": 14.64,
+      "change_abs": 0.022,
+      "change_pct": 0.24,
+      "change_5d_pct": 1.4,
+      "change_1m_pct": 4.51,
+      "change_3m_pct": 14.59,
       "change_1y_pct": null,
-      "ytd_pct": 18.87,
+      "ytd_pct": 18.82,
       "volatility_30d_pct": 11.35,
       "sparkline": [
         {
@@ -1225,7 +1225,7 @@
         },
         {
           "date": "2026-07-06",
-          "close": 9.248000144958496
+          "close": 9.244000434875488
         }
       ],
       "explanation": {
@@ -1233,12 +1233,12 @@
         "confidence": "niedrig",
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
-          "Regulierung",
+          "Zinsen/Fed",
           "China/EM"
         ],
         "bullets": [
-          "Der Kurs ist leicht gestiegen: +0.28 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: Regulierung, China/EM.",
+          "Der Kurs ist leicht gestiegen: +0.24 % gegenüber dem vorherigen Schlusskurs.",
+          "Gefundene Nachrichten-Themen: Zinsen/Fed, China/EM.",
           "Wichtigste gefundene Headlines: McEwen added to Russell 2000® Index following June 2026 reconstitution - TradingView | Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraETF."
         ],
         "headlines": [
@@ -1255,16 +1255,16 @@
             "published": "28.04., 10:37"
           },
           {
-            "title": "Drei europäische Small-Cap-Aktien für das Jahr 2026 - Morningstar",
-            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMEs2TEZTckdDLWpCakI1eHFNUW45VXNjbk5LN3ZBWDgwNXJPUGFEa1JFVE9QYWpmdmdfUVpZRmxYVG92bGFzOURGZTBOY2JTcllqSUxhTDVoMktobkRPMUtlX0gyVTZmWGFTVUZCQnh2TFA1bHhXeEt4RWZoU0FWbFBzTjY4NXdRdmNYUDVGRWNwMjVL?oc=5",
-            "source": "Morningstar",
-            "published": "23.01., 09:00"
-          },
-          {
             "title": "US stocks steady into quarter-end; small caps eye best first half since 1991 - TradingView",
             "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNW9nbDdBaTluV2MzM3czbUtoZjdFYjk1ZUd5RmlObnZ5Qm50cGE0VmY3SW1WaUthellNQTRhdUJKQjhiSnEwc1l6S3VQMnpTTjF4SGYxdnRwU2VWVUF0ZXh0cTU1RExnSzZndHV2cUU3SXRQdWJDVnczODE3TUVfcUc2SGV4RXhpNjdLTmlwSGRQcjNMNG1rUk5kbm5LS0FPb0hZZFl3SHRBWDFDV0dZUHl4ckFDY0lNU200ZXRLQ0tFaXJjeU9Td1Bya3dmY1N4WmEzbHNtVUN6bHJZ?oc=5",
             "source": "TradingView",
             "published": "30.06., 16:19"
+          },
+          {
+            "title": "ETF-Portfolio – die besten Musterportfolios und ETF-Strategien - Finanzen.net",
+            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAzbmFxUlNtQ2wyOTBPRk5raDBsUDNYZ0dqWTk0dkQxWU5KV0VfWDB5TS1ValNJTUY3OGFMcGtEVWM4NXRMZ0Y1eE9QcG1BT0dtYmZyTDFtTGFVdTY4a2tYSWlMUE5UQ1p3Uk9OcExIbmZHTW9hYWw2Wm9n?oc=5",
+            "source": "Finanzen.net",
+            "published": "03.06., 09:00"
           }
         ]
       }
@@ -1276,22 +1276,18 @@
       "currency": "USD",
       "description": "Alphabet Inc. Class A",
       "price_decimals": 2,
-      "last_date": "2026-07-02",
-      "last_close": 359.9100036621094,
-      "previous_close": 361.2099914550781,
-      "change_abs": -1.3,
-      "change_pct": -0.36,
-      "change_5d_pct": 4.71,
-      "change_1m_pct": -0.54,
-      "change_3m_pct": 21.02,
+      "last_date": "2026-07-06",
+      "last_close": 364.3349914550781,
+      "previous_close": 359.9100036621094,
+      "change_abs": 4.42,
+      "change_pct": 1.23,
+      "change_5d_pct": 7.99,
+      "change_1m_pct": 1.49,
+      "change_3m_pct": 23.18,
       "change_1y_pct": null,
-      "ytd_pct": 14.99,
-      "volatility_30d_pct": 32.08,
+      "ytd_pct": 16.4,
+      "volatility_30d_pct": 32.33,
       "sparkline": [
-        {
-          "date": "2026-02-24",
-          "close": 310.8999938964844
-        },
         {
           "date": "2026-02-25",
           "close": 312.8999938964844
@@ -1647,10 +1643,14 @@
         {
           "date": "2026-07-02",
           "close": 359.9100036621094
+        },
+        {
+          "date": "2026-07-06",
+          "close": 364.3349914550781
         }
       ],
       "explanation": {
-        "direction": "gefallen",
+        "direction": "gestiegen",
         "confidence": "niedrig",
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
@@ -1658,34 +1658,34 @@
           "Regulierung"
         ],
         "bullets": [
-          "Der Kurs ist spürbar gefallen: -0.36 % gegenüber dem vorherigen Schlusskurs.",
+          "Der Kurs ist deutlich gestiegen: +1.23 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: KI/Tech, Regulierung.",
-          "Wichtigste gefundene Headlines: Cloud-Gesetz: EU bricht Abhängigkeit von AWS und Google auf - Börse Express | Datenzentren: Meta erwägt Einstieg ins Cloud-Geschäft - Handelsblatt."
+          "Wichtigste gefundene Headlines: Alphabet Aktie: Cloud-Backlog verdoppelt auf 460 Milliarden - Börse Express | Alphabet Stock in July 2026: A 5% Dividend Hike Meets a $36 Billion Capex Quarter - TIKR.com."
         ],
         "headlines": [
           {
-            "title": "Cloud-Gesetz: EU bricht Abhängigkeit von AWS und Google auf - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbFN6S0FHY2RMcGVhMjNQbTNyaWQ0V2I5R0RHcVkyWnc1X3I3cEQtYmhpYndaM1VOZHBOd3lOWkl5Ymp6eUwzMTBsS1hHQTU2Z1ZSTzN6bFpSUXc5bDRkTFFPZHVPcmV6ZnpySzZlOVlSOXkyZlcwbTFJSjh4STBSNmJzZjRacDNLZWt1UXdNbWVkQl94VzIwSUJWbVM4RmRmTHQ1dlBZNnNNX0hUaF9ySg?oc=5",
+            "title": "Alphabet Aktie: Cloud-Backlog verdoppelt auf 460 Milliarden - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRFh4OHVCSjJjQUdSczBVNWROanpENFB4WkFvLWJPR0cxMHpqeEoxb2oxVlduY0hEYnVHd3BZZkgwek03bE1DVmd2b3FVcm4tZVN4M3BaWURXTUQ5azE5RERxOWtqUFBZdG0xUzUxcTBVMlNUdENFYmQ2UVQ0WC0tRmlRUHUtUmxVMGF4ZHZoRFhGLV90YUxzMFlOeU96aG5WWTM4ZWZISUp4elROMUl3?oc=5",
             "source": "Börse Express",
-            "published": "05.07., 21:55"
+            "published": "06.07., 19:54"
           },
           {
-            "title": "Datenzentren: Meta erwägt Einstieg ins Cloud-Geschäft - Handelsblatt",
-            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNkVsaV9Kdi1OZm9sSkNQcDJFcmZkNlFrV1BNYjdEN3hXYkVyaXVkdE9hQ0daRm9rb1VXZlNIZGxQZFJ2emY3TnNIelA0VHFJZ013U1ViNlNHMHNKaWJGcGJ1ZmhqRi1OQUxUOFVRQVFybFJNakhGazVCNW56Tng0RXZBSkpqRXlTQno3dk5QcFNBREdQd0dFakhUbkFLemF5LXBka2trSnlSeGVkUjJGVXdncUVqSVZLVFE?oc=5",
-            "source": "Handelsblatt",
-            "published": "01.07., 16:04"
+            "title": "Alphabet Stock in July 2026: A 5% Dividend Hike Meets a $36 Billion Capex Quarter - TIKR.com",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcW5ZZGVvX0pJQjY4M25tYmF4dXZoSG5SQU1CVmpEY0FTYnN6S3R2eHBlcUVYNVV2eVkyZk9jVm1hTnhoVU5OYUctVUVRNUJCSEw2dlA4WWpzNzNjUGppa3Jja0Z2Mi1kTWFpZmJ6M2pPV0wwYnl5MXNwbGhTcmRpZTlDSGVPcDlBMmlpaHRTbGtFVWpKM2cwX01XenhSQ1k1NjhtTzFVNjdPdGpX?oc=5",
+            "source": "TIKR.com",
+            "published": "04.07., 09:00"
           },
           {
-            "title": "Fitbit Air: Google bringt Fitness-Armband und neue Health-App mit AI-Coach - ComputerBase",
-            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSkdUU1JsczBHMU81cG9uVWJSUkNtQjFXTGJJOGNqWXlhTS1FZ2t1dlN3TzJHcXkzemFtRTZVMjJQV2JVZU5NUEdiU3YwQkRQQllfaFI4SUd4aWlFekppYnh5UXZlSzBEbHdla3M0c1NuUDhTTG10Umg0OFRROWg4VWp4bFRha2g3Q3NPUlU0N0cxRE5ObmFvWDEyZ1EtRURlMWc3STRGYkVBSjl0RUtzbXZUdw?oc=5",
-            "source": "ComputerBase",
-            "published": "05.07., 13:09"
+            "title": "Wie kann Europa im KI-Rennen mithalten? - blog.google",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWE1HajB1TXR6ajBSZWJiaXA1YkZ5UFpYMzJBWnBaNXdsRWNWeGkzemFmWTJYdHJjMlpsNk1BdUxMM0hNMXpoSXJDSjRLVUhXVlRNcDI4a2JuRnBOZDJFRGJOZ0FSc2VzRml4cXgzT0swenVMNnNVZmZTYWZSemlmMTVwQXhucFI1LVZvcTVCZDlNLXJITFh0ZnZrelNlQ2lwS1hr?oc=5",
+            "source": "blog.google",
+            "published": "24.06., 14:05"
           },
           {
-            "title": "Alphabet C zeigt Stärke. Digitale Werbe- und Cloud-Dienste im Fokus - AD HOC NEWS",
-            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaGowYlJvNzFVdk5zTDFfZVFyMGVOcV9wSFNLNFlWREZuYjNURDItbWhiVlhPdVRQVTlSWGJmMmVIN05JVndYT0JrTUp4MU9FTDRNVmlwZ1FreHBIcHB0NEh2VnF6NnJCM1J3MkZCMGJ2RnlIQkJlb2RXX1haRUtTeFdoSGR3R1NSODBBX0Q4YlU5Tk9udl9MVTZSQWFjaXFUY2ozVUtsVFFKU0pIQ2JGVG9SMzdqU1JLR3JiNURCeDM1XzA?oc=5",
+            "title": "Google Cloud Vertex AI von Alphabet Inc. - Unternehmen bauen eigene KI-Plattformen - AD HOC NEWS",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOanhwSzctZDk5X1pxdDFoOFdoVmpDdXdJdmNDVHJqblpBVzExWlp3Z0JnaFdMcE55LS1RVFlVckRUX2Z5NHV3dmNEOExRQVNodDAwV3dIVE1ZQlRTd29GZEhWeUlZRTBSMjFRRTU1MUtrdDlVWTNhbEVRVGI4Y2Z5dVg4V0E1TmM0N3M0b2dLcU5UMkdvWXVfVUxYcE40TnZoWGVUa2stcWhObGY1SUx1R1QzX1lDYXl2MTZ6X2VZcDI?oc=5",
             "source": "AD HOC NEWS",
-            "published": "05.07., 13:50"
+            "published": "04.07., 19:01"
           }
         ]
       }
@@ -1698,16 +1698,16 @@
       "description": "Goldpreis, primär über Gold-Future, fallback XAU/USD",
       "price_decimals": 2,
       "last_date": "2026-07-06",
-      "last_close": 4172.89990234375,
+      "last_close": 4172.0,
       "previous_close": 4112.7001953125,
-      "change_abs": 60.2,
-      "change_pct": 1.46,
-      "change_5d_pct": 2.31,
-      "change_1m_pct": -5.95,
-      "change_3m_pct": -10.29,
+      "change_abs": 59.3,
+      "change_pct": 1.44,
+      "change_5d_pct": 2.29,
+      "change_1m_pct": -5.97,
+      "change_3m_pct": -10.31,
       "change_1y_pct": null,
-      "ytd_pct": -3.53,
-      "volatility_30d_pct": 26.96,
+      "ytd_pct": -3.55,
+      "volatility_30d_pct": 26.95,
       "sparkline": [
         {
           "date": "2026-02-25",
@@ -2067,22 +2067,22 @@
         },
         {
           "date": "2026-07-06",
-          "close": 4172.89990234375
+          "close": 4172.0
         }
       ],
       "explanation": {
         "direction": "gestiegen",
-        "confidence": "niedrig",
-        "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
+        "confidence": "mittel",
+        "summary": "Plausibler Nachrichtenbezug: Der Kurs ist gestiegen und die gefundenen Schlagzeilen enthalten überwiegend positiv wirkende Formulierungen. Die Quellen passen damit zur Richtung, beweisen aber keine Kausalität.",
         "themes": [
+          "Zinsen/Fed",
           "US-Dollar",
-          "Regulierung",
           "Geopolitik/Sicherheit"
         ],
         "bullets": [
-          "Der Kurs ist deutlich gestiegen: +1.46 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: US-Dollar, Regulierung, Geopolitik/Sicherheit.",
-          "Wichtigste gefundene Headlines: Gold: 5.000-Dollar-Marke im Blick - Börse Express | Goldpreis im Aufwind: Spekulationen auf Zinspause belasten den Dollar - Investing.com Deutsch."
+          "Der Kurs ist deutlich gestiegen: +1.44 % gegenüber dem vorherigen Schlusskurs.",
+          "Gefundene Nachrichten-Themen: Zinsen/Fed, US-Dollar, Geopolitik/Sicherheit.",
+          "Wichtigste gefundene Headlines: Gold: 5.000-Dollar-Marke im Blick - Börse Express | Goldpreis steigt nach US-Jobdaten: Warshs Fed-Kurs wackelt - das investment."
         ],
         "headlines": [
           {
@@ -2092,22 +2092,22 @@
             "published": "06.07., 05:13"
           },
           {
-            "title": "Goldpreis im Aufwind: Spekulationen auf Zinspause belasten den Dollar - Investing.com Deutsch",
-            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOa2ZHYzdjS2RNZ1drWFk1U2lFZzMtQnlLM2RPczFCb3BMOHVCQk0yMXEwakdfMXgtLUphX2FkbWJ1Um1RcWZ2di1vU2UzWEUySmFxV2tEalZhRTQ0cTMxRFdzbmhsb0daYWh2a2pXcDhxM0haMm9sb3BKbHhtc1Fod3BMcHg2QnJqZmo1cXl2aC1XbGJjMUhPZ2pmTnpqWEduMnItZUdHV1R0ZWY3SG8xZjNOR2U5dTdhN2RvQkRMbFI?oc=5",
-            "source": "Investing.com Deutsch",
-            "published": "06.07., 03:52"
+            "title": "Goldpreis steigt nach US-Jobdaten: Warshs Fed-Kurs wackelt - das investment",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBhOFpoODdFMHZvQllMdTczcGlWT3VyU201aGNYdURGbUpkME9uWHVXV2hxOU1hN1hoNVVPdmJmSFY1SXUwMzhiVE5rekVRQ0ZIWnM0SWhjeGRxX1VqVVVBOFl5M2NKb2NLY3JYb25RMGVNWkxzYlp6WnBEbE82QQ?oc=5",
+            "source": "das investment",
+            "published": "06.07., 15:24"
           },
           {
-            "title": "Gold gibt von Zweiwochenhoch nach - festerer Dollar - MarketScreener Deutschland",
-            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUEJPSWR0SExHMmtjVFdxQ1dUb1ZJZ0tIT3NtUGFHdWJZLUFIaG8wMFU4T2xPdVkzd21Yc3JUdmpWMDZpVGtyYkRvTDJiWTRVRGFlQVlpLVdZb2ZRdkZoQ253LW4yMldsMDNOamRqMFp0ZFRNV3VzWVNpaC1DYlhKbldjQ1BUS0hGczVobkU2MlJPVnZ1TEZUNTRPZTM1NzBOQnFMTjNUWS1mMnFTTU5zelo3dXJmdw?oc=5",
-            "source": "MarketScreener Deutschland",
-            "published": "06.07., 10:06"
+            "title": "Warum ich beim Gold eine Bodenbildung knapp unter 4.000 Dollar sehe - OnVista",
+            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPM3VQbEtLcndJa1M4Y0NIck9Pc2hBVWlIaG1RLTlBalBwUnZwZEN2TjdJX1B3bmlVdk9mMXltSng0eHBRVkZSbE1XYkhQUmMtVkhjdl9WNTdIUjRsVjRyX29ZUkZpX1VkX1hNYmlkdW0tSHZYN0FpTGhZUVlXbkJBMVRVZGZNQzlNd18wSWRVa0c5U0ZRRm9DYXJtaFVsN0JmanJJRUROcEt4Tkp6TDFlTERkeE1ORzcycUl3cg?oc=5",
+            "source": "OnVista",
+            "published": "06.07., 18:31"
           },
           {
-            "title": "Gold: UBS erwartet 5.200 Dollar - Finanztrends",
-            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBzWHMtb0l6YnFUOFc1ZUR3bEZUdldJTDJObW8ybjFqaFVFRFNGZmpqbFV5dmh1Nm9DQXlTTllTVE51dlNaQXYtM2x2T0NyOVhRNkN4WmtVaS1HU2M1Y3l1T0Z3OGNDVkh0WnZGMmZTSXNZQQ?oc=5",
-            "source": "Finanztrends",
-            "published": "06.07., 08:58"
+            "title": "Gold testet 50%-Fibonacci-Widerstand bei 4.180 US-Dollar - aktien.news",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQUMyeURxY3Q4bE8zZmFMYk1PYV9KX3huQ2FJS29zWWUtUDBPVzBOcE9IN2d3SlB4d2JxM2plZldpVFZod1p2djYzZktvU3psV3IzY1V6M2ZSU1NFeTQ5czN4cjV1NU85UnFtdTg2dGpISWNnQm0zOHRwRE1tbl9pTjkwSEQ?oc=5",
+            "source": "aktien.news",
+            "published": "06.07., 17:39"
           }
         ]
       }
