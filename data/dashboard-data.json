@@ -1,9 +1,9 @@
 {
   "is_sample": false,
   "source": "Yahoo Finance Kursdaten + Google News RSS Kontext",
-  "generated_at_utc": "2026-07-07T17:57:37+00:00",
-  "generated_at_vienna": "07.07.2026, 19:57 Uhr",
-  "market_mood_internal": "neutral",
+  "generated_at_utc": "2026-07-08T06:26:31+00:00",
+  "generated_at_vienna": "08.07.2026, 08:26 Uhr",
+  "market_mood_internal": "risk-off",
   "assets": [
     {
       "name": "MSCI World",
@@ -417,10 +417,10 @@
             "published": "28.06., 04:24"
           },
           {
-            "title": "INVESCO MARKETS II PLC - INVESCO NASDAQ-100 ESG ETF Kurs | A3CZGT | IE000COQKPO9 - Finanzen.net",
-            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNM3kxZl9Ec3pKR1lfVmJRZ2Z0LXRWYWZPVFFpdkJJcE9PcGttNy12VzR6dldWSWVNU2VQRURrR18ta3ZPQmpHanN1YWFpMzJ6RHdpa0FmeXdTdnJ3OWhWdkpMY0VUTzZ6SkZWal9fa3dBZEJNSkJmaUFuMEdwTUhVTXg2Mlc1aWJFdEd1Q21LLTI5NUQwX3c?oc=5",
-            "source": "Finanzen.net",
-            "published": "03.07., 21:56"
+            "title": "Myriad Genetics stock. Shares trade on Nasdaq. - AD HOC NEWS",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSnhPaG5oM3k3LTN4SUQzUWQ2Zm43Q0pnMmg0VzRnVHljODA0WG1ESDNFWEx5UnBmaUJnZUtNbGtZdlZVT0dYRy1LVnlhWmJpZ2pNVjVaMU9jaWFiRTktWkNtZmx6aTA0bzJWekFJZVVDbm5seUQtNGpsNEs3ZVlQU0tHaU80Nk5ZemdMOWk0TS1QT1gyUTk4U19keTBITUUweU8tU2Vn?oc=5",
+            "source": "AD HOC NEWS",
+            "published": "07.07., 21:49"
           }
         ]
       }
@@ -1234,14 +1234,13 @@
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
           "Zinsen/Fed",
-          "KI/Tech",
           "Regulierung",
           "China/EM"
         ],
         "bullets": [
           "Der Kurs ist deutlich gefallen: -1.69 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: Zinsen/Fed, KI/Tech, Regulierung, China/EM.",
-          "Wichtigste gefundene Headlines: Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraETF | S&P 500, Nasdaq End Higher On Support From Strong Tech Gains Led By Nvidia, Dow Hits Record Highs — MSFT, NVDA, LMT, AVGO, SPCX In Focus -…."
+          "Gefundene Nachrichten-Themen: Zinsen/Fed, Regulierung, China/EM.",
+          "Wichtigste gefundene Headlines: Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraETF | US stocks steady into quarter-end; small caps eye best first half since 1991 - TradingView."
         ],
         "headlines": [
           {
@@ -1251,10 +1250,10 @@
             "published": "28.04., 10:37"
           },
           {
-            "title": "S&P 500, Nasdaq End Higher On Support From Strong Tech Gains Led By Nvidia, Dow Hits Record Highs — MSFT, NVDA, LMT, AVGO, SPCX In Focus -…",
-            "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNdFRLbHZTdmdFakp3QWpvRFdMSHFSaXdSaEVqUHIwUGxydTBmVHZJNWF2ejNRREN4Q1lRSnNRa3NPbFVQMWtUNkp0eDRXQ1h0QmVqVEY4V2w5bU9DcDJ3Z1BUUk5PRUpYZHV5SnFCWEd5clFSaGs2eU1sdlhuQjdhY2xPYmpHbXBaZDF4RmpvRE10Y0dZLUdULV9MNUROWVJxMlpwTm5GekJnRUloTms2S1Y2MmlKcXN3dGdlRWVJeEktRW5Wck5DeTNKLVhVdHJfM1JXejNhN3lQT0lYaGt5bUNzaktONGptVFRCZ3NmN2JUbkxtcHVJT0JFZHhUZDlHa3BHVGctaGcwTkxPQWt6SXE0RDczVFU?oc=5",
+            "title": "US stocks steady into quarter-end; small caps eye best first half since 1991 - TradingView",
+            "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNW9nbDdBaTluV2MzM3czbUtoZjdFYjk1ZUd5RmlObnZ5Qm50cGE0VmY3SW1WaUthellNQTRhdUJKQjhiSnEwc1l6S3VQMnpTTjF4SGYxdnRwU2VWVUF0ZXh0cTU1RExnSzZndHV2cUU3SXRQdWJDVnczODE3TUVfcUc2SGV4RXhpNjdLTmlwSGRQcjNMNG1rUk5kbm5LS0FPb0hZZFl3SHRBWDFDV0dZUHl4ckFDY0lNU200ZXRLQ0tFaXJjeU9Td1Bya3dmY1N4WmEzbHNtVUN6bHJZ?oc=5",
             "source": "TradingView",
-            "published": "06.07., 23:24"
+            "published": "30.06., 16:19"
           },
           {
             "title": "Drei europäische Small-Cap-Aktien für das Jahr 2026 - Morningstar",
@@ -1279,16 +1278,16 @@
       "description": "Alphabet Inc. Class A",
       "price_decimals": 2,
       "last_date": "2026-07-07",
-      "last_close": 369.8900146484375,
+      "last_close": 367.0299987792969,
       "previous_close": 366.4599914550781,
-      "change_abs": 3.43,
-      "change_pct": 0.94,
-      "change_5d_pct": 4.59,
-      "change_1m_pct": -0.62,
-      "change_3m_pct": 23.3,
+      "change_abs": 0.57,
+      "change_pct": 0.16,
+      "change_5d_pct": 3.78,
+      "change_1m_pct": -1.39,
+      "change_3m_pct": 22.35,
       "change_1y_pct": null,
-      "ytd_pct": 18.18,
-      "volatility_30d_pct": 32.75,
+      "ytd_pct": 17.26,
+      "volatility_30d_pct": 32.61,
       "sparkline": [
         {
           "date": "2026-02-26",
@@ -1648,7 +1647,7 @@
         },
         {
           "date": "2026-07-07",
-          "close": 369.8900146484375
+          "close": 367.0299987792969
         }
       ],
       "explanation": {
@@ -1660,17 +1659,11 @@
           "Regulierung"
         ],
         "bullets": [
-          "Der Kurs ist spürbar gestiegen: +0.94 % gegenüber dem vorherigen Schlusskurs.",
+          "Der Kurs ist leicht gestiegen: +0.16 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: KI/Tech, Regulierung.",
-          "Wichtigste gefundene Headlines: Alphabets Google Cloud erweitert Partnerschaft mit Cognizant für den Rollout von Gemini Enterprise - MarketScreener Deutschland | Apple Siri AI vs. Google Gemini im Vergleichstest - Futurezone."
+          "Wichtigste gefundene Headlines: Apple Siri AI vs. Google Gemini im Vergleichstest - Futurezone | Alphabets Google Cloud erweitert Partnerschaft mit Cognizant für den Rollout von Gemini Enterprise - MarketScreener Deutschland."
         ],
         "headlines": [
-          {
-            "title": "Alphabets Google Cloud erweitert Partnerschaft mit Cognizant für den Rollout von Gemini Enterprise - MarketScreener Deutschland",
-            "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNUW1pemV0RDhQYktlclZqQ0NTMk1NNEhJOGI5cEsydmRpbmRubEJfS0RnOUFjMjJDX0FMTzlfX0FrSVNxYVdXX19kQXJNQ1RmbXBzTXA0dW1BWk1VN1RkSFhBOEpaZ1VrRkZHeGJ1MnRHdHp6Vjl3YV9kck9mcWdFSGVoZEJiT25lX2E1eXRlTGdsY016dTJCRjZDajRYMXJDc3Z0TldCN0lMYzlBLWRBZlJqMkxmc28yVkpzRWxvdmRzeUZ3RUN5NlV3cUpvazN3OG5mQ0lKMDlna1d5ZFMyVWtmbk5BUGZFaENmTGdpMVMtVTE3VHlGMA?oc=5",
-            "source": "MarketScreener Deutschland",
-            "published": "07.07., 15:33"
-          },
           {
             "title": "Apple Siri AI vs. Google Gemini im Vergleichstest - Futurezone",
             "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNzN3Rnl1R2FNTlB6dEw2NWJqRmRNQkVuTlhJcGdPWC1WOFd1Y2N5RS1ZOW5LV3d1Si1xcUQtdkN6UWg5em5qRDZOLXFtZU5Xcm00SzlHbnJiZ3pERTFKV1F3OGMyTjdDdlV1T3BUVElObTRZZm5BZXZzSDh0aHNwaUIwcXJpZy1HZV9FcUtDSDZTOGI0d3JWbHZES19Na3ZZUVY5c1lWcmpsbVc3WW1hd1NwVVUzM25fbGYtUzVxc9IBxAFBVV95cUxPNlNjZjVmcE5RNmR0VmFES28zVzFpN2lWOWs5ZDE4cW1ZcFE2Zkd5VDZNWUFhd1RhS1hKX3dpQ1VFOHhfaXlUOXdkYTByRkJwMmE5LVFfOWRQMS1fcXZ4OGlNMGpOS1N3N1pZNHNwaWhkd205ZGl1SkIyZ0c3VjY2R3VBMG5NNDlELWJpbzl5SXM1cT…",
@@ -1678,16 +1671,22 @@
             "published": "07.07., 06:00"
           },
           {
-            "title": "Google: Android-Backups werden nun auf den Cloud-Speicher angerechnet - heise online",
-            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYkU4M3ZKLTBBNXFPbzVSdnAwZXIwYjZGcmhMR1RGV3QwM0VhNUMzX1JkVWxUblRoaDNXNnVFbFBzOVA2cUlELXVfc2hOWFFVV1hHMzc5bXNDSnlaX3BrMUI1ZU44OWRQVU4wVmdjWDNnaVZpVHNTNDhnVTFyeWNmQXkxdVg0elpfZFVZcjZTaWtWN0dra0xGZnhmcXN3VjNLc01zMmt4Y1FETTg?oc=5",
-            "source": "heise online",
-            "published": "07.07., 10:36"
+            "title": "Alphabets Google Cloud erweitert Partnerschaft mit Cognizant für den Rollout von Gemini Enterprise - MarketScreener Deutschland",
+            "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNUW1pemV0RDhQYktlclZqQ0NTMk1NNEhJOGI5cEsydmRpbmRubEJfS0RnOUFjMjJDX0FMTzlfX0FrSVNxYVdXX19kQXJNQ1RmbXBzTXA0dW1BWk1VN1RkSFhBOEpaZ1VrRkZHeGJ1MnRHdHp6Vjl3YV9kck9mcWdFSGVoZEJiT25lX2E1eXRlTGdsY016dTJCRjZDajRYMXJDc3Z0TldCN0lMYzlBLWRBZlJqMkxmc28yVkpzRWxvdmRzeUZ3RUN5NlV3cUpvazN3OG5mQ0lKMDlna1d5ZFMyVWtmbk5BUGZFaENmTGdpMVMtVTE3VHlGMA?oc=5",
+            "source": "MarketScreener Deutschland",
+            "published": "07.07., 15:33"
           },
           {
             "title": "Alphabet Aktie: Cloud-Backlog verdoppelt auf 460 Milliarden - Börse Express",
             "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRFh4OHVCSjJjQUdSczBVNWROanpENFB4WkFvLWJPR0cxMHpqeEoxb2oxVlduY0hEYnVHd3BZZkgwek03bE1DVmd2b3FVcm4tZVN4M3BaWURXTUQ5azE5RERxOWtqUFBZdG0xUzUxcTBVMlNUdENFYmQ2UVQ0WC0tRmlRUHUtUmxVMGF4ZHZoRFhGLV90YUxzMFlOeU96aG5WWTM4ZWZISUp4elROMUl3?oc=5",
             "source": "Börse Express",
             "published": "06.07., 19:54"
+          },
+          {
+            "title": "Google: Android-Backups werden nun auf den Cloud-Speicher angerechnet - heise online",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYkU4M3ZKLTBBNXFPbzVSdnAwZXIwYjZGcmhMR1RGV3QwM0VhNUMzX1JkVWxUblRoaDNXNnVFbFBzOVA2cUlELXVfc2hOWFFVV1hHMzc5bXNDSnlaX3BrMUI1ZU44OWRQVU4wVmdjWDNnaVZpVHNTNDhnVTFyeWNmQXkxdVg0elpfZFVZcjZTaWtWN0dra0xGZnhmcXN3VjNLc01zMmt4Y1FETTg?oc=5",
+            "source": "heise online",
+            "published": "07.07., 10:36"
           }
         ]
       }
@@ -1699,22 +1698,18 @@
       "currency": "USD/oz",
       "description": "Goldpreis, primär über Gold-Future, fallback XAU/USD",
       "price_decimals": 2,
-      "last_date": "2026-07-07",
-      "last_close": 4157.2001953125,
-      "previous_close": 4155.10009765625,
-      "change_abs": 2.1,
-      "change_pct": 0.05,
-      "change_5d_pct": 3.35,
-      "change_1m_pct": -7.12,
-      "change_3m_pct": -10.73,
+      "last_date": "2026-07-08",
+      "last_close": 4141.2001953125,
+      "previous_close": 4145.2998046875,
+      "change_abs": -4.1,
+      "change_pct": -0.1,
+      "change_5d_pct": 2.94,
+      "change_1m_pct": -4.52,
+      "change_3m_pct": -11.08,
       "change_1y_pct": null,
-      "ytd_pct": -3.89,
-      "volatility_30d_pct": 26.73,
+      "ytd_pct": -4.26,
+      "volatility_30d_pct": 26.72,
       "sparkline": [
-        {
-          "date": "2026-02-26",
-          "close": 5176.5
-        },
         {
           "date": "2026-02-27",
           "close": 5230.5
@@ -2069,48 +2064,52 @@
         },
         {
           "date": "2026-07-07",
-          "close": 4157.2001953125
+          "close": 4145.2998046875
+        },
+        {
+          "date": "2026-07-08",
+          "close": 4141.2001953125
         }
       ],
       "explanation": {
-        "direction": "gestiegen",
-        "confidence": "mittel",
-        "summary": "Plausibler Nachrichtenbezug: Der Kurs ist gestiegen und die gefundenen Schlagzeilen enthalten überwiegend positiv wirkende Formulierungen. Die Quellen passen damit zur Richtung, beweisen aber keine Kausalität.",
+        "direction": "gefallen",
+        "confidence": "niedrig",
+        "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
           "Zinsen/Fed",
+          "Inflation",
           "US-Dollar",
-          "Regulierung",
-          "Geopolitik/Sicherheit"
+          "Regulierung"
         ],
         "bullets": [
-          "Der Kurs ist leicht gestiegen: +0.05 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: Zinsen/Fed, US-Dollar, Regulierung, Geopolitik/Sicherheit.",
-          "Wichtigste gefundene Headlines: Gold: Fed-Protokoll am Mittwoch - Börse Express | Goldpreis: Zurückhaltung vor anstehendem Fed-Protokoll - Finanzen.net."
+          "Der Kurs ist leicht gefallen: -0.10 % gegenüber dem vorherigen Schlusskurs.",
+          "Gefundene Nachrichten-Themen: Zinsen/Fed, Inflation, US-Dollar, Regulierung.",
+          "Wichtigste gefundene Headlines: Gold: 4.120 Dollar nach Iran-Eskalation - Börse Express | Kann Gold standhalten, während US‑Iran‑Spannungen Inflation und Fed‑Zinsängste anfachen? - Invezz."
         ],
         "headlines": [
           {
-            "title": "Gold: Fed-Protokoll am Mittwoch - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQM0Z2S1lxNGN6SUhXMURLS2xXZFdlX0FRVHFjSVNwT2Qyd3ZiWFhjYjZINy0wZzV5ZFhvOVNBN1JOYlNXQkNCdkVYcUY4X1Etb3psVmlEM0pVLUpURXVXSURUU2I4NU80anFYLTRxcFZXN1psWHhDdm9fZXN1UnZvdzVKa0lIMFFUMHc?oc=5",
+            "title": "Gold: 4.120 Dollar nach Iran-Eskalation - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQY3JXRXh2dkFmWjh1eWpLLTZ2OC1zOHNoakxJWWdIMUJjTnBFUkJuc1RtMm8xUTdfX1VwdUppTVRqTEZ5WDN4V1lZM3g3WnEwODl0Ry1QS0I4bjJsb21sRFRuR1NKWWtWby1qUnprRFRpdEZVSlc4VHdxTDdhSFgwb1pBUHZwZWFyRG1jdjNIdzdfQ0U?oc=5",
             "source": "Börse Express",
-            "published": "07.07., 08:11"
+            "published": "08.07., 06:58"
           },
           {
-            "title": "Goldpreis: Zurückhaltung vor anstehendem Fed-Protokoll - Finanzen.net",
-            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSjdKazNIRFFHU3dtZ2lZcnJ1V3dtcllTVXp5NkJwa1VHN09vbEV0WmQ3R3BCMkFqSVpMa1RCaS1ENFlFeGVoNmNyV1c4ZU5veTAtNWZLMjlnWVFpZkM3YWNtU1o5NEVTdWRYaF9ZOVctN0prcEswMHM4MUdCMklDMm9Pd1MtcHMtV0dGQTJhOVVPNFRFbURxWldFdDA5cldaUWw5aDRJaFVVQk81REtyY054dDdhLTJ4dkJna1pQVmRXV2R0R3FhQzFBQdIBtgFBVV95cUxNWGlGc3AweHhWX2VNdG0xaEhtN25IZTZYZlJHc1B6UVpQTDhBSDhva2h2R19yc1B3dkJLQXpfRFNISWdBbmFJb1B2SVVYVjBHU0pxcWd2VWdJbU1ZNkFBblFuWWtPclJfajM2Z2RuaXdxXy1sOWhvU2xGZVNHTFd1d0ljSVp4MU…",
-            "source": "Finanzen.net",
-            "published": "07.07., 08:12"
+            "title": "Kann Gold standhalten, während US‑Iran‑Spannungen Inflation und Fed‑Zinsängste anfachen? - Invezz",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQjU5UTlxa3czanhibDhGV2tpVm1uTDZpVzd0Ynd3Q29EbWJ4anI5WFNyR19RMllkY0NzLVFXMWdLWjc1RURIN3pYX1lGeTNNNTRPMkZPb0VVdDItYi1ZNVBCLVdmdlpKc2I4LW1HdG1CWERHS2N4ME4tckN3N1dQaXJvWXQ1VC1MakdnMVNORUl1UWVhVWR1bzBuZ0I1V0RVNDUzS195VHptVUFzbEpPMmZ0ZkhvTkNZUjZXazhXQQ?oc=5",
+            "source": "Invezz",
+            "published": "08.07., 07:07"
           },
           {
-            "title": "Gold gibt nach, da stärkerer Dollar belastet; Fokus auf Fed-Protokoll und Spannungen am Golf - MarketScreener Deutschland",
-            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObUc3MVU0VTBJcy16QjFTcXoyZVc0S1lpbXdBbXpFd0JIa01uem1scVJ1UVNSNXFXc1R2Q2FUUmNTcHRFbmswM0lpT2MxcXljZHhxU0xGRHdqenJxek4xOVc4cGZVOW96TGxqUjhMc1gtQV9vczI4U0JvZnFVMXZOTnozUDMwbVJKQ2RIMG15NmlTa1k1SDE5R09McTdQY0hYdGREbGlacXRXOXh1WDZMbEtpS1dOS051TWg1bVNBME02S3Mx?oc=5",
+            "title": "Gold legt zu, während Märkte auf Fed-Protokoll warten; US-Iran-Angriffe begrenzen Anstieg - MarketScreener Deutschland",
+            "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPRExxTHJCUFZnQWtYNUY3Skt5Zld4YUNveFhYMklNQV9iQ2lqSFBkdjV1U2hTNk93NGNBQ3NJLTdCOGUyV003Skl0ZDVVcTNidHBYWXdNX3d4Y010LWV5czhRdkxSTldaMDJLTzNBbHMyel9rZlFPT1NJSUc5ZzNQQTktWDBOS2FYUlZLQWtYZE4zUUJaaTJUdFdDMkw1cWZKUmM5VDhydElaaTFvbG5BV2ctdkZQdUVxMEF2dmlBaUNJY3NnQnBnaXpkWHRKZjU3RTg0WWR5ZXlkcDBFWU8xTDBjenpCb0szV1lJ?oc=5",
             "source": "MarketScreener Deutschland",
-            "published": "07.07., 08:50"
+            "published": "08.07., 08:07"
           },
           {
-            "title": "Goldpreis steigt nach US-Jobdaten: Warshs Fed-Kurs wackelt - das investment",
-            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBhOFpoODdFMHZvQllMdTczcGlWT3VyU201aGNYdURGbUpkME9uWHVXV2hxOU1hN1hoNVVPdmJmSFY1SXUwMzhiVE5rekVRQ0ZIWnM0SWhjeGRxX1VqVVVBOFl5M2NKb2NLY3JYb25RMGVNWkxzYlp6WnBEbE82QQ?oc=5",
-            "source": "das investment",
-            "published": "06.07., 15:24"
+            "title": "Goldpreis: Zurückhaltung vor anstehendem Fed-Protokoll - finanzen.at",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdkROSDhadTV2eDQ4Z25FTlYtdVpXbEF6MmgzQ05CVktWM0p0YVB3RHZYVEVWclp5VnRsOS0tWDNmdWJZUE9jS1lRaHlqb0M2WVVLNFVRQlloUXJlWWpUeVFRcmFwRFEzcS1LeE9zS1QtUXJyVUtjbW9sVVg0cXdKUlRUYjNDU1BIVXFTNXh5cWtiX0tHUk5tVVVPNjc5MlFRRUJKUGNiYTQyV1lWUWVDQQ?oc=5",
+            "source": "finanzen.at",
+            "published": "07.07., 08:04"
           }
         ]
       }
