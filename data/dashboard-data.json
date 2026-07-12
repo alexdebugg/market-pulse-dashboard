@@ -1,8 +1,8 @@
 {
   "is_sample": false,
   "source": "Yahoo Finance Kursdaten + Google News RSS Kontext",
-  "generated_at_utc": "2026-07-12T06:31:06+00:00",
-  "generated_at_vienna": "12.07.2026, 08:31 Uhr",
+  "generated_at_utc": "2026-07-12T16:56:52+00:00",
+  "generated_at_vienna": "12.07.2026, 18:56 Uhr",
   "market_mood_internal": "neutral",
   "assets": [
     {
@@ -418,10 +418,10 @@
             "published": "10.07., 03:30"
           },
           {
-            "title": "INVESCO MARKETS II PLC - INVESCO S&P 500 CTB NET ZERO PATHWAY ESG ETF Kurs | A407NW | IE000N1ZEIG9 - Finanzen.net",
-            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYUpmWFRKQlF0eWt4ckMwUFlNbW1uTDJVbl9rNFFWbnFucDRCMjJVajAzMmd2WVNGSVBUNFRFNk05OUsxTkFBWEk3b0hOcU5ibWxpMWtqM2kwVVhaSjBCR05WelBOWlhoODNRYzFSRUp4MFEybmxfbUE0aFZTT2p5blJpZ193QW9yVWlDd2RPREtoRF80OFV0emRTVmUyR0tDVXFfTW5sOUo4bnpm?oc=5",
-            "source": "Finanzen.net",
-            "published": "06.07., 00:00"
+            "title": "(3⁺) NASDAQ – Der Index fällt, was bleibt? - stock3",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9mUHJ4THhrY293c0VSc0dEMWtHb2ZuWUtua0p6QmNYeUFtTmlPc0VjU1NpZWc1LUdzYlNDVlFIQ1BQSUtFcHBUX19Fdzc3M09WczQ1Z3RWS2tyNnUtVzFqQnRzRF9HLTZoZzFrRmJkTVJCYXpvTWc?oc=5",
+            "source": "stock3",
+            "published": "05.06., 09:00"
           }
         ]
       }
@@ -1654,31 +1654,33 @@
         "confidence": "niedrig",
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
-          "KI/Tech"
+          "KI/Tech",
+          "Regulierung",
+          "Gewinne/Analysten"
         ],
         "bullets": [
           "Der Kurs ist spürbar gefallen: -0.48 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: KI/Tech.",
-          "Wichtigste gefundene Headlines: Alphabet Aktie: Google Cloud-Backlog über 460 Milliarden - Finanztrends | Alphabet stock trades as investors await the next catalyst - ad-hoc-news.de."
+          "Gefundene Nachrichten-Themen: KI/Tech, Regulierung, Gewinne/Analysten.",
+          "Wichtigste gefundene Headlines: EU AI Act: Transparenzpflicht endet 2. August – Google und RIAA reagieren - BornCity | Die Alphabet-Aktie profitiert vom starken Cloud-Wachstum und soliden Werbeeinnahmen - ad-hoc-news.de."
         ],
         "headlines": [
           {
-            "title": "Alphabet Aktie: Google Cloud-Backlog über 460 Milliarden - Finanztrends",
-            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTDUxLUY5OUhGVmYxQnhsR3dxQnRmblBTUTcwWEJQRU83VlRHT1MyV1lId0FyMXNnY2JuamxtbE9zVzR3by04empUZGRkY3VEV3dnQ3hQTE0zVWppMWdlcjNmUGRja0pwNWtfRGRiYkNPT1dvTk9adk9YY3hEVzJ1NWJSU3BJMXRmZ2lKeV95MDBiWmxC?oc=5",
-            "source": "Finanztrends",
-            "published": "11.07., 15:05"
+            "title": "EU AI Act: Transparenzpflicht endet 2. August – Google und RIAA reagieren - BornCity",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONmQtdjBMYUZMRjJmS3RBVTIzQktOaV9fMnhCWkZIVE1TNDdXR0YwZXkyQ1BuM181eEZCU3pZeV9iLS1KMGNsZWoyRkJkRXFnSFc5djhqZzQzUV85MEZ2MkV2UVdrcWdCOTEyWFFhUHo3V2JTWThWd1RjSTRUeEp1VkU4TGRBQTdQVFYzSE55akJKUlZRR012TjlaeWc?oc=5",
+            "source": "BornCity",
+            "published": "12.07., 16:37"
           },
           {
-            "title": "Alphabet stock trades as investors await the next catalyst - ad-hoc-news.de",
-            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcVRxdDN4V04wUUlCMGpheWRDRUloSTk3YkU3SjEwa1pDODFpcmdqR1BUSkhsMFlvOHpTUy1BejdBZk40LTczSDZlQWtmOW1xeUo5aUNPaGprTE1nUE1weUZkdmphTV90cnBvZEVNTlZuX0o3enFaRkZXRFdRaFdjRmVjNFh4MVBidFBfYk0yc0lZVno1MDBVX1JYOWFHSksyZDEwVU5wZ2tXclhVSzJVOEc3Sk9Jc2s5?oc=5",
+            "title": "Die Alphabet-Aktie profitiert vom starken Cloud-Wachstum und soliden Werbeeinnahmen - ad-hoc-news.de",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZ0MzOExNNXhqR2VNY1FCWlA5QzNLZFRaRHJBd0RtcEN5bGM4VlVOaWpnb19Ic3JhTFN2SGI3ZzZKTndXRFB3NERsRjU2S2ctYmp6YVAxWm5LVmRiV0Z2dzRCV1M4QlRGWkNKQm5YWHRjVkFGTm9vLXpDLVZKa3hGLXBsbl9USmFRaWs0LUlPZGtuN2lfTmxfNHRVeFowcHpQb1JUTEVlRy1xMHMwZnRBZG9uSWIzM2JHd2xieV85bU9iVTBIRUE?oc=5",
             "source": "ad-hoc-news.de",
-            "published": "12.07., 08:10"
+            "published": "12.07., 09:57"
           },
           {
-            "title": "Apple Siri AI vs. Google Gemini im Vergleichstest - Futurezone",
-            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNzN3Rnl1R2FNTlB6dEw2NWJqRmRNQkVuTlhJcGdPWC1WOFd1Y2N5RS1ZOW5LV3d1Si1xcUQtdkN6UWg5em5qRDZOLXFtZU5Xcm00SzlHbnJiZ3pERTFKV1F3OGMyTjdDdlV1T3BUVElObTRZZm5BZXZzSDh0aHNwaUIwcXJpZy1HZV9FcUtDSDZTOGI0d3JWbHZES19Na3ZZUVY5c1lWcmpsbVc3WW1hd1NwVVUzM25fbGYtUzVxc9IBxAFBVV95cUxPNlNjZjVmcE5RNmR0VmFES28zVzFpN2lWOWs5ZDE4cW1ZcFE2Zkd5VDZNWUFhd1RhS1hKX3dpQ1VFOHhfaXlUOXdkYTByRkJwMmE5LVFfOWRQMS1fcXZ4OGlNMGpOS1N3N1pZNHNwaWhkd205ZGl1SkIyZ0c3VjY2R3VBMG5NNDlELWJpbzl5SXM1cT…",
-            "source": "Futurezone",
-            "published": "07.07., 06:00"
+            "title": "Accenture Aktie: Neue KI-Offensive mit Google Cloud - Finanztrends",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMVF2blFXdmZ3MmNfSWUwRlFrVlI5VUV2cmJReUpMcFI4b1dSNDhXMnloRVo3WFZFRk91dkQyWG91ZFNnRmNBYk1sVUY3NWVjMWJUOUg4MkxUV24yNktDNUpnbjlLUHhLbTlvNDNyOHRHX1lmTE5jeDdVMHVlTmY5Z3dvYWpiNEljeVpMdA?oc=5",
+            "source": "Finanztrends",
+            "published": "12.07., 14:49"
           },
           {
             "title": "Lidl gegen Amazon: Wie ein Discounter seine eigene Tech-Welt baut - Industriemagazin",
@@ -2080,26 +2082,26 @@
         "bullets": [
           "Der Kurs ist spürbar gefallen: -0.41 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: Zinsen/Fed, Inflation.",
-          "Wichtigste gefundene Headlines: Gold: 41 Tonnen von Zentralbanken gekauft - Börse Express | Goldpreis: Lösen die US-Inflationsdaten am Dienstag ein großes Beben aus? - Wallstreet Online."
+          "Wichtigste gefundene Headlines: Gold: US-Inflationsdaten am Mittwoch - Börse Express | Goldpreis: Zurückhaltung vor anstehendem Fed-Protokoll - finanzen.at."
         ],
         "headlines": [
           {
-            "title": "Gold: 41 Tonnen von Zentralbanken gekauft - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNm82cU4xVi10MThtT1RrMnE5YTYwM003VFVFNzJwVHBTU3Y3ajB2UEhHd18yRVBNVUExdVFmQkN0YndhSkJRMlJtZHE3X2Rkc1JUcXZCaVpDaXY1aHFEWFkyQXJYcUt6Z3JkLThHQ1ROdmhDRHJUTVdmRE9OcDNZTUNfNXB3ODJ2WTFlaWRoc3ZfVTM3NzVZ?oc=5",
+            "title": "Gold: US-Inflationsdaten am Mittwoch - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPR1VLWXNWM0NlbWFzaGpRUWdjYU4tS2xpZ0owLXZBbTAtZWo5TXNJMEx5TXo5ZU5vV1JFRUtyNUNFUlFLRXlBc3RRNmYxZHQyVFNPc2VWZXdEWVhpRGd6SWJkTHVhd0FDODRWTkk1U1FuLVRGSjViOU5idkFrb1ZXeFpVNmNzcFU3TEFidWJwUWw?oc=5",
             "source": "Börse Express",
-            "published": "11.07., 21:06"
-          },
-          {
-            "title": "Goldpreis: Lösen die US-Inflationsdaten am Dienstag ein großes Beben aus? - Wallstreet Online",
-            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNY0dhcklSZjU2S0ZkWDJpNHo3Y3NFUmFuMXkxWGZfLWIwaUVFYU02b29UV29GcF9fbFpNMzdVakFHNXhYVmRLNXBKUGFqb1Vsbmg3UmZRQ1hkUDlsRnA3c05LVVVNQm56eHlKeTB6bHpCX2JqSnNTOGtLY3h0TVNhNXVuSEtzT3ZKaF9yS2tWSHlUMWFDUU1tR0I1MDhraTFybDdDeWdUOHctTkVLWkJrTnVLS3BwS3BpcE83a09WT0dqbjlYUk9fcFlWSG9mcnFG?oc=5",
-            "source": "Wallstreet Online",
-            "published": "11.07., 13:04"
+            "published": "12.07., 11:56"
           },
           {
             "title": "Goldpreis: Zurückhaltung vor anstehendem Fed-Protokoll - finanzen.at",
             "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdkROSDhadTV2eDQ4Z25FTlYtdVpXbEF6MmgzQ05CVktWM0p0YVB3RHZYVEVWclp5VnRsOS0tWDNmdWJZUE9jS1lRaHlqb0M2WVVLNFVRQlloUXJlWWpUeVFRcmFwRFEzcS1LeE9zS1QtUXJyVUtjbW9sVVg0cXdKUlRUYjNDU1BIVXFTNXh5cWtiX0tHUk5tVVVPNjc5MlFRRUJKUGNiYTQyV1lWUWVDQQ?oc=5",
             "source": "finanzen.at",
             "published": "07.07., 08:04"
+          },
+          {
+            "title": "Goldpreis: Lösen die US-Inflationsdaten am Dienstag ein großes Beben aus? - Wallstreet Online",
+            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNY0dhcklSZjU2S0ZkWDJpNHo3Y3NFUmFuMXkxWGZfLWIwaUVFYU02b29UV29GcF9fbFpNMzdVakFHNXhYVmRLNXBKUGFqb1Vsbmg3UmZRQ1hkUDlsRnA3c05LVVVNQm56eHlKeTB6bHpCX2JqSnNTOGtLY3h0TVNhNXVuSEtzT3ZKaF9yS2tWSHlUMWFDUU1tR0I1MDhraTFybDdDeWdUOHctTkVLWkJrTnVLS3BwS3BpcE83a09WT0dqbjlYUk9fcFlWSG9mcnFG?oc=5",
+            "source": "Wallstreet Online",
+            "published": "11.07., 13:04"
           },
           {
             "title": "„Der Goldbullenmarkt ist noch längst nicht am Ende angekommen“ - Handelsblatt",
