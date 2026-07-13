@@ -1,8 +1,8 @@
 {
   "is_sample": false,
   "source": "Yahoo Finance Kursdaten + Google News RSS Kontext",
-  "generated_at_utc": "2026-07-12T16:56:52+00:00",
-  "generated_at_vienna": "12.07.2026, 18:56 Uhr",
+  "generated_at_utc": "2026-07-13T06:51:14+00:00",
+  "generated_at_vienna": "13.07.2026, 08:51 Uhr",
   "market_mood_internal": "neutral",
   "assets": [
     {
@@ -396,9 +396,21 @@
         "bullets": [
           "Der Kurs ist spürbar gestiegen: +0.35 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: KI/Tech, Regulierung.",
-          "Wichtigste gefundene Headlines: SK Hynix Shares Jump 14% in Nasdaq Debut - MarketScreener Deutschland | Leverage Shares -5x Short Nasdaq 100 ETP Securities | XS3373449761 | A4AU1Y - extraETF."
+          "Wichtigste gefundene Headlines: Leverage Shares -5x Short Nasdaq 100 ETP Securities | XS3373449761 | A4AU1Y - extraETF | Fidelity Nasdaq Composite Index ETF [Common Shares] Fonds | Kurs | Realtime | Chart - boerse.de - boerse.de."
         ],
         "headlines": [
+          {
+            "title": "Leverage Shares -5x Short Nasdaq 100 ETP Securities | XS3373449761 | A4AU1Y - extraETF",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmZUhjNmxQU3JodWVkRkFCMUR2M3d0Y0x6NTdOTDNIU0dvWFB2OFBGaUN4UktyMTdaV3hhQ0JsWG1mZUJPSkI5dnJYOC1sRXM1cVNRVElQaFZ5QmRY?oc=5",
+            "source": "extraETF",
+            "published": "10.07., 09:00"
+          },
+          {
+            "title": "Fidelity Nasdaq Composite Index ETF [Common Shares] Fonds | Kurs | Realtime | Chart - boerse.de - boerse.de",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMEFfZUlGeTd3SW4zTXFqYzhxTWRocElHY1JOenp3X2Yza3NRQ2NhMjh2d3U3bXcwV3Z5ZENJeWZVZEM5elVEYjFBTHJUNkExaFJ2aTU4VzRJTHVObFlmcS1UZTliU2tSVnhnTmFFSmVONFdMX1pRazNJLTI0WlBoNzdQem1Vc3lDXzJzR1dHZ3NNRzdf?oc=5",
+            "source": "boerse.de",
+            "published": "10.07., 09:00"
+          },
           {
             "title": "SK Hynix Shares Jump 14% in Nasdaq Debut - MarketScreener Deutschland",
             "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOGdhMGR4MW9GN1hFLUNpTDM1M1psbFZXRHVSVkVCOEwyOE83cTRQemJGY25ONUlvMFlndFYtUk15Ukkxcng1S0NyQnhXazFkT2RIVm5NdHRjWWp2UnRhRy1nVWR6T1FwSUF2cnIyb1dOWUNsUWhFUXI3T21ILXNyY24zYm53cHh5NnVGaDgyQ2IySUo2Sm5adkJHUnBfTGV2eC1JTWh1Y1M?oc=5",
@@ -406,22 +418,10 @@
             "published": "10.07., 21:07"
           },
           {
-            "title": "Leverage Shares -5x Short Nasdaq 100 ETP Securities | XS3373449761 | A4AU1Y - extraETF",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmZUhjNmxQU3JodWVkRkFCMUR2M3d0Y0x6NTdOTDNIU0dvWFB2OFBGaUN4UktyMTdaV3hhQ0JsWG1mZUJPSkI5dnJYOC1sRXM1cVNRVElQaFZ5QmRY?oc=5",
-            "source": "extraETF",
-            "published": "19.06., 18:15"
-          },
-          {
             "title": "Dow, Nasdaq, S&P 500 Futures Retreat After Chip-Led Gains At Close: META, ONDS, FUBO, FRMI Stocks In Focus - TradingView",
             "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPSVRxLTk2clVoWWNEa3JYTUZGZmdMVGtGRWktenpMZDljZDhJakQ4UE8yTGQ1X2pVMnRHSHpDaU9zM01uU2lTdGRjQ1REV2lmTjllbzY2aVNWSGVMQUV5RXlaSHFBbnZrZVUweWtvX3NiOEo0SUZ2OWxnMXVHUmxtMGtjNXotLTdSZTJleHluckVvaXlLQzRPT2gtWHNfNlRmQ2ZxX3Q4QlBCVk1JZDc1YmdaR0V4YXJ4Rlo2cTlpeXpaUDdGdy1rODJhNUZhQVJUb0p5R09RS2g4cE13OGpEMGl0TmFRQ3JDMHJVSkczTjhoUQ?oc=5",
             "source": "TradingView",
             "published": "10.07., 03:30"
-          },
-          {
-            "title": "(3⁺) NASDAQ – Der Index fällt, was bleibt? - stock3",
-            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9mUHJ4THhrY293c0VSc0dEMWtHb2ZuWUtua0p6QmNYeUFtTmlPc0VjU1NpZWc1LUdzYlNDVlFIQ1BQSUtFcHBUX19Fdzc3M09WczQ1Z3RWS2tyNnUtVzFqQnRzRF9HLTZoZzFrRmJkTVJCYXpvTWc?oc=5",
-            "source": "stock3",
-            "published": "05.06., 09:00"
           }
         ]
       }
@@ -841,10 +841,10 @@
             "published": "29.05., 09:00"
           },
           {
-            "title": "Kapitalmärkte: Iran-Krieg wird zum Stresstest für die Schwellenländer - Handelsblatt",
-            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWHhSNTdKdm9ENnlwNHVYMHVJa3M3VmctRWswSm5tWFFCc29DemNLQk1nVXd4dHcwcFZlemVYcTcxZTJvdm5sYTNFblhwUVZ2UExEbHQxdXFjSUhyV252TUNVam42cnp4Ti15R0pUWEp0S3k4azhUVlFqc1lxNEpRNmRfd09JaU5qTF91Uk91eHRTaW5TVHlBQjlfeHRmVVJvV0Y3Y1lYb1hvWTl3MkxBSkoxR1p6SVBLOGxRXzEzNkQzSV90MTVzY3Z2Mmw?oc=5",
-            "source": "Handelsblatt",
-            "published": "17.04., 09:00"
+            "title": "Was der Iran-Schock für Emerging Markets verändert - Institutional Money",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMl9pN2ZRM0xmVmpnSGNLUWdWMFpTS0JNcGNlQ29XdEpuZTZQNkU5TXM0UDBnLU5UQnBtTEtGcXhIQzdLNDcxOC04UG04bzRDYmFxQnV5UWNvc2FqNDByelNKdG1Vbl9qUFJUNlNuallZU3dIbkNYYzIzOVU2R0lMNVZSZzBwN2h0NHZDSXJaQzNkZEtHdWEyYjg0S1FuVnFTd0tWUUhheV9UQm0yNGhpLTNTd2RhSnBK?oc=5",
+            "source": "Institutional Money",
+            "published": "20.03., 08:00"
           }
         ]
       }
@@ -1655,15 +1655,20 @@
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
           "KI/Tech",
-          "Regulierung",
-          "Gewinne/Analysten"
+          "Regulierung"
         ],
         "bullets": [
           "Der Kurs ist spürbar gefallen: -0.48 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: KI/Tech, Regulierung, Gewinne/Analysten.",
-          "Wichtigste gefundene Headlines: EU AI Act: Transparenzpflicht endet 2. August – Google und RIAA reagieren - BornCity | Die Alphabet-Aktie profitiert vom starken Cloud-Wachstum und soliden Werbeeinnahmen - ad-hoc-news.de."
+          "Gefundene Nachrichten-Themen: KI/Tech, Regulierung.",
+          "Wichtigste gefundene Headlines: Die Alphabet-Inc.-Aktie bleibt vom starken Cloud- und Werbegeschäft gestützt - ad-hoc-news.de | EU AI Act: Transparenzpflicht endet 2. August – Google und RIAA reagieren - BornCity."
         ],
         "headlines": [
+          {
+            "title": "Die Alphabet-Inc.-Aktie bleibt vom starken Cloud- und Werbegeschäft gestützt - ad-hoc-news.de",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTHVBM205TmtSbW0xTnJMZXRDdnVLLVNCU2FyM2M0VUFvMEpnUUZ5a3p0Ql9oblNLa0VpdXpNREh4NUs4aGZyZDJaZ3hnUGYwZ2Y0NnZoSmVud3Bvb1NaMk9OUXk3WXlObjdUQUo2RVRwYWNOY015ZHBKWElNejhkRXZUS3JyOTNzazVHaHhVd0NhbUJHTmVTUHdaU2pMd0w1OFdKc1p3cUJ3MEhiRjg4R1hkWFVsc3lVUFZyc1pjbmZDOUE?oc=5",
+            "source": "ad-hoc-news.de",
+            "published": "13.07., 01:46"
+          },
           {
             "title": "EU AI Act: Transparenzpflicht endet 2. August – Google und RIAA reagieren - BornCity",
             "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONmQtdjBMYUZMRjJmS3RBVTIzQktOaV9fMnhCWkZIVE1TNDdXR0YwZXkyQ1BuM181eEZCU3pZeV9iLS1KMGNsZWoyRkJkRXFnSFc5djhqZzQzUV85MEZ2MkV2UVdrcWdCOTEyWFFhUHo3V2JTWThWd1RjSTRUeEp1VkU4TGRBQTdQVFYzSE55akJKUlZRR012TjlaeWc?oc=5",
@@ -1671,22 +1676,16 @@
             "published": "12.07., 16:37"
           },
           {
-            "title": "Die Alphabet-Aktie profitiert vom starken Cloud-Wachstum und soliden Werbeeinnahmen - ad-hoc-news.de",
-            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZ0MzOExNNXhqR2VNY1FCWlA5QzNLZFRaRHJBd0RtcEN5bGM4VlVOaWpnb19Ic3JhTFN2SGI3ZzZKTndXRFB3NERsRjU2S2ctYmp6YVAxWm5LVmRiV0Z2dzRCV1M4QlRGWkNKQm5YWHRjVkFGTm9vLXpDLVZKa3hGLXBsbl9USmFRaWs0LUlPZGtuN2lfTmxfNHRVeFowcHpQb1JUTEVlRy1xMHMwZnRBZG9uSWIzM2JHd2xieV85bU9iVTBIRUE?oc=5",
-            "source": "ad-hoc-news.de",
-            "published": "12.07., 09:57"
+            "title": "Deal: Google AI Plus mit 74% Rabatt jetzt für nur 1,29 Euro - notebookcheck.com",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNLVBGaGZOQmY5NUtoR19uazNnTGk5aHdBNVlnSVJQN3hKR3MyMWtlU1lRY3ZxT2tLZDU1SjdhU3p1OC00MHRCQkpoZk01SFQtZExtc1FwcEFLSnRwa2RXVUZMcmVteG9WS1pFYVJ0UHpDaWVsVVlLTjlvZS14NTBNdGIxbE9KeXBBRjQ4azU5azFBZHhtS01vMUhwVWdvMWxYM2dibXln?oc=5",
+            "source": "notebookcheck.com",
+            "published": "25.06., 09:00"
           },
           {
             "title": "Accenture Aktie: Neue KI-Offensive mit Google Cloud - Finanztrends",
             "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMVF2blFXdmZ3MmNfSWUwRlFrVlI5VUV2cmJReUpMcFI4b1dSNDhXMnloRVo3WFZFRk91dkQyWG91ZFNnRmNBYk1sVUY3NWVjMWJUOUg4MkxUV24yNktDNUpnbjlLUHhLbTlvNDNyOHRHX1lmTE5jeDdVMHVlTmY5Z3dvYWpiNEljeVpMdA?oc=5",
             "source": "Finanztrends",
             "published": "12.07., 14:49"
-          },
-          {
-            "title": "Lidl gegen Amazon: Wie ein Discounter seine eigene Tech-Welt baut - Industriemagazin",
-            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbGhrZjhfS2U2cHkzYkswSFZFelJ6M0M2Z3VpeURCT25zaV8zSXJqdjhpSmYwWjRJbjFBb1VsTTIxb2RqMWE2T3NJZkZOZ1VHamp6MmlGZ0Ytbnp3aWNOZXBMS2FaVFJEYkdPbmJyZTBSeHlydjZvZ1BNWGdZQndibkFWck9GVWM?oc=5",
-            "source": "Industriemagazin",
-            "published": "08.07., 09:00"
           }
         ]
       }
@@ -1698,22 +1697,18 @@
       "currency": "USD/oz",
       "description": "Goldpreis, primär über Gold-Future, fallback XAU/USD",
       "price_decimals": 2,
-      "last_date": "2026-07-10",
-      "last_close": 4113.7001953125,
-      "previous_close": 4130.60009765625,
-      "change_abs": -16.9,
-      "change_pct": -0.41,
-      "change_5d_pct": 0.02,
-      "change_1m_pct": -3.43,
-      "change_3m_pct": -14.16,
+      "last_date": "2026-07-13",
+      "last_close": 4068.699951171875,
+      "previous_close": 4104.10009765625,
+      "change_abs": -35.4,
+      "change_pct": -0.86,
+      "change_5d_pct": -2.08,
+      "change_1m_pct": -0.96,
+      "change_3m_pct": -14.56,
       "change_1y_pct": null,
-      "ytd_pct": -4.9,
-      "volatility_30d_pct": 27.43,
+      "ytd_pct": -5.94,
+      "volatility_30d_pct": 27.17,
       "sparkline": [
-        {
-          "date": "2026-03-03",
-          "close": 5107.39990234375
-        },
         {
           "date": "2026-03-04",
           "close": 5120.2001953125
@@ -2068,46 +2063,52 @@
         },
         {
           "date": "2026-07-10",
-          "close": 4113.7001953125
+          "close": 4104.10009765625
+        },
+        {
+          "date": "2026-07-13",
+          "close": 4068.699951171875
         }
       ],
       "explanation": {
         "direction": "gefallen",
-        "confidence": "niedrig",
-        "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
+        "confidence": "mittel",
+        "summary": "Plausibler Nachrichtenbezug: Der Kurs ist gefallen und die gefundenen Schlagzeilen enthalten überwiegend belastend wirkende Formulierungen. Die Quellen passen damit zur Richtung, beweisen aber keine Kausalität.",
         "themes": [
           "Zinsen/Fed",
-          "Inflation"
+          "US-Dollar",
+          "Regulierung",
+          "Geopolitik/Sicherheit"
         ],
         "bullets": [
-          "Der Kurs ist spürbar gefallen: -0.41 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: Zinsen/Fed, Inflation.",
-          "Wichtigste gefundene Headlines: Gold: US-Inflationsdaten am Mittwoch - Börse Express | Goldpreis: Zurückhaltung vor anstehendem Fed-Protokoll - finanzen.at."
+          "Der Kurs ist spürbar gefallen: -0.86 % gegenüber dem vorherigen Schlusskurs.",
+          "Gefundene Nachrichten-Themen: Zinsen/Fed, US-Dollar, Regulierung, Geopolitik/Sicherheit.",
+          "Wichtigste gefundene Headlines: Gold: Fed-Falke Warsh am 14. Juli - Börse Express | Kurzinfo 13-7: Ölpreise steigen rasant; US-Dollar erstarkt; Gold- und Silberpreise fallen erneut. - Vietnam.vn."
         ],
         "headlines": [
           {
-            "title": "Gold: US-Inflationsdaten am Mittwoch - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPR1VLWXNWM0NlbWFzaGpRUWdjYU4tS2xpZ0owLXZBbTAtZWo5TXNJMEx5TXo5ZU5vV1JFRUtyNUNFUlFLRXlBc3RRNmYxZHQyVFNPc2VWZXdEWVhpRGd6SWJkTHVhd0FDODRWTkk1U1FuLVRGSjViOU5idkFrb1ZXeFpVNmNzcFU3TEFidWJwUWw?oc=5",
+            "title": "Gold: Fed-Falke Warsh am 14. Juli - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUFVBOU9ReURpODdsU3BHZ2FhSXVRVnRYZVlqRmJtc0lIOVFQd1Z6MElnOTl5TXJnc1M3MElNV0o1NkRpN25PY2pQMk5pbkhna2pMLXVHQVFnU1NiWmFQcS1yT3VJN1VCdlZEcTNBZ3NvaVFsT21INE1KZDNUcjUxemVzMmhBOE5nalRF?oc=5",
             "source": "Börse Express",
-            "published": "12.07., 11:56"
+            "published": "12.07., 22:00"
           },
           {
-            "title": "Goldpreis: Zurückhaltung vor anstehendem Fed-Protokoll - finanzen.at",
-            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdkROSDhadTV2eDQ4Z25FTlYtdVpXbEF6MmgzQ05CVktWM0p0YVB3RHZYVEVWclp5VnRsOS0tWDNmdWJZUE9jS1lRaHlqb0M2WVVLNFVRQlloUXJlWWpUeVFRcmFwRFEzcS1LeE9zS1QtUXJyVUtjbW9sVVg0cXdKUlRUYjNDU1BIVXFTNXh5cWtiX0tHUk5tVVVPNjc5MlFRRUJKUGNiYTQyV1lWUWVDQQ?oc=5",
-            "source": "finanzen.at",
-            "published": "07.07., 08:04"
+            "title": "Kurzinfo 13-7: Ölpreise steigen rasant; US-Dollar erstarkt; Gold- und Silberpreise fallen erneut. - Vietnam.vn",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTzlpVUNxMzNLRHUwMjROdzkzdzJ1X1o3LTVBbXpXSHdVaDNMQkdsVFZzQU9zV3pOclA0dktvV3dIRzdKVVJLNG8tc3NERzRTbkNuS2tkWXFPYWNubDZ3YmxUYUhKMk9lUXV3bm9DSEdFWXo3emdFcGRrOHhwN0RVaVNvUkswMUhOaWU5U1pyUzgtRzRfZzVzVzhoeXVtOVN4RXNV?oc=5",
+            "source": "Vietnam.vn",
+            "published": "13.07., 04:30"
           },
           {
-            "title": "Goldpreis: Lösen die US-Inflationsdaten am Dienstag ein großes Beben aus? - Wallstreet Online",
-            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNY0dhcklSZjU2S0ZkWDJpNHo3Y3NFUmFuMXkxWGZfLWIwaUVFYU02b29UV29GcF9fbFpNMzdVakFHNXhYVmRLNXBKUGFqb1Vsbmg3UmZRQ1hkUDlsRnA3c05LVVVNQm56eHlKeTB6bHpCX2JqSnNTOGtLY3h0TVNhNXVuSEtzT3ZKaF9yS2tWSHlUMWFDUU1tR0I1MDhraTFybDdDeWdUOHctTkVLWkJrTnVLS3BwS3BpcE83a09WT0dqbjlYUk9fcFlWSG9mcnFG?oc=5",
+            "title": "Gold: Unter 4.100 Dollar gerutscht - Börse Global",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAwWjNNU3JuSzVyTG9QZDl2SkdxbThkVE9fVDNlczdSQkpmTHhkdGhoZHYtQWtyOXZxRndvUDV3WTF4aHYxWGlZU3NXckFnNEhhRW41NHBfQV9RWmlvRDZ2Y3k4NlNROThEb2hQYnEzUE9TZC10cVlHNg?oc=5",
+            "source": "Börse Global",
+            "published": "13.07., 06:31"
+          },
+          {
+            "title": "Gold und Silber aktuell - Steigende Zinsen und US-Dollar bremsen die Edelmetalle - Wallstreet Online",
+            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeWNqZkF0VVJoc3RUWnN1aHN2clhOS1NsMklxTndDTmFPa2VKc0p2X19HQ1A0Vk9lcFpMb2czY1pVNzAyYmNQcUEyZUh5T3RnbDFjWXliN0VORnQwYVpTVFh5bklzWktuY2xPWGNKUnhScFpyZ20xS2I1N3c5bDIwZ0tfWTdiUDdZTDhGOGNzSGFaa2g1a2xpa00yT1piOXlLMC1VTnlNbmgtUzdqT08tQkdHT0RENzNDUDQ4SW90OWJQYV9VMEZnNA?oc=5",
             "source": "Wallstreet Online",
-            "published": "11.07., 13:04"
-          },
-          {
-            "title": "„Der Goldbullenmarkt ist noch längst nicht am Ende angekommen“ - Handelsblatt",
-            "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQWGV0MmdVdy1BUHdqOWNCaXhSend1TjdpZW9aUjJVY2Q1OXpQN0taQlNGWHpwSVB3SDQ1X1lwcDVTNy1kUFB6WEszMTE2OWtySERjMkdkVk5UOG5saE80UzNEZjUxaXBINXVlaTEtM1lZNllvTU0tNWNtQU5VZk5BSkVxNkNvSWtsY1kwUXc5UDZzZjZPMWRBeGZ3OHFyT3F2eEZ3eTRQcVB1WmxtOGxwX2FiNGw3bDJod1pTZkQ4Tk93MzVPcXYtRElCTkV4SWlBb1JZUmtOeDU0WnNiUVZrSTVNV0dXcGd6bW1n?oc=5",
-            "source": "Handelsblatt",
-            "published": "06.07., 14:49"
+            "published": "09.07., 10:18"
           }
         ]
       }
