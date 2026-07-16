@@ -1,8 +1,8 @@
 {
   "is_sample": false,
   "source": "Yahoo Finance Kursdaten + Google News RSS Kontext",
-  "generated_at_utc": "2026-07-15T17:15:08+00:00",
-  "generated_at_vienna": "15.07.2026, 19:15 Uhr",
+  "generated_at_utc": "2026-07-16T06:15:09+00:00",
+  "generated_at_vienna": "16.07.2026, 08:15 Uhr",
   "market_mood_internal": "neutral",
   "assets": [
     {
@@ -395,15 +395,9 @@
         "bullets": [
           "Der Kurs ist leicht gestiegen: +0.19 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: Geopolitik/Sicherheit.",
-          "Wichtigste gefundene Headlines: Leverage Shares -5x Short Nasdaq 100 ETP Securities | XS3373449761 | A4AU1Y - extraETF | IncomeShares Nasdaq 100 Options ETP | XS2875105608 | A4A50Q - extraETF."
+          "Wichtigste gefundene Headlines: IncomeShares Nasdaq 100 Options ETP | XS2875105608 | A4A50Q - extraETF | HSBC MSCI WORLD ETF Kurs | A1C9KK | IE00B4X9L533 - Finanzen.net."
         ],
         "headlines": [
-          {
-            "title": "Leverage Shares -5x Short Nasdaq 100 ETP Securities | XS3373449761 | A4AU1Y - extraETF",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmZUhjNmxQU3JodWVkRkFCMUR2M3d0Y0x6NTdOTDNIU0dvWFB2OFBGaUN4UktyMTdaV3hhQ0JsWG1mZUJPSkI5dnJYOC1sRXM1cVNRVElQaFZ5QmRY?oc=5",
-            "source": "extraETF",
-            "published": "10.07., 09:00"
-          },
           {
             "title": "IncomeShares Nasdaq 100 Options ETP | XS2875105608 | A4A50Q - extraETF",
             "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9pOXp6WnVQUmdKMWRkY1JPdlZxbHU3UnVkclh1OTctTGxtMmliSUV1NUFPUV9RODRsY2tQUTBUOHViZG5uS2hOTVh1MUNnMGFwTllGRGJtMHdBNExs?oc=5",
@@ -411,16 +405,22 @@
             "published": "10.07., 09:00"
           },
           {
-            "title": "MSCI World Index: Aktuelle Analysen zum Welt-Index für ETF - Stiftung Warentest",
-            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FYlFrd0VGbjBaX3NteWlDNUgtcjRYTzlmYzNBN2gwNUlFUGM3a0ZTdmc1cFdUREJueGU3Q2c0SUpDRUo0YmtHclNmeWNCdjZqX04tRHJBdHJjb1U?oc=5",
-            "source": "Stiftung Warentest",
-            "published": "10.07., 09:00"
+            "title": "HSBC MSCI WORLD ETF Kurs | A1C9KK | IE00B4X9L533 - Finanzen.net",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5XRmhfaTE2Z0d6MWd5dURpbzhsdm1NN1Y2NVhyYmR3SHJTckZ4NXZWaVBKWXd0RDRLdWlmQTdSV0hkZkR0VkdhdDY0dkQyc1FnN3ZvbFhoYTRYQlAxNmVXU1RESXAzRk1LMmpwMGVR?oc=5",
+            "source": "Finanzen.net",
+            "published": "13.07., 00:00"
           },
           {
             "title": "SLVO ETF-Profil: Dividenden, Renditen (NASDAQ:SLVO) - TradingView",
             "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE13a0s0U0tGZmJWaWlBSVZ0cjBsdDRlamtFb09UVHVYR0RDb04yMjJpT3ZqdkZpTXBqMHk1cHR4cVhySHNQZTd5VjBMUXU1NXhnZ09fQ0p0ZTVVTHlPdVZVbVlkbkM0Zw?oc=5",
             "source": "TradingView",
             "published": "13.07., 19:36"
+          },
+          {
+            "title": "MSCI World Index: Aktuelle Analysen zum Welt-Index für ETF - Stiftung Warentest",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FYlFrd0VGbjBaX3NteWlDNUgtcjRYTzlmYzNBN2gwNUlFUGM3a0ZTdmc1cFdUREJueGU3Q2c0SUpDRUo0YmtHclNmeWNCdjZqX04tRHJBdHJjb1U?oc=5",
+            "source": "Stiftung Warentest",
+            "published": "10.07., 09:00"
           }
         ]
       }
@@ -1234,12 +1234,11 @@
         "summary": "Kaum Kursbewegung: Obwohl aktuelle Schlagzeilen gefunden wurden, ist die Tagesbewegung zu klein für eine sinnvolle Ursache-Wirkung-Aussage.",
         "themes": [
           "China/EM",
-          "Geopolitik/Sicherheit",
-          "Gewinne/Analysten"
+          "Geopolitik/Sicherheit"
         ],
         "bullets": [
           "Der Kurs liegt nahezu unverändert gegenüber dem letzten Schlusskurs.",
-          "Gefundene Nachrichten-Themen: China/EM, Geopolitik/Sicherheit, Gewinne/Analysten.",
+          "Gefundene Nachrichten-Themen: China/EM, Geopolitik/Sicherheit.",
           "Wichtigste gefundene Headlines: Wie die doppelte Aufnahme in den Russell 2000-Index bei Anterix (ATEX) das Investitionsprofil des Unternehmens verändert hat - simplywall.st | Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraETF."
         ],
         "headlines": [
@@ -1262,10 +1261,10 @@
             "published": "25.03., 08:00"
           },
           {
-            "title": "Small Caps Posted Their Best First Half Since 1991, Crushing The S&P 500 And Nasdaq: Why Analysts Think Rally Isn’t Over Yet - TradingView",
-            "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOTUVJNVNyR0pFbVk3QWdHV3ZmSHZINWVxaEdsbl95RFFHTnpyX3dzaG1KeXBFMXo4TnpoNElHWElYYTQzeERaYktYVnloLUZkNThKWkM3QmxjUHNkWk5ySHpZVndCU0d5ZzctWjdDRkRjLU9fV2VDVUFQc0VsbzhoWXFYNXYxYWdUS3pPOV9tckpCNGNNb2RQTy1xOWltX1RrMU1BM05BRmVxc3hpa25PV0w4dmRHQ085QmRDSE1NYU5ya3ZUS0pjOWdHR3hWd0xtV00za1pWaUpRdTRuQ3hUVXR5UUlGUnBHYlBCdHBMYnU0RVl5Y1VLVG9KSVllMl83OExtZDlXU0dJU1JxZTgw?oc=5",
-            "source": "TradingView",
-            "published": "09.07., 09:39"
+            "title": "Aktueller RUSSELL.SEP26 Kurs | Micro E-mini Russell 2000 Sep 26 Future] Stand & Chart - eToro",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE14QUJ4bVpaSHkzRTJ3c2hmWUhFekpyVGZDZS1fR19wenQ2M1RZanRlcmVaLW9CUUg2UFJvc2tzczlYN2Y5Q3I5T1k4QzRoa2gzMEJSSG10WWJPdw?oc=5",
+            "source": "eToro",
+            "published": "31.03., 17:19"
           }
         ]
       }
@@ -1278,16 +1277,16 @@
       "description": "Alphabet Inc. Class A",
       "price_decimals": 2,
       "last_date": "2026-07-15",
-      "last_close": 371.55499267578125,
+      "last_close": 370.9200134277344,
       "previous_close": 359.510009765625,
-      "change_abs": 12.04,
-      "change_pct": 3.35,
-      "change_5d_pct": 2.66,
-      "change_1m_pct": 3.3,
-      "change_3m_pct": 11.61,
+      "change_abs": 11.41,
+      "change_pct": 3.17,
+      "change_5d_pct": 2.49,
+      "change_1m_pct": 3.13,
+      "change_3m_pct": 11.42,
       "change_1y_pct": null,
-      "ytd_pct": 18.71,
-      "volatility_30d_pct": 33.81,
+      "ytd_pct": 18.5,
+      "volatility_30d_pct": 33.66,
       "sparkline": [
         {
           "date": "2026-03-06",
@@ -1647,7 +1646,7 @@
         },
         {
           "date": "2026-07-15",
-          "close": 371.55499267578125
+          "close": 370.9200134277344
         }
       ],
       "explanation": {
@@ -1655,12 +1654,13 @@
         "confidence": "niedrig",
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
-          "KI/Tech"
+          "KI/Tech",
+          "Regulierung"
         ],
         "bullets": [
-          "Der Kurs ist deutlich gestiegen: +3.35 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: KI/Tech.",
-          "Wichtigste gefundene Headlines: Alphabet Aktie: Google Cloud unter Aufsicht - Börse Express | Alphabet-Aktie legt mit Such- und Cloud-Geschäft zu - Ad-hoc-news.de."
+          "Der Kurs ist deutlich gestiegen: +3.17 % gegenüber dem vorherigen Schlusskurs.",
+          "Gefundene Nachrichten-Themen: KI/Tech, Regulierung.",
+          "Wichtigste gefundene Headlines: Alphabet Aktie: Google Cloud unter Aufsicht - Börse Express | Alphabet stock holds steady as AI and ads shape the outlook - Ad Hoc News."
         ],
         "headlines": [
           {
@@ -1670,22 +1670,22 @@
             "published": "13.07., 20:08"
           },
           {
-            "title": "Alphabet-Aktie legt mit Such- und Cloud-Geschäft zu - Ad-hoc-news.de",
-            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObzBCLWxJbUdMV3M2MFpEOC13aUdUeHdDQmJvWUhKQjVNZ2EtMTdYaElXSFpOLXlYWE1vTDRvckhzZTIyY3JjNDcxeDRhXzFCOWRVVDhrZF9qSmNIeFd3aWYySmdoaDhTaUk5eWhlQW9vdjdQcWlnNXRSWjRfNzl3VUI1emhDanZLSEhXOGNQcGxvcE9BRUZhU0RTY2dsUTFmT2U1QXBzSVo4aUx6cTdN?oc=5",
-            "source": "Ad-hoc-news.de",
-            "published": "15.07., 10:46"
+            "title": "Alphabet stock holds steady as AI and ads shape the outlook - Ad Hoc News",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbWM5Z29jSnBZajZPdmFxbGJickpsNlRuZ1JyWWdfRzdZRmRaX0lFbzllM1JaUTNUUm5GSmJnYzFNWlNiVWdQeGJheUYyTjJuZHhlbFdoRUUwQ1NpX0J5b1VHZjB3QWdTb0ZMXzdId1FRRGlwazBTQVBoV1I1Y2pDT0doQXJ0Rmc5N2hPMllMdlZrb1VSUGJ5VUcxdnEyOGZxQUFILWh1NXAtQWRsQWZIVUUtV0xjbTJqRGc?oc=5",
+            "source": "Ad Hoc News",
+            "published": "15.07., 20:50"
           },
           {
-            "title": "Gemma 4 E2B: Google bringt KI ohne Cloud auf Pixel 10 - BornCity",
-            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOGhrR3RMWFQ5dHNaUGlydk93bG1Wa0EzZ3EtNWFKOTliWUU2eVdZM3lPdVNUcEI2c0F6RG5idGF4cWNwWno4dTRfemtnWjFFLURqdXhfQVFhcTJVeDdxanNWakJrYWN3SlU0NS1lZENCcExjU3FHLXVaR3BtVlRrSzdTMkljUQ?oc=5",
+            "title": "Android 17: Google bringt KI ohne Cloud auf Millionen Geräte - BornCity",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTjdMNG1NZm5kQVlmMllRanlMY2VhYTlpcGRBeGxCSi1obmdUZmtwNmlmSHBKMWl4cV9jNGVRYXF4bVpJbkFMRGR3a3JvUk1CM2Q2bU9ZakxkTXBlcnFMMnQ0TFN2ajBXTUwtR1NibXZKbzVMSkZEZVVEekZNRWtCNEN3VHdWVjZHN3BqLWtNcWk?oc=5",
             "source": "BornCity",
-            "published": "15.07., 18:19"
+            "published": "15.07., 13:53"
           },
           {
-            "title": "On-Device-KI: Google bringt 2-Milliarden-Parameter-Modell auf Smartphones - heise online",
-            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTGtZaFdpS0NzMHdNczY4bmVza2tsQ1NSYUJoVm55Y0U4S1NMODlLMTVUU1ZiemVXSlcta09kU19WcWZueG96RXFkVXNfQlUwQmRJNHB0NDFyN21VZDA0bEVqRGhISVdlZmJVa3Q0djcySy1GdUhFTUdGUlMzX3pRMWpMMmxJMEpDXzNQYnNTYnJLQi0yTXpZX1lZaGZrUVEzLU9hNFRkUjA0QkJraWJScTFn?oc=5",
-            "source": "heise online",
-            "published": "15.07., 14:09"
+            "title": "Deal: Google AI Plus mit 74% Rabatt jetzt für nur 1,29 Euro - notebookcheck.com",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNLVBGaGZOQmY5NUtoR19uazNnTGk5aHdBNVlnSVJQN3hKR3MyMWtlU1lRY3ZxT2tLZDU1SjdhU3p1OC00MHRCQkpoZk01SFQtZExtc1FwcEFLSnRwa2RXVUZMcmVteG9WS1pFYVJ0UHpDaWVsVVlLTjlvZS14NTBNdGIxbE9KeXBBRjQ4azU5azFBZHhtS01vMUhwVWdvMWxYM2dibXln?oc=5",
+            "source": "notebookcheck.com",
+            "published": "25.06., 09:00"
           }
         ]
       }
@@ -1697,22 +1697,18 @@
       "currency": "USD/oz",
       "description": "Goldpreis, primär über Gold-Future, fallback XAU/USD",
       "price_decimals": 2,
-      "last_date": "2026-07-15",
-      "last_close": 4044.199951171875,
-      "previous_close": 4061.10009765625,
-      "change_abs": -16.9,
-      "change_pct": -0.42,
-      "change_5d_pct": -0.66,
-      "change_1m_pct": -4.05,
-      "change_3m_pct": -16.18,
+      "last_date": "2026-07-16",
+      "last_close": 4037.39990234375,
+      "previous_close": 4044.0,
+      "change_abs": -6.6,
+      "change_pct": -0.16,
+      "change_5d_pct": -2.26,
+      "change_1m_pct": -6.71,
+      "change_3m_pct": -15.89,
       "change_1y_pct": null,
-      "ytd_pct": -6.51,
-      "volatility_30d_pct": 27.71,
+      "ytd_pct": -6.66,
+      "volatility_30d_pct": 27.66,
       "sparkline": [
-        {
-          "date": "2026-03-06",
-          "close": 5146.10009765625
-        },
         {
           "date": "2026-03-09",
           "close": 5091.5
@@ -2067,7 +2063,11 @@
         },
         {
           "date": "2026-07-15",
-          "close": 4044.199951171875
+          "close": 4044.0
+        },
+        {
+          "date": "2026-07-16",
+          "close": 4037.39990234375
         }
       ],
       "explanation": {
@@ -2079,17 +2079,11 @@
           "US-Dollar"
         ],
         "bullets": [
-          "Der Kurs ist spürbar gefallen: -0.42 % gegenüber dem vorherigen Schlusskurs.",
+          "Der Kurs ist leicht gefallen: -0.16 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: Zinsen/Fed, US-Dollar.",
-          "Wichtigste gefundene Headlines: Gold: 4.018 Dollar halten den Kurs - Börse Express | Gold vor der Entscheidung: Hält die 4.000-Dollar-Marke? - BörsenNEWS.de."
+          "Wichtigste gefundene Headlines: Gold vor der Entscheidung: Hält die 4.000-Dollar-Marke? - BörsenNEWS.de | Gold unter Druck: Hält die Schicksalsmarke bei 4.000 Dollar? - finanzen.at."
         ],
         "headlines": [
-          {
-            "title": "Gold: 4.018 Dollar halten den Kurs - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQN0lUV05NSlFkUk9lNUsxVmtoZmhlbVoxWUhLcDUwWkdnWUlsZW1XeUFnVFN2Y01pSnNtLWdMclpUMWNqUEJRN3lXeWFrTU4yeVNoUHh6bmF1TFBoME9WNVRKaUZ0NkdycHFWV3hkalYyeG5lczRWS2dZcnJvSW5lVVU5NkotOVN3ajNlMw?oc=5",
-            "source": "Börse Express",
-            "published": "15.07., 18:00"
-          },
           {
             "title": "Gold vor der Entscheidung: Hält die 4.000-Dollar-Marke? - BörsenNEWS.de",
             "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeWFYUW9zVXRVci1QUmphWWdoNHhjLWtiUHNpbHY1ZUR2N0FRMEN6MzItbVpDMUlZaXNXLUZ1UVRuS2I1eldiUVMwLUVUUFlWcjk1aGkzQ012V2N2SVVTQ2NkQzBqR3pyUTlwT2dvS0tldnNySklJZTVPbFczeEpZalpYcUxhWlRKUXY2bjk0WTBqNzdtQmFXZjNXclhjb2ZVZ3UtNHh3Z0VMbzVRSzZrREltUUVBS1dfQS0zQ081Yw?oc=5",
@@ -2103,10 +2097,16 @@
             "published": "15.07., 18:30"
           },
           {
+            "title": "Goldpreis fällt um 3 %: Aktuelle Gold Prognose & Fed-News 🏛️ - XTB.com",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYkVMT2gwc3MyYVpPMnp0TExfaldfNm5zdW9MWGpfOVlGeTFrRDU3WXgzVmlfMVh0cWNRQ1ZlaC1ad0lCd05kOWUySE13QUtPa2xxLVN4ZWtaVXhpSnlGRGl5QlA0aElJLTJvRmUxZVQ5eXVnQ0w5dnl5TlR3enJvd3RMNEs1dmVGQ1lOMlNUc2tUX1ZmT3BoM0R0UklCUVU5Y1JaY1N3?oc=5",
+            "source": "XTB.com",
+            "published": "13.07., 19:12"
+          },
+          {
             "title": "Fed-Chef mit klarer Ansage: Wird das zum Problem für Gold und Aktien? - Börse Online",
-            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRGNTQ0tta3RNNjg2R3RibE9iM2JGam5lN2dZeE4waFRycnVZNmd6czZLdUpkRUJOaVZRSVJKSmdJdVpyOHE1Z09abHh1OUlOZEpYdDZJTksydG5VQ21oNHJFYVNVek95SlY1QkdDZjRRQnJxenBCOUxIOVk5cHZTYi1OUlhkT2RtTnRHOHJKb2R1aVVWdkEtRmNOeUcxSmk0VnAtbzl0NnJVM1l6RGZJNnUxNi1ud3hwZ2IxRGg1aXE5T1VEY2N2TlNrbVJCZw?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQb2RnYXdPZEdoRWZOSk4zMV9oakFOd3lLUTZLc1FuRVJQWWFnbjNZNk9VT0cyY0Q0V0VPYWptd3Z3bHpRR0RIZUJhVW1MM1VkSUhRM1hHYWtPQ0NRQk9WcnJGc3o5SE5TMXpIX09wNlJfMWZWX1VCLURvcDJwYXNwb2ZsclpWQU5SVWJYSGhnYmp5VzRaTDd5ckNLT0R2MTQxem5hNDNKNl92dGFmVlgxajUwQWJXM0FfbE5jX0dYSzZQVDNXRjM4aXZ6M3VsWlE?oc=5",
             "source": "Börse Online",
-            "published": "15.07., 16:00"
+            "published": "15.07., 16:02"
           }
         ]
       }
