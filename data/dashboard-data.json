@@ -1,8 +1,8 @@
 {
   "is_sample": false,
   "source": "Yahoo Finance Kursdaten + Google News RSS Kontext",
-  "generated_at_utc": "2026-07-17T17:09:17+00:00",
-  "generated_at_vienna": "17.07.2026, 19:09 Uhr",
+  "generated_at_utc": "2026-07-18T06:02:48+00:00",
+  "generated_at_vienna": "18.07.2026, 08:02 Uhr",
   "market_mood_internal": "risk-off",
   "assets": [
     {
@@ -1278,16 +1278,16 @@
       "description": "Alphabet Inc. Class A",
       "price_decimals": 2,
       "last_date": "2026-07-17",
-      "last_close": 346.3002014160156,
+      "last_close": 346.7699890136719,
       "previous_close": 354.4599914550781,
-      "change_abs": -8.16,
-      "change_pct": -2.3,
-      "change_5d_pct": -3.05,
-      "change_1m_pct": -7.22,
-      "change_3m_pct": 3.06,
+      "change_abs": -7.69,
+      "change_pct": -2.17,
+      "change_5d_pct": -2.91,
+      "change_1m_pct": -7.09,
+      "change_3m_pct": 3.2,
       "change_1y_pct": null,
-      "ytd_pct": 10.64,
-      "volatility_30d_pct": 34.83,
+      "ytd_pct": 10.79,
+      "volatility_30d_pct": 34.76,
       "sparkline": [
         {
           "date": "2026-03-10",
@@ -1647,7 +1647,7 @@
         },
         {
           "date": "2026-07-17",
-          "close": 346.3002014160156
+          "close": 346.7699890136719
         }
       ],
       "explanation": {
@@ -1658,11 +1658,17 @@
           "KI/Tech"
         ],
         "bullets": [
-          "Der Kurs ist deutlich gefallen: -2.30 % gegenüber dem vorherigen Schlusskurs.",
+          "Der Kurs ist deutlich gefallen: -2.17 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: KI/Tech.",
-          "Wichtigste gefundene Headlines: Cybersecurity: Google Cloud sinkt Erkennungszeit um 99,9 Prozent mit KI - BornCity | NotebookLM heißt jetzt Gemini Notebook - blog.google."
+          "Wichtigste gefundene Headlines: Die Alphabet-Inc.-Aktie zeigt nach starken Cloud-Zahlen Robustheit - ad-hoc-news.de | Cybersecurity: Google Cloud sinkt Erkennungszeit um 99,9 Prozent mit KI - BornCity."
         ],
         "headlines": [
+          {
+            "title": "Die Alphabet-Inc.-Aktie zeigt nach starken Cloud-Zahlen Robustheit - ad-hoc-news.de",
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUmpvbktmRlBsUGxoWXZOdzR1ZVlTdFdUTjFHQUh5X0UxTnROS0V6MXNpbkROTHpwa0pIdHNucGl6WjNONDFMUUJaUzNrSUFENzFQeXRBME9ES29xQ19qZmtKeWRnNTItaXdYVWJvVklIaUhUbldUU2FpanVDZmRheGtjN0FST293LVM2X3RoMjVCbmJ0NmFMYnR2MG14V1NrSDdJbURwaGVZcXJPR3A0Z3BHNEx0bzloMHJYdEc1TDUtdw?oc=5",
+            "source": "ad-hoc-news.de",
+            "published": "18.07., 05:25"
+          },
           {
             "title": "Cybersecurity: Google Cloud sinkt Erkennungszeit um 99,9 Prozent mit KI - BornCity",
             "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMGpVOExSUHA0WDRPSV9LUkFBc2tGWUhDV1hHb0xJU2gtbElockJkUlkyd1dzejdROW9wVGduTHNYZW9WejRSbG40dnNVX0hwdkxRWjBvcG9nZVY1SkpZYmR1dFZmTy0zWnZzaks0TXlDZXVqM3FBcjJCV3JHSXRTZXltY2M4TTdrZGVLLXRFZVZBYUFKSUh6bGpDcF8?oc=5",
@@ -1676,16 +1682,10 @@
             "published": "17.07., 10:02"
           },
           {
-            "title": "(3⁺) ALPHABET - Gemini-Verzögerung belastet - stock3",
-            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1YYWVfX3lTYVp6WnRMbi1fSGNFSGdnZjFSOXV0dWl2Ml9DUnhwNFR6dnlpN0NDUkw2MTc2UXB5ZXhKZENCVmFPWC1RY3hOWlJqb2dSUHZkYXlrbGNLaDNWTHdyU1RIenczTWptekpWemU3QXpUdmhQMDNn?oc=5",
-            "source": "stock3",
-            "published": "17.07., 08:30"
-          },
-          {
-            "title": "Gemini Notebook: Google tauft sein KI-Recherchetool NotebookLM um - heise online",
-            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNN01RenIyU3NVOWxIRG4xaVRmTDdaZ3UtcFlDSDlYeGI4RUlwcjFyaWRSd3lqeVFnSHRuTkpPU1dOZVNPUFUwdnB4MkVIcF9XTUZqcUQwRUVyb1ZBZXJiNWxGbkZvTS16Y2djQjk1TXo0NFhCTEI2UHhneDE3QU1PUFI4V2R1ekh3ZnBiOGRSM3RZNXNsVm5FZ3Y1cE5NOHlfNzJ3bjNKRQ?oc=5",
-            "source": "heise online",
-            "published": "17.07., 11:04"
+            "title": "Alphabet Aktie: Google Cloud unter Aufsicht - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQY1g5andpTjhsR2FfS1B1LXhxSzlLVFhVdEp2NjhxcGx1Vzk2WU9hckw0cGN5NFpEOERicHFyX2FXejFGOW9QUmNmVlV0VmpxZ0xpZnpEUkVjZGVDcmdTSW1SdHZXdHNNSlZaM21wSWpEZ0VuSlZXZDd4cjFmZkpPQlhpVFhlZGdiQnl3WElhTHFlQ2VBdEdSMFNR?oc=5",
+            "source": "Börse Express",
+            "published": "13.07., 20:08"
           }
         ]
       }
@@ -1698,16 +1698,16 @@
       "description": "Goldpreis, primär über Gold-Future, fallback XAU/USD",
       "price_decimals": 2,
       "last_date": "2026-07-17",
-      "last_close": 4020.0,
+      "last_close": 4012.699951171875,
       "previous_close": 3985.60009765625,
-      "change_abs": 34.4,
-      "change_pct": 0.86,
-      "change_5d_pct": -2.05,
-      "change_1m_pct": -7.18,
-      "change_3m_pct": -15.99,
+      "change_abs": 27.1,
+      "change_pct": 0.68,
+      "change_5d_pct": -2.23,
+      "change_1m_pct": -7.35,
+      "change_3m_pct": -16.15,
       "change_1y_pct": null,
-      "ytd_pct": -7.06,
-      "volatility_30d_pct": 27.96,
+      "ytd_pct": -7.23,
+      "volatility_30d_pct": 27.89,
       "sparkline": [
         {
           "date": "2026-03-10",
@@ -2067,7 +2067,7 @@
         },
         {
           "date": "2026-07-17",
-          "close": 4020.0
+          "close": 4012.699951171875
         }
       ],
       "explanation": {
@@ -2075,39 +2075,39 @@
         "confidence": "niedrig",
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
+          "Zinsen/Fed",
           "US-Dollar",
-          "Regulierung",
           "Geopolitik/Sicherheit"
         ],
         "bullets": [
-          "Der Kurs ist spürbar gestiegen: +0.86 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: US-Dollar, Regulierung, Geopolitik/Sicherheit.",
-          "Wichtigste gefundene Headlines: Gold: HSBC senkt 2026-Ziel auf 4.560 Dollar - Börse Express | Gold: Warum ich unter 4.000 Dollar nicht mehr shorte - Onvista."
+          "Der Kurs ist spürbar gestiegen: +0.68 % gegenüber dem vorherigen Schlusskurs.",
+          "Gefundene Nachrichten-Themen: Zinsen/Fed, US-Dollar, Geopolitik/Sicherheit.",
+          "Wichtigste gefundene Headlines: VanEck Gold Miners ETF: Gold unter 4.000 Dollar am 16. Juli - Börse Express | UBS sieht Gold bei 5.200 Dollar: Warum Tesoro Gold und Rio2 jetzt in den Fokus rücken - Wallstreet Online."
         ],
         "headlines": [
           {
-            "title": "Gold: HSBC senkt 2026-Ziel auf 4.560 Dollar - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUzlyakNSbF81UGxVZ00xalFzN1p5d2Jyd1RfYUw4MUswQzVRamJ2U0ktOUlYR25DbGhMMzI2NWlFdGZtd2szbUtscmQ0NEcwdTdJeURqUDhuX0NqRmxFNXVHaU42WWp2azFCaHB3TlNtMTlNb0N0N1VmYzI2ckdBOFFlWEFVV09uU21ySlZFUlU5VG1scnRmcw?oc=5",
+            "title": "VanEck Gold Miners ETF: Gold unter 4.000 Dollar am 16. Juli - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdG5iSm5UZkRrR2dBOVlib251NUFLRXZsdDlzc3FZRG8yR25wdDNjVThFTXVRTjhydnF2dlkwamxfYTFkNlNuS2ZPdm9fbWh6N0lINnJPRmtZM1pVVnl4VE01d3dhRGZuODFDbF9fSjNpZkRTZ0NBTTAtYWZ4dkRBdFZkdVJBN0pCX3VFaTZGN1VxOXlYRFc3eHE2eUV0UDNSZ0JmazVzUGtaLWZS?oc=5",
             "source": "Börse Express",
-            "published": "17.07., 04:52"
+            "published": "17.07., 22:04"
+          },
+          {
+            "title": "UBS sieht Gold bei 5.200 Dollar: Warum Tesoro Gold und Rio2 jetzt in den Fokus rücken - Wallstreet Online",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTGhleWJxM19HSHNfOE51R0R0MWJJOEJ5ZXF4ZkZhU2lYQzRkc01OZV8tSnRtRURFMjNqZ1lsS2JiV3h0M1dtX2ZjeWpqUnRGS1RjZ0pLQVdSRno0VkJqdTZiNVdwTGhuRUJkVWRPTm5vNzFrYTN2ZF9jNktxMFREOXhUVlBfdjFJSGdvaml4aGgxbGRCNFhfMHFuSDFKNW1qZHg2RzVEUQ?oc=5",
+            "source": "Wallstreet Online",
+            "published": "18.07., 06:03"
+          },
+          {
+            "title": "Goldpreis fällt um 3 %: Aktuelle Gold Prognose & Fed-News 🏛️ - XTB.com",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYkVMT2gwc3MyYVpPMnp0TExfaldfNm5zdW9MWGpfOVlGeTFrRDU3WXgzVmlfMVh0cWNRQ1ZlaC1ad0lCd05kOWUySE13QUtPa2xxLVN4ZWtaVXhpSnlGRGl5QlA0aElJLTJvRmUxZVQ5eXVnQ0w5dnl5TlR3enJvd3RMNEs1dmVGQ1lOMlNUc2tUX1ZmT3BoM0R0UklCUVU5Y1JaY1N3?oc=5",
+            "source": "XTB.com",
+            "published": "13.07., 19:12"
           },
           {
             "title": "Gold: Warum ich unter 4.000 Dollar nicht mehr shorte - Onvista",
             "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWksxRktPQkNCOXRGcnRQNWRJa1VJY3B1WWpkb3I4R01JY0tuUFVHc0hFcW9GcDRGV0d4SWZWUGtKM2hSZ3VoRGdWRzZmOGw0Y2N3eHpDT2xwalhENTA4VURfTnBGRTZqakxLVVc3SEpicDdjMVlrWDlrdXpLUldFWHhQb3M1ZXFZUXBPUzVjSTdkSWJ1dVlwMkIxMWpOdTU5LVRyWVRaQThYMWJ1cnFUMQ?oc=5",
             "source": "Onvista",
             "published": "17.07., 16:02"
-          },
-          {
-            "title": "Gold unter der 4.000er-Marke – wie weit kann das Edelmetall noch fallen? - Der Aktionär",
-            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcWNHMHJHcHdhZnZrNUU4ZThJbnltaHIxNGhmM3hoT1FMaXpFd251MG1mSTA5ekxzV3F4bDNhNl9TYVlGeVBzY0xzX3RpVVZNUnZZUGdKN3drd19VU2FDUzFJMWt6eVpQWHdhOWVITXZGYzZ6Z1JwT1pLbjdfOVp4d3NpYnFUZDVkdXNTbFRFVlJXUzlUcEJYbGxTenZ0dlFRbHVKX0diWmR4TDlfV1V0WnRseXZsb1hEaEdZcGJFS3JoeHlRWE9nNnpMb21FUQ?oc=5",
-            "source": "Der Aktionär",
-            "published": "17.07., 10:43"
-          },
-          {
-            "title": "Goldpreis: Erneut unter Marke von 4.000 Dollar abgerutscht - Finanzen.net",
-            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZ3BqaG9wWkVHYjFLNFpDVENPSzU4Y1VsQUduUkhQQ0Y2UW1YdWVJQUdkSzROU19rVnFCWkpDdEU1ai1WSHdKd2d2aUF3TWI4QUFtalVzSDNWcDQ5SUlSUTJUS3d0aXd6UUFYR0h0T3ZXN0swWk1jX0F5LXZQX3duNnV0Y01WQU1OQzhudXQxVlZGNE10TFhxZVhoQVZrNmxUQ2JoWjhvaFFfUUYzRmdkV2czdnpvNUJBUzBoVE5xTFdoMEl0UkdYdjZuN1ZJaEXSAboBQVVfeXFMTkxLdjJtM0Z1eW80UWlmYkVWTS1veXVzU19TNzRwY0h4WW80Q0hjUW00TTdDdDFyQTdYNVNOYTVNLUppMlJDTFNDZXRZT0o0UVQ1aTRpV1QwRThfQk1xRHdEQUxZYnBBM2xCb21pVUhCenlBb0ZTbFYwV1FJQWZBeWZHb2…",
-            "source": "Finanzen.net",
-            "published": "17.07., 07:25"
           }
         ]
       }
