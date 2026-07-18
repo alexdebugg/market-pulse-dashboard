@@ -1,8 +1,8 @@
 {
   "is_sample": false,
   "source": "Yahoo Finance Kursdaten + Google News RSS Kontext",
-  "generated_at_utc": "2026-07-18T06:02:48+00:00",
-  "generated_at_vienna": "18.07.2026, 08:02 Uhr",
+  "generated_at_utc": "2026-07-18T16:55:41+00:00",
+  "generated_at_vienna": "18.07.2026, 18:55 Uhr",
   "market_mood_internal": "risk-off",
   "assets": [
     {
@@ -387,40 +387,40 @@
       ],
       "explanation": {
         "direction": "gefallen",
-        "confidence": "mittel",
-        "summary": "Plausibler Nachrichtenbezug: Der Kurs ist gefallen und die gefundenen Schlagzeilen enthalten überwiegend belastend wirkende Formulierungen. Die Quellen passen damit zur Richtung, beweisen aber keine Kausalität.",
+        "confidence": "niedrig",
+        "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
-          "Geopolitik/Sicherheit"
+          "Regulierung"
         ],
         "bullets": [
           "Der Kurs ist deutlich gefallen: -1.09 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: Geopolitik/Sicherheit.",
-          "Wichtigste gefundene Headlines: Leverage Shares -5x Short Nasdaq 100 ETP Securities | XS3373449761 | A4AU1Y - extraETF | SLVO ETF-Profil: Dividenden, Renditen (NASDAQ:SLVO) - TradingView."
+          "Gefundene Nachrichten-Themen: Regulierung.",
+          "Wichtigste gefundene Headlines: Leverage Shares 3x Long S&P 500 ETP Securities - Finanzen.net | CFTC-Daten zeigen: Netto-Short-Positionen im S&P 500 schrumpfen, Positionierung nähert sich der Neutralität - VT Markets."
         ],
         "headlines": [
+          {
+            "title": "Leverage Shares 3x Long S&P 500 ETP Securities - Finanzen.net",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcjk5QmVSOW40OS1uYy04TnJnTFdGM3FuSF9pUUNkMXp6WU9EQ3JmVVRmSXlvOHJSVG9MbVM2alhfVUlTYlk2ZEJvajMxRXFscjVKZ2hjQ2xDMktnSkljRkJNRDR6U00wOVVxdmtBYUJ3ZzV1ajNKaGQ4MlRzODBmRG1mMVdTZVVZTDZfU0EyaG0?oc=5",
+            "source": "Finanzen.net",
+            "published": "18.07., 14:55"
+          },
+          {
+            "title": "CFTC-Daten zeigen: Netto-Short-Positionen im S&P 500 schrumpfen, Positionierung nähert sich der Neutralität - VT Markets",
+            "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZWI3NnloY0lKQ05mMDhvSGFnM1o0RFZkN3BJUHRFX3Vvc2gtQ3FGaHFlejF3anFsel9SSERSMlIwNXFLUkppRkt1TWRDRGFHR2Y4RnlKcjZHVDJCZTVBMDdjNDFaNGlDcGlzYW5oeW5JbXFoWXlzNEJDSzlvbFpndWxuVmE2dWkwS0RTMFJPSXhBNFA2YmhHU21GUE9vRW10U0ZCR0g0X2hNY3BFb1huamtmYnFYbWxTeW14YnVFS3dEVDM3RVVnWmxqaktOeVBDY2RGd2VUM3RsVmlaZW95ZE45YXQ?oc=5",
+            "source": "VT Markets",
+            "published": "18.07., 11:15"
+          },
+          {
+            "title": "Leverage Shares 3x Long Nasdaq 100 ETP Securities - Finanzen.net",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORVhxWVRnb2hIVXR6N1NYOThMVl9jTGpCVjlJcmF1V09WSVNuTU5JNGpkRy05Tmw2M0pGZXZ4bFpMbS1qaVhEc1Z5NWxLU2IyT1lvejhBYTR2WG5vaklkTTZWOTBicGxhOG83RmpXWi1JOHdCSFpuN0lyU1NZSThGOU9BVnJWX3F3WmpLVEFPSC1mdnJTbFE?oc=5",
+            "source": "Finanzen.net",
+            "published": "18.07., 01:46"
+          },
           {
             "title": "Leverage Shares -5x Short Nasdaq 100 ETP Securities | XS3373449761 | A4AU1Y - extraETF",
             "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmZUhjNmxQU3JodWVkRkFCMUR2M3d0Y0x6NTdOTDNIU0dvWFB2OFBGaUN4UktyMTdaV3hhQ0JsWG1mZUJPSkI5dnJYOC1sRXM1cVNRVElQaFZ5QmRY?oc=5",
             "source": "extraETF",
             "published": "19.06., 18:15"
-          },
-          {
-            "title": "SLVO ETF-Profil: Dividenden, Renditen (NASDAQ:SLVO) - TradingView",
-            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE13a0s0U0tGZmJWaWlBSVZ0cjBsdDRlamtFb09UVHVYR0RDb04yMjJpT3ZqdkZpTXBqMHk1cHR4cVhySHNQZTd5VjBMUXU1NXhnZ09fQ0p0ZTVVTHlPdVZVbVlkbkM0Zw?oc=5",
-            "source": "TradingView",
-            "published": "13.07., 19:36"
-          },
-          {
-            "title": "MSCI World Index: Aktuelle Analysen zum Welt-Index für ETF - Stiftung Warentest",
-            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FYlFrd0VGbjBaX3NteWlDNUgtcjRYTzlmYzNBN2gwNUlFUGM3a0ZTdmc1cFdUREJueGU3Q2c0SUpDRUo0YmtHclNmeWNCdjZqX04tRHJBdHJjb1U?oc=5",
-            "source": "Stiftung Warentest",
-            "published": "10.07., 09:00"
-          },
-          {
-            "title": "LONG TERM Investors in CoreWeave, Inc. (NASDAQ: CRWV) shares should contact the Shareholders Foundation in connection with Lawsuit - IT-TIM…",
-            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNblpmX1B3RURndHBBa3E0RWxKdk9hVE12dDQ0bWlBbVpkRjM5Sm9mcXdVQ09NV05BX01iR2xGZ3dQYWtSNVZkQmE4LUJBZmNXUXJmVjFtR3d5VnhKMGxLaV92RzZKTm13M29qVExkd2lNNWlwV29TVVJQVEtSOFcxZGRaNnhNcndqT2xzVnlWRlJmdl80RV9EUlR0RlMyVUNqNERsdTdLek1OcVNBd2ttY3JwS3dHdjctUHdpUU5CZnJVS0ZkdUhtNXZzU3dkWmVYX3FDNURPVjJmNjk3czlvOTBqV1lfaEVIRUJiWU1sRnR0ZXU3?oc=5",
-            "source": "IT-TIMES",
-            "published": "14.07., 09:25"
           }
         ]
       }
@@ -1240,7 +1240,7 @@
         "bullets": [
           "Der Kurs ist deutlich gefallen: -1.17 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: Regulierung, China/EM, Geopolitik/Sicherheit.",
-          "Wichtigste gefundene Headlines: Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraETF | Wie die doppelte Aufnahme in den Russell 2000-Index bei Anterix (ATEX) das Investitionsprofil des Unternehmens verändert hat - simplywall.st."
+          "Wichtigste gefundene Headlines: Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraETF | Hat die defensive Neuausrichtung von Blue Bird im Russell 2000 gerade das Anlagekonzept von BLBD im Small-Cap-Bereich neu definiert? - simp…."
         ],
         "headlines": [
           {
@@ -1250,10 +1250,10 @@
             "published": "28.04., 10:37"
           },
           {
-            "title": "Wie die doppelte Aufnahme in den Russell 2000-Index bei Anterix (ATEX) das Investitionsprofil des Unternehmens verändert hat - simplywall.st",
-            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMzJiNm5NT2pkb1M0Zlp6RU54VHZPN0ZLdFdUNUNfdUxYNmtWakpiU0NrdDRlalUxeUdJajVnUldyZTdSREkxUW9LcVZXQmU1TnZmVzRoUWZ2bXVIY1hFeHI3YTd3NUFzVmdLYVdwY2lfWlNXbXZINThLVGJrM2o5dk1rOE42V1BHYWRaWndQTEdURGhpSkVVYUlfbzRCSU5WdUJHbHA2ZnJlV0cxb1ptd1FCU1VXSzRLSF9DY1hJenpJNm9pRi1z0gHMAUFVX3lxTFBmNWROM0U0enJjNVV5dkphQUYycWpFQ0ZfTHoxWUtYVnBhWk1PM1JkMUNaTjlaTmowM3Q4UnFMdnFaUGFhb1RrVk9sZ0RpcktwekpHU1J3bExvZkVHdGhUR2MzbGhXNGg0UTl5SEtDT2s3NXBDbzU1M1h0dmduWFpjOGZOVF9JWjM1Qy…",
+            "title": "Hat die defensive Neuausrichtung von Blue Bird im Russell 2000 gerade das Anlagekonzept von BLBD im Small-Cap-Bereich neu definiert? - simp…",
+            "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNnZKWTNMYkN0MVk4a01NakxqWFAzVWE5NW5WOTZWenF3c0ozZnlhQURNVXlVSEl4Um8tMHlpNzVub1lUSndWVkxuVGZSc283SWI3SFZhMnpzbmY5RkJoNl9iYnNLR0J6WDZUcEJFM1h1SWVDejI3dEI1RFB0Rkdvb1ljZTJZTE9uS1FEa0ZaSGZXRUVkVURKNVdqWHRsblZ6TmtkZGh3amx0d19RdGkzNVk2YVhTbHFNU2VzQ1FTUFI1ajdDeTU2VWNpMUF1ZnRidEHSAdcBQVVfeXFMTUFoSFlqenFjVDByUTVXbF9zYUhNX3hON01FcThnV3hTOVk5d2FmaDl4Q01KUF9zc1U4cVE0SGRvaTdmNkVuNUpJanlwXy1nbTBkdVk3bnJRQzk1R3BscjlZcnEzSVFZODlCQ1BsdElxbGc4V25yMFZhejBkQW1BdH…",
             "source": "simplywall.st",
-            "published": "10.07., 16:34"
+            "published": "08.07., 09:16"
           },
           {
             "title": "„Disziplin schlägt Glamour“ – Warum AllianzGI mit systematischem Faktor-Investing jetzt auf US Small Caps setzt - e-fundresearch.com",
@@ -1660,7 +1660,7 @@
         "bullets": [
           "Der Kurs ist deutlich gefallen: -2.17 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: KI/Tech.",
-          "Wichtigste gefundene Headlines: Die Alphabet-Inc.-Aktie zeigt nach starken Cloud-Zahlen Robustheit - ad-hoc-news.de | Cybersecurity: Google Cloud sinkt Erkennungszeit um 99,9 Prozent mit KI - BornCity."
+          "Wichtigste gefundene Headlines: Die Alphabet-Inc.-Aktie zeigt nach starken Cloud-Zahlen Robustheit - ad-hoc-news.de | Alphabet Aktie: Google Cloud unter Aufsicht - Börse Express."
         ],
         "headlines": [
           {
@@ -1670,10 +1670,10 @@
             "published": "18.07., 05:25"
           },
           {
-            "title": "Cybersecurity: Google Cloud sinkt Erkennungszeit um 99,9 Prozent mit KI - BornCity",
-            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMGpVOExSUHA0WDRPSV9LUkFBc2tGWUhDV1hHb0xJU2gtbElockJkUlkyd1dzejdROW9wVGduTHNYZW9WejRSbG40dnNVX0hwdkxRWjBvcG9nZVY1SkpZYmR1dFZmTy0zWnZzaks0TXlDZXVqM3FBcjJCV3JHSXRTZXltY2M4TTdrZGVLLXRFZVZBYUFKSUh6bGpDcF8?oc=5",
-            "source": "BornCity",
-            "published": "17.07., 16:49"
+            "title": "Alphabet Aktie: Google Cloud unter Aufsicht - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQY1g5andpTjhsR2FfS1B1LXhxSzlLVFhVdEp2NjhxcGx1Vzk2WU9hckw0cGN5NFpEOERicHFyX2FXejFGOW9QUmNmVlV0VmpxZ0xpZnpEUkVjZGVDcmdTSW1SdHZXdHNNSlZaM21wSWpEZ0VuSlZXZDd4cjFmZkpPQlhpVFhlZGdiQnl3WElhTHFlQ2VBdEdSMFNR?oc=5",
+            "source": "Börse Express",
+            "published": "13.07., 20:08"
           },
           {
             "title": "NotebookLM heißt jetzt Gemini Notebook - blog.google",
@@ -1682,10 +1682,10 @@
             "published": "17.07., 10:02"
           },
           {
-            "title": "Alphabet Aktie: Google Cloud unter Aufsicht - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQY1g5andpTjhsR2FfS1B1LXhxSzlLVFhVdEp2NjhxcGx1Vzk2WU9hckw0cGN5NFpEOERicHFyX2FXejFGOW9QUmNmVlV0VmpxZ0xpZnpEUkVjZGVDcmdTSW1SdHZXdHNNSlZaM21wSWpEZ0VuSlZXZDd4cjFmZkpPQlhpVFhlZGdiQnl3WElhTHFlQ2VBdEdSMFNR?oc=5",
-            "source": "Börse Express",
-            "published": "13.07., 20:08"
+            "title": "Grok Build CLI lud komplette ganze Git-Repositorys in einen Google Cloud-Bucket hoch - BornCity",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZHBJVzhDYzNudGU0WE9kYlRTQmRQTkdyazUwN0x4a2RrOHFvbGhyUjY0LVhIYjY2eGNoVEswYmloYU1SQlo2Unh5YVAwM3dteDRad29naHJNd0loX2lJQUxsQXVXT19VbTlUWmlVTEhVd3lVSEZNWGx3cTViSXBpVjQwdV9RaE0zNURoaDVSMnJZRVhJd25SbmJ4ckZGaVJtNkRpVHVnODZINFlyNU9YcXJtSWxIWEpjTHFwLTd1QQ?oc=5",
+            "source": "BornCity",
+            "published": "17.07., 00:17"
           }
         ]
       }
@@ -2095,7 +2095,7 @@
             "title": "UBS sieht Gold bei 5.200 Dollar: Warum Tesoro Gold und Rio2 jetzt in den Fokus rücken - Wallstreet Online",
             "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTGhleWJxM19HSHNfOE51R0R0MWJJOEJ5ZXF4ZkZhU2lYQzRkc01OZV8tSnRtRURFMjNqZ1lsS2JiV3h0M1dtX2ZjeWpqUnRGS1RjZ0pLQVdSRno0VkJqdTZiNVdwTGhuRUJkVWRPTm5vNzFrYTN2ZF9jNktxMFREOXhUVlBfdjFJSGdvaml4aGgxbGRCNFhfMHFuSDFKNW1qZHg2RzVEUQ?oc=5",
             "source": "Wallstreet Online",
-            "published": "18.07., 06:03"
+            "published": "18.07., 06:04"
           },
           {
             "title": "Goldpreis fällt um 3 %: Aktuelle Gold Prognose & Fed-News 🏛️ - XTB.com",
@@ -2104,10 +2104,10 @@
             "published": "13.07., 19:12"
           },
           {
-            "title": "Gold: Warum ich unter 4.000 Dollar nicht mehr shorte - Onvista",
-            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWksxRktPQkNCOXRGcnRQNWRJa1VJY3B1WWpkb3I4R01JY0tuUFVHc0hFcW9GcDRGV0d4SWZWUGtKM2hSZ3VoRGdWRzZmOGw0Y2N3eHpDT2xwalhENTA4VURfTnBGRTZqakxLVVc3SEpicDdjMVlrWDlrdXpLUldFWHhQb3M1ZXFZUXBPUzVjSTdkSWJ1dVlwMkIxMWpOdTU5LVRyWVRaQThYMWJ1cnFUMQ?oc=5",
-            "source": "Onvista",
-            "published": "17.07., 16:02"
+            "title": "Gold vor der Entscheidung: Hält die 4.000-Dollar-Marke? - BörsenNEWS.de",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeWFYUW9zVXRVci1QUmphWWdoNHhjLWtiUHNpbHY1ZUR2N0FRMEN6MzItbVpDMUlZaXNXLUZ1UVRuS2I1eldiUVMwLUVUUFlWcjk1aGkzQ012V2N2SVVTQ2NkQzBqR3pyUTlwT2dvS0tldnNySklJZTVPbFczeEpZalpYcUxhWlRKUXY2bjk0WTBqNzdtQmFXZjNXclhjb2ZVZ3UtNHh3Z0VMbzVRSzZrREltUUVBS1dfQS0zQ081Yw?oc=5",
+            "source": "BörsenNEWS.de",
+            "published": "15.07., 17:08"
           }
         ]
       }
