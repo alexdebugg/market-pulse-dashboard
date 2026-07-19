@@ -1,8 +1,8 @@
 {
   "is_sample": false,
   "source": "Yahoo Finance Kursdaten + Google News RSS Kontext",
-  "generated_at_utc": "2026-07-18T16:55:41+00:00",
-  "generated_at_vienna": "18.07.2026, 18:55 Uhr",
+  "generated_at_utc": "2026-07-19T06:27:56+00:00",
+  "generated_at_vienna": "19.07.2026, 08:27 Uhr",
   "market_mood_internal": "risk-off",
   "assets": [
     {
@@ -389,13 +389,11 @@
         "direction": "gefallen",
         "confidence": "niedrig",
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
-        "themes": [
-          "Regulierung"
-        ],
+        "themes": [],
         "bullets": [
           "Der Kurs ist deutlich gefallen: -1.09 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: Regulierung.",
-          "Wichtigste gefundene Headlines: Leverage Shares 3x Long S&P 500 ETP Securities - Finanzen.net | CFTC-Daten zeigen: Netto-Short-Positionen im S&P 500 schrumpfen, Positionierung nähert sich der Neutralität - VT Markets."
+          "Gefundene Nachrichten-Themen: keine klaren Themen erkannt.",
+          "Wichtigste gefundene Headlines: Leverage Shares 3x Long S&P 500 ETP Securities - Finanzen.net | Leverage Shares -5x Short Nasdaq 100 ETP Securities | XS3373449761 | A4AU1Y - extraETF."
         ],
         "headlines": [
           {
@@ -405,10 +403,10 @@
             "published": "18.07., 14:55"
           },
           {
-            "title": "CFTC-Daten zeigen: Netto-Short-Positionen im S&P 500 schrumpfen, Positionierung nähert sich der Neutralität - VT Markets",
-            "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZWI3NnloY0lKQ05mMDhvSGFnM1o0RFZkN3BJUHRFX3Vvc2gtQ3FGaHFlejF3anFsel9SSERSMlIwNXFLUkppRkt1TWRDRGFHR2Y4RnlKcjZHVDJCZTVBMDdjNDFaNGlDcGlzYW5oeW5JbXFoWXlzNEJDSzlvbFpndWxuVmE2dWkwS0RTMFJPSXhBNFA2YmhHU21GUE9vRW10U0ZCR0g0X2hNY3BFb1huamtmYnFYbWxTeW14YnVFS3dEVDM3RVVnWmxqaktOeVBDY2RGd2VUM3RsVmlaZW95ZE45YXQ?oc=5",
-            "source": "VT Markets",
-            "published": "18.07., 11:15"
+            "title": "Leverage Shares -5x Short Nasdaq 100 ETP Securities | XS3373449761 | A4AU1Y - extraETF",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmZUhjNmxQU3JodWVkRkFCMUR2M3d0Y0x6NTdOTDNIU0dvWFB2OFBGaUN4UktyMTdaV3hhQ0JsWG1mZUJPSkI5dnJYOC1sRXM1cVNRVElQaFZ5QmRY?oc=5",
+            "source": "extraETF",
+            "published": "19.06., 18:15"
           },
           {
             "title": "Leverage Shares 3x Long Nasdaq 100 ETP Securities - Finanzen.net",
@@ -417,10 +415,10 @@
             "published": "18.07., 01:46"
           },
           {
-            "title": "Leverage Shares -5x Short Nasdaq 100 ETP Securities | XS3373449761 | A4AU1Y - extraETF",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmZUhjNmxQU3JodWVkRkFCMUR2M3d0Y0x6NTdOTDNIU0dvWFB2OFBGaUN4UktyMTdaV3hhQ0JsWG1mZUJPSkI5dnJYOC1sRXM1cVNRVElQaFZ5QmRY?oc=5",
-            "source": "extraETF",
-            "published": "19.06., 18:15"
+            "title": "SLVO ETF-Profil: Dividenden, Renditen (NASDAQ:SLVO) - TradingView",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE13a0s0U0tGZmJWaWlBSVZ0cjBsdDRlamtFb09UVHVYR0RDb04yMjJpT3ZqdkZpTXBqMHk1cHR4cVhySHNQZTd5VjBMUXU1NXhnZ09fQ0p0ZTVVTHlPdVZVbVlkbkM0Zw?oc=5",
+            "source": "TradingView",
+            "published": "13.07., 19:36"
           }
         ]
       }
@@ -1660,20 +1658,14 @@
         "bullets": [
           "Der Kurs ist deutlich gefallen: -2.17 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: KI/Tech.",
-          "Wichtigste gefundene Headlines: Die Alphabet-Inc.-Aktie zeigt nach starken Cloud-Zahlen Robustheit - ad-hoc-news.de | Alphabet Aktie: Google Cloud unter Aufsicht - Börse Express."
+          "Wichtigste gefundene Headlines: MSCI World ETF: Alphabet-Zahlen am 22. Juli - Börse Express | NotebookLM heißt jetzt Gemini Notebook - blog.google."
         ],
         "headlines": [
           {
-            "title": "Die Alphabet-Inc.-Aktie zeigt nach starken Cloud-Zahlen Robustheit - ad-hoc-news.de",
-            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUmpvbktmRlBsUGxoWXZOdzR1ZVlTdFdUTjFHQUh5X0UxTnROS0V6MXNpbkROTHpwa0pIdHNucGl6WjNONDFMUUJaUzNrSUFENzFQeXRBME9ES29xQ19qZmtKeWRnNTItaXdYVWJvVklIaUhUbldUU2FpanVDZmRheGtjN0FST293LVM2X3RoMjVCbmJ0NmFMYnR2MG14V1NrSDdJbURwaGVZcXJPR3A0Z3BHNEx0bzloMHJYdEc1TDUtdw?oc=5",
-            "source": "ad-hoc-news.de",
-            "published": "18.07., 05:25"
-          },
-          {
-            "title": "Alphabet Aktie: Google Cloud unter Aufsicht - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQY1g5andpTjhsR2FfS1B1LXhxSzlLVFhVdEp2NjhxcGx1Vzk2WU9hckw0cGN5NFpEOERicHFyX2FXejFGOW9QUmNmVlV0VmpxZ0xpZnpEUkVjZGVDcmdTSW1SdHZXdHNNSlZaM21wSWpEZ0VuSlZXZDd4cjFmZkpPQlhpVFhlZGdiQnl3WElhTHFlQ2VBdEdSMFNR?oc=5",
+            "title": "MSCI World ETF: Alphabet-Zahlen am 22. Juli - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSzlxRFN5VVJGbk9WZ1FaR2V1elRFVENpekUwTERkamVsQmltRWluMXFIVFRhMkZqcnozVHdaQnR2SUhFWEo2M1dpMnJnSmdjM2t1ay1nNExPMnRxdXBjZTU0bnJWd0ZiQmFuSXlveEw4OVRmZllhSjlRdkdqSGFhYVJKdUZiYzkyeEJ2MUc2OXpkRENWQ3plNQ?oc=5",
             "source": "Börse Express",
-            "published": "13.07., 20:08"
+            "published": "19.07., 03:48"
           },
           {
             "title": "NotebookLM heißt jetzt Gemini Notebook - blog.google",
@@ -1686,6 +1678,12 @@
             "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZHBJVzhDYzNudGU0WE9kYlRTQmRQTkdyazUwN0x4a2RrOHFvbGhyUjY0LVhIYjY2eGNoVEswYmloYU1SQlo2Unh5YVAwM3dteDRad29naHJNd0loX2lJQUxsQXVXT19VbTlUWmlVTEhVd3lVSEZNWGx3cTViSXBpVjQwdV9RaE0zNURoaDVSMnJZRVhJd25SbmJ4ckZGaVJtNkRpVHVnODZINFlyNU9YcXJtSWxIWEpjTHFwLTd1QQ?oc=5",
             "source": "BornCity",
             "published": "17.07., 00:17"
+          },
+          {
+            "title": "Google Maps Gets Practical AI Update - Vienna.at",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBiU0xwU0V5YlVyd3NKTXExRjNiSnFESHEtcW0xT2NqSmd2RVVZN2N0SHJDVDlDelI2VXZVQWdpejVqelU1YkdvamotaGp3c3lraHl1NTVhVzhBUVJINXFyNTF0TGdud0hHbGlTaEN6VGhOU1JrUEE?oc=5",
+            "source": "Vienna.at",
+            "published": "16.07., 21:41"
           }
         ]
       }
@@ -1698,16 +1696,16 @@
       "description": "Goldpreis, primär über Gold-Future, fallback XAU/USD",
       "price_decimals": 2,
       "last_date": "2026-07-17",
-      "last_close": 4012.699951171875,
+      "last_close": 4018.800048828125,
       "previous_close": 3985.60009765625,
-      "change_abs": 27.1,
-      "change_pct": 0.68,
-      "change_5d_pct": -2.23,
-      "change_1m_pct": -7.35,
-      "change_3m_pct": -16.15,
+      "change_abs": 33.2,
+      "change_pct": 0.83,
+      "change_5d_pct": -2.08,
+      "change_1m_pct": -7.21,
+      "change_3m_pct": -16.02,
       "change_1y_pct": null,
-      "ytd_pct": -7.23,
-      "volatility_30d_pct": 27.89,
+      "ytd_pct": -7.09,
+      "volatility_30d_pct": 27.95,
       "sparkline": [
         {
           "date": "2026-03-10",
@@ -2067,7 +2065,7 @@
         },
         {
           "date": "2026-07-17",
-          "close": 4012.699951171875
+          "close": 4018.800048828125
         }
       ],
       "explanation": {
@@ -2076,26 +2074,27 @@
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
           "Zinsen/Fed",
+          "Inflation",
           "US-Dollar",
-          "Geopolitik/Sicherheit"
+          "Regulierung"
         ],
         "bullets": [
-          "Der Kurs ist spürbar gestiegen: +0.68 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: Zinsen/Fed, US-Dollar, Geopolitik/Sicherheit.",
-          "Wichtigste gefundene Headlines: VanEck Gold Miners ETF: Gold unter 4.000 Dollar am 16. Juli - Börse Express | UBS sieht Gold bei 5.200 Dollar: Warum Tesoro Gold und Rio2 jetzt in den Fokus rücken - Wallstreet Online."
+          "Der Kurs ist spürbar gestiegen: +0.83 % gegenüber dem vorherigen Schlusskurs.",
+          "Gefundene Nachrichten-Themen: Zinsen/Fed, Inflation, US-Dollar, Regulierung.",
+          "Wichtigste gefundene Headlines: Gold-Comeback auf 5.200 Dollar? Warum North Peak auf einen neuen Nevada-Zyklus setzt - Wallstreet Online | Gold: Inflationsschock schlägt Kriegsangst - Börse Express."
         ],
         "headlines": [
           {
-            "title": "VanEck Gold Miners ETF: Gold unter 4.000 Dollar am 16. Juli - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdG5iSm5UZkRrR2dBOVlib251NUFLRXZsdDlzc3FZRG8yR25wdDNjVThFTXVRTjhydnF2dlkwamxfYTFkNlNuS2ZPdm9fbWh6N0lINnJPRmtZM1pVVnl4VE01d3dhRGZuODFDbF9fSjNpZkRTZ0NBTTAtYWZ4dkRBdFZkdVJBN0pCX3VFaTZGN1VxOXlYRFc3eHE2eUV0UDNSZ0JmazVzUGtaLWZS?oc=5",
-            "source": "Börse Express",
-            "published": "17.07., 22:04"
+            "title": "Gold-Comeback auf 5.200 Dollar? Warum North Peak auf einen neuen Nevada-Zyklus setzt - Wallstreet Online",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbkttbllVYm5XYmZjNGxTVjRPQ01ZQnNrLXlQWkhsU1p1Q2RqV3E4NE9YeWxqUzExQ3lzSkRJRklQcGNJTHR4RWstS1ZteHMwSC1FMWRxQ0didlVQelNDNncwc2RzUVUyeVdHV3NvU2owYXNiZ3ZWcDlvNVlVVll0WWdtNzZmTmxudU1lN0hBSDNvbXRSdVVobGY1alhHM01YQVJkaEd3emM3SFFhQ0E?oc=5",
+            "source": "Wallstreet Online",
+            "published": "19.07., 07:03"
           },
           {
-            "title": "UBS sieht Gold bei 5.200 Dollar: Warum Tesoro Gold und Rio2 jetzt in den Fokus rücken - Wallstreet Online",
-            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTGhleWJxM19HSHNfOE51R0R0MWJJOEJ5ZXF4ZkZhU2lYQzRkc01OZV8tSnRtRURFMjNqZ1lsS2JiV3h0M1dtX2ZjeWpqUnRGS1RjZ0pLQVdSRno0VkJqdTZiNVdwTGhuRUJkVWRPTm5vNzFrYTN2ZF9jNktxMFREOXhUVlBfdjFJSGdvaml4aGgxbGRCNFhfMHFuSDFKNW1qZHg2RzVEUQ?oc=5",
-            "source": "Wallstreet Online",
-            "published": "18.07., 06:04"
+            "title": "Gold: Inflationsschock schlägt Kriegsangst - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOU0hlRG5aZzJyNjVmTDdKVVoxN1pybzRaRERuYTVJcWJiZWVhTkZuaFRncFJ0d3dOZXdJbTBkM3RNZlZFcGdqa1NlMDc1QnpJc0l6T01kRHJfaU8zcTRkeWgyM1FxM3VxanRtbDk1NTVRVmU2dEswc3h6MjdPaElQTE5ieUJDSWFEb0g4c3NXM3VyUnB3ZTVjcXp3?oc=5",
+            "source": "Börse Express",
+            "published": "18.07., 22:21"
           },
           {
             "title": "Goldpreis fällt um 3 %: Aktuelle Gold Prognose & Fed-News 🏛️ - XTB.com",
