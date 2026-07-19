@@ -1,8 +1,8 @@
 {
   "is_sample": false,
   "source": "Yahoo Finance Kursdaten + Google News RSS Kontext",
-  "generated_at_utc": "2026-07-19T06:27:56+00:00",
-  "generated_at_vienna": "19.07.2026, 08:27 Uhr",
+  "generated_at_utc": "2026-07-19T16:56:07+00:00",
+  "generated_at_vienna": "19.07.2026, 18:56 Uhr",
   "market_mood_internal": "risk-off",
   "assets": [
     {
@@ -389,13 +389,21 @@
         "direction": "gefallen",
         "confidence": "niedrig",
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
-        "themes": [],
+        "themes": [
+          "Regulierung"
+        ],
         "bullets": [
           "Der Kurs ist deutlich gefallen: -1.09 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: keine klaren Themen erkannt.",
-          "Wichtigste gefundene Headlines: Leverage Shares 3x Long S&P 500 ETP Securities - Finanzen.net | Leverage Shares -5x Short Nasdaq 100 ETP Securities | XS3373449761 | A4AU1Y - extraETF."
+          "Gefundene Nachrichten-Themen: Regulierung.",
+          "Wichtigste gefundene Headlines: Leverage Shares -5x Short Nasdaq 100 ETP Securities | XS3373449761 | A4AU1Y - extraETF | Leverage Shares 3x Long S&P 500 ETP Securities - Finanzen.net."
         ],
         "headlines": [
+          {
+            "title": "Leverage Shares -5x Short Nasdaq 100 ETP Securities | XS3373449761 | A4AU1Y - extraETF",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmZUhjNmxQU3JodWVkRkFCMUR2M3d0Y0x6NTdOTDNIU0dvWFB2OFBGaUN4UktyMTdaV3hhQ0JsWG1mZUJPSkI5dnJYOC1sRXM1cVNRVElQaFZ5QmRY?oc=5",
+            "source": "extraETF",
+            "published": "17.07., 09:00"
+          },
           {
             "title": "Leverage Shares 3x Long S&P 500 ETP Securities - Finanzen.net",
             "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcjk5QmVSOW40OS1uYy04TnJnTFdGM3FuSF9pUUNkMXp6WU9EQ3JmVVRmSXlvOHJSVG9MbVM2alhfVUlTYlk2ZEJvajMxRXFscjVKZ2hjQ2xDMktnSkljRkJNRDR6U00wOVVxdmtBYUJ3ZzV1ajNKaGQ4MlRzODBmRG1mMVdTZVVZTDZfU0EyaG0?oc=5",
@@ -403,22 +411,16 @@
             "published": "18.07., 14:55"
           },
           {
-            "title": "Leverage Shares -5x Short Nasdaq 100 ETP Securities | XS3373449761 | A4AU1Y - extraETF",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmZUhjNmxQU3JodWVkRkFCMUR2M3d0Y0x6NTdOTDNIU0dvWFB2OFBGaUN4UktyMTdaV3hhQ0JsWG1mZUJPSkI5dnJYOC1sRXM1cVNRVElQaFZ5QmRY?oc=5",
-            "source": "extraETF",
-            "published": "19.06., 18:15"
+            "title": "CFTC-Daten zeigen: Netto-Short-Positionen im S&P 500 schrumpfen, Positionierung nähert sich der Neutralität - VT Markets",
+            "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZWI3NnloY0lKQ05mMDhvSGFnM1o0RFZkN3BJUHRFX3Vvc2gtQ3FGaHFlejF3anFsel9SSERSMlIwNXFLUkppRkt1TWRDRGFHR2Y4RnlKcjZHVDJCZTVBMDdjNDFaNGlDcGlzYW5oeW5JbXFoWXlzNEJDSzlvbFpndWxuVmE2dWkwS0RTMFJPSXhBNFA2YmhHU21GUE9vRW10U0ZCR0g0X2hNY3BFb1huamtmYnFYbWxTeW14YnVFS3dEVDM3RVVnWmxqaktOeVBDY2RGd2VUM3RsVmlaZW95ZE45YXQ?oc=5",
+            "source": "VT Markets",
+            "published": "18.07., 11:15"
           },
           {
             "title": "Leverage Shares 3x Long Nasdaq 100 ETP Securities - Finanzen.net",
             "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORVhxWVRnb2hIVXR6N1NYOThMVl9jTGpCVjlJcmF1V09WSVNuTU5JNGpkRy05Tmw2M0pGZXZ4bFpMbS1qaVhEc1Z5NWxLU2IyT1lvejhBYTR2WG5vaklkTTZWOTBicGxhOG83RmpXWi1JOHdCSFpuN0lyU1NZSThGOU9BVnJWX3F3WmpLVEFPSC1mdnJTbFE?oc=5",
             "source": "Finanzen.net",
             "published": "18.07., 01:46"
-          },
-          {
-            "title": "SLVO ETF-Profil: Dividenden, Renditen (NASDAQ:SLVO) - TradingView",
-            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE13a0s0U0tGZmJWaWlBSVZ0cjBsdDRlamtFb09UVHVYR0RDb04yMjJpT3ZqdkZpTXBqMHk1cHR4cVhySHNQZTd5VjBMUXU1NXhnZ09fQ0p0ZTVVTHlPdVZVbVlkbkM0Zw?oc=5",
-            "source": "TradingView",
-            "published": "13.07., 19:36"
           }
         ]
       }
@@ -1228,17 +1230,17 @@
       ],
       "explanation": {
         "direction": "gefallen",
-        "confidence": "niedrig",
-        "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
+        "confidence": "mittel",
+        "summary": "Plausibler Nachrichtenbezug: Der Kurs ist gefallen und die gefundenen Schlagzeilen enthalten überwiegend belastend wirkende Formulierungen. Die Quellen passen damit zur Richtung, beweisen aber keine Kausalität.",
         "themes": [
-          "Regulierung",
+          "KI/Tech",
           "China/EM",
           "Geopolitik/Sicherheit"
         ],
         "bullets": [
           "Der Kurs ist deutlich gefallen: -1.17 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: Regulierung, China/EM, Geopolitik/Sicherheit.",
-          "Wichtigste gefundene Headlines: Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraETF | Hat die defensive Neuausrichtung von Blue Bird im Russell 2000 gerade das Anlagekonzept von BLBD im Small-Cap-Bereich neu definiert? - simp…."
+          "Gefundene Nachrichten-Themen: KI/Tech, China/EM, Geopolitik/Sicherheit.",
+          "Wichtigste gefundene Headlines: Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraETF | Hat der „Dynamic Exit“ des Russell 2000 von Burke & Herbert (BHRB) gerade das Anlage-Narrativ des Unternehmens verändert? - simplywall.st."
         ],
         "headlines": [
           {
@@ -1248,10 +1250,10 @@
             "published": "28.04., 10:37"
           },
           {
-            "title": "Hat die defensive Neuausrichtung von Blue Bird im Russell 2000 gerade das Anlagekonzept von BLBD im Small-Cap-Bereich neu definiert? - simp…",
-            "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNnZKWTNMYkN0MVk4a01NakxqWFAzVWE5NW5WOTZWenF3c0ozZnlhQURNVXlVSEl4Um8tMHlpNzVub1lUSndWVkxuVGZSc283SWI3SFZhMnpzbmY5RkJoNl9iYnNLR0J6WDZUcEJFM1h1SWVDejI3dEI1RFB0Rkdvb1ljZTJZTE9uS1FEa0ZaSGZXRUVkVURKNVdqWHRsblZ6TmtkZGh3amx0d19RdGkzNVk2YVhTbHFNU2VzQ1FTUFI1ajdDeTU2VWNpMUF1ZnRidEHSAdcBQVVfeXFMTUFoSFlqenFjVDByUTVXbF9zYUhNX3hON01FcThnV3hTOVk5d2FmaDl4Q01KUF9zc1U4cVE0SGRvaTdmNkVuNUpJanlwXy1nbTBkdVk3bnJRQzk1R3BscjlZcnEzSVFZODlCQ1BsdElxbGc4V25yMFZhejBkQW1BdH…",
+            "title": "Hat der „Dynamic Exit“ des Russell 2000 von Burke & Herbert (BHRB) gerade das Anlage-Narrativ des Unternehmens verändert? - simplywall.st",
+            "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNckVXcnRkQTVIVHl5MmRia2oxS2J0cXFTWEdnc2ttNzFuTzNhTTRPNC1aQUZzbmJabzZtLTBPbVR3bkp3cl9QaEFLRUxDaXQxM2RBS3hieEV0MF9wd2xpZ0xqdWJtdEd6N3FTRThKbFBWamFZeGIyaVZhcllXM3l2aXhWYUo4bEFiYnQ0VkxCX0NxNWNXd24zbXhsMklUenh0R19Wb0E4WUJQaUxJSXVZZzIxSUlFc2V4ckNDQWNjbkdrQnlwc1FDcHlrMVhQZExNaXBoSmxkU1J5dUtEWlhYcXV4bl_SAeoBQVVfeXFMUDZMN0doRnliLUF0MjYxX1BuVG42bTdqTHAwMGlmanNKNWNkeUdoOWthOHVPZDl3SW1NaXdIeFJYeVVjODcwWm1zNzhBcG9QbjZRNnpUU0pBbGd6aUJVZjhuVFNCZnhFTUIwOEJUWE…",
             "source": "simplywall.st",
-            "published": "08.07., 09:16"
+            "published": "10.07., 04:34"
           },
           {
             "title": "„Disziplin schlägt Glamour“ – Warum AllianzGI mit systematischem Faktor-Investing jetzt auf US Small Caps setzt - e-fundresearch.com",
@@ -1260,10 +1262,10 @@
             "published": "25.03., 08:00"
           },
           {
-            "title": "Drei europäische Small-Cap-Aktien für das Jahr 2026 - Morningstar",
-            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMEs2TEZTckdDLWpCakI1eHFNUW45VXNjbk5LN3ZBWDgwNXJPUGFEa1JFVE9QYWpmdmdfUVpZRmxYVG92bGFzOURGZTBOY2JTcllqSUxhTDVoMktobkRPMUtlX0gyVTZmWGFTVUZCQnh2TFA1bHhXeEt4RWZoU0FWbFBzTjY4NXdRdmNYUDVGRWNwMjVL?oc=5",
-            "source": "Morningstar",
-            "published": "23.01., 09:00"
+            "title": "S&P 500, Nasdaq, Dow End Lower As Chip Stocks Slide On TSMC Capex Concerns — TSM, MU, NVDA, UNH, GOOGL In Focus - TradingView",
+            "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOVTVmSFBKR0oxSk9NdnJEWXUxQS1sVUNMMkdpUjdmR3lpUkItd1FUYlhvdDUxN2l5QkdXZnpwajU5bDRhdlZhLTQ4U3ZKNjB4ZGxaT0NmdWZTQWJHN09CZkt6YmVxZ2xQMTU5THNmVGNkdDdFZ18tUFd6dzNXY24xUkVtODZUNTloQUE0VEhMdWJPLUtpOU1YOFBLTVVZLVpQZ01GeU1hejU1cWcyVlZMQS14VXFhSTdGM3Izd2UxcXRNQ1pLeUxyOHBoQ05iNFJfcUtLQkVscFhsT1Z3ZGw3R1VGNFZiemtQV0EyTWlySkFzNVlHamc?oc=5",
+            "source": "TradingView",
+            "published": "16.07., 23:31"
           }
         ]
       }
@@ -1653,19 +1655,26 @@
         "confidence": "niedrig",
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
-          "KI/Tech"
+          "KI/Tech",
+          "Gewinne/Analysten"
         ],
         "bullets": [
           "Der Kurs ist deutlich gefallen: -2.17 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: KI/Tech.",
-          "Wichtigste gefundene Headlines: MSCI World ETF: Alphabet-Zahlen am 22. Juli - Börse Express | NotebookLM heißt jetzt Gemini Notebook - blog.google."
+          "Gefundene Nachrichten-Themen: KI/Tech, Gewinne/Analysten.",
+          "Wichtigste gefundene Headlines: Alphabet Aktie: 22. Juli mit Q2-Zahlen - Börse Express | Alphabet, Tesla, Intel & Co.: Jetzt wird die Quartalssaison richtig heiß! - Wallstreet Online."
         ],
         "headlines": [
           {
-            "title": "MSCI World ETF: Alphabet-Zahlen am 22. Juli - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSzlxRFN5VVJGbk9WZ1FaR2V1elRFVENpekUwTERkamVsQmltRWluMXFIVFRhMkZqcnozVHdaQnR2SUhFWEo2M1dpMnJnSmdjM2t1ay1nNExPMnRxdXBjZTU0bnJWd0ZiQmFuSXlveEw4OVRmZllhSjlRdkdqSGFhYVJKdUZiYzkyeEJ2MUc2OXpkRENWQ3plNQ?oc=5",
+            "title": "Alphabet Aktie: 22. Juli mit Q2-Zahlen - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQV21JSUI2MUFsUEREeFpCdmV1OWQ3VHVKdHN6UVZtWnA2UjZXWlZNWml3cW9HOEtTWVMyMnA1bC1iWnRUT3pUSkd6VU9od19tLTgtQlMzLTgzakVZMGpYbEQ1ekFGZU56TnFNb1YxWi1la3hib0pHdFlGdHMtTjVLU3JEZV9DRTVSNFJDc1M4NHB0QQ?oc=5",
             "source": "Börse Express",
-            "published": "19.07., 03:48"
+            "published": "19.07., 13:57"
+          },
+          {
+            "title": "Alphabet, Tesla, Intel & Co.: Jetzt wird die Quartalssaison richtig heiß! - Wallstreet Online",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdWlWbVlKQ3J5MTNQa3pQZ2ktSVF5RDBDNDlEa3dSNkJKTjI2cEdLbHRaMTNUaGlTeFRLaXdCcWFMRHQxb2phSm5DM0M5WWdsWDI0bS1CaXpFMWlsREVzUEg0dkpoTmhHeHRlOHdpX2hmOXRXOUhmcEt2Z2xkeWFTaHppVkRxUkRPSHZaS0ZVTzBxSkw2WjZUclNmbTRMbFl0QnRNdXNCYVRYUW0zd2FaNDUwa1VQMVR3RFFodnl3?oc=5",
+            "source": "Wallstreet Online",
+            "published": "19.07., 13:02"
           },
           {
             "title": "NotebookLM heißt jetzt Gemini Notebook - blog.google",
@@ -1674,15 +1683,9 @@
             "published": "17.07., 10:02"
           },
           {
-            "title": "Grok Build CLI lud komplette ganze Git-Repositorys in einen Google Cloud-Bucket hoch - BornCity",
-            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZHBJVzhDYzNudGU0WE9kYlRTQmRQTkdyazUwN0x4a2RrOHFvbGhyUjY0LVhIYjY2eGNoVEswYmloYU1SQlo2Unh5YVAwM3dteDRad29naHJNd0loX2lJQUxsQXVXT19VbTlUWmlVTEhVd3lVSEZNWGx3cTViSXBpVjQwdV9RaE0zNURoaDVSMnJZRVhJd25SbmJ4ckZGaVJtNkRpVHVnODZINFlyNU9YcXJtSWxIWEpjTHFwLTd1QQ?oc=5",
-            "source": "BornCity",
-            "published": "17.07., 00:17"
-          },
-          {
-            "title": "Google Maps Gets Practical AI Update - Vienna.at",
+            "title": "Google Maps Gets Practical AI Update - vienna.at",
             "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBiU0xwU0V5YlVyd3NKTXExRjNiSnFESHEtcW0xT2NqSmd2RVVZN2N0SHJDVDlDelI2VXZVQWdpejVqelU1YkdvamotaGp3c3lraHl1NTVhVzhBUVJINXFyNTF0TGdud0hHbGlTaEN6VGhOU1JrUEE?oc=5",
-            "source": "Vienna.at",
+            "source": "vienna.at",
             "published": "16.07., 21:41"
           }
         ]
@@ -2081,32 +2084,32 @@
         "bullets": [
           "Der Kurs ist spürbar gestiegen: +0.83 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: Zinsen/Fed, Inflation, US-Dollar, Regulierung.",
-          "Wichtigste gefundene Headlines: Gold-Comeback auf 5.200 Dollar? Warum North Peak auf einen neuen Nevada-Zyklus setzt - Wallstreet Online | Gold: Inflationsschock schlägt Kriegsangst - Börse Express."
+          "Wichtigste gefundene Headlines: Gold: 4.021 Dollar über psychologischer Marke - Börse Express | Gold-Comeback auf 5.200 Dollar? Warum North Peak auf einen neuen Nevada-Zyklus setzt - Wallstreet Online."
         ],
         "headlines": [
+          {
+            "title": "Gold: 4.021 Dollar über psychologischer Marke - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcjFUWHJ0LVVLTVZ2QVkwMXV3d0ttVXk3NlRoSmwwekplb1dSQ0FpMHVZYzNJWWV6OXoyc3ByMTRzVkFPdndfSGEyR0ZscGpGaXp5a3FGeFMwdXE5a3lab3BJQW8tVlJRUDdwUnNwMWJRX3U3VldUb2liZjlRMHZ5UEx3eHktaWhaNmk5M0lQcFZfYWJMZzBLdkhST04?oc=5",
+            "source": "Börse Express",
+            "published": "19.07., 13:44"
+          },
           {
             "title": "Gold-Comeback auf 5.200 Dollar? Warum North Peak auf einen neuen Nevada-Zyklus setzt - Wallstreet Online",
             "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbkttbllVYm5XYmZjNGxTVjRPQ01ZQnNrLXlQWkhsU1p1Q2RqV3E4NE9YeWxqUzExQ3lzSkRJRklQcGNJTHR4RWstS1ZteHMwSC1FMWRxQ0didlVQelNDNncwc2RzUVUyeVdHV3NvU2owYXNiZ3ZWcDlvNVlVVll0WWdtNzZmTmxudU1lN0hBSDNvbXRSdVVobGY1alhHM01YQVJkaEd3emM3SFFhQ0E?oc=5",
             "source": "Wallstreet Online",
-            "published": "19.07., 07:03"
+            "published": "19.07., 07:05"
           },
           {
-            "title": "Gold: Inflationsschock schlägt Kriegsangst - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOU0hlRG5aZzJyNjVmTDdKVVoxN1pybzRaRERuYTVJcWJiZWVhTkZuaFRncFJ0d3dOZXdJbTBkM3RNZlZFcGdqa1NlMDc1QnpJc0l6T01kRHJfaU8zcTRkeWgyM1FxM3VxanRtbDk1NTVRVmU2dEswc3h6MjdPaElQTE5ieUJDSWFEb0g4c3NXM3VyUnB3ZTVjcXp3?oc=5",
-            "source": "Börse Express",
-            "published": "18.07., 22:21"
+            "title": "Goldpreis rutscht unter 4.000 US-Dollar: Ölpreisrally schürt neue Inflationssorgen bei der Fed - Finanzen.net",
+            "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNOGY2QVdodVJnaDhYcjczT3ZFblI3ZEVrYkFwRXFxN1FVeTN0aGpnZHVVcXBKcmp4M3JDclFNX0M3bERLT1Y5dk5WakJOMlFJMy1EMXloN05VX3N1X0Y1T2pfTnVGem1RTjliRnVMUVVWWG45alJjTk1mQUk5MVZyYVl1d3NtV3ZZZENTMWctczhhT05EeWhrUm1JT0JxTjNFLUkwVWN2ZG40el8wdTkyekJpZlRaRWh4ZWR6NFNDeEJ5eF9tam5jZjY4d2dENWIxZ3ZWVkNrZ01fUmw2TkQ5SUFIcVpJR0hsVi1SbFdXaDVIQllSVk9sQmdWcFJmcFMxQWfSAewBQVVfeXFMTmRRYkVpTjNwNGU1dzNXNGtxUEVLQVhrSmd3SGp6SHZFV25oX3I2RzRsMTlScFZfckpBS1ByS1lqSl94bW9ha0ZWZHV2bWdQME…",
+            "source": "Finanzen.net",
+            "published": "16.07., 20:49"
           },
           {
             "title": "Goldpreis fällt um 3 %: Aktuelle Gold Prognose & Fed-News 🏛️ - XTB.com",
             "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYkVMT2gwc3MyYVpPMnp0TExfaldfNm5zdW9MWGpfOVlGeTFrRDU3WXgzVmlfMVh0cWNRQ1ZlaC1ad0lCd05kOWUySE13QUtPa2xxLVN4ZWtaVXhpSnlGRGl5QlA0aElJLTJvRmUxZVQ5eXVnQ0w5dnl5TlR3enJvd3RMNEs1dmVGQ1lOMlNUc2tUX1ZmT3BoM0R0UklCUVU5Y1JaY1N3?oc=5",
             "source": "XTB.com",
             "published": "13.07., 19:12"
-          },
-          {
-            "title": "Gold vor der Entscheidung: Hält die 4.000-Dollar-Marke? - BörsenNEWS.de",
-            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeWFYUW9zVXRVci1QUmphWWdoNHhjLWtiUHNpbHY1ZUR2N0FRMEN6MzItbVpDMUlZaXNXLUZ1UVRuS2I1eldiUVMwLUVUUFlWcjk1aGkzQ012V2N2SVVTQ2NkQzBqR3pyUTlwT2dvS0tldnNySklJZTVPbFczeEpZalpYcUxhWlRKUXY2bjk0WTBqNzdtQmFXZjNXclhjb2ZVZ3UtNHh3Z0VMbzVRSzZrREltUUVBS1dfQS0zQ081Yw?oc=5",
-            "source": "BörsenNEWS.de",
-            "published": "15.07., 17:08"
           }
         ]
       }
