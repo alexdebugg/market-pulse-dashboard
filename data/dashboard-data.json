@@ -1,8 +1,8 @@
 {
   "is_sample": false,
   "source": "Yahoo Finance Kursdaten + Google News RSS Kontext",
-  "generated_at_utc": "2026-07-19T16:56:07+00:00",
-  "generated_at_vienna": "19.07.2026, 18:56 Uhr",
+  "generated_at_utc": "2026-07-20T06:43:32+00:00",
+  "generated_at_vienna": "20.07.2026, 08:43 Uhr",
   "market_mood_internal": "risk-off",
   "assets": [
     {
@@ -411,16 +411,16 @@
             "published": "18.07., 14:55"
           },
           {
+            "title": "IncomeShares Nasdaq 100 Options ETP | XS2875105608 | A4A50Q - extraETF",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9pOXp6WnVQUmdKMWRkY1JPdlZxbHU3UnVkclh1OTctTGxtMmliSUV1NUFPUV9RODRsY2tQUTBUOHViZG5uS2hOTVh1MUNnMGFwTllGRGJtMHdBNExs?oc=5",
+            "source": "extraETF",
+            "published": "16.07., 09:00"
+          },
+          {
             "title": "CFTC-Daten zeigen: Netto-Short-Positionen im S&P 500 schrumpfen, Positionierung nähert sich der Neutralität - VT Markets",
             "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZWI3NnloY0lKQ05mMDhvSGFnM1o0RFZkN3BJUHRFX3Vvc2gtQ3FGaHFlejF3anFsel9SSERSMlIwNXFLUkppRkt1TWRDRGFHR2Y4RnlKcjZHVDJCZTVBMDdjNDFaNGlDcGlzYW5oeW5JbXFoWXlzNEJDSzlvbFpndWxuVmE2dWkwS0RTMFJPSXhBNFA2YmhHU21GUE9vRW10U0ZCR0g0X2hNY3BFb1huamtmYnFYbWxTeW14YnVFS3dEVDM3RVVnWmxqaktOeVBDY2RGd2VUM3RsVmlaZW95ZE45YXQ?oc=5",
             "source": "VT Markets",
             "published": "18.07., 11:15"
-          },
-          {
-            "title": "Leverage Shares 3x Long Nasdaq 100 ETP Securities - Finanzen.net",
-            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORVhxWVRnb2hIVXR6N1NYOThMVl9jTGpCVjlJcmF1V09WSVNuTU5JNGpkRy05Tmw2M0pGZXZ4bFpMbS1qaVhEc1Z5NWxLU2IyT1lvejhBYTR2WG5vaklkTTZWOTBicGxhOG83RmpXWi1JOHdCSFpuN0lyU1NZSThGOU9BVnJWX3F3WmpLVEFPSC1mdnJTbFE?oc=5",
-            "source": "Finanzen.net",
-            "published": "18.07., 01:46"
           }
         ]
       }
@@ -1230,16 +1230,17 @@
       ],
       "explanation": {
         "direction": "gefallen",
-        "confidence": "mittel",
-        "summary": "Plausibler Nachrichtenbezug: Der Kurs ist gefallen und die gefundenen Schlagzeilen enthalten überwiegend belastend wirkende Formulierungen. Die Quellen passen damit zur Richtung, beweisen aber keine Kausalität.",
+        "confidence": "niedrig",
+        "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
           "KI/Tech",
           "China/EM",
-          "Geopolitik/Sicherheit"
+          "Geopolitik/Sicherheit",
+          "Gewinne/Analysten"
         ],
         "bullets": [
           "Der Kurs ist deutlich gefallen: -1.17 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: KI/Tech, China/EM, Geopolitik/Sicherheit.",
+          "Gefundene Nachrichten-Themen: KI/Tech, China/EM, Geopolitik/Sicherheit, Gewinne/Analysten.",
           "Wichtigste gefundene Headlines: Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraETF | Hat der „Dynamic Exit“ des Russell 2000 von Burke & Herbert (BHRB) gerade das Anlage-Narrativ des Unternehmens verändert? - simplywall.st."
         ],
         "headlines": [
@@ -1262,10 +1263,10 @@
             "published": "25.03., 08:00"
           },
           {
-            "title": "S&P 500, Nasdaq, Dow End Lower As Chip Stocks Slide On TSMC Capex Concerns — TSM, MU, NVDA, UNH, GOOGL In Focus - TradingView",
-            "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOVTVmSFBKR0oxSk9NdnJEWXUxQS1sVUNMMkdpUjdmR3lpUkItd1FUYlhvdDUxN2l5QkdXZnpwajU5bDRhdlZhLTQ4U3ZKNjB4ZGxaT0NmdWZTQWJHN09CZkt6YmVxZ2xQMTU5THNmVGNkdDdFZ18tUFd6dzNXY24xUkVtODZUNTloQUE0VEhMdWJPLUtpOU1YOFBLTVVZLVpQZ01GeU1hejU1cWcyVlZMQS14VXFhSTdGM3Izd2UxcXRNQ1pLeUxyOHBoQ05iNFJfcUtLQkVscFhsT1Z3ZGw3R1VGNFZiemtQV0EyTWlySkFzNVlHamc?oc=5",
+            "title": "S&P 500, Nasdaq Slide Sharply As Netflix Guidance Disappoints And Chip Stocks Extend Losses — NFLX, GE, META, AAPL, SPCX In Focus - Trading…",
+            "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNeFpWeVJBcXZOX1NWcFVLV3JKWXU0UThQaU0wcVNwY1I3ZFQ2UGMxano1bjM4eVhvalJNT2tzYjgyWHNJOUNzR3gwY0dXOHhLRjdpZjk3cVNqQTBuZno5WGpNOTVSYXRSdnp4Z3RCNnN6bGVlU3dyelkxN1dHay02eE8zM1EyY0E5WmVuZXM0cTBRdG5zeEo4aHY4dlpWSEtGOEZqWjFHVlF2YkhoaVhEWEdNNEZUaXZsUm9GRXI5NHU4MGVBQkpGZWFXc01BZ3VuUmQyanItQkNrbU9wX3BvTGExZ0VqUzgxQVJWV3gtT0ttT2k2T194T05vajJ3TjViOW1ITmpDdmM4dzZ0UjVR?oc=5",
             "source": "TradingView",
-            "published": "16.07., 23:31"
+            "published": "17.07., 23:53"
           }
         ]
       }
@@ -1661,9 +1662,15 @@
         "bullets": [
           "Der Kurs ist deutlich gefallen: -2.17 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: KI/Tech, Gewinne/Analysten.",
-          "Wichtigste gefundene Headlines: Alphabet Aktie: 22. Juli mit Q2-Zahlen - Börse Express | Alphabet, Tesla, Intel & Co.: Jetzt wird die Quartalssaison richtig heiß! - Wallstreet Online."
+          "Wichtigste gefundene Headlines: Alphabet, Tesla & Intel: Die heißesten Zahlen der Woche! - Wallstreet Online | Alphabet Aktie: 22. Juli mit Q2-Zahlen - Börse Express."
         ],
         "headlines": [
+          {
+            "title": "Alphabet, Tesla & Intel: Die heißesten Zahlen der Woche! - Wallstreet Online",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVmFBdHhWVEoyVk50T3A1VmtNRmNzSl9UZjJ3WWpPV1MwUkhJWnJUOEN1MnR1ZVBoSzVvUlZYNE9icWhiSzJnNHNCbWRWc1ZKelltOGNkaUxucU1oN0dBbmZkajRmVy12V3MyTzE1TS1BQmVIdy1XQmw2NU96R0UxNWdPRjlkR012S3A0S3h3MnRTR3Q3endQNGFyaHJITHBqeXZPUWM5VGREY0IxNUozUUlkQQ?oc=5",
+            "source": "Wallstreet Online",
+            "published": "20.07., 07:31"
+          },
           {
             "title": "Alphabet Aktie: 22. Juli mit Q2-Zahlen - Börse Express",
             "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQV21JSUI2MUFsUEREeFpCdmV1OWQ3VHVKdHN6UVZtWnA2UjZXWlZNWml3cW9HOEtTWVMyMnA1bC1iWnRUT3pUSkd6VU9od19tLTgtQlMzLTgzakVZMGpYbEQ1ekFGZU56TnFNb1YxWi1la3hib0pHdFlGdHMtTjVLU3JEZV9DRTVSNFJDc1M4NHB0QQ?oc=5",
@@ -1671,22 +1678,16 @@
             "published": "19.07., 13:57"
           },
           {
-            "title": "Alphabet, Tesla, Intel & Co.: Jetzt wird die Quartalssaison richtig heiß! - Wallstreet Online",
-            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdWlWbVlKQ3J5MTNQa3pQZ2ktSVF5RDBDNDlEa3dSNkJKTjI2cEdLbHRaMTNUaGlTeFRLaXdCcWFMRHQxb2phSm5DM0M5WWdsWDI0bS1CaXpFMWlsREVzUEg0dkpoTmhHeHRlOHdpX2hmOXRXOUhmcEt2Z2xkeWFTaHppVkRxUkRPSHZaS0ZVTzBxSkw2WjZUclNmbTRMbFl0QnRNdXNCYVRYUW0zd2FaNDUwa1VQMVR3RFFodnl3?oc=5",
-            "source": "Wallstreet Online",
-            "published": "19.07., 13:02"
+            "title": "Infoblox integriert native Oracle-Cloud-Erkennung für Unternehmen - all-about-security.de",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeHA4aWlvMEpvNFh2NjZ6WHZXRWhJdERNVU9QbWxGX0RibXI5VW1DWHpOaHVjN2Zqd3QycnY4YkZudXk5QmdDeWVmWmJFb3I1MlNUVEg2Ti1tZkhOd2RrQlhpVUJmWkt6T1Vock1NU2JRQW9nYkF4eFZtSk5DQ3BVMDFkWEZTVDRoWHhNaVhmZGh2bUJRMUl3WklmMzV5VjZMN0x3?oc=5",
+            "source": "all-about-security.de",
+            "published": "20.07., 07:08"
           },
           {
-            "title": "NotebookLM heißt jetzt Gemini Notebook - blog.google",
-            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOV3VnaUM3TEY1M2c5dXY3N2xNRW5jcVlSWV8tV1p3ck41TnBNNDQtRTdKTjFwX1laU2lLbVlGT1pJWDhPZ1BENlh1T01UeTYtX1lrZUhqQVpBOEswUjI5eURaRl9ZaE9RQS1mYVkwWGlidTEtbzdYR04ydDFtMUlGM2RvY0xLX1NIejhhRU5lRFBHaFE?oc=5",
-            "source": "blog.google",
-            "published": "17.07., 10:02"
-          },
-          {
-            "title": "Google Maps Gets Practical AI Update - vienna.at",
-            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBiU0xwU0V5YlVyd3NKTXExRjNiSnFESHEtcW0xT2NqSmd2RVVZN2N0SHJDVDlDelI2VXZVQWdpejVqelU1YkdvamotaGp3c3lraHl1NTVhVzhBUVJINXFyNTF0TGdud0hHbGlTaEN6VGhOU1JrUEE?oc=5",
-            "source": "vienna.at",
-            "published": "16.07., 21:41"
+            "title": "Die Alphabet-C-Aktie profitiert von starkem Cloud-Wachstum und robusten Werbeerlösen - ad-hoc-news.de",
+            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNzBXR0N3NDZmVml4aTNhVjRHX0tZV2U4Z2tTUkdXZW01R0VHM2tBUlFROF91N1pZejBUYV9ielFjSEFEN2ZyVm9qb0g1eUdnUEZ5eW8tblI0eFN6d0JfdWp0ekZ3LU1OVkdnTGYtdGFzSUpKOVdSTWx5WjB4QVR1MURxbFV1bkN3Z2VHTDVtSGs4ci1rSDRXS3RMd25YN2lxZ0x1ZlNMM00yQ0FKQUdUdXJxbmRSSHk5U19TZkFhdlpqZHdzTzJMb2lB?oc=5",
+            "source": "ad-hoc-news.de",
+            "published": "20.07., 07:56"
           }
         ]
       }
@@ -1698,22 +1699,18 @@
       "currency": "USD/oz",
       "description": "Goldpreis, primär über Gold-Future, fallback XAU/USD",
       "price_decimals": 2,
-      "last_date": "2026-07-17",
-      "last_close": 4018.800048828125,
-      "previous_close": 3985.60009765625,
-      "change_abs": 33.2,
-      "change_pct": 0.83,
-      "change_5d_pct": -2.08,
-      "change_1m_pct": -7.21,
-      "change_3m_pct": -16.02,
+      "last_date": "2026-07-20",
+      "last_close": 4008.0,
+      "previous_close": 4012.699951171875,
+      "change_abs": -4.7,
+      "change_pct": -0.12,
+      "change_5d_pct": 0.28,
+      "change_1m_pct": -8.05,
+      "change_3m_pct": -17.49,
       "change_1y_pct": null,
-      "ytd_pct": -7.09,
-      "volatility_30d_pct": 27.95,
+      "ytd_pct": -7.34,
+      "volatility_30d_pct": 27.67,
       "sparkline": [
-        {
-          "date": "2026-03-10",
-          "close": 5229.7001953125
-        },
         {
           "date": "2026-03-11",
           "close": 5167.39990234375
@@ -2068,13 +2065,17 @@
         },
         {
           "date": "2026-07-17",
-          "close": 4018.800048828125
+          "close": 4012.699951171875
+        },
+        {
+          "date": "2026-07-20",
+          "close": 4008.0
         }
       ],
       "explanation": {
-        "direction": "gestiegen",
-        "confidence": "niedrig",
-        "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
+        "direction": "gefallen",
+        "confidence": "mittel",
+        "summary": "Plausibler Nachrichtenbezug: Der Kurs ist gefallen und die gefundenen Schlagzeilen enthalten überwiegend belastend wirkende Formulierungen. Die Quellen passen damit zur Richtung, beweisen aber keine Kausalität.",
         "themes": [
           "Zinsen/Fed",
           "Inflation",
@@ -2082,9 +2083,9 @@
           "Regulierung"
         ],
         "bullets": [
-          "Der Kurs ist spürbar gestiegen: +0.83 % gegenüber dem vorherigen Schlusskurs.",
+          "Der Kurs ist leicht gefallen: -0.12 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: Zinsen/Fed, Inflation, US-Dollar, Regulierung.",
-          "Wichtigste gefundene Headlines: Gold: 4.021 Dollar über psychologischer Marke - Börse Express | Gold-Comeback auf 5.200 Dollar? Warum North Peak auf einen neuen Nevada-Zyklus setzt - Wallstreet Online."
+          "Wichtigste gefundene Headlines: Gold: 4.021 Dollar über psychologischer Marke - Börse Express | Gold: Mit Equinox Gold, Lahontan Gold und auf die Fed setzen! - Kapitalerhöhungen.de."
         ],
         "headlines": [
           {
@@ -2094,22 +2095,22 @@
             "published": "19.07., 13:44"
           },
           {
-            "title": "Gold-Comeback auf 5.200 Dollar? Warum North Peak auf einen neuen Nevada-Zyklus setzt - Wallstreet Online",
-            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbkttbllVYm5XYmZjNGxTVjRPQ01ZQnNrLXlQWkhsU1p1Q2RqV3E4NE9YeWxqUzExQ3lzSkRJRklQcGNJTHR4RWstS1ZteHMwSC1FMWRxQ0didlVQelNDNncwc2RzUVUyeVdHV3NvU2owYXNiZ3ZWcDlvNVlVVll0WWdtNzZmTmxudU1lN0hBSDNvbXRSdVVobGY1alhHM01YQVJkaEd3emM3SFFhQ0E?oc=5",
-            "source": "Wallstreet Online",
-            "published": "19.07., 07:05"
+            "title": "Gold: Mit Equinox Gold, Lahontan Gold und auf die Fed setzen! - Kapitalerhöhungen.de",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUVNydmJhemxkOEhqWXB2eE45VGlOVjltc1Vwd1JiTnZmM1FHZTA2WmZ0Tk5TVlp3TVkzRTdXYVRZZzBCTzlTVmpCUkhwdjNqTTZ2QmZJRU5GaHF4aEgycXV6eFJjbmpFdktsMVNmVU9jRWJQY2VfWjY2V2FZeHphUWZIQjJHdVBicnVMMXFfMEFlSGc5SlF2RlUyVlYwbl9kdS1pMUJR?oc=5",
+            "source": "Kapitalerhöhungen.de",
+            "published": "20.07., 04:30"
           },
           {
-            "title": "Goldpreis rutscht unter 4.000 US-Dollar: Ölpreisrally schürt neue Inflationssorgen bei der Fed - Finanzen.net",
-            "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNOGY2QVdodVJnaDhYcjczT3ZFblI3ZEVrYkFwRXFxN1FVeTN0aGpnZHVVcXBKcmp4M3JDclFNX0M3bERLT1Y5dk5WakJOMlFJMy1EMXloN05VX3N1X0Y1T2pfTnVGem1RTjliRnVMUVVWWG45alJjTk1mQUk5MVZyYVl1d3NtV3ZZZENTMWctczhhT05EeWhrUm1JT0JxTjNFLUkwVWN2ZG40el8wdTkyekJpZlRaRWh4ZWR6NFNDeEJ5eF9tam5jZjY4d2dENWIxZ3ZWVkNrZ01fUmw2TkQ5SUFIcVpJR0hsVi1SbFdXaDVIQllSVk9sQmdWcFJmcFMxQWfSAewBQVVfeXFMTmRRYkVpTjNwNGU1dzNXNGtxUEVLQVhrSmd3SGp6SHZFV25oX3I2RzRsMTlScFZfckpBS1ByS1lqSl94bW9ha0ZWZHV2bWdQME…",
-            "source": "Finanzen.net",
-            "published": "16.07., 20:49"
+            "title": "„Stabilität kehrt erst zurück, wenn Währungen wieder an Gold gebunden sind“ - WELT",
+            "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUW9vVEVSdkZOeUdBdGdsdUU3Y1VYNkVzMzBVbGlkXzRFRjdMYnFpWngxSFNySG5yb3ZvMDlsV0xRZm93X181ek5INkplT3VOSmdRXzEybWdCR01QUHhqT3JSdTdnYXdIcWZrVnFJMmV1YzVyWjdXbnllUkEyX3ZBc184VWVTUS05aGlTd0lFekowRllJdkdfXzhQYnNJcU43ZXI4SVZnckNQXzhNbl9MQ0dyVnc3QkIyMTBRQmJtZzV6YWhsY3ZlVTQ2RS1sb295TnRmUA?oc=5",
+            "source": "WELT",
+            "published": "20.07., 07:27"
           },
           {
-            "title": "Goldpreis fällt um 3 %: Aktuelle Gold Prognose & Fed-News 🏛️ - XTB.com",
-            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYkVMT2gwc3MyYVpPMnp0TExfaldfNm5zdW9MWGpfOVlGeTFrRDU3WXgzVmlfMVh0cWNRQ1ZlaC1ad0lCd05kOWUySE13QUtPa2xxLVN4ZWtaVXhpSnlGRGl5QlA0aElJLTJvRmUxZVQ5eXVnQ0w5dnl5TlR3enJvd3RMNEs1dmVGQ1lOMlNUc2tUX1ZmT3BoM0R0UklCUVU5Y1JaY1N3?oc=5",
-            "source": "XTB.com",
-            "published": "13.07., 19:12"
+            "title": "Iran-Konflikt schürt Inflationssorgen: Goldpreis fällt unter 4.000 Dollar - Investing.com Deutsch",
+            "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxObXBhZDV1WTA5OEd6dkRZOXN0bUVRVDdkdGZGVnRYbzBDQ1F5UDdMX3ItTzBCREJMbV9yVlZUQmlBSWlZblVWQmZCckUzb3dITGl6SHB1enI1eklmcmNMdXQxX2tjTFJ1UERORHpyVWQtRHpMLXNrVE15ckhQUS1ZRHludU41emFGSFFxX0N4TlEyVk9heEJsWmFCRzlsRDlZbTAtMldzdmlPdHpfQmNFeXlIR0YxSGpWMGl5ZnViSGdKbmpXdjNqUnJCZTNub19Jd0lLdlEwekFYYVhXN3IyZVVySzRMQQ?oc=5",
+            "source": "Investing.com Deutsch",
+            "published": "20.07., 03:46"
           }
         ]
       }
