@@ -1,8 +1,8 @@
 {
   "is_sample": false,
   "source": "Yahoo Finance Kursdaten + Google News RSS Kontext",
-  "generated_at_utc": "2026-07-21T17:15:55+00:00",
-  "generated_at_vienna": "21.07.2026, 19:15 Uhr",
+  "generated_at_utc": "2026-07-22T06:25:46+00:00",
+  "generated_at_vienna": "22.07.2026, 08:25 Uhr",
   "market_mood_internal": "risk-on",
   "assets": [
     {
@@ -412,7 +412,7 @@
           },
           {
             "title": "Leverage Shares 3x Long Nasdaq 100 ETP Securities - Finanzen.net",
-            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOT1hyZFZnNEFGV29UWFJqT0NrbDNLZGd2MERUTGdtSGJQdFNRRm5zakMyWWtsdHhUUDVSQnFHSHpsNlJVOXFqbXF2akFuajFhZy1ZaVEzWXBQbmQ5bDFCV0JETTBxWHBiZ05RUVI1VlpVZXNsT2hCRkFSSzdOVV9oSVVWOVF0enAyYlhOZklGRzdlajd4Z0xsZjdQcE1scVhKcDBjZDFKcG4xaDVO?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNekhPQjNGTWFqd1FIZkVWMFdHRGw5WnM5eXdMemNqUEhMRG1FYkZIenhhVzN1Y2pMcHJxQ0g4RzF0QWw2anJ4R1BmWWlKZm1ORllpUk5tc0lDOEV6SU9Qem5Cb3YzXzNpNGVXTU5QUEVjdTQ2MDkwMFRkOFc1YW9IZ0VjTk43UWN3bm1tMnZ2Mmtuejk5MktkTGY1VWhtVkk4dzZzbw?oc=5",
             "source": "Finanzen.net",
             "published": "16.07., 00:00"
           },
@@ -818,14 +818,14 @@
         "bullets": [
           "Der Kurs ist deutlich gestiegen: +2.04 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: US-Dollar, KI/Tech, China/EM, Gewinne/Analysten.",
-          "Wichtigste gefundene Headlines: Schwacher US-Dollar und hohe Defizite: Rückenwind für Emerging Markets? - e-fundresearch.com | iShares MSCI EM ex China: Allzeithoch bei 99,78 USD - Börse Express."
+          "Wichtigste gefundene Headlines: Künstliche Intelligenz: Wie auch Schwellenländer vom KI-Boom profitieren - Handelsblatt | iShares MSCI EM ex China: Allzeithoch bei 99,78 USD - Börse Express."
         ],
         "headlines": [
           {
-            "title": "Schwacher US-Dollar und hohe Defizite: Rückenwind für Emerging Markets? - e-fundresearch.com",
-            "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdW5LT0NkQVByWUhHM2JvRDZVWERXUW5RWnpWcEpzVVNxRDA2QzgwTEJBQ3p4Y2lYU1NEelhUa1hUZzJyUDg4SnJPTXVmQUppQzRoalhkVURTWEJtaHZ1Zk1MMHNXekE0ZkpyM2x4aTI3UmU0bkU3REl6NXYyVnZIWWxCckFXT3pKaVdvQlp0cFQxMmpPS3lTN0U4ajBWTHd0NGJHVFI2T0Nhc3hhQ2ZSQkJqclRfaWZYMUVEaERfYXcxdklzYXlvRXY5c2R3ZHJDVUpjZmt4TXlQYWNxSHhCSE83cGVjQzc2Nnc?oc=5",
-            "source": "e-fundresearch.com",
-            "published": "25.11., 09:00"
+            "title": "Künstliche Intelligenz: Wie auch Schwellenländer vom KI-Boom profitieren - Handelsblatt",
+            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWkFmZUEzMXcyVlZuT0FNdFFSUjYwZWZqWUoxLXFzS1ZhTjM2TXJ1NWJVcHRxU3RUQUgzc1o2N25yb3FFRVUwcFpKLXRVMEdBWnpOdGZuX3lzbUtHZzktalE1dzVLOURURU9Mb05uTmNQUkh6Z0tnTDRmUm83N0V5WmlVcnhkNC0xb3hBTnFtalBzaGo5V0lxNjZlYzRId1lTOHFlVms1eDhlWS1BMURxeUxqYkhuODc1eTJWSUJabU1jb2ll?oc=5",
+            "source": "Handelsblatt",
+            "published": "24.06., 09:00"
           },
           {
             "title": "iShares MSCI EM ex China: Allzeithoch bei 99,78 USD - Börse Express",
@@ -840,10 +840,10 @@
             "published": "29.05., 09:00"
           },
           {
-            "title": "Künstliche Intelligenz: Wie auch Schwellenländer vom KI-Boom profitieren - Handelsblatt",
-            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWkFmZUEzMXcyVlZuT0FNdFFSUjYwZWZqWUoxLXFzS1ZhTjM2TXJ1NWJVcHRxU3RUQUgzc1o2N25yb3FFRVUwcFpKLXRVMEdBWnpOdGZuX3lzbUtHZzktalE1dzVLOURURU9Mb05uTmNQUkh6Z0tnTDRmUm83N0V5WmlVcnhkNC0xb3hBTnFtalBzaGo5V0lxNjZlYzRId1lTOHFlVms1eDhlWS1BMURxeUxqYkhuODc1eTJWSUJabU1jb2ll?oc=5",
-            "source": "Handelsblatt",
-            "published": "24.06., 09:00"
+            "title": "iShares EM ex China ETF: 3,72% Freitags-Sturz - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRW9sTG9iUi11ZWNqbDVlYkt0NlNZanVPaWhWLWgtd1NxN2hkZUVZc2JqQWNpN2hXQzljYWxURUtONVVHLWxCbmE1YVZqalVmdWJYZWJzRzJRR3F1QzdBSEFGd1ZOYWJlVnM5U3BGTnB0aHMtdjlFSVU3TFBlcTV4YzBCUHl5b0lKUkEwNk5zNEZxX0RXbTQ1Qm93?oc=5",
+            "source": "Börse Express",
+            "published": "16.05., 09:00"
           }
         ]
       }
@@ -1279,16 +1279,16 @@
       "description": "Alphabet Inc. Class A",
       "price_decimals": 2,
       "last_date": "2026-07-21",
-      "last_close": 349.06500244140625,
+      "last_close": 347.1499938964844,
       "previous_close": 351.989990234375,
-      "change_abs": -2.92,
-      "change_pct": -0.83,
-      "change_5d_pct": -2.91,
-      "change_1m_pct": -5.15,
-      "change_3m_pct": 3.45,
+      "change_abs": -4.84,
+      "change_pct": -1.38,
+      "change_5d_pct": -3.44,
+      "change_1m_pct": -5.67,
+      "change_3m_pct": 2.88,
       "change_1y_pct": null,
-      "ytd_pct": 11.52,
-      "volatility_30d_pct": 33.22,
+      "ytd_pct": 10.91,
+      "volatility_30d_pct": 33.35,
       "sparkline": [
         {
           "date": "2026-03-12",
@@ -1648,7 +1648,7 @@
         },
         {
           "date": "2026-07-21",
-          "close": 349.06500244140625
+          "close": 347.1499938964844
         }
       ],
       "explanation": {
@@ -1660,16 +1660,16 @@
           "Geopolitik/Sicherheit"
         ],
         "bullets": [
-          "Der Kurs ist spürbar gefallen: -0.83 % gegenüber dem vorherigen Schlusskurs.",
+          "Der Kurs ist deutlich gefallen: -1.38 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: KI/Tech, Geopolitik/Sicherheit.",
-          "Wichtigste gefundene Headlines: Alphabet Aktie: Chip-Coup vor den Zahlen - Börse Express | Alphabet: Warum die Zahlen den Ausbruch liefern müssen - Onvista."
+          "Wichtigste gefundene Headlines: iShares MSCI World ETF: Alphabet und Tesla am 22. Juli entscheidend - Börse Express | Alphabet: Warum die Zahlen den Ausbruch liefern müssen - Onvista."
         ],
         "headlines": [
           {
-            "title": "Alphabet Aktie: Chip-Coup vor den Zahlen - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaTAtbjFGX2VjYk1CcHNWdHdoQThvdVFDZ3BNcWFPYkVUeDZmT2I0azEzTkM0RUFLak1lLURTS0d5Y3lUUnN2WVItSlM4UElnZnNseGZuZzJtbFZJcmJkUksxWlB3TERjTnFuTi1tVG51RnpDQ1dvckUzTVlwVWJmWXJ5SGNndUJsSTJFNG5ibnhwVF9tenc?oc=5",
+            "title": "iShares MSCI World ETF: Alphabet und Tesla am 22. Juli entscheidend - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOREprckVmZHpLeFdiN0lyODJsWmZjX2FVLWlTekFhbnlZdmUzWE8zYkxMYjZLRmhpV3NNckY0U3c5YTQ0OWc4Vi1oZFdZY3loemZkRVVBb3dZVndhdG1PemJ0dkpnRDRqMDEtXzRlNjVycjU5WHFlMndzNzd0V1hiQmVnY3BJZUExTkZXOC1jN0xXQzN2OWtqMWpuaFFibDhPMGMtTmJtQnpRN1ZGcGREWkdNUkZnN19S?oc=5",
             "source": "Börse Express",
-            "published": "20.07., 23:27"
+            "published": "21.07., 21:49"
           },
           {
             "title": "Alphabet: Warum die Zahlen den Ausbruch liefern müssen - Onvista",
@@ -1678,16 +1678,16 @@
             "published": "21.07., 16:52"
           },
           {
-            "title": "FAQ zu Siri AI: Was Sie über Apple Intelligence 27 wissen müssen - heise online",
-            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMzJiN3I0UFFkOVFTRno3dnNOdjQ0MkZBYTA5RlRjUjRHVGFiV2xxTFd0N2xyeUlzSzY0VFV5WW9DdzBkcmtPZnpNTWMyX18wVDNUTDd3QzBVWGM3Ymw4aEM1aXVBRXdNUXJKWEZJejJHOG9nUmkydGtUNDdmTHdSR2hsWGFHVzd0cWxIZ1dGLVF6SWRfdnNlTk1ldzlYOF8tMHNFUFAzSWhtb2stUnlNcDNxSS1hMzgw?oc=5",
-            "source": "heise online",
-            "published": "21.07., 08:00"
+            "title": "Die Alphabet-A-Aktie legt nach starken Cloud-Zahlen zu - Ad-hoc-news.de",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONEpFc1VEdDRONnNfNDd2YVN0cGpzWkI3bjVfR0xnYk01OVlFd3pCalBHTWl3R2YyNzhUTG1fTWE3eEFYbVh0ckIzczdtLUNwVzhtU1hQLWptaUxzd1UyU2lPSThUOVFzdjBXcjRCQzZLaUI3SVdTVTlOa21DdU5ocnVPV3RXQThKS2hTdFVLSXZBMEZhSV9qa3dhV1FpclNDamZhM3lRV2xTVFUycTFoYTV6NA?oc=5",
+            "source": "Ad-hoc-news.de",
+            "published": "21.07., 18:46"
           },
           {
-            "title": "Die Alphabet-C-Aktie legt nach starken Cloud-Zahlen zu - Ad-hoc-news.de",
-            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOa0c1eFhCcFlnaWJhd2hjbGZmcFVMc3E4RWpRUHlFN3ZsRTI0amF0UGpGd2FYODAwbmR3MnAyRDE3Qng0NHR6OGVacXJYU25vN2hma2N2cThFUUJIRUNzc0dVcXJJMEJDTVhzYS0yYUkyZ0tLdk4wQ1FVdFJEb3RMaExGSHUyd09IMy16V28xeVN2X1VKQndubFRwbTQ4RXhDYV9XMC1YdGVXOEhwN0U4Nmh3MA?oc=5",
-            "source": "Ad-hoc-news.de",
-            "published": "21.07., 08:34"
+            "title": "Cybersecurity: Google Cloud sinkt Erkennungszeit um 99,9 Prozent mit KI - BornCity",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMGpVOExSUHA0WDRPSV9LUkFBc2tGWUhDV1hHb0xJU2gtbElockJkUlkyd1dzejdROW9wVGduTHNYZW9WejRSbG40dnNVX0hwdkxRWjBvcG9nZVY1SkpZYmR1dFZmTy0zWnZzaks0TXlDZXVqM3FBcjJCV3JHSXRTZXltY2M4TTdrZGVLLXRFZVZBYUFKSUh6bGpDcF8?oc=5",
+            "source": "BornCity",
+            "published": "17.07., 16:49"
           }
         ]
       }
@@ -1699,22 +1699,18 @@
       "currency": "USD/oz",
       "description": "Goldpreis, primär über Gold-Future, fallback XAU/USD",
       "price_decimals": 2,
-      "last_date": "2026-07-21",
-      "last_close": 4076.0,
-      "previous_close": 4010.300048828125,
-      "change_abs": 65.7,
-      "change_pct": 1.64,
-      "change_5d_pct": 0.37,
-      "change_1m_pct": -3.51,
-      "change_3m_pct": -15.2,
+      "last_date": "2026-07-22",
+      "last_close": 4134.10009765625,
+      "previous_close": 4071.10009765625,
+      "change_abs": 63.0,
+      "change_pct": 1.55,
+      "change_5d_pct": 2.23,
+      "change_1m_pct": -1.14,
+      "change_3m_pct": -12.01,
       "change_1y_pct": null,
-      "ytd_pct": -5.77,
-      "volatility_30d_pct": 26.98,
+      "ytd_pct": -4.43,
+      "volatility_30d_pct": 27.38,
       "sparkline": [
-        {
-          "date": "2026-03-12",
-          "close": 5115.7998046875
-        },
         {
           "date": "2026-03-13",
           "close": 5052.5
@@ -2069,7 +2065,11 @@
         },
         {
           "date": "2026-07-21",
-          "close": 4076.0
+          "close": 4071.10009765625
+        },
+        {
+          "date": "2026-07-22",
+          "close": 4134.10009765625
         }
       ],
       "explanation": {
@@ -2077,21 +2077,22 @@
         "confidence": "niedrig",
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
+          "Zinsen/Fed",
           "Inflation",
           "US-Dollar",
           "Geopolitik/Sicherheit"
         ],
         "bullets": [
-          "Der Kurs ist deutlich gestiegen: +1.64 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: Inflation, US-Dollar, Geopolitik/Sicherheit.",
-          "Wichtigste gefundene Headlines: Gold: 4.074,70 Dollar über 4.000er-Marke - Börse Express | Goldpreis erholt sich: Sinkende Inflationserwartungen treiben Kurs über 4.000 US-Dollar - Finanzen.net."
+          "Der Kurs ist deutlich gestiegen: +1.55 % gegenüber dem vorherigen Schlusskurs.",
+          "Gefundene Nachrichten-Themen: Zinsen/Fed, Inflation, US-Dollar, Geopolitik/Sicherheit.",
+          "Wichtigste gefundene Headlines: Silber Preis: 59,17 Dollar je Unze - Börse Express | Goldpreis erholt sich: Sinkende Inflationserwartungen treiben Kurs über 4.000 US-Dollar - Finanzen.net."
         ],
         "headlines": [
           {
-            "title": "Gold: 4.074,70 Dollar über 4.000er-Marke - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeWh0djVYU3NjbGZlTXpmLUJOWTRKaW9qdk5BeU44Zi1vRTlzYjNrWDVqOW1pNFc5bHlXS0ZMY2E3NGZYLUNDYTg2STFkSGluQkRTQTFrcUliNzNpNnZrTG5OeF9RMTVwWkZJbmhNNktySUNENWdDMWlkRTg5S2pKYVpyQWZGeFllRl8ySEo0X2s3RWM?oc=5",
+            "title": "Silber Preis: 59,17 Dollar je Unze - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSkkwdDlqTUVNN05XeE4wLWF1c2VqOTdnQ0EwLVJsQndjcFZQd3NvVUg1clB6eUcxVERsYldkaEZSR3BiUmVYcEQyRmhuMElST2NSQ3lmQWh2djExWmNmR1l6dWgzb1pDWGdRb19JSG9WazJ4UmwzQXMyZnNUeW9YX0pkZGF2T3VueUJ3OA?oc=5",
             "source": "Börse Express",
-            "published": "21.07., 18:10"
+            "published": "22.07., 04:08"
           },
           {
             "title": "Goldpreis erholt sich: Sinkende Inflationserwartungen treiben Kurs über 4.000 US-Dollar - Finanzen.net",
@@ -2100,16 +2101,16 @@
             "published": "21.07., 11:48"
           },
           {
-            "title": "Gold: 4.015 Dollar trotz Ölpreis-Schock - Finanztrends",
-            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBPN2pEZUZBR3dZZ3pSODY0cWtKMlJWXzFUc3RSdDRqVWpoQkZKZ2lKZlRRSEZHekdxd09Jc2ttRllFQzJPSHVfU1BhNGVEUEdsVDg0OUpkYzVxcllrMU5Jclg0NkFBcE91WlVZdlpQYmpTRXJhVlcySkRRaUtpdw?oc=5",
-            "source": "Finanztrends",
-            "published": "21.07., 08:21"
+            "title": "Gold: Käufer trotzen der Fed-Bremse - Ad-hoc-news.de",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNY285bHJmQktDaHBoalZ1NHlmZ1Z6N0RkdUFPSU8tdG5WSGxybTQzQWJidGlhMW5iTy1vdDVXX1ZES1J3STc0NWx4bEdNaE1DcmU4bV8zdW13c1RaUUtTVWFSbjdiRGxFU2hRRWFVeGZ2cG91TTFjMG1MdEtfZFNidFpsUGVjV29SYjhPXzBJNl9XOUdrOFNyYktB?oc=5",
+            "source": "Ad-hoc-news.de",
+            "published": "21.07., 19:45"
           },
           {
-            "title": "Gold: 4.015 Dollar zwischen Iran und Ölschock - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTXFQbVR1Y2EtQURKUVBpYmhNdlBUS0h6ekk2MklMclF2anJxWkpVaFN3cGVmNGNfVWRfOU5TS3Y4bTdIUWV4d0JLbnVCSDdqWEdSTHl0VEFGYUtSYU1UdUsxWkpxVTI3MzRNbFF2bWJQUDRoXzY0U0xkVTFBelpUUjNiaWpPaTAzTHhtVkNYdy1JWDFvcFNIb09HR1A?oc=5",
-            "source": "Börse Express",
-            "published": "21.07., 07:56"
+            "title": "Gold: Mit Equinox Gold, Lahontan Gold und auf die Fed setzen! - Kapitalerhöhungen.de",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUVNydmJhemxkOEhqWXB2eE45VGlOVjltc1Vwd1JiTnZmM1FHZTA2WmZ0Tk5TVlp3TVkzRTdXYVRZZzBCTzlTVmpCUkhwdjNqTTZ2QmZJRU5GaHF4aEgycXV6eFJjbmpFdktsMVNmVU9jRWJQY2VfWjY2V2FZeHphUWZIQjJHdVBicnVMMXFfMEFlSGc5SlF2RlUyVlYwbl9kdS1pMUJR?oc=5",
+            "source": "Kapitalerhöhungen.de",
+            "published": "20.07., 04:30"
           }
         ]
       }
