@@ -1,9 +1,9 @@
 {
   "is_sample": false,
   "source": "Yahoo Finance Kursdaten + Google News RSS Kontext",
-  "generated_at_utc": "2026-07-22T17:15:49+00:00",
-  "generated_at_vienna": "22.07.2026, 19:15 Uhr",
-  "market_mood_internal": "risk-on",
+  "generated_at_utc": "2026-07-23T06:28:43+00:00",
+  "generated_at_vienna": "23.07.2026, 08:28 Uhr",
+  "market_mood_internal": "neutral",
   "assets": [
     {
       "name": "MSCI World",
@@ -396,7 +396,7 @@
         "bullets": [
           "Der Kurs ist leicht gestiegen: +0.21 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: KI/Tech, Regulierung.",
-          "Wichtigste gefundene Headlines: Leverage Shares -5x Short Nasdaq 100 ETP Securities | XS3373449761 | A4AU1Y - extraETF | SoFi (NASDAQ:SOFI) Aktien steigen, da Prognosen für 2026 eine Marge von 21 % für das zweite Halbjahr signalisieren - TechStock²."
+          "Wichtigste gefundene Headlines: Leverage Shares -5x Short Nasdaq 100 ETP Securities | XS3373449761 | A4AU1Y - extraETF | CFTC-Daten zeigen: Netto-Short-Positionen im S&P 500 schrumpfen, Positionierung nähert sich der Neutralität - VT Markets."
         ],
         "headlines": [
           {
@@ -406,16 +406,16 @@
             "published": "17.07., 09:00"
           },
           {
-            "title": "SoFi (NASDAQ:SOFI) Aktien steigen, da Prognosen für 2026 eine Marge von 21 % für das zweite Halbjahr signalisieren - TechStock²",
-            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNndaRHh6b3lDQk1JaVY0WjF1Ny1VOVgwODdCNHdZMDlFWm5aX1NBeFdGYnNxck5laElmNGVWZ3p6SkV1ZXhZdmtFUjdoSzlWNy00cHZlUWRjTlFxaWVtcEhtNm5NSWNzcU5aNzBMZmcyaTg5UnhyTUN3aW80cEZBOWlPZFQtekIydmoyZmpHdWlqZmlXdVJUWHFkUWhkVTlYcmFZQjNaRmZHYUMyQTRGT0ljYVRxc1RWOW5UMHRkQ2tHTFFLWGZvVA?oc=5",
-            "source": "TechStock²",
-            "published": "22.07., 13:38"
-          },
-          {
             "title": "CFTC-Daten zeigen: Netto-Short-Positionen im S&P 500 schrumpfen, Positionierung nähert sich der Neutralität - VT Markets",
             "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZWI3NnloY0lKQ05mMDhvSGFnM1o0RFZkN3BJUHRFX3Vvc2gtQ3FGaHFlejF3anFsel9SSERSMlIwNXFLUkppRkt1TWRDRGFHR2Y4RnlKcjZHVDJCZTVBMDdjNDFaNGlDcGlzYW5oeW5JbXFoWXlzNEJDSzlvbFpndWxuVmE2dWkwS0RTMFJPSXhBNFA2YmhHU21GUE9vRW10U0ZCR0g0X2hNY3BFb1huamtmYnFYbWxTeW14YnVFS3dEVDM3RVVnWmxqaktOeVBDY2RGd2VUM3RsVmlaZW95ZE45YXQ?oc=5",
             "source": "VT Markets",
             "published": "18.07., 11:15"
+          },
+          {
+            "title": "SoFi (NASDAQ:SOFI) Aktien steigen, da Prognosen für 2026 eine Marge von 21 % für das zweite Halbjahr signalisieren - TechStock²",
+            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNndaRHh6b3lDQk1JaVY0WjF1Ny1VOVgwODdCNHdZMDlFWm5aX1NBeFdGYnNxck5laElmNGVWZ3p6SkV1ZXhZdmtFUjdoSzlWNy00cHZlUWRjTlFxaWVtcEhtNm5NSWNzcU5aNzBMZmcyaTg5UnhyTUN3aW80cEZBOWlPZFQtekIydmoyZmpHdWlqZmlXdVJUWHFkUWhkVTlYcmFZQjNaRmZHYUMyQTRGT0ljYVRxc1RWOW5UMHRkQ2tHTFFLWGZvVA?oc=5",
+            "source": "TechStock²",
+            "published": "21.07., 20:13"
           },
           {
             "title": "(3⁺) NASDAQ – Der Index fällt, was bleibt? - stock3",
@@ -1234,13 +1234,12 @@
         "confidence": "niedrig",
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
-          "Regulierung",
           "China/EM",
           "Geopolitik/Sicherheit"
         ],
         "bullets": [
           "Der Kurs ist leicht gestiegen: +0.30 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: Regulierung, China/EM, Geopolitik/Sicherheit.",
+          "Gefundene Nachrichten-Themen: China/EM, Geopolitik/Sicherheit.",
           "Wichtigste gefundene Headlines: Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraETF | Wie die doppelte Aufnahme in den Russell 2000-Index bei Anterix (ATEX) das Investitionsprofil des Unternehmens verändert hat - simplywall.st."
         ],
         "headlines": [
@@ -1263,10 +1262,10 @@
             "published": "25.03., 08:00"
           },
           {
-            "title": "Drei europäische Small-Cap-Aktien für das Jahr 2026 - Morningstar",
-            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMEs2TEZTckdDLWpCakI1eHFNUW45VXNjbk5LN3ZBWDgwNXJPUGFEa1JFVE9QYWpmdmdfUVpZRmxYVG92bGFzOURGZTBOY2JTcllqSUxhTDVoMktobkRPMUtlX0gyVTZmWGFTVUZCQnh2TFA1bHhXeEt4RWZoU0FWbFBzTjY4NXdRdmNYUDVGRWNwMjVL?oc=5",
-            "source": "Morningstar",
-            "published": "23.01., 09:00"
+            "title": "Adidas, Kaffee, WTI, Russell 2000, Nasdaq100 Und DAX Unter Der Lupe! Francesca Albanese (7xTms6qy5y) - Mshale",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZNmNUQXF0YkJGMkJmMlRxMlZGVFR3YkZwNDZWMzdPR21MVlZ1WkdmU2Q1Q2ZxWHJ5WWMtREppYW4tZldDNmljMWxJdkRaQTg1UUQ5ZjFTeVNkUQ?oc=5",
+            "source": "Mshale",
+            "published": "22.07., 07:55"
           }
         ]
       }
@@ -1279,16 +1278,16 @@
       "description": "Alphabet Inc. Class A",
       "price_decimals": 2,
       "last_date": "2026-07-22",
-      "last_close": 348.1199951171875,
+      "last_close": 342.0899963378906,
       "previous_close": 347.1499938964844,
-      "change_abs": 0.97,
-      "change_pct": 0.28,
-      "change_5d_pct": -6.15,
-      "change_1m_pct": -0.45,
-      "change_3m_pct": 4.76,
+      "change_abs": -5.06,
+      "change_pct": -1.46,
+      "change_5d_pct": -7.77,
+      "change_1m_pct": -2.17,
+      "change_3m_pct": 2.95,
       "change_1y_pct": null,
-      "ytd_pct": 11.22,
-      "volatility_30d_pct": 33.17,
+      "ytd_pct": 9.29,
+      "volatility_30d_pct": 33.37,
       "sparkline": [
         {
           "date": "2026-03-13",
@@ -1648,47 +1647,46 @@
         },
         {
           "date": "2026-07-22",
-          "close": 348.1199951171875
+          "close": 342.0899963378906
         }
       ],
       "explanation": {
-        "direction": "gestiegen",
+        "direction": "gefallen",
         "confidence": "niedrig",
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
-          "US-Dollar",
           "KI/Tech",
           "Regulierung"
         ],
         "bullets": [
-          "Der Kurs ist leicht gestiegen: +0.28 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: US-Dollar, KI/Tech, Regulierung.",
-          "Wichtigste gefundene Headlines: Alphabet Aktie: Buffett investiert 10 Milliarden Dollar - Börse Express | Digitale Infrastruktur: 15-Stunden-Ausfall bei Google Cloud - BornCity."
+          "Der Kurs ist deutlich gefallen: -1.46 % gegenüber dem vorherigen Schlusskurs.",
+          "Gefundene Nachrichten-Themen: KI/Tech, Regulierung.",
+          "Wichtigste gefundene Headlines: ALPHABET – Cloud-Umsatz steigt um 82 % - stock3 | Googles Cloud-Wachstum beschleunigt sich erneut - trend.at."
         ],
         "headlines": [
           {
-            "title": "Alphabet Aktie: Buffett investiert 10 Milliarden Dollar - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQm9NSlBOSzllY1hIMDgzLU0zdzhwWVBpWjM5MEdOZ2pYdXVQclZTdzVfbHJvRlZiX1VmQnNsREpmWGV6RF9ySXJscVBxQ1k5aFpuMFpIQXZSWG9EWmN1NWxSNjF4eXJ4dnhKTUVXejRDMmsxN3kzdEFVR19xQVlfeUhhYWxaWlNmMUo5dHBDeThFbEpvR3EwNjVFakRpNHFQazVzQ0R6MEVEQQ?oc=5",
-            "source": "Börse Express",
-            "published": "22.07., 11:33"
-          },
-          {
-            "title": "Digitale Infrastruktur: 15-Stunden-Ausfall bei Google Cloud - BornCity",
-            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQak12TXdQUWM3RVdxd3FuU0oxQW1iLTJmUldmT285NkFYaDk2d180SDlEU0ttcW1WZ0FUM2txbkR6dW83clI0eFFHUWE3S1lnZTJpaDEySDNaUVZ3bTRCdzNualRWRFFGWjZfZTNUQ0JIcHRJYjA1eWFMcGpzZ0VQMUIzQm5IalFQeFlaT2ln?oc=5",
-            "source": "BornCity",
-            "published": "22.07., 11:28"
-          },
-          {
-            "title": "(3⁺) ALPHABET - Der Aufstand der Content-Lieferanten - stock3",
-            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYVE1NnhkRTI1TVB5eUZPd1Zla09ZX0xBNElTdVlLWGEwZ2ZNdWsxeDdBYjZEalVMSUdOcEg4ekVqNk1XVlJ3TXpXYUVfMDd2N0gtaDh2Nzh4aUc1dll3U1dTbzQ5Qkxfc08yUm9mQ2NFbFV0dTNndmRlSE0zVWo5R3FPcHI?oc=5",
+            "title": "ALPHABET – Cloud-Umsatz steigt um 82 % - stock3",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE83dUduSGtPZW02bjNiSXdvdHRDdkhDYUozLUlBNDVlZDRxWVlHUkNzcFNJVlVfN19jaE9tblJsRXlWVjluSTB2dXozSFFjZ3A4RzYzdmk1bHBCNllhSEZXeW5LV0ZkSGZaVDQ2ZEZuN19hVDI2Z3c?oc=5",
             "source": "stock3",
-            "published": "22.07., 11:20"
+            "published": "22.07., 22:17"
           },
           {
-            "title": "Deutsches Robotik-Start-up sammelt größte Seed-Runde ein – Koop mit Google Cloud - heise online",
-            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQWtHQ3dNd1B4QzFfQlFsb3ljV3JZakFYcTlfdXAwdHMxemkzVHRCRU1hQlc5bU42bmhYZHNGdHhlVF83WWdJM1N3djczNGd5TDBDUlYzeEdNMXp0c0JrLVlfYVNrZXBoLW5QX29JQjBDd0N5cTNDa0czVTc5Tzg5X3ozOHpwa2gwNFd4U2JHRlNQUHlWSS1RQlEtMWgzT01uNFMwTDBNYXFVdkdIWGs5ODVuUWhmbjRGX19Ycg?oc=5",
-            "source": "heise online",
-            "published": "22.07., 10:02"
+            "title": "Googles Cloud-Wachstum beschleunigt sich erneut - trend.at",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE05bFBURDdTZUp1bDYzb25FRGpBQUEyMXJfcTZ2V1lnNS1tQ2EwMlJpczkxX0o0VTgyMWh6RHBCTFBCeHhod1lSTFBzTDFxZkxUUzNES0M3SEhpTG1YS29fRUVHRVBGT0piaGxuNnlCYTJaRHNqNEZEcHU3bXdFdw?oc=5",
+            "source": "trend.at",
+            "published": "23.07., 02:07"
+          },
+          {
+            "title": "Alphabet: Googles Cloud-Wachstum beschleunigt sich erneut - Handelsblatt",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNd0JsbDZZbzZiOHllZWkyUjNRV0tDc2FzYXlKTlNoaDRjRzVDNWlZWnZNTC1GNFh5SDdvQ1JGUmVaNUxoQlJtQksweTd2NnEwc28yZzI5Y2pta0RUZkNkNUNvb19yUWNYRlczRkJDSmlmYjhqTjkzMk94Q1pVUUZNanZpa01SaTJoMUxFQnRRY1BWSFQ3UkNLb2szRWRkcnlUMGswZVZLWExsS2FLcVc5VQ?oc=5",
+            "source": "Handelsblatt",
+            "published": "22.07., 22:57"
+          },
+          {
+            "title": "Alphabet-Aktie fällt – KI-Ausgaben schockieren trotz Cloud-Boom - Wallstreet Online",
+            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOc1R5MmxZVkI4N3hRaVZYd2RsWldDWWJVckV0LWlQc2hsdk1sTjdERTdPUzM1V1hxWFcySFhEZERZOWZRUHdZQVRFY3RZel9ZdE5IWXoxLWlvSHp5TDBRSW9vaUd0cUZ6MzQ1WGJZQXNuTHNnMXRCdW9iMUk2dDNZdS1BdXdBM0xNcDM1SWVHNHhlVjFqc21KN0NUOVlScVMzR0tyOUQzTDVlY1pBbW10QjcyaDVwRHFlU1dHTk83WWpiX0Uz?oc=5",
+            "source": "Wallstreet Online",
+            "published": "23.07., 02:00"
           }
         ]
       }
@@ -1700,22 +1698,18 @@
       "currency": "USD/oz",
       "description": "Goldpreis, primär über Gold-Future, fallback XAU/USD",
       "price_decimals": 2,
-      "last_date": "2026-07-22",
-      "last_close": 4152.5,
-      "previous_close": 4071.10009765625,
-      "change_abs": 81.4,
-      "change_pct": 2.0,
-      "change_5d_pct": 2.68,
-      "change_1m_pct": -0.7,
-      "change_3m_pct": -11.62,
+      "last_date": "2026-07-23",
+      "last_close": 4129.2998046875,
+      "previous_close": 4146.89990234375,
+      "change_abs": -17.6,
+      "change_pct": -0.42,
+      "change_5d_pct": 3.61,
+      "change_1m_pct": -0.01,
+      "change_3m_pct": -12.75,
       "change_1y_pct": null,
-      "ytd_pct": -4.0,
-      "volatility_30d_pct": 27.66,
+      "ytd_pct": -4.54,
+      "volatility_30d_pct": 27.16,
       "sparkline": [
-        {
-          "date": "2026-03-13",
-          "close": 5052.5
-        },
         {
           "date": "2026-03-16",
           "close": 4994.0
@@ -2070,47 +2064,49 @@
         },
         {
           "date": "2026-07-22",
-          "close": 4152.5
+          "close": 4146.89990234375
+        },
+        {
+          "date": "2026-07-23",
+          "close": 4129.2998046875
         }
       ],
       "explanation": {
-        "direction": "gestiegen",
-        "confidence": "mittel",
-        "summary": "Plausibler Nachrichtenbezug: Der Kurs ist gestiegen und die gefundenen Schlagzeilen enthalten überwiegend positiv wirkende Formulierungen. Die Quellen passen damit zur Richtung, beweisen aber keine Kausalität.",
+        "direction": "gefallen",
+        "confidence": "niedrig",
+        "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
-          "Zinsen/Fed",
-          "US-Dollar",
-          "Regulierung"
+          "US-Dollar"
         ],
         "bullets": [
-          "Der Kurs ist deutlich gestiegen: +2.00 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: Zinsen/Fed, US-Dollar, Regulierung.",
-          "Wichtigste gefundene Headlines: Gold: 4.126,90 Dollar je Feinunze - Börse Express | Goldpreis aktuell: Gold verteidigt die 4000-Dollar-Marke - WiWo."
+          "Der Kurs ist spürbar gefallen: -0.42 % gegenüber dem vorherigen Schlusskurs.",
+          "Gefundene Nachrichten-Themen: US-Dollar.",
+          "Wichtigste gefundene Headlines: Goldpreis aktuell: Gold verteidigt die 4000-Dollar-Marke - WiWo | Gold: 4.159,80 Dollar nach Iran-Eskalation - Börse Express."
         ],
         "headlines": [
-          {
-            "title": "Gold: 4.126,90 Dollar je Feinunze - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeXVJcFAwa2JWZVp3dmtIZDFrSFlyMEZSRVgzdWZqYzFJUVZpb0l5N3pZdTdyVmtOOEVTc3lvQS1RUFdqcHYwXzUwNml4NEY0bUpTS1dqX29HYUpRS1UwNldFelFSYnBrVlV0blVXVzRleGJDS3ktYmk1SXlteE51cGMyUnRsRHlYanc?oc=5",
-            "source": "Börse Express",
-            "published": "22.07., 16:03"
-          },
           {
             "title": "Goldpreis aktuell: Gold verteidigt die 4000-Dollar-Marke - WiWo",
             "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUzdMTTlNQ3h2elVQVTZpblZGRUFwZ05jVU1VbDM4VUlnVmhSYjRnVl9CUGFBLTIwMEFWMFB5Tk1sSi1ZZDJub0Z6Vi1ZX193MXhVaUFWZHRxUURfUGZ5MHRjU05TMzlPOUxLNWwxMzVkcHBFSXZleWViV0xUeWV2T2pubWlkckZwWVcwa0I1cXp1QmlQazJEcjBxVldIUi14NnZENDAzenNIZ0JrekE?oc=5",
             "source": "WiWo",
-            "published": "22.07., 15:22"
+            "published": "23.07., 03:23"
           },
           {
-            "title": "Gold steigt auf Zwei-Wochen-Hoch bei schwächerem Dollar; Fed-Ausblick im Fokus - MarketScreener Deutschland",
-            "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPenZxWENqaG9kQVFoV1UyeHZlbUZiSk9jaXo5eEFTZEdPaU9ZVlhJUmVMaHNvUE5tOVZwckphcTE0X1pTRjB2ODFiMU1jUVVQbUFCck1wSjNFRU1pQ3EtU25fVW5uY3JwejVXMmdrcWRQUG0yRWhpLUp1Ulk4WUpLVnlxblRRSkNHOENnU1VDbVFKN0JFejZCM0dNc3VuYXZ1eDQ2Wms2TkxYbnh4UTl3V2F0OGo3SVg1R1JtODB4ZjRnVXZaUk5IX1VnSjdvNTJzWnEzV1lMTUlqQmEt?oc=5",
-            "source": "MarketScreener Deutschland",
-            "published": "22.07., 15:20"
+            "title": "Gold: 4.159,80 Dollar nach Iran-Eskalation - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPajBFRFRBMWhNR2czYnJRWERLV0tUX1BlbFYyNnQ2NmdUaFY4bkgySlVJa211d0RBRlZ0ZjM3c3FnR1Z1a2NnN19UUFlPQ0pfd21nWVZSNE5ReTRzWkhpQ1d4NlBnMHBiXzhJOTVIWmtFOUdaUTRsZFVqTE00VmRxc000cF9YSEN6eFYzcDJJS0s2aFF3X1E?oc=5",
+            "source": "Börse Express",
+            "published": "22.07., 20:49"
+          },
+          {
+            "title": "4.000 Dollar erfolgreich verteidigt - Wallstreet Online",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRjlrZzRZdGdSd0JmRUxPMjNTR0E0T1FNU0ZLV2lwNkNpX0hSaktXLTZzSzNDLW5KVDRWS0dLZFBFLTNCOUh5YzFpYVZwWWFuSzBsTk51SlZyMDdKeTNJdzBMeHdYX2doV0tmZC16MGFBSGhjVjM4VUJPN3NySlNkd1k1Nk5jemx4SUcyUHE1aGMxREx2SFJR?oc=5",
+            "source": "Wallstreet Online",
+            "published": "23.07., 07:02"
           },
           {
             "title": "Gold: „Stabilität kehrt erst zurück, wenn Währungen wieder an Gold gebunden sind“ - WELT",
             "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQV1lKTVB0WkZIV1Q3VGRjMlA5dW4xSTdOR1d0ZjE2bV9IUjA1dkVoZW5PMlZhMm9uc2ZDb1YzOEpoYmhEaUlKb19ZcVBtbC13N2VDOWIwQ3ptZmdXTXo3SGZZZHJQS0R5RjNKTVFrNGFLVFk0Y2hUM0VxLXBmaFlpQ2lTeVU2VHAzUkpoeVpEMVc2VS1lRG5WUzdqUmp0cHdjVVVwY3dkVkFpSU1tNFpmXzJ3WTRSd2xZbDF6VGloNUdlSVd3cExPNndSckxDcjhFR2hwaHhSdXlBQjg?oc=5",
             "source": "WELT",
-            "published": "22.07., 18:33"
+            "published": "23.07., 06:34"
           }
         ]
       }
