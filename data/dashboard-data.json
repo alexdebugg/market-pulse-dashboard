@@ -1,8 +1,8 @@
 {
   "is_sample": false,
   "source": "Yahoo Finance Kursdaten + Google News RSS Kontext",
-  "generated_at_utc": "2026-07-25T16:53:58+00:00",
-  "generated_at_vienna": "25.07.2026, 18:53 Uhr",
+  "generated_at_utc": "2026-07-26T06:33:53+00:00",
+  "generated_at_vienna": "26.07.2026, 08:33 Uhr",
   "market_mood_internal": "risk-on",
   "assets": [
     {
@@ -418,10 +418,10 @@
             "published": "21.07., 22:56"
           },
           {
-            "title": "CFTC-Daten zeigen: Netto-Short-Positionen im S&P 500 schrumpfen, Positionierung nähert sich der Neutralität - VT Markets",
-            "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZWI3NnloY0lKQ05mMDhvSGFnM1o0RFZkN3BJUHRFX3Vvc2gtQ3FGaHFlejF3anFsel9SSERSMlIwNXFLUkppRkt1TWRDRGFHR2Y4RnlKcjZHVDJCZTVBMDdjNDFaNGlDcGlzYW5oeW5JbXFoWXlzNEJDSzlvbFpndWxuVmE2dWkwS0RTMFJPSXhBNFA2YmhHU21GUE9vRW10U0ZCR0g0X2hNY3BFb1huamtmYnFYbWxTeW14YnVFS3dEVDM3RVVnWmxqaktOeVBDY2RGd2VUM3RsVmlaZW95ZE45YXQ?oc=5",
-            "source": "VT Markets",
-            "published": "18.07., 11:15"
+            "title": "CoreWeave (NASDAQ:CRWV) Aktien fallen zum Handelsschluss, während Märkte auf Finanzierungslücke bei KI reagieren - TechStock²",
+            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOUpxTHpvdTN1MlVZWGo3REd6Z1hPODdfUDFRdDNRZ0VsSXRpd2Z1cWJwTkRkWkNJbDlLVzR4OUdxcVBfc2Y5SEdJbXZOMzdKSHktRm1yVWxxT0kwSnZ5Sl9vYnhGcWcwU2FUdzl3dTh4ZDRoQnM4UzNIRFNoSWhJRHpvTGxpeE0yOTlHdlpLQTNSZ3E1OWhzMGZ3bFBxU1RHMVZIYVBOYXptaTE4b0x0ekM4Q2RxeGt6OUZzbThvQkFlbzQtb2VaOA?oc=5",
+            "source": "TechStock²",
+            "published": "24.07., 23:09"
           }
         ]
       }
@@ -1245,7 +1245,7 @@
         "headlines": [
           {
             "title": "Sizing Up Small Caps - BNY",
-            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTGZhak45WnN0QmhDT2Vyc1c1MUtWMmp5dURncm5KOGRnY3NuZ3dGUEc2MlB5NWJnZkRqaWxzdS1mUXpCUHVmdHhDRnlIQTNNb21NNDY3dWRWMVllc0RFU0JCZW9yRjYxUVBZamxtdWJjTjF1N2tuSzlKM28zMFhfYkNZeVpHODZzTnljWXlUYzg4eklUa3p0X196WFhOLU8yUll1amRjMkE4Q2s5UTlYdUQtN083UDMx?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZ2czX010TU1icFltbXVSM3FrMGFwdFR4NDRLRjhFaUlONnM2NzRzbHBXVDN0WkkxSFQ4ZnVuS2R2bWVFMmxnWkpVb3pXZVJDZkJaTmZOaWRwcTZMdGhuLXBiTUtFU2tiX1oycDVlMWFsSkI0ZFNKM0Z0dVYwM2lpYk9YRE8wNm11dF9RaHJ6ck5LQWl6eUdsNzB2bmpBMTN1RXRJUVY3R2J2ekNFN0s1X2daLU4?oc=5",
             "source": "BNY",
             "published": "21.07., 09:00"
           },
@@ -1652,17 +1652,16 @@
       ],
       "explanation": {
         "direction": "gestiegen",
-        "confidence": "niedrig",
-        "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
+        "confidence": "mittel",
+        "summary": "Plausibler Nachrichtenbezug: Der Kurs ist gestiegen und die gefundenen Schlagzeilen enthalten überwiegend positiv wirkende Formulierungen. Die Quellen passen damit zur Richtung, beweisen aber keine Kausalität.",
         "themes": [
           "US-Dollar",
-          "KI/Tech",
-          "Gewinne/Analysten"
+          "KI/Tech"
         ],
         "bullets": [
           "Der Kurs ist spürbar gestiegen: +0.65 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: US-Dollar, KI/Tech, Gewinne/Analysten.",
-          "Wichtigste gefundene Headlines: ALPHABET – Cloud-Umsatz steigt um 82 % - stock3 | Alphabet Aktie: 44,9 Milliarden Dollar Quartals-Capex treffen auf einen erstmals negativen Cashflow - Börse Express."
+          "Gefundene Nachrichten-Themen: US-Dollar, KI/Tech.",
+          "Wichtigste gefundene Headlines: ALPHABET – Cloud-Umsatz steigt um 82 % - stock3 | Alphabet Aktie: 300 Milliarden Dollar vernichtet - Börse Express."
         ],
         "headlines": [
           {
@@ -1672,22 +1671,22 @@
             "published": "22.07., 22:17"
           },
           {
-            "title": "Alphabet Aktie: 44,9 Milliarden Dollar Quartals-Capex treffen auf einen erstmals negativen Cashflow - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOUJoSVhFWno2Mnk4LWFZT2N2ZE5uNUNjOUpzaEtGRXFXdC1GeTc5N3k2S1NSUm9TTnJjcjQ5THNlTFhKeTNua1k3YjFpSGhPR1dFV3k3VU9MZ3NyLXFNd2h1MkEteHJMZmpVTXBfY3ZGeVpxeXdDOElTU1FaUGl4bTFMMXRvX0VOZjRxZVlVak5zd2s1cEt5V1ZvZUFJc2tBaU1fMzdpOFQwVFI4dTdLNER4SEtsRGF3dEhNWVY0QUM3STk3VElfWVlHVTEtSHBKOE85bEVadnVadkdsQzNhYV8zNA?oc=5",
+            "title": "Alphabet Aktie: 300 Milliarden Dollar vernichtet - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQY2hTcVNZQUkyZ09nR1R1YzY3WlIxMGdOdVQ4UmN3QlBPd3lEMGxLLVFpMnl3enhoOTFvbVoyQTBsM0RtQ2ZyX1dDVHJzRXBtRXhtUTRQM0Fxd1huOTFlQ1hTUDZnMU93QjZLRkZSQXNwRGtVMktDQUI3dGZnREw4a2stQXB1TjRUcE5ObkRDckFGOXF6bFJBbmhlWVI5Ni1Y?oc=5",
             "source": "Börse Express",
-            "published": "25.07., 13:05"
+            "published": "25.07., 22:46"
           },
           {
-            "title": "Google-Rechenzentrum: Die Cloud fällt nicht vom Himmel - DiePresse.com",
-            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaWM2ajF0TEZWOVJzYjdwZmQ3SlIwUWh5dlhqd19VeExNNGdKMFhMWDh5aXdqN1hSNXBPTzdPTWZVV2pVVXdVZXJCTE5vM3VTTkRiQ0tPOV95ODRLY0ZxYlhmR0loRTZ4c2NhcXdEaElqZ25OSU5uRVQ5QW1VZWxtcFN4aEpRN1F0UUt1V3dRSFFBOFk?oc=5",
-            "source": "DiePresse.com",
-            "published": "25.07., 08:56"
+            "title": "Gemini Spark: Google öffnet KI-Agent für günstigere AI Pro-Nutzer - BornCity",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaGNVTmtoZlg4cG9VSzRVZVI5VHZidFpfbV9sSE5id2tlOGxjc3B6VkdQdkVRcHMzdW5VVjdnZHJJMWs0dGIyS2RnVFJFQ1pfelNGSFF4ZWYwYWZ4VmJYSURldWdmMHpNeGYwdzA4ZmtqYzJraFFIb2EwTzlFS3VYOVczc2t4eVdlMnZra3QwRUoxc3p4b0dMTFhB?oc=5",
+            "source": "BornCity",
+            "published": "26.07., 06:33"
           },
           {
-            "title": "Die Alphabet-C-Aktie steigt vor Zahlen und Cloud-Wachstum - AD HOC NEWS",
-            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPM3pYenVrX3NIdEMxZHdhX3diSm5GbnJPNXVFdHVrWVRVSDJITkhaTHdOM1pjZEJrWFAyTHJEOEVDaFphMk44R0RkbktrNjRjWmsxZ0xDcDJBN3VvZUlSWVJEX1VGUzJNbEZwWXlQdjZrcVJkQk1CRmVCSG1WUm04Z21GeEFpeUpRaWd3cllyWXl5TTJYZFJZOXJzblRqQ3hDNEV0T1FhcWFKYV9TSzlNQjNpSWNUTmc?oc=5",
-            "source": "AD HOC NEWS",
-            "published": "25.07., 18:37"
+            "title": "Google forciert KI-Investitionen nach Cloud-Rekordwachstum - trend.at",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVkhfVzRJeFN6d3BDeDMzbm5YZlhBZW5fS2RCYl9VaF83UEVyXzJvaDJjQ1NsaXhGY3JXblROTy0tWnRjX1lEeXN3cmFqS0FvdUM2UDI5T2pjeTM5bG1ndk5LbjB3bEYzWWFTczVxNXcxUzRhV05lNm9WNUpLejJLNDBSR3JiUGh4T0hEXw?oc=5",
+            "source": "trend.at",
+            "published": "23.07., 18:54"
           }
         ]
       }
@@ -1700,16 +1699,16 @@
       "description": "Goldpreis, primär über Gold-Future, fallback XAU/USD",
       "price_decimals": 2,
       "last_date": "2026-07-24",
-      "last_close": 4067.60009765625,
+      "last_close": 4070.800048828125,
       "previous_close": 4046.60009765625,
-      "change_abs": 21.0,
-      "change_pct": 0.52,
-      "change_5d_pct": 1.37,
-      "change_1m_pct": 1.94,
-      "change_3m_pct": -13.55,
+      "change_abs": 24.2,
+      "change_pct": 0.6,
+      "change_5d_pct": 1.45,
+      "change_1m_pct": 2.02,
+      "change_3m_pct": -13.48,
       "change_1y_pct": null,
-      "ytd_pct": -5.96,
-      "volatility_30d_pct": 26.09,
+      "ytd_pct": -5.89,
+      "volatility_30d_pct": 26.11,
       "sparkline": [
         {
           "date": "2026-03-17",
@@ -2069,7 +2068,7 @@
         },
         {
           "date": "2026-07-24",
-          "close": 4067.60009765625
+          "close": 4070.800048828125
         }
       ],
       "explanation": {
@@ -2081,7 +2080,7 @@
           "Geopolitik/Sicherheit"
         ],
         "bullets": [
-          "Der Kurs ist spürbar gestiegen: +0.52 % gegenüber dem vorherigen Schlusskurs.",
+          "Der Kurs ist spürbar gestiegen: +0.60 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: Zinsen/Fed, Geopolitik/Sicherheit.",
           "Wichtigste gefundene Headlines: Gold: Fed-Entscheid am Mittwoch - Börse Express | Goldpreis-Prognose: Warum Gold-Anleger auf die Fed am Mittwoch warten - Wallstreet Online."
         ],
@@ -2099,16 +2098,16 @@
             "published": "25.07., 13:05"
           },
           {
+            "title": "VanEck Gold Miners ETF: Fed und Agnico Eagle am 29. Juli - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVTg0MHVGaVBVa20zZEVOMWdMRUtyd0J1dDNBN1JCdkpWTm43NlRUUTU2bzVJUzZvTHFpdlMzWEVDcks1VERja196TjV4dnA5RF9YUDZoWUhoMmxtQi1uQ25iYm1jQ3hFNDlPZkNVb2tmRHRjRndPUVQ3b2p6bzltbmFHRmhaa1NSQzlYYjBtZ2xOQW5ob1FVR1FUWnBSODM4VURkdUJNNFFDQQ?oc=5",
+            "source": "Börse Express",
+            "published": "26.07., 04:27"
+          },
+          {
             "title": "„Man kann niemandem das Misstrauen verübeln, ob sich eine Enteignung wiederholen könnte“ - WELT",
             "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOYjVrZ2ZUenFhamlRTGt3V1pfU2VJRV9UZUNHUllCNkVtdk16VGtuS1RrdlN1UlFBUVc4UURidS03Q0Q0TERtSHlvbEVaVFM3NlZsMWtGTE9oRzlvOExual92aXdLRmt6TEhkOW1XMkkwZmZnd240QWsyVG1PbWIwZ3l0dU1VWUFDcXRzZzBYWFlKck9fLVZiQmpNMzFvOXR2aEE3SHM0dXhWOEktUU9GcmJJUWp1OEllVjFNNmpaLVM2MUtJNkZ4dTJaYWdyWEN4cjJXeHp4OG5yck9PRzRsVndaeFlOWHcwSnVF?oc=5",
             "source": "WELT",
-            "published": "25.07., 16:18"
-          },
-          {
-            "title": "Gold: Bringt das die Wende?: Goldpreis-Prognose: Warum Gold-Anleger auf die Fed am Mittwoch warten - FinanzNachrichten.de",
-            "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPNWM3c1dEektfQWFZTnlHaGw1Tk1WS1RIamRlcHVHYWc1VFg5clduUTJsdlFsRUQ1TDY3b01nUUZnN2k0bUdMNzA4aXdCSkwwYVd0d09paF9Mc2J1dGx2M25ycXJ2T052cGFTdVg5Z0JieTZST2JFNDJwR0lZRjJ2dUFkaE8xZkNHcFNpVFkyMFUyLWFobjdNMkJKNTQ2NVZUMjhzcEpTa0YyeU1EZFpXdmdTNm5ZM3l6S1NWUXJBVlVvMVplUmRJZzlFLU1SU0p5R3k0LVhTbkZqRUVlMW43VV9NSjNjR0NtdUpDc1NTYURJeW5jSzRB?oc=5",
-            "source": "FinanzNachrichten.de",
-            "published": "25.07., 13:23"
+            "published": "25.07., 21:01"
           }
         ]
       }
