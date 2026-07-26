@@ -1,8 +1,8 @@
 {
   "is_sample": false,
   "source": "Yahoo Finance Kursdaten + Google News RSS Kontext",
-  "generated_at_utc": "2026-07-26T06:33:53+00:00",
-  "generated_at_vienna": "26.07.2026, 08:33 Uhr",
+  "generated_at_utc": "2026-07-26T16:57:17+00:00",
+  "generated_at_vienna": "26.07.2026, 18:57 Uhr",
   "market_mood_internal": "risk-on",
   "assets": [
     {
@@ -819,9 +819,15 @@
         "bullets": [
           "Der Kurs ist spürbar gefallen: -0.52 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: US-Dollar, China/EM, Geopolitik/Sicherheit, Gewinne/Analysten.",
-          "Wichtigste gefundene Headlines: iShares MSCI EM ex China: Allzeithoch bei 99,78 USD - Börse Express | EM-Anleihen: Diese rohstoffreichen Schwellenländer profitieren - das investment."
+          "Wichtigste gefundene Headlines: Schwacher US-Dollar und hohe Defizite: Rückenwind für Emerging Markets? - e-fundresearch.com | iShares MSCI EM ex China: Allzeithoch bei 99,78 USD - Börse Express."
         ],
         "headlines": [
+          {
+            "title": "Schwacher US-Dollar und hohe Defizite: Rückenwind für Emerging Markets? - e-fundresearch.com",
+            "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdW5LT0NkQVByWUhHM2JvRDZVWERXUW5RWnpWcEpzVVNxRDA2QzgwTEJBQ3p4Y2lYU1NEelhUa1hUZzJyUDg4SnJPTXVmQUppQzRoalhkVURTWEJtaHZ1Zk1MMHNXekE0ZkpyM2x4aTI3UmU0bkU3REl6NXYyVnZIWWxCckFXT3pKaVdvQlp0cFQxMmpPS3lTN0U4ajBWTHd0NGJHVFI2T0Nhc3hhQ2ZSQkJqclRfaWZYMUVEaERfYXcxdklzYXlvRXY5c2R3ZHJDVUpjZmt4TXlQYWNxSHhCSE83cGVjQzc2Nnc?oc=5",
+            "source": "e-fundresearch.com",
+            "published": "25.11., 09:00"
+          },
           {
             "title": "iShares MSCI EM ex China: Allzeithoch bei 99,78 USD - Börse Express",
             "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVHg5cHVfWE8tQ2tteTRVS0liN0NxX3dtaHhWcDRXdmZBNE1ac3JBVEI3VW5BMHFRM01xVGpNSFowb2hhQlBlZUhDS1gzNnUtOWdCdGpkZmQyWjQ2Sk9yMXlCOUU2MU5DWmFnZmJRUjQydGZWSE9ycjR3dDY2OEZTUktZOUxodXU1S3JGcC1sZW9qQnBTbFdTVGMxcTdYTjZTZFFZ?oc=5",
@@ -839,12 +845,6 @@
             "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWHhSNTdKdm9ENnlwNHVYMHVJa3M3VmctRWswSm5tWFFCc29DemNLQk1nVXd4dHcwcFZlemVYcTcxZTJvdm5sYTNFblhwUVZ2UExEbHQxdXFjSUhyV252TUNVam42cnp4Ti15R0pUWEp0S3k4azhUVlFqc1lxNEpRNmRfd09JaU5qTF91Uk91eHRTaW5TVHlBQjlfeHRmVVJvV0Y3Y1lYb1hvWTl3MkxBSkoxR1p6SVBLOGxRXzEzNkQzSV90MTVzY3Z2Mmw?oc=5",
             "source": "Handelsblatt",
             "published": "17.04., 09:00"
-          },
-          {
-            "title": "iShares EM ex China ETF: 3,72% Freitags-Sturz - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRW9sTG9iUi11ZWNqbDVlYkt0NlNZanVPaWhWLWgtd1NxN2hkZUVZc2JqQWNpN2hXQzljYWxURUtONVVHLWxCbmE1YVZqalVmdWJYZWJzRzJRR3F1QzdBSEFGd1ZOYWJlVnM5U3BGTnB0aHMtdjlFSVU3TFBlcTV4YzBCUHl5b0lKUkEwNk5zNEZxX0RXbTQ1Qm93?oc=5",
-            "source": "Börse Express",
-            "published": "16.05., 09:00"
           }
         ]
       }
@@ -1234,18 +1234,18 @@
         "confidence": "niedrig",
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
-          "China/EM",
-          "Gewinne/Analysten"
+          "Regulierung",
+          "China/EM"
         ],
         "bullets": [
           "Der Kurs ist spürbar gestiegen: +0.87 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: China/EM, Gewinne/Analysten.",
+          "Gefundene Nachrichten-Themen: Regulierung, China/EM.",
           "Wichtigste gefundene Headlines: Sizing Up Small Caps - BNY | Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraETF."
         ],
         "headlines": [
           {
             "title": "Sizing Up Small Caps - BNY",
-            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZ2czX010TU1icFltbXVSM3FrMGFwdFR4NDRLRjhFaUlONnM2NzRzbHBXVDN0WkkxSFQ4ZnVuS2R2bWVFMmxnWkpVb3pXZVJDZkJaTmZOaWRwcTZMdGhuLXBiTUtFU2tiX1oycDVlMWFsSkI0ZFNKM0Z0dVYwM2lpYk9YRE8wNm11dF9RaHJ6ck5LQWl6eUdsNzB2bmpBMTN1RXRJUVY3R2J2ekNFN0s1X2daLU4?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTGZhak45WnN0QmhDT2Vyc1c1MUtWMmp5dURncm5KOGRnY3NuZ3dGUEc2MlB5NWJnZkRqaWxzdS1mUXpCUHVmdHhDRnlIQTNNb21NNDY3dWRWMVllc0RFU0JCZW9yRjYxUVBZamxtdWJjTjF1N2tuSzlKM28zMFhfYkNZeVpHODZzTnljWXlUYzg4eklUa3p0X196WFhOLU8yUll1amRjMkE4Q2s5UTlYdUQtN083UDMx?oc=5",
             "source": "BNY",
             "published": "21.07., 09:00"
           },
@@ -1262,10 +1262,10 @@
             "published": "10.07., 16:34"
           },
           {
-            "title": "S&P 500, Dow Snap Three-Day Losses, Nasdaq Ends Best Day In Three Weeks As Earnings Take Centerstage — GOOGL, AAPL, AMD, TSLA, DIS In Focus…",
-            "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPU1RpSnZEVDlHRGtncGpMaEtFRDdtRWtrSkF0bXktbklJMVJaNm9ick1rMkEwWFFDN3VJdzRwcEhrVzdGWDRMSHZZWWhFbFhUcXREZ1B1U0EtM0JxMF96dWExZndIcHU3dFhmb2c5OUxOb29tbUVLQjhSZTN1dVRGendvU3JOR2UwcktZME84TU5VTmlCcjQxYVF6QTBiWHV6TWt0WFhtakgyUzN1cnA5SFB0Q2V4eGp1WjQwM0E1U1ExMUx2YklNYm96NUdNMVN3N3Ryd3V4eG90YnRiSU0zN3c1YjdfLS1HUFhTRlhLT25tSjZRMWVaN0lzVmx0bHNvTnlJeF9vOVBZeEJyN3FHMXctcjBKX2tuam5Z?oc=5",
-            "source": "TradingView",
-            "published": "22.07., 00:02"
+            "title": "Drei europäische Small-Cap-Aktien für das Jahr 2026 - Morningstar",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMEs2TEZTckdDLWpCakI1eHFNUW45VXNjbk5LN3ZBWDgwNXJPUGFEa1JFVE9QYWpmdmdfUVpZRmxYVG92bGFzOURGZTBOY2JTcllqSUxhTDVoMktobkRPMUtlX0gyVTZmWGFTVUZCQnh2TFA1bHhXeEt4RWZoU0FWbFBzTjY4NXdRdmNYUDVGRWNwMjVL?oc=5",
+            "source": "Morningstar",
+            "published": "23.01., 09:00"
           }
         ]
       }
@@ -1661,7 +1661,7 @@
         "bullets": [
           "Der Kurs ist spürbar gestiegen: +0.65 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: US-Dollar, KI/Tech.",
-          "Wichtigste gefundene Headlines: ALPHABET – Cloud-Umsatz steigt um 82 % - stock3 | Alphabet Aktie: 300 Milliarden Dollar vernichtet - Börse Express."
+          "Wichtigste gefundene Headlines: ALPHABET – Cloud-Umsatz steigt um 82 % - stock3 | JPMorgan & RBC setzen auf Alphabet – AI‑Boom, aber Cash‑Alarm - Wallstreet Online."
         ],
         "headlines": [
           {
@@ -1671,16 +1671,16 @@
             "published": "22.07., 22:17"
           },
           {
+            "title": "JPMorgan & RBC setzen auf Alphabet – AI‑Boom, aber Cash‑Alarm - Wallstreet Online",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMW9Yb1BtTnJJSjBPSjd6SUtXMVJmTmJQUWozdlZXdU9HWDhfdk5qdmRaN0s4c0dVZGtqVEd6ZHdxRGh2aDhpMWxRbC1hUGtMZTJKc3JER0FIM3o4SW16WjJXVlVUODZBZl95S1hUaFA4RERzdU5TWFNDTXRValdyWkZmWDZWeEtyelhQc0ZnVmlBOTJhMHNr?oc=5",
+            "source": "Wallstreet Online",
+            "published": "25.07., 02:00"
+          },
+          {
             "title": "Alphabet Aktie: 300 Milliarden Dollar vernichtet - Börse Express",
             "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQY2hTcVNZQUkyZ09nR1R1YzY3WlIxMGdOdVQ4UmN3QlBPd3lEMGxLLVFpMnl3enhoOTFvbVoyQTBsM0RtQ2ZyX1dDVHJzRXBtRXhtUTRQM0Fxd1huOTFlQ1hTUDZnMU93QjZLRkZSQXNwRGtVMktDQUI3dGZnREw4a2stQXB1TjRUcE5ObkRDckFGOXF6bFJBbmhlWVI5Ni1Y?oc=5",
             "source": "Börse Express",
             "published": "25.07., 22:46"
-          },
-          {
-            "title": "Gemini Spark: Google öffnet KI-Agent für günstigere AI Pro-Nutzer - BornCity",
-            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaGNVTmtoZlg4cG9VSzRVZVI5VHZidFpfbV9sSE5id2tlOGxjc3B6VkdQdkVRcHMzdW5VVjdnZHJJMWs0dGIyS2RnVFJFQ1pfelNGSFF4ZWYwYWZ4VmJYSURldWdmMHpNeGYwdzA4ZmtqYzJraFFIb2EwTzlFS3VYOVczc2t4eVdlMnZra3QwRUoxc3p4b0dMTFhB?oc=5",
-            "source": "BornCity",
-            "published": "26.07., 06:33"
           },
           {
             "title": "Google forciert KI-Investitionen nach Cloud-Rekordwachstum - trend.at",
@@ -2077,37 +2077,38 @@
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
           "Zinsen/Fed",
+          "US-Dollar",
           "Geopolitik/Sicherheit"
         ],
         "bullets": [
           "Der Kurs ist spürbar gestiegen: +0.60 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: Zinsen/Fed, Geopolitik/Sicherheit.",
-          "Wichtigste gefundene Headlines: Gold: Fed-Entscheid am Mittwoch - Börse Express | Goldpreis-Prognose: Warum Gold-Anleger auf die Fed am Mittwoch warten - Wallstreet Online."
+          "Gefundene Nachrichten-Themen: Zinsen/Fed, US-Dollar, Geopolitik/Sicherheit.",
+          "Wichtigste gefundene Headlines: Gold: JPMorgan sieht 8.000 bis 8.500 Dollar - Börse Express | „Man kann niemandem das Misstrauen verübeln, ob sich eine Enteignung wiederholen könnte“ - WELT."
         ],
         "headlines": [
           {
-            "title": "Gold: Fed-Entscheid am Mittwoch - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdU4xbkR2QlFKUU5GWUJEMm8xZTJHNV9VUFBXMkxrbUc0eGJOMHU4YngxR3djTTRhMEZlUHJ6OUhlT2ttejdoODJTNmlYWURWTEFHbDlGNjN0MUh0Qm53bHF1YjRQVWgtcGEtNXNpaXBtVVp6UG5zbW1LMHN4SVRTb3NBUHE5Rl83Y2c?oc=5",
+            "title": "Gold: JPMorgan sieht 8.000 bis 8.500 Dollar - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbkZpcy1rRl9oeHFxa1M2OUxHTnBQODBGa2phV0M0S1dwckJvMEROU0o0X2ZKMjBKTzl5bklSLTVJRmQzbGlSZ25fNkstSGQtd3h6c3QwaFM0Qk1IVkljandaQlNxTEgwcV9xdEhQWE1STUJuWkZDa0lNX1NodHRSRmtCY1hMUkZPRm92YVEyeTJVYWdmM3hB?oc=5",
             "source": "Börse Express",
-            "published": "25.07., 09:58"
-          },
-          {
-            "title": "Goldpreis-Prognose: Warum Gold-Anleger auf die Fed am Mittwoch warten - Wallstreet Online",
-            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTUNJWVlyZm8wdzhITmt0VFFFazJ1Q053LWtTZnNNQ2MwWEM2U2dCdUNoT1RxYWN6ZXFNRzhGbENsUGNOZGtZRHFwZVM5NVFJQ0UweW5qOHhUVkpzZDRhVXAxQkdpdUV1WXlsY1FEMGlhSjZmalZLNFhxMUFvMkZIc2p2OG1PRElNWDF2UXUzRlZJUFMzZ0lnQjJ0VVJROWpTdVlOdjBxemNCbVNiaUJVZzVGUHZlQlFTblZram5B?oc=5",
-            "source": "Wallstreet Online",
-            "published": "25.07., 13:05"
-          },
-          {
-            "title": "VanEck Gold Miners ETF: Fed und Agnico Eagle am 29. Juli - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVTg0MHVGaVBVa20zZEVOMWdMRUtyd0J1dDNBN1JCdkpWTm43NlRUUTU2bzVJUzZvTHFpdlMzWEVDcks1VERja196TjV4dnA5RF9YUDZoWUhoMmxtQi1uQ25iYm1jQ3hFNDlPZkNVb2tmRHRjRndPUVQ3b2p6bzltbmFHRmhaa1NSQzlYYjBtZ2xOQW5ob1FVR1FUWnBSODM4VURkdUJNNFFDQQ?oc=5",
-            "source": "Börse Express",
-            "published": "26.07., 04:27"
+            "published": "26.07., 12:43"
           },
           {
             "title": "„Man kann niemandem das Misstrauen verübeln, ob sich eine Enteignung wiederholen könnte“ - WELT",
             "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOYjVrZ2ZUenFhamlRTGt3V1pfU2VJRV9UZUNHUllCNkVtdk16VGtuS1RrdlN1UlFBUVc4UURidS03Q0Q0TERtSHlvbEVaVFM3NlZsMWtGTE9oRzlvOExual92aXdLRmt6TEhkOW1XMkkwZmZnd240QWsyVG1PbWIwZ3l0dU1VWUFDcXRzZzBYWFlKck9fLVZiQmpNMzFvOXR2aEE3SHM0dXhWOEktUU9GcmJJUWp1OEllVjFNNmpaLVM2MUtJNkZ4dTJaYWdyWEN4cjJXeHp4OG5yck9PRzRsVndaeFlOWHcwSnVF?oc=5",
             "source": "WELT",
-            "published": "25.07., 21:01"
+            "published": "26.07., 11:16"
+          },
+          {
+            "title": "Dollar-Dämmerung: Warum Gold zur größten Gefahr für die Weltwährung wird - FinanzNachrichten.de",
+            "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVDlCY0pOa0tPa3RBN2owXzc0SzQwQlhvRW9rQlg1ZXRPOHRjQ29hOERaMjNjUktfMEllTHU2UXRIVUF4MkptNUhCNjlWVkJXUDJOS0tDUmQxOEJiSi1OeVpOdWhLMVVwM2hIUjZMdGxhWDQ2b0ZEc1FuRk51X2d3UDkxVVRiLWJqelBLX3FzZ3lrcEtNNDVDc1VtamI2bGRzZ3VoZmxxcUJ2YkFjWGxYNkxHZy1iaXNzeUt1eG96cnh1Qmd0MklMMmRlRDN5ejhleVltXzZobVdIak1qNHhB?oc=5",
+            "source": "FinanzNachrichten.de",
+            "published": "26.07., 12:54"
+          },
+          {
+            "title": "Goldpreis-Prognose: Warum Gold-Anleger auf die Fed am Mittwoch warten - Wallstreet Online",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTUNJWVlyZm8wdzhITmt0VFFFazJ1Q053LWtTZnNNQ2MwWEM2U2dCdUNoT1RxYWN6ZXFNRzhGbENsUGNOZGtZRHFwZVM5NVFJQ0UweW5qOHhUVkpzZDRhVXAxQkdpdUV1WXlsY1FEMGlhSjZmalZLNFhxMUFvMkZIc2p2OG1PRElNWDF2UXUzRlZJUFMzZ0lnQjJ0VVJROWpTdVlOdjBxemNCbVNiaUJVZzVGUHZlQlFTblZram5B?oc=5",
+            "source": "Wallstreet Online",
+            "published": "25.07., 13:00"
           }
         ]
       }
