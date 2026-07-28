@@ -1,8 +1,8 @@
 {
   "is_sample": false,
   "source": "Yahoo Finance Kursdaten + Google News RSS Kontext",
-  "generated_at_utc": "2026-07-27T17:40:47+00:00",
-  "generated_at_vienna": "27.07.2026, 19:40 Uhr",
+  "generated_at_utc": "2026-07-28T06:24:33+00:00",
+  "generated_at_vienna": "28.07.2026, 08:24 Uhr",
   "market_mood_internal": "neutral",
   "assets": [
     {
@@ -387,15 +387,16 @@
       ],
       "explanation": {
         "direction": "gefallen",
-        "confidence": "niedrig",
-        "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
+        "confidence": "mittel",
+        "summary": "Plausibler Nachrichtenbezug: Der Kurs ist gefallen und die gefundenen Schlagzeilen enthalten überwiegend belastend wirkende Formulierungen. Die Quellen passen damit zur Richtung, beweisen aber keine Kausalität.",
         "themes": [
+          "US-Dollar",
           "KI/Tech"
         ],
         "bullets": [
           "Der Kurs ist spürbar gefallen: -0.48 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: KI/Tech.",
-          "Wichtigste gefundene Headlines: Leverage Shares -5x Short Nasdaq 100 ETP Securities | XS3373449761 | A4AU1Y - extraETF | Fidelity Nasdaq Composite Index ETF [Common Shares] Fonds | Kurs | Realtime | Chart - boerse.de."
+          "Gefundene Nachrichten-Themen: US-Dollar, KI/Tech.",
+          "Wichtigste gefundene Headlines: Leverage Shares -5x Short Nasdaq 100 ETP Securities | XS3373449761 | A4AU1Y - extraETF | IncomeShares Nasdaq 100 Options ETP | XS2875105608 | A4A50Q - extraETF."
         ],
         "headlines": [
           {
@@ -405,22 +406,22 @@
             "published": "24.07., 09:00"
           },
           {
-            "title": "Fidelity Nasdaq Composite Index ETF [Common Shares] Fonds | Kurs | Realtime | Chart - boerse.de",
-            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMEFfZUlGeTd3SW4zTXFqYzhxTWRocElHY1JOenp3X2Yza3NRQ2NhMjh2d3U3bXcwV3Z5ZENJeWZVZEM5elVEYjFBTHJUNkExaFJ2aTU4VzRJTHVObFlmcS1UZTliU2tSVnhnTmFFSmVONFdMX1pRazNJLTI0WlBoNzdQem1Vc3lDXzJzR1dHZ3NNRzdf?oc=5",
-            "source": "boerse.de",
-            "published": "24.07., 09:00"
-          },
-          {
             "title": "IncomeShares Nasdaq 100 Options ETP | XS2875105608 | A4A50Q - extraETF",
             "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9pOXp6WnVQUmdKMWRkY1JPdlZxbHU3UnVkclh1OTctTGxtMmliSUV1NUFPUV9RODRsY2tQUTBUOHViZG5uS2hOTVh1MUNnMGFwTllGRGJtMHdBNExs?oc=5",
             "source": "extraETF",
             "published": "24.07., 09:00"
           },
           {
-            "title": "Intel (NASDAQ:INTC) fällt um 7,9 % nach Gewinnüberraschung, da starke Serverpreise Mengenrückgänge ausgleichen - TechStock²",
-            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYnhlYzlVNFVHS2psUUhncnc1X1dPUHVZaWZqdVFCb2J5ci1oRXlrQ19NU005a0tiWHd0VUY3YU5IU0p2dWszbDRYeDg2eURlb3RtLThTQk5vVmlVNDVNYTFqRkZQdzFfZVRINVZPQ1RDS2lRYnY5RmFuUGEwOXFIUHEweTBYX0RFaDlDeGpNX2theGJHZUxpSzRtSktybXZhV0EzV1o0S1dQVWdYbUNqRV9CdVhhanNVbko3NkRDc0J3QQ?oc=5",
+            "title": "Aktien der Intel Corporation (NASDAQ:INTC) fallen um 7,9 %, da KI-getriebene Gewinne vor einer Investitionshürde von 20 Milliarden Dollar s…",
+            "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQOXFMZUJTXzRhV0pDbzgyRUxyNW1CeFVRdmttVHFUWndDbkVuS1FGS1VEXzdiWUFLcWxDdTdFV0Z2VkNoZzVoRDF6aFNfaG9RRFltWHlreDdvTzlfUURqWGEyQjdqVlp0Y2hwTU9zYUF6ekppdWJZTVBWSFlELUVPVUtyckRxVEoxUTFmd3NPNjFFZXd2dmFseEg5RnhaakxoTEpta0FzZEk0ZzRNYlhBdF9UNDVOaEhVOUNCakdFOFZidW9Db19fSjkyV3J4aTRKRWdoVURzZUFWdWVkTk1Oc0tudGhDSDdyM1dmbU9aVQ?oc=5",
             "source": "TechStock²",
-            "published": "26.07., 08:22"
+            "published": "27.07., 14:15"
+          },
+          {
+            "title": "(3⁺) NASDAQ – Der Index fällt, was bleibt? - stock3",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9mUHJ4THhrY293c0VSc0dEMWtHb2ZuWUtua0p6QmNYeUFtTmlPc0VjU1NpZWc1LUdzYlNDVlFIQ1BQSUtFcHBUX19Fdzc3M09WczQ1Z3RWS2tyNnUtVzFqQnRzRF9HLTZoZzFrRmJkTVJCYXpvTWc?oc=5",
+            "source": "stock3",
+            "published": "05.06., 09:00"
           }
         ]
       }
@@ -1277,16 +1278,16 @@
       "description": "Alphabet Inc. Class A",
       "price_decimals": 2,
       "last_date": "2026-07-27",
-      "last_close": 326.3500061035156,
+      "last_close": 326.55999755859375,
       "previous_close": 319.739990234375,
-      "change_abs": 6.61,
-      "change_pct": 2.07,
-      "change_5d_pct": -7.28,
-      "change_1m_pct": -5.05,
-      "change_3m_pct": -5.24,
+      "change_abs": 6.82,
+      "change_pct": 2.13,
+      "change_5d_pct": -7.22,
+      "change_1m_pct": -4.99,
+      "change_3m_pct": -5.18,
       "change_1y_pct": null,
-      "ytd_pct": 4.27,
-      "volatility_30d_pct": 39.27,
+      "ytd_pct": 4.33,
+      "volatility_30d_pct": 39.3,
       "sparkline": [
         {
           "date": "2026-03-18",
@@ -1646,7 +1647,7 @@
         },
         {
           "date": "2026-07-27",
-          "close": 326.3500061035156
+          "close": 326.55999755859375
         }
       ],
       "explanation": {
@@ -1657,28 +1658,28 @@
           "KI/Tech"
         ],
         "bullets": [
-          "Der Kurs ist deutlich gestiegen: +2.07 % gegenüber dem vorherigen Schlusskurs.",
+          "Der Kurs ist deutlich gestiegen: +2.13 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: KI/Tech.",
-          "Wichtigste gefundene Headlines: Alphabet Aktie: Milliarden-Wette auf der Kippe - Börse Express | Google Cloud liefert aber der Markt schaut woanders hin: Alphabet-Aktie zu Unrecht abgestraft? - Finanzen.net."
+          "Wichtigste gefundene Headlines: KB Financial: Google Cloud baut KI-Agenten für Bankensektor - BornCity | Google Cloud liefert aber der Markt schaut woanders hin: Alphabet-Aktie zu Unrecht abgestraft? - Finanzen.net."
         ],
         "headlines": [
           {
-            "title": "Alphabet Aktie: Milliarden-Wette auf der Kippe - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYlFMZV9tTlppSWRoSndNRmN5c3RYRnRNQnlGSzJ4aGcza0NteUJpSDdBbEdfZUdwTlBvZ0NpTG4zVlJMd2lhakYzZGxiS1lJdERHTFFPdklVNEhEYkk0dlBuOExadjZaY3F0VGtGaVpJOFZacFF6SXBvUnRQb2o1NFRzVXpOQkxGb2tGS2FuMnVwRjRIdjFmS1JkdlR2UQ?oc=5",
-            "source": "Börse Express",
-            "published": "27.07., 18:58"
+            "title": "KB Financial: Google Cloud baut KI-Agenten für Bankensektor - BornCity",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeDRpRzRkRGRpWF94THBrVEFuTGFDVDh2ZmU0cExPM1VPbDNCN2R6c0VVaVZ3bDlQdkVrLTZJaEU3MUNkLW1FdlpzUkJPOHI0SV84TnJqMGFnS2VlNXZFZUhQMjNCdDZwMUh5bVNraHFtdDVYVDJMbHBFc1E4YWVYSkI1YkstN2NyUmZoYmZPcw?oc=5",
+            "source": "BornCity",
+            "published": "28.07., 06:40"
           },
           {
             "title": "Google Cloud liefert aber der Markt schaut woanders hin: Alphabet-Aktie zu Unrecht abgestraft? - Finanzen.net",
             "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPVFR5aUpXMHU4WERMb211R004cEw1ZVpXT0dLSkp4MzN1T2RrUzFLZUY0T0Z6ckNXRmdSdHN3bHlIQ0lQZ094RWV5LXl4Mk5sLUZlUU5pVlRNUXhLMzFOWjlTa2hkczRYYUNXQzN3N0VLdGdxdlEtOUJ1WV9xRW82R0UxUlRGeGpFOHJvbklkTTZKRmJPVUx3aGtWXzFQempBcjlJUTMwcDktY3hkY2dHaHd5NVNtc2hQUEtQcjhJREowd3Bnd2lQX2NBVnhkdWdsaXBFaUNDdUh3VURXT3FaMURQb1VpT3FyZHhoU01vNXN1UQ?oc=5",
             "source": "Finanzen.net",
-            "published": "27.07., 15:45"
+            "published": "27.07., 22:14"
           },
           {
-            "title": "ChatGPT, Google und Co: Die Medien und Websites werden in KI-Antworten am meisten zitiert - Horizont.net",
-            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdk5hOGktOTMwSTQtU08yV3NEd2x2UlZFcHBZS19xdWJiSHJSdTFxRlBQSGc1SXNBSFd6Ym9UQU5pZjBwcTh3T2hqN2Z0ZFh0Y0hma3BpdW9SMUtpS1dHTmtsZzVfV09JVjRyM0ZmM3hkNGl2eDM3cXZvVDk2NWdGYTJZejNEX2pCaVJRNDkyU1c1YkQzaTV5Wi1aQy05dGU0QUhqcHNBeDlIT3FtRlRYYm80WmNvVWJBbUY5b1NTVXk0VjFjTFo2MkRR?oc=5",
-            "source": "Horizont.net",
-            "published": "27.07., 16:06"
+            "title": "Alphabet Aktie: Milliarden-Wette auf der Kippe - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYlFMZV9tTlppSWRoSndNRmN5c3RYRnRNQnlGSzJ4aGcza0NteUJpSDdBbEdfZUdwTlBvZ0NpTG4zVlJMd2lhakYzZGxiS1lJdERHTFFPdklVNEhEYkk0dlBuOExadjZaY3F0VGtGaVpJOFZacFF6SXBvUnRQb2o1NFRzVXpOQkxGb2tGS2FuMnVwRjRIdjFmS1JkdlR2UQ?oc=5",
+            "source": "Börse Express",
+            "published": "27.07., 18:58"
           },
           {
             "title": "JPMorgan & RBC setzen auf Alphabet – AI‑Boom, aber Cash‑Alarm - Wallstreet Online",
@@ -1696,22 +1697,18 @@
       "currency": "USD/oz",
       "description": "Goldpreis, primär über Gold-Future, fallback XAU/USD",
       "price_decimals": 2,
-      "last_date": "2026-07-27",
-      "last_close": 4077.199951171875,
-      "previous_close": 4067.60009765625,
-      "change_abs": 9.6,
-      "change_pct": 0.24,
-      "change_5d_pct": 1.67,
-      "change_1m_pct": 1.16,
-      "change_3m_pct": -13.66,
+      "last_date": "2026-07-28",
+      "last_close": 4044.699951171875,
+      "previous_close": 4074.5,
+      "change_abs": -29.8,
+      "change_pct": -0.73,
+      "change_5d_pct": -0.65,
+      "change_1m_pct": -0.83,
+      "change_3m_pct": -13.49,
       "change_1y_pct": null,
-      "ytd_pct": -5.74,
-      "volatility_30d_pct": 26.07,
+      "ytd_pct": -6.49,
+      "volatility_30d_pct": 24.48,
       "sparkline": [
-        {
-          "date": "2026-03-18",
-          "close": 4889.89990234375
-        },
         {
           "date": "2026-03-19",
           "close": 4600.7001953125
@@ -2066,48 +2063,52 @@
         },
         {
           "date": "2026-07-27",
-          "close": 4077.199951171875
+          "close": 4074.5
+        },
+        {
+          "date": "2026-07-28",
+          "close": 4044.699951171875
         }
       ],
       "explanation": {
-        "direction": "gestiegen",
-        "confidence": "mittel",
-        "summary": "Plausibler Nachrichtenbezug: Der Kurs ist gestiegen und die gefundenen Schlagzeilen enthalten überwiegend positiv wirkende Formulierungen. Die Quellen passen damit zur Richtung, beweisen aber keine Kausalität.",
+        "direction": "gefallen",
+        "confidence": "niedrig",
+        "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
           "Zinsen/Fed",
+          "Inflation",
           "US-Dollar",
-          "Regulierung",
           "Geopolitik/Sicherheit"
         ],
         "bullets": [
-          "Der Kurs ist leicht gestiegen: +0.24 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: Zinsen/Fed, US-Dollar, Regulierung, Geopolitik/Sicherheit.",
-          "Wichtigste gefundene Headlines: Gold: 4.105,30 Dollar nach Nahost-Deeskalation - Börse Express | Absurd oder möglich? 20.000 Dollar Gold? - Wallstreet Online."
+          "Der Kurs ist spürbar gefallen: -0.73 % gegenüber dem vorherigen Schlusskurs.",
+          "Gefundene Nachrichten-Themen: Zinsen/Fed, Inflation, US-Dollar, Geopolitik/Sicherheit.",
+          "Wichtigste gefundene Headlines: Gold: Fed-Entscheid am Mittwoch - Börse Express | Absurd oder möglich? 20.000 Dollar Gold? - Wallstreet Online."
         ],
         "headlines": [
           {
-            "title": "Gold: 4.105,30 Dollar nach Nahost-Deeskalation - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeGxyd0lETXhydlBkNWlTUXVFbkNvM0VaOElONldOUC1ibURNYXZhX1ZmdUxMMVFaaTFyT3k3cXg1UTRWd0dJaHgzQXQ3NkZvMzl5Wi1vTnprM2pLdkhoVUw3dFNJRnFZLU9tekZzQ21EYnRMYlBDWHhJUHI4cWZVU29QSTJIVHpJNHUtdmZFeEtkYndaREhMS1NoOA?oc=5",
+            "title": "Gold: Fed-Entscheid am Mittwoch - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdU4xbkR2QlFKUU5GWUJEMm8xZTJHNV9VUFBXMkxrbUc0eGJOMHU4YngxR3djTTRhMEZlUHJ6OUhlT2ttejdoODJTNmlYWURWTEFHbDlGNjN0MUh0Qm53bHF1YjRQVWgtcGEtNXNpaXBtVVp6UG5zbW1LMHN4SVRTb3NBUHE5Rl83Y2c?oc=5",
             "source": "Börse Express",
-            "published": "27.07., 13:43"
+            "published": "25.07., 09:58"
           },
           {
             "title": "Absurd oder möglich? 20.000 Dollar Gold? - Wallstreet Online",
             "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbEFqVUFKdG5RUnF4Z3JBaUYxMTVmUUZXVURFOXVMcmFJUFdNVUFwOUJ0NloyUzFDdzVsOHdaRW9yb3JpLTBnb0ZsTGNNbUprX3dUam1TYTRsNE1WalN4eHB4Q0QwdjhIc0llSklsNmlaY19rRWZYa1pWNXZTQnBXYmVBMVpXbDFHU19qT0QyYjFVUEtUZzdXWkdoUk5QcDhpcmVWZHdB?oc=5",
             "source": "Wallstreet Online",
-            "published": "27.07., 17:05"
+            "published": "27.07., 17:06"
           },
           {
-            "title": "Gold steigt um 1%: US-Iran-Waffenruhe drückt Öl - Fokus auf Fed-Sitzung - MarketScreener Deutschland",
-            "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxORElnQ0M0b1Zpb2pXYTZlZWtqNWczbkhHa3hhMlIyOWJwMnVvQm1sM0JJaTk4X1d2SnBwdE54UklyU1Q1YXpuUTVHOWJhUnVCempBX0wyRUpfV3l4YllxT0hDQW91b0RBU2ZGb05iMEZsTUl0eXFEX1BucnJmejZXMUJNc2NaU1V2YlZ5Q1pGT1R1Rm1UdU1LOTZfcGFQWWtvYnJpemQyQjlRVmJUUVJYOUpkTmNJMl8tR2l6T3FxOVhZZUI4alFtdmQ0MHNveWtha29LcU1UbFgxRURRN1NnaDZGd2s2YnF0?oc=5",
-            "source": "MarketScreener Deutschland",
-            "published": "27.07., 11:07"
+            "title": "Goldpreis: Warten auf den Zins-Entscheid der Fed - Finanzen.net",
+            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOc1IyNUI0ejg1UHNmQ1U2RngxdzctMXBEa1g4eDFOZTNpeTg0NkpwZk85a0F4a1ozWUIySUJhZnRUQjJDT1ZLUUxGRFpUbEU0WDI5ZkZEcVNZclY3Si1Cbk01eE5QMDJLOWtYRy04eGR4VmtxNWU1VGtfWkwyU3dqSUNMTE5tV1VlLVpDTUxTbk1oN201aXZCNW10MmdoRTd1RHRmblItSDdYV2xEaFJhc0Nodjd0eE1ScG9ub09SYVZHTUVQaU5IWm04elZMclU?oc=5",
+            "source": "Finanzen.net",
+            "published": "28.07., 07:26"
           },
           {
-            "title": "Gold kämpft unter 4.100 $, da der US-Dollar sich erholt und die Fed-Entscheidung bevorsteht - TradingView",
-            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBmbmdTUWRHejhEYnVEM3BkUmlFRF9zaVI0WDV3X0RUeGFqNGxjTVhnVGFlQU1wNkR6QUxqa2ZkT0dkUThsWTZydkQ5QV9nVWxKT1J6WUo1alRXN1hVMWw5bzF2Q2VmS1dx?oc=5",
+            "title": "Gold gibt trotz nachlassender Sorgen über Inflation und Zinserhöhungen nach - TradingView",
+            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8zaDAwU3RGYlh2OUNFNXZURTJMdVNWdngtWWZ5TzZyUGZQbDZQY2NJWWUzUkx1ZHJNUDUwMjJyR1U1U2lmWkVWdnFwdWxoTDl3bDJRaEZ3VWxNX00tWkVCTzVTa3JZMm9X?oc=5",
             "source": "TradingView",
-            "published": "27.07., 17:09"
+            "published": "28.07., 03:13"
           }
         ]
       }
