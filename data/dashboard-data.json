@@ -1,8 +1,8 @@
 {
   "is_sample": false,
   "source": "Yahoo Finance Kursdaten + Google News RSS Kontext",
-  "generated_at_utc": "2026-07-28T17:24:05+00:00",
-  "generated_at_vienna": "28.07.2026, 19:24 Uhr",
+  "generated_at_utc": "2026-07-29T06:28:33+00:00",
+  "generated_at_vienna": "29.07.2026, 08:28 Uhr",
   "market_mood_internal": "neutral",
   "assets": [
     {
@@ -1276,18 +1276,22 @@
       "currency": "USD",
       "description": "Alphabet Inc. Class A",
       "price_decimals": 2,
-      "last_date": "2026-07-28",
-      "last_close": 334.8299865722656,
-      "previous_close": 326.55999755859375,
-      "change_abs": 8.27,
-      "change_pct": 2.53,
-      "change_5d_pct": -3.55,
-      "change_1m_pct": -0.76,
-      "change_3m_pct": -4.43,
+      "last_date": "2026-07-27",
+      "last_close": 326.55999755859375,
+      "previous_close": 319.739990234375,
+      "change_abs": 6.82,
+      "change_pct": 2.13,
+      "change_5d_pct": -7.22,
+      "change_1m_pct": -4.99,
+      "change_3m_pct": -5.18,
       "change_1y_pct": null,
-      "ytd_pct": 6.97,
-      "volatility_30d_pct": 40.08,
+      "ytd_pct": 4.33,
+      "volatility_30d_pct": 39.3,
       "sparkline": [
+        {
+          "date": "2026-03-18",
+          "close": 307.69000244140625
+        },
         {
           "date": "2026-03-19",
           "close": 307.1300048828125
@@ -1643,10 +1647,6 @@
         {
           "date": "2026-07-27",
           "close": 326.55999755859375
-        },
-        {
-          "date": "2026-07-28",
-          "close": 334.8299865722656
         }
       ],
       "explanation": {
@@ -1659,11 +1659,17 @@
           "Regulierung"
         ],
         "bullets": [
-          "Der Kurs ist deutlich gestiegen: +2.53 % gegenüber dem vorherigen Schlusskurs.",
+          "Der Kurs ist deutlich gestiegen: +2.13 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: Zinsen/Fed, KI/Tech, Regulierung.",
-          "Wichtigste gefundene Headlines: Wettbewerb: EU ändert Strategie gegenüber den US-Digitalkonzernen - Handelsblatt | Alphabet Aktie: Freier Cashflow dreht negativ um 5,86 Milliarden - Börse Express."
+          "Wichtigste gefundene Headlines: Googles KI-Suche verändert das Suchverhalten - heise online | Wettbewerb: EU ändert Strategie gegenüber den US-Digitalkonzernen - Handelsblatt."
         ],
         "headlines": [
+          {
+            "title": "Googles KI-Suche verändert das Suchverhalten - heise online",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYUZNb1R0WHpUcHFqQ21KOS1JYlFNVjYzX2wzSXZJUWY5ODJHLWN0a1NQbmZCeENXU2EzZzduUzZOd05rQXZDaElpVzk4U2syZE9NRGt2b3kzdUJOVXdZeUQ5M2hpdlJqcVFPR29ZX1F1cDhBdWhlZE1BajJzc3U2NVpfdFNRQkhrMDdROVB3?oc=5",
+            "source": "heise online",
+            "published": "29.07., 06:00"
+          },
           {
             "title": "Wettbewerb: EU ändert Strategie gegenüber den US-Digitalkonzernen - Handelsblatt",
             "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWjZwSjRycnlUVm9YTzlhZldCOHFRTXZGZ01ha0RNU05HQ1NJcDFtMkVHeTFJS1l5ekFYQVpXdHNHYVB6ckNlbFJ5VjA2NVpZSTJzUWNxbTgxOU5vaTZaaGplZGdQNkVqMU5qeW1xQ0gyZXdsZ3JlNEJNVTZJYTlmLXhrSERtU1FLNExsMU5TV3Y2OFNYLUdpcGxxRy1xZHN4VEZHSXlkWUNTOExlX3k0NGZuMl93aEh5emFhY2NveGNoY1cxdmhIV1lfOUY?oc=5",
@@ -1671,22 +1677,16 @@
             "published": "28.07., 15:47"
           },
           {
-            "title": "Alphabet Aktie: Freier Cashflow dreht negativ um 5,86 Milliarden - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORUJEM3ppdkJPMUFNUGJIczlyNkxoVHpic1pTd1FmaHZkNmQ4T0xLSTgzVHN1cHZDWVVBMzhzSExrekNleldBZmZXVEJjOUFnYTA4R3JTa1BNWmstbUZtYnY2MjJrWVdDd2xDM25zT1djX2swSTc3SXJiLVBTampSbXlzVzBBTlFvVWF6UTBBZXhtaHE2MHlhd2UwYlprVl9Td3FvS0w5UVpPeV9GZ3I1eTRWa3g?oc=5",
-            "source": "Börse Express",
-            "published": "28.07., 10:07"
-          },
-          {
-            "title": "KB Financial: Google Cloud baut KI-Agenten für Bankensektor - BornCity",
-            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeDRpRzRkRGRpWF94THBrVEFuTGFDVDh2ZmU0cExPM1VPbDNCN2R6c0VVaVZ3bDlQdkVrLTZJaEU3MUNkLW1FdlpzUkJPOHI0SV84TnJqMGFnS2VlNXZFZUhQMjNCdDZwMUh5bVNraHFtdDVYVDJMbHBFc1E4YWVYSkI1YkstN2NyUmZoYmZPcw?oc=5",
-            "source": "BornCity",
-            "published": "28.07., 06:40"
-          },
-          {
             "title": "JPMorgan & RBC setzen auf Alphabet – AI‑Boom, aber Cash‑Alarm - Wallstreet Online",
             "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMW9Yb1BtTnJJSjBPSjd6SUtXMVJmTmJQUWozdlZXdU9HWDhfdk5qdmRaN0s4c0dVZGtqVEd6ZHdxRGh2aDhpMWxRbC1hUGtMZTJKc3JER0FIM3o4SW16WjJXVlVUODZBZl95S1hUaFA4RERzdU5TWFNDTXRValdyWkZmWDZWeEtyelhQc0ZnVmlBOTJhMHNr?oc=5",
             "source": "Wallstreet Online",
             "published": "25.07., 02:00"
+          },
+          {
+            "title": "Alphabet Aktie: Freier Cashflow dreht negativ um 5,86 Milliarden - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORUJEM3ppdkJPMUFNUGJIczlyNkxoVHpic1pTd1FmaHZkNmQ4T0xLSTgzVHN1cHZDWVVBMzhzSExrekNleldBZmZXVEJjOUFnYTA4R3JTa1BNWmstbUZtYnY2MjJrWVdDd2xDM25zT1djX2swSTc3SXJiLVBTampSbXlzVzBBTlFvVWF6UTBBZXhtaHE2MHlhd2UwYlprVl9Td3FvS0w5UVpPeV9GZ3I1eTRWa3g?oc=5",
+            "source": "Börse Express",
+            "published": "28.07., 10:07"
           }
         ]
       }
@@ -1698,22 +1698,18 @@
       "currency": "USD/oz",
       "description": "Goldpreis, primär über Gold-Future, fallback XAU/USD",
       "price_decimals": 2,
-      "last_date": "2026-07-28",
-      "last_close": 4036.39990234375,
-      "previous_close": 4074.5,
-      "change_abs": -38.1,
-      "change_pct": -0.94,
-      "change_5d_pct": -0.85,
-      "change_1m_pct": -1.04,
-      "change_3m_pct": -13.67,
+      "last_date": "2026-07-29",
+      "last_close": 4038.0,
+      "previous_close": 4036.300048828125,
+      "change_abs": 1.7,
+      "change_pct": 0.04,
+      "change_5d_pct": -2.63,
+      "change_1m_pct": 0.39,
+      "change_3m_pct": -12.05,
       "change_1y_pct": null,
-      "ytd_pct": -6.69,
-      "volatility_30d_pct": 24.53,
+      "ytd_pct": -6.65,
+      "volatility_30d_pct": 23.05,
       "sparkline": [
-        {
-          "date": "2026-03-19",
-          "close": 4600.7001953125
-        },
         {
           "date": "2026-03-20",
           "close": 4570.39990234375
@@ -2068,13 +2064,17 @@
         },
         {
           "date": "2026-07-28",
-          "close": 4036.39990234375
+          "close": 4036.300048828125
+        },
+        {
+          "date": "2026-07-29",
+          "close": 4038.0
         }
       ],
       "explanation": {
-        "direction": "gefallen",
+        "direction": "kaum verändert",
         "confidence": "niedrig",
-        "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
+        "summary": "Kaum Kursbewegung: Obwohl aktuelle Schlagzeilen gefunden wurden, ist die Tagesbewegung zu klein für eine sinnvolle Ursache-Wirkung-Aussage.",
         "themes": [
           "Zinsen/Fed",
           "US-Dollar",
@@ -2082,34 +2082,34 @@
           "Geopolitik/Sicherheit"
         ],
         "bullets": [
-          "Der Kurs ist spürbar gefallen: -0.94 % gegenüber dem vorherigen Schlusskurs.",
+          "Der Kurs liegt nahezu unverändert gegenüber dem letzten Schlusskurs.",
           "Gefundene Nachrichten-Themen: Zinsen/Fed, US-Dollar, Regulierung, Geopolitik/Sicherheit.",
-          "Wichtigste gefundene Headlines: Gold: Fed-Entscheid am Mittwoch - Börse Express | Warten auf US-Zinsentscheidung: Goldpreis fällt zurück - Finanzen.net."
+          "Wichtigste gefundene Headlines: Gold: 4.042 Dollar vor Warsh-Entscheidung - Börse Express | Wird diese verrückte Theorie bald Realität? - Wallstreet Online."
         ],
         "headlines": [
           {
-            "title": "Gold: Fed-Entscheid am Mittwoch - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdU4xbkR2QlFKUU5GWUJEMm8xZTJHNV9VUFBXMkxrbUc0eGJOMHU4YngxR3djTTRhMEZlUHJ6OUhlT2ttejdoODJTNmlYWURWTEFHbDlGNjN0MUh0Qm53bHF1YjRQVWgtcGEtNXNpaXBtVVp6UG5zbW1LMHN4SVRTb3NBUHE5Rl83Y2c?oc=5",
+            "title": "Gold: 4.042 Dollar vor Warsh-Entscheidung - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeHptQWxramVvSmFDV3I4d3Q2UWhwN0lnLWFpalZUdzhLLUdHUmM5Y3hITWdEZFF5S0hIYmVDaXFtbTJoaXdwbnpxTlpvN0NLajZHQzVFZU14ZzlldkhLcXplUG8zLXdtVHp3WksxM3FLNjBsQm94OU9MVTFaX3N3bktndWtMNS0wYXNteVpLdkc1ZS1NUmc?oc=5",
             "source": "Börse Express",
-            "published": "25.07., 09:58"
+            "published": "28.07., 23:58"
+          },
+          {
+            "title": "Wird diese verrückte Theorie bald Realität? - Wallstreet Online",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWFJDTlJiWDZjOFJhWVl0M3BZUnA3WUl2VWZvbXFxQi0zZjNEdGlnRUN0X2tmZExfZmNuWVl4VElZQlNyWlphS1VGaGxRR25OR1RScnBMNWlseVJqRFZUSmp0cEZVV3ZySDVDbmhnRnNVXzRQOERSTjljNV9kRnU5aGF2Vk41RUdlTTBtdEJiSnpBTWI2UUpBMDV6SEphUENK?oc=5",
+            "source": "Wallstreet Online",
+            "published": "28.07., 20:41"
+          },
+          {
+            "title": "Gold hält sich vor Zinsentscheidung der Fed stabil - MarketScreener Deutschland",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOUpOY0dQLWJkVnlkSFBiWW4tZGV3MDFrWi1XYjdPSHB2bk9nZDhmbEtfa2VESktZc3ZaakpIZlJCd0tpb1JQYmYwOWlkV0E0aFF2TkFWN1ZjaWFJY292eHFrMGlUQjBqSkVkbTlXQUZZd1BOQk1kcG5DVzlDejBVTjMtbE5uOWFFZVJvVmdRLWNyYmNYaHMxWGFyXzU3THNUb1JVeHpVRUVpY1JkTWRFd2RjUThLV0h3?oc=5",
+            "source": "MarketScreener Deutschland",
+            "published": "29.07., 05:18"
           },
           {
             "title": "Warten auf US-Zinsentscheidung: Goldpreis fällt zurück - Finanzen.net",
             "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQ05xeWdhQ3RHMzhrdjRTbmlBMUhHQlhfMVBCOHFuU0xHTkMtN3hxRlhmSTNNNnFja3VXZ3ZFR1lOOW1ZYUE5LThJMDQ4Vk05Y0VIeXlkT1ZEbXhfR1FiX2NCOW04NjU4d1phdnRXUDNOd0xGd05wSGNFTHdWdFV6dzQwZVhlUHZKU0hKNHNOemJ3YzJ4cGtqVlRFN2pKNkhCY0RpUHRaa3R3UTBXWE44M2RjTno0SHlRTGZ4Q9IBpwFBVV95cUxPQ1NLTC02UUdaOHZIMFdvUnlheml1R1hRNURHVHBBZ3hEcE1DVExUXzh1Q2x0cjZfY2ozNGlrTllxYkpRLXZPV1cxU0dNRXU4dldCX2ZIU2RRM3hBb2xYTDNnVG1DX0VoaW5QN2d4MnBVWlNqVTZPcFBtSzBnVm1yV3JQbU9hLVVHMWdEUEFwVHlROWRxej…",
             "source": "Finanzen.net",
             "published": "28.07., 17:48"
-          },
-          {
-            "title": "Könnte eine restriktive Fed Gold nach der jüngsten Dollar‑Erholung unter $4.000 drücken? - TradingView",
-            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZcG5aTEZvbGY4RDY2SjNpUlNTeHJOQzY3TTJvSzdFam5RcExKRm1lS0dGRU9qZi11MHNTR0kwSVRfZkZTNHRZZ1pPLUNBajV0dVlYcGE1d3Z1Q25LRkFpck5ld3hGdw?oc=5",
-            "source": "TradingView",
-            "published": "28.07., 07:26"
-          },
-          {
-            "title": "Gold fällt, da Dollar nahe Einmonatshoch verharrt; Fed-Sitzung im Fokus - MarketScreener Deutschland",
-            "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNFVlQVlLRkpSYUxqamV5bWtUVDhEcGs0TkJraG1FcVZUMF9xX1R4SnBCYXZsMEZjR0piODJ0M19aUkJrdE5TZ0REQXZXMHFMc0dsQnhTdFBtT2JyLUJxeVFBTmltMGoyWkNEUWNZY0F1aHZJNXV0VlVMWktDLVVNeWpab1h5WER3dElzWTJzSmM2cDljTmpveDRmWGRnc0pZLWxLUGRMQ2JjZTJGSHBYamszVWpoNmlyU2gyRV9EWmxTMk5KMUJLem9KRlZKd2xPeWc?oc=5",
-            "source": "MarketScreener Deutschland",
-            "published": "28.07., 15:47"
           }
         ]
       }
