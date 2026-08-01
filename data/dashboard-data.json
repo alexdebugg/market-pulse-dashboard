@@ -1,8 +1,8 @@
 {
   "is_sample": false,
   "source": "Yahoo Finance Kursdaten + Google News RSS Kontext",
-  "generated_at_utc": "2026-07-31T17:26:43+00:00",
-  "generated_at_vienna": "31.07.2026, 19:26 Uhr",
+  "generated_at_utc": "2026-08-01T06:26:39+00:00",
+  "generated_at_vienna": "01.08.2026, 08:26 Uhr",
   "market_mood_internal": "risk-on",
   "assets": [
     {
@@ -389,13 +389,11 @@
         "direction": "gestiegen",
         "confidence": "niedrig",
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
-        "themes": [
-          "KI/Tech"
-        ],
+        "themes": [],
         "bullets": [
           "Der Kurs ist spürbar gestiegen: +0.51 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: KI/Tech.",
-          "Wichtigste gefundene Headlines: IncomeShares Nasdaq 100 Options ETP | XS2875105608 | A4A50Q - extraETF | QUICK SPARK: Google, Amazon, Nvidia Among 2026's Top 10 Most-Shorted Stocks - de.tradingview.com."
+          "Gefundene Nachrichten-Themen: keine klaren Themen erkannt.",
+          "Wichtigste gefundene Headlines: IncomeShares Nasdaq 100 Options ETP | XS2875105608 | A4A50Q - extraETF | Robinhood Markets, Inc. Umsatzübersicht – NASDAQ:HOOD - TradingView."
         ],
         "headlines": [
           {
@@ -405,10 +403,10 @@
             "published": "28.07., 09:00"
           },
           {
-            "title": "QUICK SPARK: Google, Amazon, Nvidia Among 2026's Top 10 Most-Shorted Stocks - de.tradingview.com",
-            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdV9XZl9mcVJCX2lZQU5IVHhPU0xiQXBzSlpDU0FoaGs3XzMtN1hGMTFscEtyY3VwT2JVcThsUXRVNnNuLVRvVmg5cHpJcWV6SEhZRktldjFsMzVFQW95UUdlbTljc2ZxeUFJSURzSGFQb2UtQjVac3pkZVRTYmFnVWlBMEN3ZTJJeUlENUlYN1hPNXgtb051NS1ySG1mWU9XSE9hajJlWjgtNWRlbTloTDVza0ZubHA3WGdDa2NIQWE4alg1eW1keXRn?oc=5",
-            "source": "de.tradingview.com",
-            "published": "29.07., 19:25"
+            "title": "Robinhood Markets, Inc. Umsatzübersicht – NASDAQ:HOOD - TradingView",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9DS3BLbTAxLTV2S1lLZU5CVTQtUW5pdDh5TTNHeHBpa1lKWDZLdzNBYUpBbXhSNzJBd3NWMzhCRUg2eGlXeDRjbUJ4UGVQMjJ0bFd3b2R2MG5icUZEbEd5QTdCTU1nRDhzZ3hoSkdTRG1ZWXE1Wmc?oc=5",
+            "source": "TradingView",
+            "published": "29.07., 17:19"
           },
           {
             "title": "E-mini Nasdaq September fällt von 28.800 – 28.000 als Unterstützung im Fokus, Risiko eines Durchbruchs auf 27.700 - VT Markets",
@@ -840,9 +838,9 @@
             "published": "29.05., 09:00"
           },
           {
-            "title": "Kapitalmärkte: Iran-Krieg wird zum Stresstest für die Schwellenländer - Handelsblatt",
+            "title": "Kapitalmärkte: Iran-Krieg wird zum Stresstest für die Schwellenländer - handelsblatt.com",
             "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWHhSNTdKdm9ENnlwNHVYMHVJa3M3VmctRWswSm5tWFFCc29DemNLQk1nVXd4dHcwcFZlemVYcTcxZTJvdm5sYTNFblhwUVZ2UExEbHQxdXFjSUhyV252TUNVam42cnp4Ti15R0pUWEp0S3k4azhUVlFqc1lxNEpRNmRfd09JaU5qTF91Uk91eHRTaW5TVHlBQjlfeHRmVVJvV0Y3Y1lYb1hvWTl3MkxBSkoxR1p6SVBLOGxRXzEzNkQzSV90MTVzY3Z2Mmw?oc=5",
-            "source": "Handelsblatt",
+            "source": "handelsblatt.com",
             "published": "17.04., 09:00"
           }
         ]
@@ -1278,16 +1276,16 @@
       "description": "Alphabet Inc. Class A",
       "price_decimals": 2,
       "last_date": "2026-07-31",
-      "last_close": 354.19989013671875,
+      "last_close": 356.1300048828125,
       "previous_close": 333.6600036621094,
-      "change_abs": 20.54,
-      "change_pct": 6.16,
-      "change_5d_pct": 10.78,
-      "change_1m_pct": -1.94,
-      "change_3m_pct": -7.95,
+      "change_abs": 22.47,
+      "change_pct": 6.73,
+      "change_5d_pct": 11.38,
+      "change_1m_pct": -1.41,
+      "change_3m_pct": -7.45,
       "change_1y_pct": null,
-      "ytd_pct": 13.16,
-      "volatility_30d_pct": 42.64,
+      "ytd_pct": 13.78,
+      "volatility_30d_pct": 43.39,
       "sparkline": [
         {
           "date": "2026-03-24",
@@ -1647,28 +1645,28 @@
         },
         {
           "date": "2026-07-31",
-          "close": 354.19989013671875
+          "close": 356.1300048828125
         }
       ],
       "explanation": {
         "direction": "gestiegen",
-        "confidence": "niedrig",
-        "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
+        "confidence": "mittel",
+        "summary": "Plausibler Nachrichtenbezug: Der Kurs ist gestiegen und die gefundenen Schlagzeilen enthalten überwiegend positiv wirkende Formulierungen. Die Quellen passen damit zur Richtung, beweisen aber keine Kausalität.",
         "themes": [
-          "KI/Tech",
-          "Gewinne/Analysten"
+          "US-Dollar",
+          "KI/Tech"
         ],
         "bullets": [
-          "Der Kurs ist deutlich gestiegen: +6.16 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: KI/Tech, Gewinne/Analysten.",
-          "Wichtigste gefundene Headlines: KI-Aktien: Amazon und Microsoft glänzen, Oracle feiert Google-Allianz - Börse Express | Agentic AI im Juli: Workato, Oracle und Google starten Automatisierungs-Offensive - BornCity."
+          "Der Kurs ist deutlich gestiegen: +6.73 % gegenüber dem vorherigen Schlusskurs.",
+          "Gefundene Nachrichten-Themen: US-Dollar, KI/Tech.",
+          "Wichtigste gefundene Headlines: Alphabet Aktie: 514-Milliarden-Dollar-Backlog - Börse Express | Agentic AI im Juli: Workato, Oracle und Google starten Automatisierungs-Offensive - BornCity."
         ],
         "headlines": [
           {
-            "title": "KI-Aktien: Amazon und Microsoft glänzen, Oracle feiert Google-Allianz - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaUpfaV9RVWZqcnJwS1NETTNNV3d6OEN1V2xFN1BBTWRvYmtoZm5ZelVxVlB2UTB0MFJncmNQMmFPcFkxeG5VdUtoMmNYb3pDdFJXdjVpaFRzaXR4V24wcHlpYnhHU2NFU0JfcEhJZ1ZsZHJXNlB3Zk1PUERjVUcySm10cUtXZjRwMjBud3hjSGc5LUpmVnBRRm5OM1FzRzJ5VGlNR0FMWXZ4ZmxDaWxOZDhLeS1XaG5hRERwTw?oc=5",
+            "title": "Alphabet Aktie: 514-Milliarden-Dollar-Backlog - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTGxheFJCNDVMU011VlhqaF9GanR0VkU2MjYydUJZRlgyUmppZVZYanhBb0l1d0FGaEY5UWxaNS1GazFwM1Q4VlI4b0NpaXA1QzYwRDlXQTZoMlJwOF9XSVVmdk9NRzZNa2tEMXRJMDRqeXpubGRZbTl3RW8yb2l0NGxqN0pYeTdKbFNaWGU2OG0tdi1QaG1Ha2tfbEI?oc=5",
             "source": "Börse Express",
-            "published": "31.07., 12:10"
+            "published": "01.08., 04:15"
           },
           {
             "title": "Agentic AI im Juli: Workato, Oracle und Google starten Automatisierungs-Offensive - BornCity",
@@ -1677,16 +1675,16 @@
             "published": "31.07., 11:49"
           },
           {
-            "title": "Große Abrechnung nach den Quartalszahlen: Das trennt Alphabet von Amazon und Microsoft - Der Aktionär",
-            "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcnNHS0RaWTUxNktwTVljX3NjVm91dFRQUWVuWXVxXzdoMEVnczU2dHFCTzU2M0ZUckNsRmdyWXd3VzR6dmJKSjlZZ0dEU0RWVjdYZ2ptaGUxcWNoc1hEQ1AwbldxVUVsc0VEZ1dGczJfNFlNaVhnSnZMQzFNb2tZcnY1cUR3SVVSM1BraWQ1cVg4NWo3X2Fic0JOa21KdHp0Wkd0M25PMDBhUF9WNXRBOXoyZ2tCbHBzdjg1RnRPeGlLcWtVbFRvaENqYjdGNU5ibjlDdWZpR04yTE0?oc=5",
-            "source": "Der Aktionär",
-            "published": "31.07., 14:14"
+            "title": "Oracle Aktie: Google integriert Gemini 3.1 - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNM0xuaDE0YlZZb3ktQ2FrZUZRdUdENU10eG5ZYTZZSEduMl9OS3c4eU40cUx1Y2NWbldPanJLTUdMdG5VUTJHcVYwdDBEajBXdGNzNzQwZVpXMGRnVHBuX05QM2FaVmQzSjdYcS1aZDNFWlhKM1pvR2l5VVJsczdsRUdmSWY0azkwaXRjWHVpcnZ4QmRTNl9v?oc=5",
+            "source": "Börse Express",
+            "published": "01.08., 03:00"
           },
           {
-            "title": "Die Alphabet-C-Aktie legt nach starken Cloud-Zahlen und Aktienrückkaufprogramm zu - AD HOC NEWS",
-            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZXU1ZnpGazBlakRKVXo1azlZWVVWV2tBaUhvMEVlc0N2TktzR0l0ZmlHV1NOREpfNmxMb2VwYnl0MzhGX3I0Z3NIX3NPbG1UYXF0dGY3SFdpVGhJTHVFU3lMVjlhQmh2X2VSQ1ZfVDBMMFVJMmdhLVpycjBqellZNG54dldyblFURmgzZEdrRjd4MEppSkd0bWJoeW4xc0I1OVlWZWdQaW96RlFVWG50Y1d2N0VGZEtXWlE?oc=5",
-            "source": "AD HOC NEWS",
-            "published": "31.07., 09:01"
+            "title": "Oracle steigt um über 8 % nach Ausweitung der Partnerschaft mit Google Cloud zur Integration von Gemini-Modellen in Fusion- und NetSuite-Un…",
+            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNl9tdHpqSC1wTERFZy16UTgzUFhoSjlDNWQ5eDFkbWpOUGRfU1IzMHZNRHI1VXhtcm1wRlBIdkRKMTl3eFdySkNVZ3QzSktLUFVaMTF3YnltUFJNYW9JUVFwVFJEcFNYdlg3bnlaNG11NGctUmhPZGdkRXpIS0NncXJXZ0V0cXZkT1A2UDNJa3diMElGQ2tRUzN2cUs3YWowRFQ4QW1RSExwUE5ISmhBaWFRUGNxenU5LXNBdkJBRU9taVJPR1FORg?oc=5",
+            "source": "TradingKey",
+            "published": "30.07., 08:45"
           }
         ]
       }
@@ -1699,16 +1697,16 @@
       "description": "Goldpreis, primär über Gold-Future, fallback XAU/USD",
       "price_decimals": 2,
       "last_date": "2026-07-31",
-      "last_close": 4102.0,
+      "last_close": 4049.10009765625,
       "previous_close": 4100.10009765625,
-      "change_abs": 1.9,
-      "change_pct": 0.05,
-      "change_5d_pct": 0.85,
-      "change_1m_pct": 0.83,
-      "change_3m_pct": -11.11,
+      "change_abs": -51.0,
+      "change_pct": -1.24,
+      "change_5d_pct": -0.45,
+      "change_1m_pct": -0.47,
+      "change_3m_pct": -12.26,
       "change_1y_pct": null,
-      "ytd_pct": -5.17,
-      "volatility_30d_pct": 23.53,
+      "ytd_pct": -6.39,
+      "volatility_30d_pct": 23.71,
       "sparkline": [
         {
           "date": "2026-03-24",
@@ -2068,11 +2066,11 @@
         },
         {
           "date": "2026-07-31",
-          "close": 4102.0
+          "close": 4049.10009765625
         }
       ],
       "explanation": {
-        "direction": "gestiegen",
+        "direction": "gefallen",
         "confidence": "niedrig",
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
@@ -2082,16 +2080,16 @@
           "Geopolitik/Sicherheit"
         ],
         "bullets": [
-          "Der Kurs ist leicht gestiegen: +0.05 % gegenüber dem vorherigen Schlusskurs.",
+          "Der Kurs ist deutlich gefallen: -1.24 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: Zinsen/Fed, US-Dollar, Regulierung, Geopolitik/Sicherheit.",
-          "Wichtigste gefundene Headlines: Gold: Support-Test bei 4.000 Dollar - Börse Express | Gold-Comeback? Warum Experten jetzt deutlich steigende Goldpreise erwarten - extraETF."
+          "Wichtigste gefundene Headlines: Gold: 1,54 Prozent Minus auf 4.098 Dollar - Börse Express | Gold-Comeback? Warum Experten jetzt deutlich steigende Goldpreise erwarten - extraETF."
         ],
         "headlines": [
           {
-            "title": "Gold: Support-Test bei 4.000 Dollar - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTWl0ODZpTlRvVGxqNzBXNUptVEwzVGE0ck9rNmhYd0RSXzlxVmZCMHVnenBWQ2ZCdmxFcUR2Z1Z1MkNvOThya2NXc2hCa19obGZ5dXFvZW8waVdPa05kOS13R1FhX1dWMXFlRTV1Z2tjQjZsXzFOdGtLY3VRZGFLaW5qUkhuMDhFbE8ycGln?oc=5",
+            "title": "Gold: 1,54 Prozent Minus auf 4.098 Dollar - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSFZrYm0xcm9uMmVBbldhZEprbUYwSDVCT2RjWklVSGFKVmZrZTYyajNOSVRlRmI5aGRMNWU3RXJOZUx6MFkzZ211aHpIN1k4ZWt1a2xYZF95dDBXVWhuMWE4LTd4WHMwWl9NOXgxZmxobmF4WVREQ0RoTHpLd291SHRzbzFyUTNrZEh5RGluTEQ1Q3p3?oc=5",
             "source": "Börse Express",
-            "published": "31.07., 08:23"
+            "published": "31.07., 19:56"
           },
           {
             "title": "Gold-Comeback? Warum Experten jetzt deutlich steigende Goldpreise erwarten - extraETF",
@@ -2100,16 +2098,16 @@
             "published": "30.07., 07:40"
           },
           {
+            "title": "Gold: Dollar schlägt Geopolitik - AD HOC NEWS",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTjZ1aEg3RTY2cFE0dU5ET2lkT1NRTWxfNWRFRm1YTnJPY3gxS2JJN2hSeEhPRGNyLWRCS1VlQmcxZUExalNCQ2p4V2pJXzRGSE5CcUhuS1lEbGZxa3NMQ3J6T3ktblptSXBsU3BfTWIzUHBTazU3M2JrRS1GYjR3SVlwcjFxOUJzOGxHQURvNkNpeGNuN0VVcFR5NkFxX0l4RFhRUWln?oc=5",
+            "source": "AD HOC NEWS",
+            "published": "31.07., 23:16"
+          },
+          {
             "title": "Börse aktuell: Fed-Zinsentscheid und Goldpreis Prognose - XTB.com",
             "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNalA0YnRuZTNOQ2hGOXF2Wnkxd2VVNTJ4SFQ0dmVOZjJDTTU3T1Bhc3NUMHBfVm1HQWNCaHhZQWktNXl0X0NGVm9hSXhSbDBaUXlfQV9yTWxPTVlKcnlCNHBWbDQxMWV1TDFGLTE5Szlwd3ExMHE1Q21lUDdnN21weXVBZnFXNHc?oc=5",
             "source": "XTB.com",
             "published": "29.07., 16:44"
-          },
-          {
-            "title": "Goldpreis fällt unter 4000 Dollar – ist das der Wendepunkt? - Blick",
-            "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZFlTWGlJYTRCZU9yajd1XzBwWUVtUThHUVJ1WWJKYVhtbzIzcXhha1NfYXNVeTBjTTdyZ1M0OTJxUXl5dWlmblFzd0EtaTFlTFFKbTQ1ejR2ZFF2VWdqNldjeTFOSG5Rb3ExclRFcU9VREhnTUNnamZxSVM3WUVXYzNrdWRCTjNBWXdKZkFSX2dKR2lRbVc0RzFwcnBUWnhhNDNmQUJDcFV6Wjc1RkRZNUVFTlpSSnpWVHNUUUFGOFRseHNfa29Hb2NrZEdzSXhYWmlrXw?oc=5",
-            "source": "Blick",
-            "published": "31.07., 12:56"
           }
         ]
       }
