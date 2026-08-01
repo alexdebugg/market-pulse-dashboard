@@ -1,8 +1,8 @@
 {
   "is_sample": false,
   "source": "Yahoo Finance Kursdaten + Google News RSS Kontext",
-  "generated_at_utc": "2026-08-01T06:26:39+00:00",
-  "generated_at_vienna": "01.08.2026, 08:26 Uhr",
+  "generated_at_utc": "2026-08-01T16:56:55+00:00",
+  "generated_at_vienna": "01.08.2026, 18:56 Uhr",
   "market_mood_internal": "risk-on",
   "assets": [
     {
@@ -389,36 +389,38 @@
         "direction": "gestiegen",
         "confidence": "niedrig",
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
-        "themes": [],
+        "themes": [
+          "KI/Tech"
+        ],
         "bullets": [
           "Der Kurs ist spürbar gestiegen: +0.51 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: keine klaren Themen erkannt.",
-          "Wichtigste gefundene Headlines: IncomeShares Nasdaq 100 Options ETP | XS2875105608 | A4A50Q - extraETF | Robinhood Markets, Inc. Umsatzübersicht – NASDAQ:HOOD - TradingView."
+          "Gefundene Nachrichten-Themen: KI/Tech.",
+          "Wichtigste gefundene Headlines: Leverage Shares 3x Long S&P 500 ETP Securities - Finanzen.net | Leverage Shares -5x Short Nasdaq 100 ETP Securities | XS3373449761 | A4AU1Y - extraETF."
         ],
         "headlines": [
           {
-            "title": "IncomeShares Nasdaq 100 Options ETP | XS2875105608 | A4A50Q - extraETF",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9pOXp6WnVQUmdKMWRkY1JPdlZxbHU3UnVkclh1OTctTGxtMmliSUV1NUFPUV9RODRsY2tQUTBUOHViZG5uS2hOTVh1MUNnMGFwTllGRGJtMHdBNExs?oc=5",
-            "source": "extraETF",
-            "published": "28.07., 09:00"
+            "title": "Leverage Shares 3x Long S&P 500 ETP Securities - Finanzen.net",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZm1CRURCdlNCZ1hoS3o4MUpITGkwRE03d0N6MGNBc29pUUdhOEw1TFVoaG1LSHZDQVB3S0ZZeTVsUTBpN1BGbFRzbDB3NHl6ZFMzY1liSHQzS2g4OG8wSEFSUjgwM19MeVFIbEhaRHIwcERiZjRNZ1o1dUlDQU43YWtkU0lrRlRjbUhrRXFNMTM3alU2TzlqWDhsWGlFLWhiWnZzWDRR?oc=5",
+            "source": "Finanzen.net",
+            "published": "29.07., 00:00"
           },
           {
-            "title": "Robinhood Markets, Inc. Umsatzübersicht – NASDAQ:HOOD - TradingView",
-            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9DS3BLbTAxLTV2S1lLZU5CVTQtUW5pdDh5TTNHeHBpa1lKWDZLdzNBYUpBbXhSNzJBd3NWMzhCRUg2eGlXeDRjbUJ4UGVQMjJ0bFd3b2R2MG5icUZEbEd5QTdCTU1nRDhzZ3hoSkdTRG1ZWXE1Wmc?oc=5",
-            "source": "TradingView",
-            "published": "29.07., 17:19"
+            "title": "Leverage Shares -5x Short Nasdaq 100 ETP Securities | XS3373449761 | A4AU1Y - extraETF",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmZUhjNmxQU3JodWVkRkFCMUR2M3d0Y0x6NTdOTDNIU0dvWFB2OFBGaUN4UktyMTdaV3hhQ0JsWG1mZUJPSkI5dnJYOC1sRXM1cVNRVElQaFZ5QmRY?oc=5",
+            "source": "extraETF",
+            "published": "19.06., 18:15"
+          },
+          {
+            "title": "QUICK SPARK: Google, Amazon, Nvidia Among 2026's Top 10 Most-Shorted Stocks - de.tradingview.com",
+            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdV9XZl9mcVJCX2lZQU5IVHhPU0xiQXBzSlpDU0FoaGs3XzMtN1hGMTFscEtyY3VwT2JVcThsUXRVNnNuLVRvVmg5cHpJcWV6SEhZRktldjFsMzVFQW95UUdlbTljc2ZxeUFJSURzSGFQb2UtQjVac3pkZVRTYmFnVWlBMEN3ZTJJeUlENUlYN1hPNXgtb051NS1ySG1mWU9XSE9hajJlWjgtNWRlbTloTDVza0ZubHA3WGdDa2NIQWE4alg1eW1keXRn?oc=5",
+            "source": "de.tradingview.com",
+            "published": "29.07., 19:25"
           },
           {
             "title": "E-mini Nasdaq September fällt von 28.800 – 28.000 als Unterstützung im Fokus, Risiko eines Durchbruchs auf 27.700 - VT Markets",
             "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPYWxsaUhQUm5uSEpXVWNFNEpuelF4TVNaTVVyMDVNM2d1bTVmM2ljN3MtRHhLLVRENUY5cDFoaVdUQnlwdEhQYWd5MEU3U1VHczhzUFVrazVOak9qV3NCNWVnS2U3OEFfVkJfYnlxNm9VaDlqU2xwZU80cWcxUVlrWTFQeVRxd0RpY0NFOEF3Y2ltOHVpdlptbUF4Ty04cXpielBpRFlPeTcyQlo4RHFFRlV6QkJCdFQxR1dlMm45QkxiTjBrSHZxaWtsOTBWUjdneHFuWklacHZDaG9SU2lfN3FBbDhFbXlCWnpEdQ?oc=5",
             "source": "VT Markets",
             "published": "29.07., 07:00"
-          },
-          {
-            "title": "(3⁺) NASDAQ – Der Index fällt, was bleibt? - stock3",
-            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9mUHJ4THhrY293c0VSc0dEMWtHb2ZuWUtua0p6QmNYeUFtTmlPc0VjU1NpZWc1LUdzYlNDVlFIQ1BQSUtFcHBUX19Fdzc3M09WczQ1Z3RWS2tyNnUtVzFqQnRzRF9HLTZoZzFrRmJkTVJCYXpvTWc?oc=5",
-            "source": "stock3",
-            "published": "05.06., 09:00"
           }
         ]
       }
@@ -816,7 +818,7 @@
         "bullets": [
           "Der Kurs ist deutlich gestiegen: +1.38 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: US-Dollar, China/EM, Geopolitik/Sicherheit, Gewinne/Analysten.",
-          "Wichtigste gefundene Headlines: Schwacher US-Dollar und hohe Defizite: Rückenwind für Emerging Markets? - e-fundresearch.com | iShares MSCI EM ex China: Allzeithoch bei 99,78 USD - Börse Express."
+          "Wichtigste gefundene Headlines: Schwacher US-Dollar und hohe Defizite: Rückenwind für Emerging Markets? - e-fundresearch.com | iShares MSCI EM ex China: Allzeithoch bei 99,78 USD - boerse-express.com."
         ],
         "headlines": [
           {
@@ -826,9 +828,9 @@
             "published": "25.11., 09:00"
           },
           {
-            "title": "iShares MSCI EM ex China: Allzeithoch bei 99,78 USD - Börse Express",
+            "title": "iShares MSCI EM ex China: Allzeithoch bei 99,78 USD - boerse-express.com",
             "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVHg5cHVfWE8tQ2tteTRVS0liN0NxX3dtaHhWcDRXdmZBNE1ac3JBVEI3VW5BMHFRM01xVGpNSFowb2hhQlBlZUhDS1gzNnUtOWdCdGpkZmQyWjQ2Sk9yMXlCOUU2MU5DWmFnZmJRUjQydGZWSE9ycjR3dDY2OEZTUktZOUxodXU1S3JGcC1sZW9qQnBTbFdTVGMxcTdYTjZTZFFZ?oc=5",
-            "source": "Börse Express",
+            "source": "boerse-express.com",
             "published": "26.05., 09:00"
           },
           {
@@ -838,9 +840,9 @@
             "published": "29.05., 09:00"
           },
           {
-            "title": "Kapitalmärkte: Iran-Krieg wird zum Stresstest für die Schwellenländer - handelsblatt.com",
+            "title": "Kapitalmärkte: Iran-Krieg wird zum Stresstest für die Schwellenländer - Handelsblatt",
             "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWHhSNTdKdm9ENnlwNHVYMHVJa3M3VmctRWswSm5tWFFCc29DemNLQk1nVXd4dHcwcFZlemVYcTcxZTJvdm5sYTNFblhwUVZ2UExEbHQxdXFjSUhyV252TUNVam42cnp4Ti15R0pUWEp0S3k4azhUVlFqc1lxNEpRNmRfd09JaU5qTF91Uk91eHRTaW5TVHlBQjlfeHRmVVJvV0Y3Y1lYb1hvWTl3MkxBSkoxR1p6SVBLOGxRXzEzNkQzSV90MTVzY3Z2Mmw?oc=5",
-            "source": "handelsblatt.com",
+            "source": "Handelsblatt",
             "published": "17.04., 09:00"
           }
         ]
@@ -1659,26 +1661,26 @@
         "bullets": [
           "Der Kurs ist deutlich gestiegen: +6.73 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: US-Dollar, KI/Tech.",
-          "Wichtigste gefundene Headlines: Alphabet Aktie: 514-Milliarden-Dollar-Backlog - Börse Express | Agentic AI im Juli: Workato, Oracle und Google starten Automatisierungs-Offensive - BornCity."
+          "Wichtigste gefundene Headlines: Alphabet Aktie: 514-Milliarden-Dollar-Backlog - boerse-express.com | Aktien von Alphabet, Amazon & Microsoft mit starker Woche: Um diese Billionen-Summe stieg ihr gemeinsamer Börsenwert - Finanzen.net."
         ],
         "headlines": [
           {
-            "title": "Alphabet Aktie: 514-Milliarden-Dollar-Backlog - Börse Express",
+            "title": "Alphabet Aktie: 514-Milliarden-Dollar-Backlog - boerse-express.com",
             "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTGxheFJCNDVMU011VlhqaF9GanR0VkU2MjYydUJZRlgyUmppZVZYanhBb0l1d0FGaEY5UWxaNS1GazFwM1Q4VlI4b0NpaXA1QzYwRDlXQTZoMlJwOF9XSVVmdk9NRzZNa2tEMXRJMDRqeXpubGRZbTl3RW8yb2l0NGxqN0pYeTdKbFNaWGU2OG0tdi1QaG1Ha2tfbEI?oc=5",
-            "source": "Börse Express",
+            "source": "boerse-express.com",
             "published": "01.08., 04:15"
           },
           {
-            "title": "Agentic AI im Juli: Workato, Oracle und Google starten Automatisierungs-Offensive - BornCity",
-            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPckJtM1dBZXkwcHBmSjBoM3ZoSk9EdHhzOXRybUNlUmpZbFp3RkFLdHB5TTlfcWphWE83WXpOYi1CNnZDNDdQZ1Y4akl6cFVUaEFYSTVQUE5STmMxblVqdTJyXzJyYktvVEZrUXRLMVBPX1I4cXZqbVM5MnNHMXhWTFp1RzJXSkVtMDhzX1pLWW1mbktEdEtrWDFobVlnRWp4dGdwelcyT2FnZw?oc=5",
-            "source": "BornCity",
-            "published": "31.07., 11:49"
+            "title": "Aktien von Alphabet, Amazon & Microsoft mit starker Woche: Um diese Billionen-Summe stieg ihr gemeinsamer Börsenwert - Finanzen.net",
+            "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQaVVFdnlobUE3dEU5QUFUMHlaX3daNmRtUm1aWVJQUHQ1SHBIYXZpV29OcktRQXJKTGVhRHRKNzFnV3EwZmF2a1gzQW9IemptUDFRZHpCdVJpMW04Q2ZTaENsY0lNZGdfc1VNbmY4c05FbXhqWFZCRDB3UENsdmN0TWJKLWJKWEJfdFdjalVCQmhOM0tkTXE2RFVUMEZreDd1ZkxKNkNjbFVjVWo0LVBhNVlITUlSYlE2VjEyaU80dlJQcW9BVXVDUkp3VUVTUm9DenRZZ0o2X0UwdFZ5UWlVNmNQcXRtV0V6X0NlbExsSXNuN0E4TktsTFNNZ3p0ZzJ0Y1VGS01waUFTQQ?oc=5",
+            "source": "Finanzen.net",
+            "published": "01.08., 11:49"
           },
           {
-            "title": "Oracle Aktie: Google integriert Gemini 3.1 - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNM0xuaDE0YlZZb3ktQ2FrZUZRdUdENU10eG5ZYTZZSEduMl9OS3c4eU40cUx1Y2NWbldPanJLTUdMdG5VUTJHcVYwdDBEajBXdGNzNzQwZVpXMGRnVHBuX05QM2FaVmQzSjdYcS1aZDNFWlhKM1pvR2l5VVJsczdsRUdmSWY0azkwaXRjWHVpcnZ4QmRTNl9v?oc=5",
-            "source": "Börse Express",
-            "published": "01.08., 03:00"
+            "title": "Oracle (ORCL) Bringt Gemini KI Mit Google Cloud In Fusion Und NetSuite - simplywall.st",
+            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPT1FOdnhvZDBPbVBfT1g1aXU4MkhVdUdWcElVZjdEMjEyRzRVRVczYVE2REhxdVd1TkRuaVZBQjFzelZvdGhoeUNSdW1sVFF4czFpNG9VdUpUY1V1QmRXRm0xR1EzbTVNd0V6elh1QjdhcTBUY2g4eEVpazBEQTd1NVNvX0JWakRlejU4bVl3YjNnbWdhTENCWTI2UUlBcXBxR3NGUE5nWkxMaXFnc3BmdG1kUFRURXZMRHlFVmNhNjV5V2x6SGpSStIByAFBVV95cUxPT1FOdnhvZDBPbVBfT1g1aXU4MkhVdUdWcElVZjdEMjEyRzRVRVczYVE2REhxdVd1TkRuaVZBQjFzelZvdGhoeUNSdW1sVFF4czFpNG9VdUpUY1V1QmRXRm0xR1EzbTVNd0V6elh1QjdhcTBUY2g4eEVpazBEQTd1NVNvX0JWakRlej…",
+            "source": "simplywall.st",
+            "published": "01.08., 07:01"
           },
           {
             "title": "Oracle steigt um über 8 % nach Ausweitung der Partnerschaft mit Google Cloud zur Integration von Gemini-Modellen in Fusion- und NetSuite-Un…",
@@ -2082,14 +2084,14 @@
         "bullets": [
           "Der Kurs ist deutlich gefallen: -1.24 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: Zinsen/Fed, US-Dollar, Regulierung, Geopolitik/Sicherheit.",
-          "Wichtigste gefundene Headlines: Gold: 1,54 Prozent Minus auf 4.098 Dollar - Börse Express | Gold-Comeback? Warum Experten jetzt deutlich steigende Goldpreise erwarten - extraETF."
+          "Wichtigste gefundene Headlines: Gold: 1,54-Prozent-Rückgang auf 4.098,60 Dollar - boerse-express.com | Gold-Comeback? Warum Experten jetzt deutlich steigende Goldpreise erwarten - extraETF."
         ],
         "headlines": [
           {
-            "title": "Gold: 1,54 Prozent Minus auf 4.098 Dollar - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSFZrYm0xcm9uMmVBbldhZEprbUYwSDVCT2RjWklVSGFKVmZrZTYyajNOSVRlRmI5aGRMNWU3RXJOZUx6MFkzZ211aHpIN1k4ZWt1a2xYZF95dDBXVWhuMWE4LTd4WHMwWl9NOXgxZmxobmF4WVREQ0RoTHpLd291SHRzbzFyUTNrZEh5RGluTEQ1Q3p3?oc=5",
-            "source": "Börse Express",
-            "published": "31.07., 19:56"
+            "title": "Gold: 1,54-Prozent-Rückgang auf 4.098,60 Dollar - boerse-express.com",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeWQ1X2VIVzBEQ0hCUE9zbFNIekREME8tUkJkTVJIVjZsTDFwck40eVBIZ29OR2hMTUtWSGtsTEJWQVoxOUt6dS03MENlR1Nrd2FsZ2lidlZiYnUyX1NTSlJCMlNDUE1JaGtzcGVHbjR5OTBrUW1KaDUyQzh1WGszZERCWFQ5ejFKemw3cFBrOXB0aWdYMUlTUndFbVc?oc=5",
+            "source": "boerse-express.com",
+            "published": "01.08., 18:15"
           },
           {
             "title": "Gold-Comeback? Warum Experten jetzt deutlich steigende Goldpreise erwarten - extraETF",
@@ -2098,16 +2100,16 @@
             "published": "30.07., 07:40"
           },
           {
-            "title": "Gold: Dollar schlägt Geopolitik - AD HOC NEWS",
-            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTjZ1aEg3RTY2cFE0dU5ET2lkT1NRTWxfNWRFRm1YTnJPY3gxS2JJN2hSeEhPRGNyLWRCS1VlQmcxZUExalNCQ2p4V2pJXzRGSE5CcUhuS1lEbGZxa3NMQ3J6T3ktblptSXBsU3BfTWIzUHBTazU3M2JrRS1GYjR3SVlwcjFxOUJzOGxHQURvNkNpeGNuN0VVcFR5NkFxX0l4RFhRUWln?oc=5",
-            "source": "AD HOC NEWS",
-            "published": "31.07., 23:16"
-          },
-          {
             "title": "Börse aktuell: Fed-Zinsentscheid und Goldpreis Prognose - XTB.com",
             "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNalA0YnRuZTNOQ2hGOXF2Wnkxd2VVNTJ4SFQ0dmVOZjJDTTU3T1Bhc3NUMHBfVm1HQWNCaHhZQWktNXl0X0NGVm9hSXhSbDBaUXlfQV9yTWxPTVlKcnlCNHBWbDQxMWV1TDFGLTE5Szlwd3ExMHE1Q21lUDdnN21weXVBZnFXNHc?oc=5",
             "source": "XTB.com",
             "published": "29.07., 16:44"
+          },
+          {
+            "title": "Goldpreis: Hochspannung vor Zinsentscheidung der Fed - Finanzen.net",
+            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPa3BEaVQxaFlfQUZmR2JsbnBfcWQ0TFVuclcwYnl4cy1LMUlCNHhBWXQzanN3NjBPMEhFczBQNXl6V3Zwc2pBU2pPak5JQ3RLOEVCRHltVnpfVU5IOTYwa3BuZlg1M2NHTUtlaFBjOXM5S1hoMnFSSkxLOE9rRzVBM2pNZS11cnd1OHFMQXdYU3hEN0p2bzZrem1oQXpyTG1KelhLTGthcXhKODg4WEpkWThTUzhRYVBxRWNlOFVVbjB1NXRUWUxv0gGyAUFVX3lxTE9KUjVnRnMzdzVGZnp5YWhGemtieE9YN2lEWXYzMTduUjF4eE42a1pFRndiTmp4Y0M1cHVDaTFYcG5rc3lBRGtRZ3dIcklaSDFjZ20xUnBINHRmZ1d1c1lLaWlrYmtHQ0Y5ZjRHWUNtWDlTMXdGcjNWel94Si1FR1NwRXBHVGU2VjVFMH…",
+            "source": "Finanzen.net",
+            "published": "29.07., 07:40"
           }
         ]
       }
