@@ -1,8 +1,8 @@
 {
   "is_sample": false,
   "source": "Yahoo Finance Kursdaten + Google News RSS Kontext",
-  "generated_at_utc": "2026-08-02T16:55:55+00:00",
-  "generated_at_vienna": "02.08.2026, 18:55 Uhr",
+  "generated_at_utc": "2026-08-03T06:57:01+00:00",
+  "generated_at_vienna": "03.08.2026, 08:57 Uhr",
   "market_mood_internal": "risk-on",
   "assets": [
     {
@@ -393,7 +393,7 @@
         "bullets": [
           "Der Kurs ist spürbar gestiegen: +0.51 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: keine klaren Themen erkannt.",
-          "Wichtigste gefundene Headlines: Leverage Shares 3x Long S&P 500 ETP Securities - Finanzen.net | Leverage Shares -5x Short Nasdaq 100 ETP Securities | XS3373449761 | A4AU1Y - extraETF."
+          "Wichtigste gefundene Headlines: Leverage Shares 3x Long S&P 500 ETP Securities - Finanzen.net | Leverage Shares -5x Short Nasdaq 100 ETP Securities | XS3373449761 | A4AU1Y - extraetf.com."
         ],
         "headlines": [
           {
@@ -403,9 +403,9 @@
             "published": "29.07., 00:00"
           },
           {
-            "title": "Leverage Shares -5x Short Nasdaq 100 ETP Securities | XS3373449761 | A4AU1Y - extraETF",
+            "title": "Leverage Shares -5x Short Nasdaq 100 ETP Securities | XS3373449761 | A4AU1Y - extraetf.com",
             "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmZUhjNmxQU3JodWVkRkFCMUR2M3d0Y0x6NTdOTDNIU0dvWFB2OFBGaUN4UktyMTdaV3hhQ0JsWG1mZUJPSkI5dnJYOC1sRXM1cVNRVElQaFZ5QmRY?oc=5",
-            "source": "extraETF",
+            "source": "extraetf.com",
             "published": "19.06., 18:15"
           },
           {
@@ -815,7 +815,7 @@
         "bullets": [
           "Der Kurs ist deutlich gestiegen: +1.38 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: US-Dollar, China/EM, Geopolitik/Sicherheit.",
-          "Wichtigste gefundene Headlines: Pictet AM-Chef-Volkswirt: Schwellenländer trotzem dem Ölpreis-Schock - das investment | Schwacher US-Dollar und hohe Defizite: Rückenwind für Emerging Markets? - e-fundresearch.com."
+          "Wichtigste gefundene Headlines: Pictet AM-Chef-Volkswirt: Schwellenländer trotzem dem Ölpreis-Schock - das investment | iShares MSCI EM ex China: Allzeithoch bei 99,78 USD - Börse Express."
         ],
         "headlines": [
           {
@@ -825,22 +825,22 @@
             "published": "31.07., 15:41"
           },
           {
-            "title": "Schwacher US-Dollar und hohe Defizite: Rückenwind für Emerging Markets? - e-fundresearch.com",
-            "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdW5LT0NkQVByWUhHM2JvRDZVWERXUW5RWnpWcEpzVVNxRDA2QzgwTEJBQ3p4Y2lYU1NEelhUa1hUZzJyUDg4SnJPTXVmQUppQzRoalhkVURTWEJtaHZ1Zk1MMHNXekE0ZkpyM2x4aTI3UmU0bkU3REl6NXYyVnZIWWxCckFXT3pKaVdvQlp0cFQxMmpPS3lTN0U4ajBWTHd0NGJHVFI2T0Nhc3hhQ2ZSQkJqclRfaWZYMUVEaERfYXcxdklzYXlvRXY5c2R3ZHJDVUpjZmt4TXlQYWNxSHhCSE83cGVjQzc2Nnc?oc=5",
-            "source": "e-fundresearch.com",
-            "published": "25.11., 09:00"
-          },
-          {
             "title": "iShares MSCI EM ex China: Allzeithoch bei 99,78 USD - Börse Express",
             "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVHg5cHVfWE8tQ2tteTRVS0liN0NxX3dtaHhWcDRXdmZBNE1ac3JBVEI3VW5BMHFRM01xVGpNSFowb2hhQlBlZUhDS1gzNnUtOWdCdGpkZmQyWjQ2Sk9yMXlCOUU2MU5DWmFnZmJRUjQydGZWSE9ycjR3dDY2OEZTUktZOUxodXU1S3JGcC1sZW9qQnBTbFdTVGMxcTdYTjZTZFFZ?oc=5",
             "source": "Börse Express",
             "published": "26.05., 09:00"
           },
           {
-            "title": "Kapitalmärkte: Iran-Krieg wird zum Stresstest für die Schwellenländer - handelsblatt.com",
+            "title": "Kapitalmärkte: Iran-Krieg wird zum Stresstest für die Schwellenländer - Handelsblatt",
             "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWHhSNTdKdm9ENnlwNHVYMHVJa3M3VmctRWswSm5tWFFCc29DemNLQk1nVXd4dHcwcFZlemVYcTcxZTJvdm5sYTNFblhwUVZ2UExEbHQxdXFjSUhyV252TUNVam42cnp4Ti15R0pUWEp0S3k4azhUVlFqc1lxNEpRNmRfd09JaU5qTF91Uk91eHRTaW5TVHlBQjlfeHRmVVJvV0Y3Y1lYb1hvWTl3MkxBSkoxR1p6SVBLOGxRXzEzNkQzSV90MTVzY3Z2Mmw?oc=5",
-            "source": "handelsblatt.com",
+            "source": "Handelsblatt",
             "published": "17.04., 09:00"
+          },
+          {
+            "title": "iShares EM ex China ETF: 3,72% Freitags-Sturz - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRW9sTG9iUi11ZWNqbDVlYkt0NlNZanVPaWhWLWgtd1NxN2hkZUVZc2JqQWNpN2hXQzljYWxURUtONVVHLWxCbmE1YVZqalVmdWJYZWJzRzJRR3F1QzdBSEFGd1ZOYWJlVnM5U3BGTnB0aHMtdjlFSVU3TFBlcTV4YzBCUHl5b0lKUkEwNk5zNEZxX0RXbTQ1Qm93?oc=5",
+            "source": "Börse Express",
+            "published": "16.05., 09:00"
           }
         ]
       }
@@ -1237,7 +1237,7 @@
         "bullets": [
           "Der Kurs ist leicht gestiegen: +0.21 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: Regulierung, China/EM, Geopolitik/Sicherheit.",
-          "Wichtigste gefundene Headlines: Sizing Up Small Caps - BNY | Citius Pharmaceuticals Inc (CTXR) Aktionärsstruktur: Hauptaktionäre & institutionelle Bestände - TradingKey."
+          "Wichtigste gefundene Headlines: Sizing Up Small Caps - BNY | Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraetf.com."
         ],
         "headlines": [
           {
@@ -1247,16 +1247,16 @@
             "published": "21.07., 09:00"
           },
           {
+            "title": "Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraetf.com",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBfSEFMN1dKOFVhZUdmcE5WbGh1V3VIUTVJTE5SdWVzS2hYemNGRWgzRi1MZF8xZXdrbUl3RHVKeTk0SDNRUmhSWGgyQUpMQlRXb2JPS0Jxb2txVm5LM0w3anphOWo5WWIwSDF5Qjg4clFwR0VWUkQ5Qg?oc=5",
+            "source": "extraetf.com",
+            "published": "28.04., 10:37"
+          },
+          {
             "title": "Citius Pharmaceuticals Inc (CTXR) Aktionärsstruktur: Hauptaktionäre & institutionelle Bestände - TradingKey",
             "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBYNm1GMmw3Qm56QU5Gam1nR3l3ZTlnUFpNQVBsNUNsd254VDloTWRXNk1JMXdvdzRVazdsMXhPRkFhb1YycEF6Q3ZhS2Nta24xOU9sTllEWGpPQ2FlTXpWalBTMlhBTEFwcXhv?oc=5",
             "source": "TradingKey",
             "published": "27.07., 17:52"
-          },
-          {
-            "title": "Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraETF",
-            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBfSEFMN1dKOFVhZUdmcE5WbGh1V3VIUTVJTE5SdWVzS2hYemNGRWgzRi1MZF8xZXdrbUl3RHVKeTk0SDNRUmhSWGgyQUpMQlRXb2JPS0Jxb2txVm5LM0w3anphOWo5WWIwSDF5Qjg4clFwR0VWUkQ5Qg?oc=5",
-            "source": "extraETF",
-            "published": "28.04., 10:37"
           },
           {
             "title": "„Disziplin schlägt Glamour“ – Warum AllianzGI mit systematischem Faktor-Investing jetzt auf US Small Caps setzt - e-fundresearch.com",
@@ -1652,19 +1652,26 @@
         "confidence": "mittel",
         "summary": "Plausibler Nachrichtenbezug: Der Kurs ist gestiegen und die gefundenen Schlagzeilen enthalten überwiegend positiv wirkende Formulierungen. Die Quellen passen damit zur Richtung, beweisen aber keine Kausalität.",
         "themes": [
+          "US-Dollar",
           "KI/Tech"
         ],
         "bullets": [
           "Der Kurs ist deutlich gestiegen: +6.73 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: KI/Tech.",
-          "Wichtigste gefundene Headlines: KI-Aktien: Amazon und Microsoft glänzen, Oracle feiert Google-Allianz - Börse Express | Alphabet-, Amazon- und Microsoft-Aktie mit Gewinnwoche: Gemeinsamer Börsenwert wächst um Billionen - finanzen.at."
+          "Gefundene Nachrichten-Themen: US-Dollar, KI/Tech.",
+          "Wichtigste gefundene Headlines: Vanguard All-World ETF: Alphabet-Sturz um 15 Prozent drückt Portfolio - Börse Express | Google (GOOGL) Stützt Anthropics KI Rechenzentrum In Texas Mit 15 Milliarden Dollar - simplywall.st."
         ],
         "headlines": [
           {
-            "title": "KI-Aktien: Amazon und Microsoft glänzen, Oracle feiert Google-Allianz - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaUpfaV9RVWZqcnJwS1NETTNNV3d6OEN1V2xFN1BBTWRvYmtoZm5ZelVxVlB2UTB0MFJncmNQMmFPcFkxeG5VdUtoMmNYb3pDdFJXdjVpaFRzaXR4V24wcHlpYnhHU2NFU0JfcEhJZ1ZsZHJXNlB3Zk1PUERjVUcySm10cUtXZjRwMjBud3hjSGc5LUpmVnBRRm5OM1FzRzJ5VGlNR0FMWXZ4ZmxDaWxOZDhLeS1XaG5hRERwTw?oc=5",
+            "title": "Vanguard All-World ETF: Alphabet-Sturz um 15 Prozent drückt Portfolio - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObENUTHhxYTBFTC1uUklfSmU4M2hJd2RzamQxTmZvNjVMRVhNdFNlQzhXTEFfSjdKS3dGQ1habjA4MXh1dlh1STVWbmcxMGdZNHpsZk1GdEFld0ZPWmpIVjZka2tVWmJUQ0RfWkJ3eGFuem9OUzBodVlNdWVoYVdOdm8tX0tfRmVmMElmRHpvcjZnUjFsWVRkQ3Z3UmhNOXplaTRkUVN0Sk5DeHhtR29nRXJjcG5YTW5lTFZQRGVn?oc=5",
             "source": "Börse Express",
-            "published": "31.07., 12:10"
+            "published": "02.08., 20:01"
+          },
+          {
+            "title": "Google (GOOGL) Stützt Anthropics KI Rechenzentrum In Texas Mit 15 Milliarden Dollar - simplywall.st",
+            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUHpUS29xR2kxNFRHeWRka0E2UEZNMUZ4QlJ2YVhTU1ZEc0VxbUhjSV9aUlNxdVM5Y2tHSldTMmtUR25QRTBHS2Jmd3ZOOThTUVNYSUQwSkMwZDRRbTdYLVduU2ZwWExqdUQ2RDViMmF2Q0lUQWhLLXZLb2dZT2w3QURUOXBPTmhNaVZfakNvd0RSa3o1eDE4ZjdjVHg3dDdGU2hXQzR1dUNzb1FOLTNmYnRJRGVpdmFpQjdTT1dTbEw1WFp1S2FN0gHMAUFVX3lxTE9ha0JHc3RDaVlvYXZra2hWaDlSclhLcFJjbXJpRndKSFdxcU54YU5HM0pkNkFJVWNIemtwU2hnbld1eERSTlhVZURQV0NIelh0enNOYk1DZHhpRUhFczg1TXdvc05obGY2Z1FlTVp3UWNyVnFqWmVqSVBrZmJDUzh0NDZwR3dGaFd3UT…",
+            "source": "simplywall.st",
+            "published": "03.08., 05:19"
           },
           {
             "title": "Alphabet-, Amazon- und Microsoft-Aktie mit Gewinnwoche: Gemeinsamer Börsenwert wächst um Billionen - finanzen.at",
@@ -1673,16 +1680,10 @@
             "published": "01.08., 21:26"
           },
           {
-            "title": "Google Cloud: Gemini-KI senkt Bedrohungserkennung um 99,9% - AD HOC NEWS",
-            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWjJBZ0tORkp0MWtURFNOMjZuS2UtV280TGFNdVZzUFBOeTZ1Sl9qdGlEYlBrOFhJU3plZzZIdlV2T190TkFvSWdCWVNDTk5ZUFIzU1p0RDBMQ2FqaEF5QlBOOWJyalhwWHRDX280T19zdmRXVEdJQlVvcjNrVXY1MEZ6MnZzLW1Rek5pTXZEMUNKZUlSeHVKZG9zdV9oU2xwNzB4Z2ZfX0xZV2xYMmJPUThCTQ?oc=5",
+            "title": "Google Cloud fordert KI-Bedrohungsabwehr in Unternehmensführung - AD HOC NEWS",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNV2g3Q1REb21IR0J0VmpHMlgxVElrMjIwUl9qUU9WaEFnVmhSZExJOG95MUM0SzhOclNyQnd0cHMwMl82cks2anVQcENERGI4NUFQTUtpLTd6Umd4bFRrZmNVOWVhWkdGVVFZcGx2YkN6SXNHUWNsNmxpVGNiRVdReGRnVlg2dUNvS3ZYc2x4NjhRZ2VJWENpejRFTzZrYzJmbWM3Ymhud2pTVXlBUWE1ZEpjUQ?oc=5",
             "source": "AD HOC NEWS",
-            "published": "02.08., 16:53"
-          },
-          {
-            "title": "Oracle steigt um über 8 % nach Ausweitung der Partnerschaft mit Google Cloud zur Integration von Gemini-Modellen in Fusion- und NetSuite-Un…",
-            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNl9tdHpqSC1wTERFZy16UTgzUFhoSjlDNWQ5eDFkbWpOUGRfU1IzMHZNRHI1VXhtcm1wRlBIdkRKMTl3eFdySkNVZ3QzSktLUFVaMTF3YnltUFJNYW9JUVFwVFJEcFNYdlg3bnlaNG11NGctUmhPZGdkRXpIS0NncXJXZ0V0cXZkT1A2UDNJa3diMElGQ2tRUzN2cUs3YWowRFQ4QW1RSExwUE5ISmhBaWFRUGNxenU5LXNBdkJBRU9taVJPR1FORg?oc=5",
-            "source": "TradingKey",
-            "published": "30.07., 08:45"
+            "published": "03.08., 06:22"
           }
         ]
       }
@@ -1694,22 +1695,18 @@
       "currency": "USD/oz",
       "description": "Goldpreis, primär über Gold-Future, fallback XAU/USD",
       "price_decimals": 2,
-      "last_date": "2026-07-31",
-      "last_close": 4107.0,
-      "previous_close": 4100.10009765625,
-      "change_abs": 6.9,
-      "change_pct": 0.17,
-      "change_5d_pct": 0.97,
-      "change_1m_pct": 0.95,
-      "change_3m_pct": -11.0,
+      "last_date": "2026-08-03",
+      "last_close": 4122.2001953125,
+      "previous_close": 4049.10009765625,
+      "change_abs": 73.1,
+      "change_pct": 1.81,
+      "change_5d_pct": 1.17,
+      "change_1m_pct": 0.23,
+      "change_3m_pct": -10.97,
       "change_1y_pct": null,
-      "ytd_pct": -5.05,
-      "volatility_30d_pct": 23.54,
+      "ytd_pct": -4.7,
+      "volatility_30d_pct": 22.81,
       "sparkline": [
-        {
-          "date": "2026-03-24",
-          "close": 4399.2998046875
-        },
         {
           "date": "2026-03-25",
           "close": 4549.7998046875
@@ -2064,46 +2061,50 @@
         },
         {
           "date": "2026-07-31",
-          "close": 4107.0
+          "close": 4049.10009765625
+        },
+        {
+          "date": "2026-08-03",
+          "close": 4122.2001953125
         }
       ],
       "explanation": {
         "direction": "gestiegen",
-        "confidence": "niedrig",
-        "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
+        "confidence": "mittel",
+        "summary": "Plausibler Nachrichtenbezug: Der Kurs ist gestiegen und die gefundenen Schlagzeilen enthalten überwiegend positiv wirkende Formulierungen. Die Quellen passen damit zur Richtung, beweisen aber keine Kausalität.",
         "themes": [
           "Zinsen/Fed",
           "US-Dollar"
         ],
         "bullets": [
-          "Der Kurs ist leicht gestiegen: +0.17 % gegenüber dem vorherigen Schlusskurs.",
+          "Der Kurs ist deutlich gestiegen: +1.81 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: Zinsen/Fed, US-Dollar.",
-          "Wichtigste gefundene Headlines: Silber Preis: 55-Dollar-Marke entscheidet Richtung - Börse Express | Goldpreis 2026: Diese Faktoren sprechen für steigende Kurse - wiwo.de."
+          "Wichtigste gefundene Headlines: Gold: 1,54% Minus nach Fed-Dissens - Börse Express | Goldpreis aktuell: Diese Faktoren sprechen für steigende Kurse - WiWo."
         ],
         "headlines": [
           {
-            "title": "Silber Preis: 55-Dollar-Marke entscheidet Richtung - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUS1USy1yal9YV0UzRHhfUmM1Q1c2WVp0M1JkLVdpS1hkOGZ0QWRQajZ3UmJWMU5QNkFvWkUxYklaNkhhdHR2MS1vVFE1UHdzOE5Ma1oyZ1F4dFdvTVBNY3g3Y0cyUWZ4c0ZTeTZTeW1pcS1wTXlIRVk4YjE1TklULW9CS1paZ3QtbnlTR3R4a3ZDSDRSeUdkdVJsb01hV2d1ZXFn?oc=5",
+            "title": "Gold: 1,54% Minus nach Fed-Dissens - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdXBrejFzUnZKdVBqbWpXS0dWQmhDN3ZMc180R3J6Y2pFUWI4YlhFLW1WUGRDZU5ReEF6bE1MQjFDMmpmUDByeGMyMHpYU1d0OVBMcVFDV3h2ZG5sUTZjTFdSQldyMVRXS0RNZTA1WDYwU0wyaE53QTFGNmxweVNOMnJIWDNBU0g2MkE4?oc=5",
             "source": "Börse Express",
-            "published": "02.08., 16:52"
+            "published": "02.08., 21:37"
           },
           {
-            "title": "Goldpreis 2026: Diese Faktoren sprechen für steigende Kurse - wiwo.de",
-            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbUZtMXVjTzNCRHpDdmtUamkxU2hJOU85LUpuaG1EUzJpb290VVFLcFFWeWVwTmFmNEYtS1VZb2d4b2gyRkpwWHRkT3VUbWVPRVJvVzJreFVDVjVuY1JyMkVxSGJlVDFodlczWF94VmxVT1VmRHBVcTFPa05XVjVuYjJubGk1eTdMM2VSRUdkY2tqZU5keU5ELTdvSENhVnVRZkhMdXNleFJpUDU5SjlV?oc=5",
-            "source": "wiwo.de",
-            "published": "02.08., 14:06"
+            "title": "Goldpreis aktuell: Diese Faktoren sprechen für steigende Kurse - WiWo",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaV9vWkpzbkFoQ081NUdfWFlVcXc4VFBjSVFmcnVqN0NpUEZwdV9vdkNaLUhseERwRGhWQ1o0U1UyYVdBNDZFOTNYSl90VFdiRC1vTF9vR01nakNjTnBMZGN3ZVlXX3hLbFBlNHBLWU1UR0hEZ3R1TUJBVzNVclhYZ0N0UWIyMVJTbndfcTh6VEFNaTlYYkh4Uks0UGJZZ2xwdXJuc2xaTFN4VjByb2U5VzhrRQ?oc=5",
+            "source": "WiWo",
+            "published": "03.08., 07:19"
           },
           {
-            "title": "Börse aktuell: Fed-Zinsentscheid und Goldpreis Prognose - XTB.com",
-            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNalA0YnRuZTNOQ2hGOXF2Wnkxd2VVNTJ4SFQ0dmVOZjJDTTU3T1Bhc3NUMHBfVm1HQWNCaHhZQWktNXl0X0NGVm9hSXhSbDBaUXlfQV9yTWxPTVlKcnlCNHBWbDQxMWV1TDFGLTE5Szlwd3ExMHE1Q21lUDdnN21weXVBZnFXNHc?oc=5",
-            "source": "XTB.com",
-            "published": "29.07., 16:44"
+            "title": "Gold vor Richtungsentscheidung: Fed bremst Rally – jetzt zählt nur noch das - TradingView",
+            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ZaS03U3ZoeXRkMWJWaUJqaDI1SkhSWDZMbzlsVVVQeFBXb1Q1eTd5cldTWFZjZ3F3VnRWYVdBZ0NBS1h0U3h0aVF5UXFCVnNyaEVKbmp6dnBjbGZOSUZ0ZktaMExfVEVG?oc=5",
+            "source": "TradingView",
+            "published": "03.08., 07:33"
           },
           {
-            "title": "Goldpreis: Hochspannung vor Zinsentscheidung der Fed - Finanzen.net",
-            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPa3BEaVQxaFlfQUZmR2JsbnBfcWQ0TFVuclcwYnl4cy1LMUlCNHhBWXQzanN3NjBPMEhFczBQNXl6V3Zwc2pBU2pPak5JQ3RLOEVCRHltVnpfVU5IOTYwa3BuZlg1M2NHTUtlaFBjOXM5S1hoMnFSSkxLOE9rRzVBM2pNZS11cnd1OHFMQXdYU3hEN0p2bzZrem1oQXpyTG1KelhLTGthcXhKODg4WEpkWThTUzhRYVBxRWNlOFVVbjB1NXRUWUxv0gGyAUFVX3lxTE9KUjVnRnMzdzVGZnp5YWhGemtieE9YN2lEWXYzMTduUjF4eE42a1pFRndiTmp4Y0M1cHVDaTFYcG5rc3lBRGtRZ3dIcklaSDFjZ20xUnBINHRmZ1d1c1lLaWlrYmtHQ0Y5ZjRHWUNtWDlTMXdGcjNWel94Si1FR1NwRXBHVGU2VjVFMH…",
-            "source": "Finanzen.net",
-            "published": "29.07., 07:40"
+            "title": "Gold: 4.098,60 Dollar nach Iran-Entspannung - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbFpFbUhhRzMzZEJRZW9RWE5JZEZlV0lEUlhDYVV5aU5SYVE2VkR2TWUxWi0xRVZTbk5KRUhSOFhQanRObHN6UUlOQ2pxTHdRRnRtalpjSVo5RDNtdjZERTktZ0twQ0ZjUENwSGlwdGdlU1puQzR4MkIwd295NnY3Nmo4anhrOUdMcm5abEpyeno1NWVBSjM0?oc=5",
+            "source": "Börse Express",
+            "published": "03.08., 05:13"
           }
         ]
       }
