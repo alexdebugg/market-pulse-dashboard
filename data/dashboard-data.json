@@ -1,8 +1,8 @@
 {
   "is_sample": false,
   "source": "Yahoo Finance Kursdaten + Google News RSS Kontext",
-  "generated_at_utc": "2026-08-07T16:51:52+00:00",
-  "generated_at_vienna": "07.08.2026, 18:51 Uhr",
+  "generated_at_utc": "2026-08-08T04:53:33+00:00",
+  "generated_at_vienna": "08.08.2026, 06:53 Uhr",
   "market_mood_internal": "neutral",
   "assets": [
     {
@@ -397,20 +397,14 @@
         "bullets": [
           "Der Kurs ist spürbar gestiegen: +0.39 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: KI/Tech, Regulierung, Gewinne/Analysten.",
-          "Wichtigste gefundene Headlines: Robinhood Markets, Inc. (HOOD) Aktienkurs, Nachrichten, Kurs und Verlauf - Yahoo Finanzen Deutschland | Perfekte Beimischung zum MSCI World: Geheimtipp-ETF, den Sie unbedingt im Portfolio haben sollten - boerse-online.de."
+          "Wichtigste gefundene Headlines: Robinhood Markets, Inc. (HOOD) Aktienkurs, Nachrichten, Kurs und Verlauf - Yahoo Finanzen Deutschland | US-Aktien eröffnen im August fester: Tech-Rally hebt Nasdaq und S&P 500 dank starker Quartalszahlen - VT Markets."
         ],
         "headlines": [
           {
             "title": "Robinhood Markets, Inc. (HOOD) Aktienkurs, Nachrichten, Kurs und Verlauf - Yahoo Finanzen Deutschland",
             "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5PVm8xcHNNcXpvWmlKcFpPQ21qZnk0SFlaRWNkVmZkNE80UGVPcWYtd2Y0UzJ2YTd5V1hZYmdScXBtVE0zQzVBdkpXMnZqZUtKYnc?oc=5",
             "source": "Yahoo Finanzen Deutschland",
-            "published": "07.08., 06:04"
-          },
-          {
-            "title": "Perfekte Beimischung zum MSCI World: Geheimtipp-ETF, den Sie unbedingt im Portfolio haben sollten - boerse-online.de",
-            "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQTmlDNFlBSTYzNTAwOHhrWkxlWnZsOVdZWUNkQ0Q3VjdZLXhZYkU1R0dtOWl2ZmdyMVZjS2lTSTRMcnkwNjlpU3l4RmtBRndpMkd2bHhOYjFUOUZBSGZTZXI5WS1EYVprbUdfZTNTWFBvVEhzemNmV0xwdGRWUGx1eXJnUTFDbHRYQ2NUQUxyT2U5djBhZGJPSGNWbWVOa2lZWHVSQXlkVWpyd2loX0N3cnVUM0U4dEd1dm52VnFrWkdxQjluQ2NLbTVsdThMMl9fSndLblBPR0hKeEpmVEJHbG95WUdoWUp0MGNabw?oc=5",
-            "source": "boerse-online.de",
-            "published": "06.08., 20:20"
+            "published": "07.08., 06:14"
           },
           {
             "title": "US-Aktien eröffnen im August fester: Tech-Rally hebt Nasdaq und S&P 500 dank starker Quartalszahlen - VT Markets",
@@ -423,6 +417,12 @@
             "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmZUhjNmxQU3JodWVkRkFCMUR2M3d0Y0x6NTdOTDNIU0dvWFB2OFBGaUN4UktyMTdaV3hhQ0JsWG1mZUJPSkI5dnJYOC1sRXM1cVNRVElQaFZ5QmRY?oc=5",
             "source": "extraETF",
             "published": "19.06., 18:15"
+          },
+          {
+            "title": "Perfekte Beimischung zum MSCI World: Geheimtipp-ETF, den Sie unbedingt im Portfolio haben sollten - Börse Online",
+            "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQTmlDNFlBSTYzNTAwOHhrWkxlWnZsOVdZWUNkQ0Q3VjdZLXhZYkU1R0dtOWl2ZmdyMVZjS2lTSTRMcnkwNjlpU3l4RmtBRndpMkd2bHhOYjFUOUZBSGZTZXI5WS1EYVprbUdfZTNTWFBvVEhzemNmV0xwdGRWUGx1eXJnUTFDbHRYQ2NUQUxyT2U5djBhZGJPSGNWbWVOa2lZWHVSQXlkVWpyd2loX0N3cnVUM0U4dEd1dm52VnFrWkdxQjluQ2NLbTVsdThMMl9fSndLblBPR0hKeEpmVEJHbG95WUdoWUp0MGNabw?oc=5",
+            "source": "Börse Online",
+            "published": "06.08., 20:20"
           }
         ]
       }
@@ -835,9 +835,9 @@
             "published": "31.07., 15:41"
           },
           {
-            "title": "iShares MSCI EM ex China: Allzeithoch bei 99,78 USD - boerse-express.com",
+            "title": "iShares MSCI EM ex China: Allzeithoch bei 99,78 USD - Börse Express",
             "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVHg5cHVfWE8tQ2tteTRVS0liN0NxX3dtaHhWcDRXdmZBNE1ac3JBVEI3VW5BMHFRM01xVGpNSFowb2hhQlBlZUhDS1gzNnUtOWdCdGpkZmQyWjQ2Sk9yMXlCOUU2MU5DWmFnZmJRUjQydGZWSE9ycjR3dDY2OEZTUktZOUxodXU1S3JGcC1sZW9qQnBTbFdTVGMxcTdYTjZTZFFZ?oc=5",
-            "source": "boerse-express.com",
+            "source": "Börse Express",
             "published": "26.05., 09:00"
           },
           {
@@ -1234,13 +1234,12 @@
         "confidence": "niedrig",
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
-          "Regulierung",
           "China/EM",
           "Geopolitik/Sicherheit"
         ],
         "bullets": [
           "Der Kurs ist leicht gestiegen: +0.23 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: Regulierung, China/EM, Geopolitik/Sicherheit.",
+          "Gefundene Nachrichten-Themen: China/EM, Geopolitik/Sicherheit.",
           "Wichtigste gefundene Headlines: Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraETF | „Disziplin schlägt Glamour“ – Warum AllianzGI mit systematischem Faktor-Investing jetzt auf US Small Caps setzt - e-fundresearch.com."
         ],
         "headlines": [
@@ -1257,16 +1256,16 @@
             "published": "25.03., 08:00"
           },
           {
+            "title": "Achieve Life Sciences Inc (ACHV) Aktionärsstruktur: Hauptaktionäre & institutionelle Bestände - TradingKey",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB0VDdiVy1fRjZLajZyZGdXQktuOU5EanN5OG9ibHpKSi1zcV9uUi1HQ1dkTE8zLTNhQ1RWY1RMQ19KVm5EYXYtNWh1TjBQQlptNnlWaFZHRDdvclZUYlZ2ZkdEMWRmblU0a184?oc=5",
+            "source": "TradingKey",
+            "published": "28.07., 07:30"
+          },
+          {
             "title": "Aktueller RUSSELL.SEP26 Kurs | Micro E-mini Russell 2000 Sep 26 Future] Stand & Chart - eToro",
             "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE14QUJ4bVpaSHkzRTJ3c2hmWUhFekpyVGZDZS1fR19wenQ2M1RZanRlcmVaLW9CUUg2UFJvc2tzczlYN2Y5Q3I5T1k4QzRoa2gzMEJSSG10WWJPdw?oc=5",
             "source": "eToro",
             "published": "31.03., 17:19"
-          },
-          {
-            "title": "Drei europäische Small-Cap-Aktien für das Jahr 2026 - global.morningstar.com",
-            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMEs2TEZTckdDLWpCakI1eHFNUW45VXNjbk5LN3ZBWDgwNXJPUGFEa1JFVE9QYWpmdmdfUVpZRmxYVG92bGFzOURGZTBOY2JTcllqSUxhTDVoMktobkRPMUtlX0gyVTZmWGFTVUZCQnh2TFA1bHhXeEt4RWZoU0FWbFBzTjY4NXdRdmNYUDVGRWNwMjVL?oc=5",
-            "source": "global.morningstar.com",
-            "published": "23.01., 09:00"
           }
         ]
       }
@@ -1279,16 +1278,16 @@
       "description": "Alphabet Inc. Class A",
       "price_decimals": 2,
       "last_date": "2026-08-07",
-      "last_close": 355.32501220703125,
+      "last_close": 354.29998779296875,
       "previous_close": 357.75,
-      "change_abs": -2.42,
-      "change_pct": -0.68,
-      "change_5d_pct": -0.23,
-      "change_1m_pct": -0.99,
-      "change_3m_pct": -10.72,
+      "change_abs": -3.45,
+      "change_pct": -0.96,
+      "change_5d_pct": -0.51,
+      "change_1m_pct": -1.28,
+      "change_3m_pct": -10.98,
       "change_1y_pct": null,
-      "ytd_pct": 13.52,
-      "volatility_30d_pct": 44.9,
+      "ytd_pct": 13.19,
+      "volatility_30d_pct": 44.95,
       "sparkline": [
         {
           "date": "2026-03-31",
@@ -1648,7 +1647,7 @@
         },
         {
           "date": "2026-08-07",
-          "close": 355.32501220703125
+          "close": 354.29998779296875
         }
       ],
       "explanation": {
@@ -1661,22 +1660,22 @@
           "Geopolitik/Sicherheit"
         ],
         "bullets": [
-          "Der Kurs ist spürbar gefallen: -0.68 % gegenüber dem vorherigen Schlusskurs.",
+          "Der Kurs ist spürbar gefallen: -0.96 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: KI/Tech, Regulierung, Geopolitik/Sicherheit.",
-          "Wichtigste gefundene Headlines: Telekom erweitert Mobilfunkangebot um Google One - Deutsche Telekom | Alphabet Aktie: Freier Cashflow erstmals negativ - boerse-express.com."
+          "Wichtigste gefundene Headlines: Alphabet Aktie: Freier Cashflow erstmals negativ - Börse Express | Telekom erweitert Mobilfunkangebot um Google One - Deutsche Telekom."
         ],
         "headlines": [
+          {
+            "title": "Alphabet Aktie: Freier Cashflow erstmals negativ - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUF9sdjUtcTZBcWxjWXBzX2x6OWpUVDdKYUx1ZHFRdWdKVDZIVWlyb1BHQVdKNjFtZlZXUjRsbmczaHZfaHpKalBxakNmcHF4VlFDY1dEQldGeUpwY2JEV012aThtcGRMYmpzRHdDRnhNcmJCdXA1WmJGUTVRLWF2TUExa1VqN2JONXRLWlNzQnQwdkZ0MnB0QlYxTDZfczNx?oc=5",
+            "source": "Börse Express",
+            "published": "07.08., 18:13"
+          },
           {
             "title": "Telekom erweitert Mobilfunkangebot um Google One - Deutsche Telekom",
             "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSjRvYkphNDM4cUMySkhtN1NUbVA4U0JjNEtqLVY1aFpDSF9LQ2o0eEtPOXN4ekZKeGhubWFaalBCOVJSYW8xMlBRWXBtbXhrZjVtVm8xOTdSeFRCWXRUNWdjWGtEWVNsaFBCMElmWWlDZ2JtVkp2X1R1akliWjJHTzhNSnM0Q2p4SkJUVVQ0UDBuM3RvakZadUVqVkpXdjFWeno4V2t5Y3dvY2s1M21hYVJvX1BGM3lF?oc=5",
             "source": "Deutsche Telekom",
             "published": "07.08., 08:00"
-          },
-          {
-            "title": "Alphabet Aktie: Freier Cashflow erstmals negativ - boerse-express.com",
-            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUF9sdjUtcTZBcWxjWXBzX2x6OWpUVDdKYUx1ZHFRdWdKVDZIVWlyb1BHQVdKNjFtZlZXUjRsbmczaHZfaHpKalBxakNmcHF4VlFDY1dEQldGeUpwY2JEV012aThtcGRMYmpzRHdDRnhNcmJCdXA1WmJGUTVRLWF2TUExa1VqN2JONXRLWlNzQnQwdkZ0MnB0QlYxTDZfczNx?oc=5",
-            "source": "boerse-express.com",
-            "published": "07.08., 18:13"
           },
           {
             "title": "Google-Cloud-Chefin zu KI aus der EU: „Da gibt es im Moment viel Schwarzmalerei“ - heise online",
@@ -1701,16 +1700,16 @@
       "description": "Goldpreis, primär über Gold-Future, fallback XAU/USD",
       "price_decimals": 2,
       "last_date": "2026-08-07",
-      "last_close": 4399.89990234375,
+      "last_close": 4340.7001953125,
       "previous_close": 4242.0,
-      "change_abs": 157.9,
-      "change_pct": 3.72,
-      "change_5d_pct": 8.66,
-      "change_1m_pct": 6.52,
-      "change_3m_pct": -6.38,
+      "change_abs": 98.7,
+      "change_pct": 2.33,
+      "change_5d_pct": 7.2,
+      "change_1m_pct": 5.09,
+      "change_3m_pct": -7.64,
       "change_1y_pct": null,
-      "ytd_pct": 1.72,
-      "volatility_30d_pct": 24.46,
+      "ytd_pct": 0.35,
+      "volatility_30d_pct": 23.06,
       "sparkline": [
         {
           "date": "2026-03-31",
@@ -2070,7 +2069,7 @@
         },
         {
           "date": "2026-08-07",
-          "close": 4399.89990234375
+          "close": 4340.7001953125
         }
       ],
       "explanation": {
@@ -2078,22 +2077,22 @@
         "confidence": "mittel",
         "summary": "Plausibler Nachrichtenbezug: Der Kurs ist gestiegen und die gefundenen Schlagzeilen enthalten überwiegend positiv wirkende Formulierungen. Die Quellen passen damit zur Richtung, beweisen aber keine Kausalität.",
         "themes": [
+          "Zinsen/Fed",
           "Inflation",
           "US-Dollar",
-          "Regulierung",
-          "Geopolitik/Sicherheit"
+          "Regulierung"
         ],
         "bullets": [
-          "Der Kurs ist deutlich gestiegen: +3.72 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: Inflation, US-Dollar, Regulierung, Geopolitik/Sicherheit.",
-          "Wichtigste gefundene Headlines: Gold: 4.308 Dollar nach ADP-Schock - boerse-express.com | Sechs Prozent Wochenplus: Warum der Goldpreis plötzlich wieder steigt - FAZ."
+          "Der Kurs ist deutlich gestiegen: +2.33 % gegenüber dem vorherigen Schlusskurs.",
+          "Gefundene Nachrichten-Themen: Zinsen/Fed, Inflation, US-Dollar, Regulierung.",
+          "Wichtigste gefundene Headlines: Quarterback Resources Aktie: Twin Gold braucht 500.000 Dollar - Börse Express | Sechs Prozent Wochenplus: Warum der Goldpreis plötzlich wieder steigt - FAZ."
         ],
         "headlines": [
           {
-            "title": "Gold: 4.308 Dollar nach ADP-Schock - boerse-express.com",
-            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPT29fN284bEFoMkFYdlYtcnVkRHRHeVg5cC1VNTdSbmNSMFhsQzJwZGVQQ1gyVVRoNlhqMzd1UFpRaEV4WWYxbEZYUkpoYXdUcy13NUdsaEpKWURrbVZVYWZ4OG84NXZFNGJHRGdvd0NqbkZycVo4RGZqVUpjVVNVMHV6bjlEaXlmbEVjaw?oc=5",
-            "source": "boerse-express.com",
-            "published": "07.08., 05:59"
+            "title": "Quarterback Resources Aktie: Twin Gold braucht 500.000 Dollar - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMEJEZzZ6VEFTV29rLVFZcmdJWVlHdEc1RjYzWVdTeUpIY3RPTGxyZDJjRVZuSlRiNTJEek9JbGx6amg4NTV5VXJyQk9fMVlPcFl4dUItYzV3OS1wMkRqRnlhMFdMWWdqY2tNSzN2N1lPUnUxRElmVlJwcmpfU0hObE5YM2o3VERtdFBmdktqdVhya1NPMDhBQ0pNMjJ5YklUbUtGMlpqSmhfNnBJLUtvMg?oc=5",
+            "source": "Börse Express",
+            "published": "08.08., 05:47"
           },
           {
             "title": "Sechs Prozent Wochenplus: Warum der Goldpreis plötzlich wieder steigt - FAZ",
@@ -2108,10 +2107,10 @@
             "published": "07.08., 15:27"
           },
           {
-            "title": "Goldpreis zieht kräftig an: Das steckt dahinter - weekend.at",
-            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Xc0pEQUppLUZtckttSG91aEVVU2g0YjVkbDZ0Xzd1cUpYdm1EZUt2VmtEZHlySUZ5R1FILXRteGxxcE9FODFKT0JUQ2NNRjdLaGZkaTlXRFpac0NWck1CbWh5ODViNGN4cnNsdll5Ujh3bUV5M0trQlp3?oc=5",
-            "source": "weekend.at",
-            "published": "07.08., 09:23"
+            "title": "Gold über $ 4.100 nach Fed-Entscheidung - Jetzt kaufen? - InvestmentWeek",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdGJhYW9Fak1tMy0wWmQ5VkNfY2xISWY3ZS1JM2NUclkxMmlrN0tuVVI4cjloWVA4N0ZUZnhXbkV5VEZOTEN6Q3lNUWozdzFQWmdIR2lQU3RYSHpQX0t4Q3NRYzk3ZUFSQ25tWkUydkFxclAzZ245bFR5S2NiNzNWVHV6RU0wT3pkd0tpT0Y0ZlRfZjlJZE1aWk1FRF9qY0Zs?oc=5",
+            "source": "InvestmentWeek",
+            "published": "07.08., 16:00"
           }
         ]
       }
