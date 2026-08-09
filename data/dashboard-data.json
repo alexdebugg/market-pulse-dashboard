@@ -1,8 +1,8 @@
 {
   "is_sample": false,
   "source": "Yahoo Finance Kursdaten + Google News RSS Kontext",
-  "generated_at_utc": "2026-08-09T05:01:55+00:00",
-  "generated_at_vienna": "09.08.2026, 07:01 Uhr",
+  "generated_at_utc": "2026-08-09T16:31:36+00:00",
+  "generated_at_vienna": "09.08.2026, 18:31 Uhr",
   "market_mood_internal": "neutral",
   "assets": [
     {
@@ -396,20 +396,20 @@
         "bullets": [
           "Der Kurs ist spürbar gestiegen: +0.39 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: KI/Tech, Regulierung.",
-          "Wichtigste gefundene Headlines: CFTC-Daten zeigen: Netto-Short-Positionen im S&P 500 steigen auf -27,3 Tsd., da spekulative Baisse-Wetten zunehmen - VT Markets | Robinhood Markets, Inc. (HOOD) Aktienkurs, Nachrichten, Kurs und Verlauf - Yahoo Finanzen Deutschland."
+          "Wichtigste gefundene Headlines: Robinhood Markets, Inc. (HOOD) Aktienkurs, Nachrichten, Kurs und Verlauf - Yahoo Finanzen Deutschland | CFTC-Daten zeigen: Netto-Short-Positionen im S&P 500 steigen auf -27,3 Tsd., da spekulative Baisse-Wetten zunehmen - VT Markets."
         ],
         "headlines": [
+          {
+            "title": "Robinhood Markets, Inc. (HOOD) Aktienkurs, Nachrichten, Kurs und Verlauf - Yahoo Finanzen Deutschland",
+            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5PVm8xcHNNcXpvWmlKcFpPQ21qZnk0SFlaRWNkVmZkNE80UGVPcWYtd2Y0UzJ2YTd5V1hZYmdScXBtVE0zQzVBdkpXMnZqZUtKYnc?oc=5",
+            "source": "Yahoo Finanzen Deutschland",
+            "published": "07.08., 07:09"
+          },
           {
             "title": "CFTC-Daten zeigen: Netto-Short-Positionen im S&P 500 steigen auf -27,3 Tsd., da spekulative Baisse-Wetten zunehmen - VT Markets",
             "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPekh5LTNRX3N2VVBxWmtlZklTZC1lNTNSaTNRZjg0cktuWG52QVI3bF8wbUMwTU1kU2V2UlBaTVFZVkJKUS1TTWlYT2I3V1VxZkFpNVItZkFjVTFXTjR1N0wzQlMxcURLR19UbnVqdnZfTzY2WFZEeU5kUDE4ay1sNkJVWXdMTzlnUXFxWmE5ckxqSENPNU5sTFM2cklFNnM1dE0tbXE4cEpYY3d4NGxzWHV6RkROdm5oODM2VWdjVW9wdmhOWnd0c2tVVllNZDdaLVp0LXlZbXZGV3pxR0hLTDJGWEJudlNwb0E?oc=5",
             "source": "VT Markets",
             "published": "08.08., 11:26"
-          },
-          {
-            "title": "Robinhood Markets, Inc. (HOOD) Aktienkurs, Nachrichten, Kurs und Verlauf - Yahoo Finanzen Deutschland",
-            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5PVm8xcHNNcXpvWmlKcFpPQ21qZnk0SFlaRWNkVmZkNE80UGVPcWYtd2Y0UzJ2YTd5V1hZYmdScXBtVE0zQzVBdkpXMnZqZUtKYnc?oc=5",
-            "source": "Yahoo Finanzen Deutschland",
-            "published": "07.08., 15:02"
           },
           {
             "title": "Leverage Shares -5x Short Nasdaq 100 ETP Securities | XS3373449761 | A4AU1Y - extraETF",
@@ -421,7 +421,7 @@
             "title": "Perfekte Beimischung zum MSCI World: Geheimtipp-ETF, den Sie unbedingt im Portfolio haben sollten - Börse Online",
             "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQTmlDNFlBSTYzNTAwOHhrWkxlWnZsOVdZWUNkQ0Q3VjdZLXhZYkU1R0dtOWl2ZmdyMVZjS2lTSTRMcnkwNjlpU3l4RmtBRndpMkd2bHhOYjFUOUZBSGZTZXI5WS1EYVprbUdfZTNTWFBvVEhzemNmV0xwdGRWUGx1eXJnUTFDbHRYQ2NUQUxyT2U5djBhZGJPSGNWbWVOa2lZWHVSQXlkVWpyd2loX0N3cnVUM0U4dEd1dm52VnFrWkdxQjluQ2NLbTVsdThMMl9fSndLblBPR0hKeEpmVEJHbG95WUdoWUp0MGNabw?oc=5",
             "source": "Börse Online",
-            "published": "06.08., 20:30"
+            "published": "06.08., 20:40"
           }
         ]
       }
@@ -1663,20 +1663,20 @@
         "bullets": [
           "Der Kurs ist spürbar gefallen: -0.96 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: US-Dollar, KI/Tech, Regulierung, Geopolitik/Sicherheit.",
-          "Wichtigste gefundene Headlines: Alphabet Aktie: 30-Milliarden-Dollar-Deal mit SpaceX - Börse Express | Telekom erweitert Mobilfunkangebot um Google One - Deutsche Telekom."
+          "Wichtigste gefundene Headlines: Telekom erweitert Mobilfunkangebot um Google One - Deutsche Telekom | Alphabet Aktie: 30-Milliarden-Dollar-Deal mit SpaceX - Börse Express."
         ],
         "headlines": [
-          {
-            "title": "Alphabet Aktie: 30-Milliarden-Dollar-Deal mit SpaceX - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOXFVQ2dHNi1rdThaMURHeV9scWJfMWh5dTFKQ1JsY2hyVTA4REpMWjFDU2YtRGpuQXd1OEZRODNPdDhOVkluM2NCTmtmUVNjOWNBRW5JcXlEZ0NSaHRaUFJzbGlnMTdqTDIzTS13UFZ3bkt0UXNtOEFyQks4NFlJNDV2VTRVQ1Nlb0VLajVwOHB6MnVOQWp6SE1QZzY0dzUtNGxrR0VR?oc=5",
-            "source": "Börse Express",
-            "published": "08.08., 18:10"
-          },
           {
             "title": "Telekom erweitert Mobilfunkangebot um Google One - Deutsche Telekom",
             "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSjRvYkphNDM4cUMySkhtN1NUbVA4U0JjNEtqLVY1aFpDSF9LQ2o0eEtPOXN4ekZKeGhubWFaalBCOVJSYW8xMlBRWXBtbXhrZjVtVm8xOTdSeFRCWXRUNWdjWGtEWVNsaFBCMElmWWlDZ2JtVkp2X1R1akliWjJHTzhNSnM0Q2p4SkJUVVQ0UDBuM3RvakZadUVqVkpXdjFWeno4V2t5Y3dvY2s1M21hYVJvX1BGM3lF?oc=5",
             "source": "Deutsche Telekom",
             "published": "07.08., 08:00"
+          },
+          {
+            "title": "Alphabet Aktie: 30-Milliarden-Dollar-Deal mit SpaceX - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOXFVQ2dHNi1rdThaMURHeV9scWJfMWh5dTFKQ1JsY2hyVTA4REpMWjFDU2YtRGpuQXd1OEZRODNPdDhOVkluM2NCTmtmUVNjOWNBRW5JcXlEZ0NSaHRaUFJzbGlnMTdqTDIzTS13UFZ3bkt0UXNtOEFyQks4NFlJNDV2VTRVQ1Nlb0VLajVwOHB6MnVOQWp6SE1QZzY0dzUtNGxrR0VR?oc=5",
+            "source": "Börse Express",
+            "published": "08.08., 18:10"
           },
           {
             "title": "Google-Cloud-Chefin zu KI aus der EU: „Da gibt es im Moment viel Schwarzmalerei“ - heise online",
@@ -1685,9 +1685,9 @@
             "published": "04.08., 11:23"
           },
           {
-            "title": "Google stellt AI-Studio-App trotz 800.000 Vorbestellungen noch vor dem Launch ein - CHIP",
+            "title": "Google stellt AI-Studio-App trotz 800.000 Vorbestellungen noch vor dem Launch ein - chip.de",
             "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxObHdteVRRV3pFTi1iX204Q2YwZ1l2Nm1jUDdhX09ZMl9fWlNRelNLZUMxTks0YTRzZGttM05sdzYzRlI2Rm5Wd3hRUWJQdnEtOE9QSzFIQmhiMkVMd0Ixek1fNlUzSU1zSXdBcEl2aVJVZ0xWR1N6MGFrb29RdXhIa1JGOUF6WTBvbFVDbkRCTVFCVDVjRl8tX2hWamxfZ1NyZXNzeW03LWJsUVA0MjFMZjd1UC04SzF4aDdtUmNON3FlbzRxWnN5aFVaXzQ2TFFPcnFvOUozVjM2X0VjZktfdUFrSUYyMDY0aDRIR0tn?oc=5",
-            "source": "CHIP",
+            "source": "chip.de",
             "published": "04.08., 11:31"
           }
         ]
@@ -2078,39 +2078,38 @@
         "confidence": "mittel",
         "summary": "Plausibler Nachrichtenbezug: Der Kurs ist gestiegen und die gefundenen Schlagzeilen enthalten überwiegend positiv wirkende Formulierungen. Die Quellen passen damit zur Richtung, beweisen aber keine Kausalität.",
         "themes": [
-          "Inflation",
           "US-Dollar",
           "Geopolitik/Sicherheit"
         ],
         "bullets": [
           "Der Kurs ist deutlich gestiegen: +3.72 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: Inflation, US-Dollar, Geopolitik/Sicherheit.",
-          "Wichtigste gefundene Headlines: Gold: Zweimonatshoch bei 4.401 Dollar - Börse Express | Sechs Prozent Wochenplus: Warum der Goldpreis plötzlich wieder steigt - FAZ."
+          "Gefundene Nachrichten-Themen: US-Dollar, Geopolitik/Sicherheit.",
+          "Wichtigste gefundene Headlines: Gold: Widerstand bei 4.401 Dollar durchbrochen - Börse Express | Gold über 4.000 US-Dollar – Rückt jetzt das Interesse auf Goldentwickler? - Wallstreet Online."
         ],
         "headlines": [
           {
-            "title": "Gold: Zweimonatshoch bei 4.401 Dollar - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdElEZ2tzN0xNc1lKQXN3LWlCS0pycGMzVVdCTi05bk9tLTZNSFJocGpqRFlXRGtxQnoyVC1sUkVtYzNJT0NXNWc4QjNTNlI5YVRkMVMzM1k3eGFWNVJZWEUyc3lSclZpTjhJSlRvYUliS0YtNF95djQzTHlzRHFxNDZKR0xwY1RsWGh2UllEUk4?oc=5",
+            "title": "Gold: Widerstand bei 4.401 Dollar durchbrochen - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRzBVb0M0TENkT3B2SGZrM0VoWkRjWWg1R2ktaFZDbkRPbE9mN2luam5mMnFMOXhDTVphU1NzTFlvbVRrZ0YtRTlsTHd4YmZOclhjN1VyMlJoN1d1eWVYcXJYLUU5LVZ0WXU3SjJlczlCWi1vdGE3Y0hZU0h2cWpVdTVyTXYxVWZBamhJSjNRVGptTUswcDdwZkE0R2c?oc=5",
             "source": "Börse Express",
-            "published": "08.08., 22:19"
+            "published": "09.08., 16:50"
           },
           {
-            "title": "Sechs Prozent Wochenplus: Warum der Goldpreis plötzlich wieder steigt - FAZ",
+            "title": "Gold über 4.000 US-Dollar – Rückt jetzt das Interesse auf Goldentwickler? - Wallstreet Online",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQb2FsdjhRckpXdUNnZ19hb21pYm5fNlFjcHFFOUYyY2ZtUGgtR1RYSURWRnFuZVEza3JLdTBzNVF1TTBrQnJuOUNqajIyN3NIWmU2clU0WEowaXlFazFfYzkweEJVcmNfZ2dvZmVIdXF5WkdvMnRxbGhFM0tYZTNDNGQ5Y0xHSkZrb0FjbjhLSUZMbUVQWGJENTR6bzVIVGxIbkhQdC1zOA?oc=5",
+            "source": "Wallstreet Online",
+            "published": "09.08., 08:08"
+          },
+          {
+            "title": "Gold: 7,39-Prozent-Rally auf 4.401 Dollar - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNkdoYzVVYV9qcmRSY1F4ZWkzRFJiNlA0UlRfdC1idGVhWGVXRkdTMnFOMFJmTW82a2Z3Y1VmazRCeWJDNFQ4d3YyeDdPaXBwZ2JnMVVLUHpnZkNoYkFKVXZMWEZyUGRZYkd0UzlJbUczUWF3aXVmY1B4SFMyZ2RwcklTQTNEZTBvVERDVXN4UlBzZmxp?oc=5",
+            "source": "Börse Express",
+            "published": "09.08., 07:13"
+          },
+          {
+            "title": "Sechs Prozent Wochenplus: Warum der Goldpreis plötzlich wieder steigt - faz.net",
             "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMHFGSGNaSmNOZHFaZWk5QkNQRUEtUEhQMzlsZXdkeEtrM1ZPU3Q1MDEybkZpYjcya3lwSG13YXp5SDFUNDAzVDdMWk5NRjBkdUE1b3I5Mk9OWHcwS2w1a0pFTm4zcjRJZnFRWVF4ay10Smh0VXlnT0p6OVhHSHRxamUwbHhELVJGVUdnUHpJeXlEWnVzZnNyU2pNOGlNQmstTWM0NUhoWURCZDh6UVFEcUx5QU9tSENkX0xaWEIyaXhXcEJ5dnJmUnpwRUE1Y2xzSmYwbw?oc=5",
-            "source": "FAZ",
+            "source": "faz.net",
             "published": "07.08., 13:47"
-          },
-          {
-            "title": "Gold: 2,37-Prozent-Sprung auf 4.401 Dollar - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPR3pCNDRrV18tLWd6c25ubjQ5MHI3dGUtZVZrdlE2N1o0Sl92ODJvWW5xc1Nka3RxenhET1ZfN2Jvb2lHZFdDc0t0QWV0bXJ2ekNLOHNYNWdBamxhQnEyTWhHOGtZZkRvOC05WmowWWVfVzJ3bjFXaW1fMnE0MDNtNEpSdWpFbFo0UXdYYnZ6dkpQc1UyU2c?oc=5",
-            "source": "Börse Express",
-            "published": "08.08., 12:27"
-          },
-          {
-            "title": "Goldpreis: Warum das Edelmetall laut Studie kein wirksamer Inflationsschutz ist - finanzen.at",
-            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSHA0cmpDcFNsRmM4WUdGUDh4YjAyaHdWdTBONU9MM1p2Nzc3enVKSE9mLXNNMkpwUUl4NnMxTDcxc0I3QjJ6cjdjVExsU1dZX3VrdF9UWVc3OWR1RG8zY3dIZm5MRUlteURPZ3N5cXh1c3M2ZzNTM0I0djROTzhEVjVkVGNGUXB6ZTJKTW0yeWNWd1N6MlRxTmNCeFN1X1ZqejhaQUhPZTZVckZtdmpSX2dWd0h4Y3ZJWWhMY0VMWjZFZ05mOFZGV2xmR28wZlps?oc=5",
-            "source": "finanzen.at",
-            "published": "07.08., 15:31"
           }
         ]
       }
