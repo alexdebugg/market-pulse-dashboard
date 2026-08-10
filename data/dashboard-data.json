@@ -1,8 +1,8 @@
 {
   "is_sample": false,
   "source": "Yahoo Finance Kursdaten + Google News RSS Kontext",
-  "generated_at_utc": "2026-08-09T16:31:36+00:00",
-  "generated_at_vienna": "09.08.2026, 18:31 Uhr",
+  "generated_at_utc": "2026-08-10T05:23:49+00:00",
+  "generated_at_vienna": "10.08.2026, 07:23 Uhr",
   "market_mood_internal": "neutral",
   "assets": [
     {
@@ -390,20 +390,19 @@
         "confidence": "niedrig",
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
-          "KI/Tech",
-          "Regulierung"
+          "KI/Tech"
         ],
         "bullets": [
           "Der Kurs ist spürbar gestiegen: +0.39 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: KI/Tech, Regulierung.",
-          "Wichtigste gefundene Headlines: Robinhood Markets, Inc. (HOOD) Aktienkurs, Nachrichten, Kurs und Verlauf - Yahoo Finanzen Deutschland | CFTC-Daten zeigen: Netto-Short-Positionen im S&P 500 steigen auf -27,3 Tsd., da spekulative Baisse-Wetten zunehmen - VT Markets."
+          "Gefundene Nachrichten-Themen: KI/Tech.",
+          "Wichtigste gefundene Headlines: Leverage Shares -5x Short Nasdaq 100 ETP Securities | XS3373449761 | A4AU1Y - extraETF | CFTC-Daten zeigen: Netto-Short-Positionen im S&P 500 steigen auf -27,3 Tsd., da spekulative Baisse-Wetten zunehmen - VT Markets."
         ],
         "headlines": [
           {
-            "title": "Robinhood Markets, Inc. (HOOD) Aktienkurs, Nachrichten, Kurs und Verlauf - Yahoo Finanzen Deutschland",
-            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5PVm8xcHNNcXpvWmlKcFpPQ21qZnk0SFlaRWNkVmZkNE80UGVPcWYtd2Y0UzJ2YTd5V1hZYmdScXBtVE0zQzVBdkpXMnZqZUtKYnc?oc=5",
-            "source": "Yahoo Finanzen Deutschland",
-            "published": "07.08., 07:09"
+            "title": "Leverage Shares -5x Short Nasdaq 100 ETP Securities | XS3373449761 | A4AU1Y - extraETF",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmZUhjNmxQU3JodWVkRkFCMUR2M3d0Y0x6NTdOTDNIU0dvWFB2OFBGaUN4UktyMTdaV3hhQ0JsWG1mZUJPSkI5dnJYOC1sRXM1cVNRVElQaFZ5QmRY?oc=5",
+            "source": "extraETF",
+            "published": "19.06., 18:15"
           },
           {
             "title": "CFTC-Daten zeigen: Netto-Short-Positionen im S&P 500 steigen auf -27,3 Tsd., da spekulative Baisse-Wetten zunehmen - VT Markets",
@@ -412,16 +411,16 @@
             "published": "08.08., 11:26"
           },
           {
-            "title": "Leverage Shares -5x Short Nasdaq 100 ETP Securities | XS3373449761 | A4AU1Y - extraETF",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmZUhjNmxQU3JodWVkRkFCMUR2M3d0Y0x6NTdOTDNIU0dvWFB2OFBGaUN4UktyMTdaV3hhQ0JsWG1mZUJPSkI5dnJYOC1sRXM1cVNRVElQaFZ5QmRY?oc=5",
-            "source": "extraETF",
-            "published": "19.06., 18:15"
+            "title": "Perfekte Beimischung zum MSCI World: Geheimtipp-ETF, den Sie unbedingt im Portfolio haben sollten - boerse-online.de",
+            "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQTmlDNFlBSTYzNTAwOHhrWkxlWnZsOVdZWUNkQ0Q3VjdZLXhZYkU1R0dtOWl2ZmdyMVZjS2lTSTRMcnkwNjlpU3l4RmtBRndpMkd2bHhOYjFUOUZBSGZTZXI5WS1EYVprbUdfZTNTWFBvVEhzemNmV0xwdGRWUGx1eXJnUTFDbHRYQ2NUQUxyT2U5djBhZGJPSGNWbWVOa2lZWHVSQXlkVWpyd2loX0N3cnVUM0U4dEd1dm52VnFrWkdxQjluQ2NLbTVsdThMMl9fSndLblBPR0hKeEpmVEJHbG95WUdoWUp0MGNabw?oc=5",
+            "source": "boerse-online.de",
+            "published": "06.08., 20:40"
           },
           {
-            "title": "Perfekte Beimischung zum MSCI World: Geheimtipp-ETF, den Sie unbedingt im Portfolio haben sollten - Börse Online",
-            "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQTmlDNFlBSTYzNTAwOHhrWkxlWnZsOVdZWUNkQ0Q3VjdZLXhZYkU1R0dtOWl2ZmdyMVZjS2lTSTRMcnkwNjlpU3l4RmtBRndpMkd2bHhOYjFUOUZBSGZTZXI5WS1EYVprbUdfZTNTWFBvVEhzemNmV0xwdGRWUGx1eXJnUTFDbHRYQ2NUQUxyT2U5djBhZGJPSGNWbWVOa2lZWHVSQXlkVWpyd2loX0N3cnVUM0U4dEd1dm52VnFrWkdxQjluQ2NLbTVsdThMMl9fSndLblBPR0hKeEpmVEJHbG95WUdoWUp0MGNabw?oc=5",
-            "source": "Börse Online",
-            "published": "06.08., 20:40"
+            "title": "Robinhood Markets, Inc. Umsatzübersicht – NASDAQ:HOOD - TradingView",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9DS3BLbTAxLTV2S1lLZU5CVTQtUW5pdDh5TTNHeHBpa1lKWDZLdzNBYUpBbXhSNzJBd3NWMzhCRUg2eGlXeDRjbUJ4UGVQMjJ0bFd3b2R2MG5icUZEbEd5QTdCTU1nRDhzZ3hoSkdTRG1ZWXE1Wmc?oc=5",
+            "source": "TradingView",
+            "published": "29.07., 17:19"
           }
         ]
       }
@@ -1256,16 +1255,16 @@
             "published": "25.03., 08:00"
           },
           {
+            "title": "Achieve Life Sciences Inc (ACHV) Aktionärsstruktur: Hauptaktionäre & institutionelle Bestände - TradingKey",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB0VDdiVy1fRjZLajZyZGdXQktuOU5EanN5OG9ibHpKSi1zcV9uUi1HQ1dkTE8zLTNhQ1RWY1RMQ19KVm5EYXYtNWh1TjBQQlptNnlWaFZHRDdvclZUYlZ2ZkdEMWRmblU0a184?oc=5",
+            "source": "TradingKey",
+            "published": "28.07., 07:30"
+          },
+          {
             "title": "Drei europäische Small-Cap-Aktien für das Jahr 2026 - Morningstar",
             "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMEs2TEZTckdDLWpCakI1eHFNUW45VXNjbk5LN3ZBWDgwNXJPUGFEa1JFVE9QYWpmdmdfUVpZRmxYVG92bGFzOURGZTBOY2JTcllqSUxhTDVoMktobkRPMUtlX0gyVTZmWGFTVUZCQnh2TFA1bHhXeEt4RWZoU0FWbFBzTjY4NXdRdmNYUDVGRWNwMjVL?oc=5",
             "source": "Morningstar",
             "published": "23.01., 09:00"
-          },
-          {
-            "title": "Verändert die doppelte Aufnahme von Anterix (ATEX) in den Russell 2000-Index das Narrativ des Unternehmens als defensiver Wachstumswert? -…",
-            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTHpOU0ZkSDdmRlBpcVJjdlBXcy1oTFBzWTJkNkIxX0lJWURZd0VNQU83T0lqalhMR1Zyd1B4dWxRRXJrV2VHMXpRY3Q1V0RHbjVwVXh4aWhlZUltQ1U4N1VMVzFZYmZZckU4M1REbVZueFppbkl6OXh6ZGhYNTNaOXR2U19iMUFYUHgxRm0zbGZPcTdBTDBPVDJFQmtVVThSdDhiWEFkQ3lxSXRCOE5uekhKb3hFeW83NE5US01UTEM2WDZ2Ylhv0gHMAUFVX3lxTE85WG5rTFZMTDQ0T2licHJESTRxZm5wMC1aV09BVk53TGVSSjBrRkJIb2c5OHpsOE4ySkg4djFqSTViV1Nsd3VILXZFMGhtNElQYnozbUprNUNxdXJsZE5TdllzSzZPRmFSU3dka0FYUGJKRUotMElZZkp4MHJISFlSMEtMUG1BajU4N0…",
-            "source": "simplywall.st",
-            "published": "01.07., 09:00"
           }
         ]
       }
@@ -1655,17 +1654,28 @@
         "confidence": "niedrig",
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
-          "US-Dollar",
           "KI/Tech",
           "Regulierung",
           "Geopolitik/Sicherheit"
         ],
         "bullets": [
           "Der Kurs ist spürbar gefallen: -0.96 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: US-Dollar, KI/Tech, Regulierung, Geopolitik/Sicherheit.",
-          "Wichtigste gefundene Headlines: Telekom erweitert Mobilfunkangebot um Google One - Deutsche Telekom | Alphabet Aktie: 30-Milliarden-Dollar-Deal mit SpaceX - Börse Express."
+          "Gefundene Nachrichten-Themen: KI/Tech, Regulierung, Geopolitik/Sicherheit.",
+          "Wichtigste gefundene Headlines: Alphabet Aktie: Cloud-Umsatz springt 82 Prozent auf 24,8 Milliarden - Börse Express | Google Chrome / Edge: 20 GB Speicher für AI-Modell-Download - BornCity."
         ],
         "headlines": [
+          {
+            "title": "Alphabet Aktie: Cloud-Umsatz springt 82 Prozent auf 24,8 Milliarden - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcS1tSW1KRlZRUl9aTVRlLU5jYmhtbEotUFFDRWF0NDlpdGVlSm1QZkhUdGdkRElHcUJWSE5WWVVSajV1clV6V1RPZnJmOWUtZ25BYWxFaHpJanhMVE5KOXNDLTFTNmpGTDYxOWVYMUQ4WEVCMkJaMEZ0S3hFQlNlSWZaNnNoUW1MN3RkM3E1enZGWGpOelBPR0c5czd2cXItcXBkbUtrWDNMS0VjSk96WnYxZVdxUEFj?oc=5",
+            "source": "Börse Express",
+            "published": "10.08., 04:20"
+          },
+          {
+            "title": "Google Chrome / Edge: 20 GB Speicher für AI-Modell-Download - BornCity",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWTZuQmo2SkUyTFJuS3NOWWlyMDlEeGR2N2pEYWlkbGR0MTNHcXNWUE5jUkVvRkRXY1JteUZxMEtxbHhzbVJRTG1odzlGTkRYWG1fT0JxOV9CM2kyZFh3aWQ0RzNST2tVbC1HOW8yMzVBNVB1MExneG9zdmtHS2FwWUo0TE44Wm1obkFYWV9yZlBzcmtkWFUxU1JqNkM1b25ROVFWbEtKYUcyQQ?oc=5",
+            "source": "BornCity",
+            "published": "10.08., 01:31"
+          },
           {
             "title": "Telekom erweitert Mobilfunkangebot um Google One - Deutsche Telekom",
             "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSjRvYkphNDM4cUMySkhtN1NUbVA4U0JjNEtqLVY1aFpDSF9LQ2o0eEtPOXN4ekZKeGhubWFaalBCOVJSYW8xMlBRWXBtbXhrZjVtVm8xOTdSeFRCWXRUNWdjWGtEWVNsaFBCMElmWWlDZ2JtVkp2X1R1akliWjJHTzhNSnM0Q2p4SkJUVVQ0UDBuM3RvakZadUVqVkpXdjFWeno4V2t5Y3dvY2s1M21hYVJvX1BGM3lF?oc=5",
@@ -1673,22 +1683,10 @@
             "published": "07.08., 08:00"
           },
           {
-            "title": "Alphabet Aktie: 30-Milliarden-Dollar-Deal mit SpaceX - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOXFVQ2dHNi1rdThaMURHeV9scWJfMWh5dTFKQ1JsY2hyVTA4REpMWjFDU2YtRGpuQXd1OEZRODNPdDhOVkluM2NCTmtmUVNjOWNBRW5JcXlEZ0NSaHRaUFJzbGlnMTdqTDIzTS13UFZ3bkt0UXNtOEFyQks4NFlJNDV2VTRVQ1Nlb0VLajVwOHB6MnVOQWp6SE1QZzY0dzUtNGxrR0VR?oc=5",
-            "source": "Börse Express",
-            "published": "08.08., 18:10"
-          },
-          {
             "title": "Google-Cloud-Chefin zu KI aus der EU: „Da gibt es im Moment viel Schwarzmalerei“ - heise online",
             "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZEtQU1c0NE9JQmRJYXJ2dkNtVjA5NzFHLVF2VE5RV2pYcGpCRldldFZSc1ZvdFV3NnhoTjMtUXRWdi1fMDIzVG1wT3ZEY0E4SnVjN09WNlAtSUJ5bnA2N0g5NXdpc04xOWlMRXRVV1E4VnBNV01fVXkteWJwdmttWDJtZDFIRXVVaC0wZ05UR0xfRGcxUGxseVBjYTFfdUlLRWYtLU0yYXBncGJKWDRvNUVNSXZEWGtLQ2dZSEs2X1hzdw?oc=5",
             "source": "heise online",
             "published": "04.08., 11:23"
-          },
-          {
-            "title": "Google stellt AI-Studio-App trotz 800.000 Vorbestellungen noch vor dem Launch ein - chip.de",
-            "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxObHdteVRRV3pFTi1iX204Q2YwZ1l2Nm1jUDdhX09ZMl9fWlNRelNLZUMxTks0YTRzZGttM05sdzYzRlI2Rm5Wd3hRUWJQdnEtOE9QSzFIQmhiMkVMd0Ixek1fNlUzSU1zSXdBcEl2aVJVZ0xWR1N6MGFrb29RdXhIa1JGOUF6WTBvbFVDbkRCTVFCVDVjRl8tX2hWamxfZ1NyZXNzeW03LWJsUVA0MjFMZjd1UC04SzF4aDdtUmNON3FlbzRxWnN5aFVaXzQ2TFFPcnFvOUozVjM2X0VjZktfdUFrSUYyMDY0aDRIR0tn?oc=5",
-            "source": "chip.de",
-            "published": "04.08., 11:31"
           }
         ]
       }
@@ -1700,22 +1698,18 @@
       "currency": "USD/oz",
       "description": "Goldpreis, primär über Gold-Future, fallback XAU/USD",
       "price_decimals": 2,
-      "last_date": "2026-08-07",
-      "last_close": 4399.7001953125,
-      "previous_close": 4242.0,
-      "change_abs": 157.7,
-      "change_pct": 3.72,
-      "change_5d_pct": 8.66,
-      "change_1m_pct": 6.51,
-      "change_3m_pct": -6.39,
+      "last_date": "2026-08-10",
+      "last_close": 4394.7001953125,
+      "previous_close": 4340.7001953125,
+      "change_abs": 54.0,
+      "change_pct": 1.24,
+      "change_5d_pct": 8.95,
+      "change_1m_pct": 7.08,
+      "change_3m_pct": -6.9,
       "change_1y_pct": null,
-      "ytd_pct": 1.71,
-      "volatility_30d_pct": 24.45,
+      "ytd_pct": 1.6,
+      "volatility_30d_pct": 23.08,
       "sparkline": [
-        {
-          "date": "2026-03-31",
-          "close": 4647.60009765625
-        },
         {
           "date": "2026-04-01",
           "close": 4783.2001953125
@@ -2070,7 +2064,11 @@
         },
         {
           "date": "2026-08-07",
-          "close": 4399.7001953125
+          "close": 4340.7001953125
+        },
+        {
+          "date": "2026-08-10",
+          "close": 4394.7001953125
         }
       ],
       "explanation": {
@@ -2078,38 +2076,39 @@
         "confidence": "mittel",
         "summary": "Plausibler Nachrichtenbezug: Der Kurs ist gestiegen und die gefundenen Schlagzeilen enthalten überwiegend positiv wirkende Formulierungen. Die Quellen passen damit zur Richtung, beweisen aber keine Kausalität.",
         "themes": [
+          "Inflation",
           "US-Dollar",
           "Geopolitik/Sicherheit"
         ],
         "bullets": [
-          "Der Kurs ist deutlich gestiegen: +3.72 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: US-Dollar, Geopolitik/Sicherheit.",
-          "Wichtigste gefundene Headlines: Gold: Widerstand bei 4.401 Dollar durchbrochen - Börse Express | Gold über 4.000 US-Dollar – Rückt jetzt das Interesse auf Goldentwickler? - Wallstreet Online."
+          "Der Kurs ist deutlich gestiegen: +1.24 % gegenüber dem vorherigen Schlusskurs.",
+          "Gefundene Nachrichten-Themen: Inflation, US-Dollar, Geopolitik/Sicherheit.",
+          "Wichtigste gefundene Headlines: Gold: 23.000 Stellen-Schock katapultiert auf 4.401 Dollar - Börse Express | Gold: 4.340,60 Dollar entscheidend - Börse Express."
         ],
         "headlines": [
           {
-            "title": "Gold: Widerstand bei 4.401 Dollar durchbrochen - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRzBVb0M0TENkT3B2SGZrM0VoWkRjWWg1R2ktaFZDbkRPbE9mN2luam5mMnFMOXhDTVphU1NzTFlvbVRrZ0YtRTlsTHd4YmZOclhjN1VyMlJoN1d1eWVYcXJYLUU5LVZ0WXU3SjJlczlCWi1vdGE3Y0hZU0h2cWpVdTVyTXYxVWZBamhJSjNRVGptTUswcDdwZkE0R2c?oc=5",
+            "title": "Gold: 23.000 Stellen-Schock katapultiert auf 4.401 Dollar - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUVluWDNOSHNkVTF4d1lGQlZSTUo0aTBZUHdRdjRxdXY2VXhjM1JrYkpycWdsN1pCV0hBdWlMREpuN3ByOE9SeFliYmVtcDJYOFZIeFZQNXdaVllWcjd2S2hIaTVTQ2tNYmFlSXR4RDZRUkVQSkR4eU4xWkc1VDM3WjRhRkZ0eUl3ejBBM3ppNUpkUGtmZGNjTTZteC1WUjJRRGgzUFNiYV9TZw?oc=5",
             "source": "Börse Express",
-            "published": "09.08., 16:50"
+            "published": "10.08., 06:21"
           },
           {
-            "title": "Gold über 4.000 US-Dollar – Rückt jetzt das Interesse auf Goldentwickler? - Wallstreet Online",
-            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQb2FsdjhRckpXdUNnZ19hb21pYm5fNlFjcHFFOUYyY2ZtUGgtR1RYSURWRnFuZVEza3JLdTBzNVF1TTBrQnJuOUNqajIyN3NIWmU2clU0WEowaXlFazFfYzkweEJVcmNfZ2dvZmVIdXF5WkdvMnRxbGhFM0tYZTNDNGQ5Y0xHSkZrb0FjbjhLSUZMbUVQWGJENTR6bzVIVGxIbkhQdC1zOA?oc=5",
-            "source": "Wallstreet Online",
-            "published": "09.08., 08:08"
-          },
-          {
-            "title": "Gold: 7,39-Prozent-Rally auf 4.401 Dollar - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNkdoYzVVYV9qcmRSY1F4ZWkzRFJiNlA0UlRfdC1idGVhWGVXRkdTMnFOMFJmTW82a2Z3Y1VmazRCeWJDNFQ4d3YyeDdPaXBwZ2JnMVVLUHpnZkNoYkFKVXZMWEZyUGRZYkd0UzlJbUczUWF3aXVmY1B4SFMyZ2RwcklTQTNEZTBvVERDVXN4UlBzZmxp?oc=5",
+            "title": "Gold: 4.340,60 Dollar entscheidend - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWmlnV2RLRXlUbVdncEFGX3AzWXQzWEdZN2ZmMUFvZWUxV1JKb25VRDBsamF5M1QyZ3RhM0V6Q0hPNHFJRkR6WEJ5M1ZHSkxiMVlKMUFfMHZkMGdMM1U0aVVkV0p0alUwSjVOdGN6RTY5N2RJWFZsWXFRREQ0YjBqdDF3UmFPdGdNaFF3?oc=5",
             "source": "Börse Express",
-            "published": "09.08., 07:13"
+            "published": "09.08., 20:52"
           },
           {
-            "title": "Sechs Prozent Wochenplus: Warum der Goldpreis plötzlich wieder steigt - faz.net",
+            "title": "Sechs Prozent Wochenplus: Warum der Goldpreis plötzlich wieder steigt - FAZ",
             "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMHFGSGNaSmNOZHFaZWk5QkNQRUEtUEhQMzlsZXdkeEtrM1ZPU3Q1MDEybkZpYjcya3lwSG13YXp5SDFUNDAzVDdMWk5NRjBkdUE1b3I5Mk9OWHcwS2w1a0pFTm4zcjRJZnFRWVF4ay10Smh0VXlnT0p6OVhHSHRxamUwbHhELVJGVUdnUHpJeXlEWnVzZnNyU2pNOGlNQmstTWM0NUhoWURCZDh6UVFEcUx5QU9tSENkX0xaWEIyaXhXcEJ5dnJmUnpwRUE1Y2xzSmYwbw?oc=5",
-            "source": "faz.net",
+            "source": "FAZ",
             "published": "07.08., 13:47"
+          },
+          {
+            "title": "Goldpreis: Warum das Edelmetall laut Studie kein wirksamer Inflationsschutz ist - finanzen.at",
+            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSHA0cmpDcFNsRmM4WUdGUDh4YjAyaHdWdTBONU9MM1p2Nzc3enVKSE9mLXNNMkpwUUl4NnMxTDcxc0I3QjJ6cjdjVExsU1dZX3VrdF9UWVc3OWR1RG8zY3dIZm5MRUlteURPZ3N5cXh1c3M2ZzNTM0I0djROTzhEVjVkVGNGUXB6ZTJKTW0yeWNWd1N6MlRxTmNCeFN1X1ZqejhaQUhPZTZVckZtdmpSX2dWd0h4Y3ZJWWhMY0VMWjZFZ05mOFZGV2xmR28wZlps?oc=5",
+            "source": "finanzen.at",
+            "published": "07.08., 15:31"
           }
         ]
       }
