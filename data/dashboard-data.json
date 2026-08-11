@@ -1,8 +1,8 @@
 {
   "is_sample": false,
   "source": "Yahoo Finance Kursdaten + Google News RSS Kontext",
-  "generated_at_utc": "2026-08-10T16:51:46+00:00",
-  "generated_at_vienna": "10.08.2026, 18:51 Uhr",
+  "generated_at_utc": "2026-08-11T05:05:09+00:00",
+  "generated_at_vienna": "11.08.2026, 07:05 Uhr",
   "market_mood_internal": "neutral",
   "assets": [
     {
@@ -417,10 +417,10 @@
             "published": "08.08., 11:26"
           },
           {
-            "title": "Robinhood Markets, Inc. Umsatzübersicht – NASDAQ:HOOD - TradingView",
-            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9DS3BLbTAxLTV2S1lLZU5CVTQtUW5pdDh5TTNHeHBpa1lKWDZLdzNBYUpBbXhSNzJBd3NWMzhCRUg2eGlXeDRjbUJ4UGVQMjJ0bFd3b2R2MG5icUZEbEd5QTdCTU1nRDhzZ3hoSkdTRG1ZWXE1Wmc?oc=5",
-            "source": "TradingView",
-            "published": "29.07., 17:19"
+            "title": "(3⁺) NASDAQ – Der Index fällt, was bleibt? - stock3",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9mUHJ4THhrY293c0VSc0dEMWtHb2ZuWUtua0p6QmNYeUFtTmlPc0VjU1NpZWc1LUdzYlNDVlFIQ1BQSUtFcHBUX19Fdzc3M09WczQ1Z3RWS2tyNnUtVzFqQnRzRF9HLTZoZzFrRmJkTVJCYXpvTWc?oc=5",
+            "source": "stock3",
+            "published": "05.06., 09:00"
           }
         ]
       }
@@ -1255,16 +1255,16 @@
             "published": "25.03., 08:00"
           },
           {
-            "title": "Achieve Life Sciences Inc (ACHV) Aktionärsstruktur: Hauptaktionäre & institutionelle Bestände - TradingKey",
-            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB0VDdiVy1fRjZLajZyZGdXQktuOU5EanN5OG9ibHpKSi1zcV9uUi1HQ1dkTE8zLTNhQ1RWY1RMQ19KVm5EYXYtNWh1TjBQQlptNnlWaFZHRDdvclZUYlZ2ZkdEMWRmblU0a184?oc=5",
-            "source": "TradingKey",
-            "published": "28.07., 07:30"
-          },
-          {
             "title": "Drei europäische Small-Cap-Aktien für das Jahr 2026 - Morningstar",
             "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMEs2TEZTckdDLWpCakI1eHFNUW45VXNjbk5LN3ZBWDgwNXJPUGFEa1JFVE9QYWpmdmdfUVpZRmxYVG92bGFzOURGZTBOY2JTcllqSUxhTDVoMktobkRPMUtlX0gyVTZmWGFTVUZCQnh2TFA1bHhXeEt4RWZoU0FWbFBzTjY4NXdRdmNYUDVGRWNwMjVL?oc=5",
             "source": "Morningstar",
             "published": "23.01., 09:00"
+          },
+          {
+            "title": "Verändert die doppelte Aufnahme von Anterix (ATEX) in den Russell 2000-Index das Narrativ des Unternehmens als defensiver Wachstumswert? -…",
+            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTHpOU0ZkSDdmRlBpcVJjdlBXcy1oTFBzWTJkNkIxX0lJWURZd0VNQU83T0lqalhMR1Zyd1B4dWxRRXJrV2VHMXpRY3Q1V0RHbjVwVXh4aWhlZUltQ1U4N1VMVzFZYmZZckU4M1REbVZueFppbkl6OXh6ZGhYNTNaOXR2U19iMUFYUHgxRm0zbGZPcTdBTDBPVDJFQmtVVThSdDhiWEFkQ3lxSXRCOE5uekhKb3hFeW83NE5US01UTEM2WDZ2Ylhv0gHMAUFVX3lxTE85WG5rTFZMTDQ0T2licHJESTRxZm5wMC1aV09BVk53TGVSSjBrRkJIb2c5OHpsOE4ySkg4djFqSTViV1Nsd3VILXZFMGhtNElQYnozbUprNUNxdXJsZE5TdllzSzZPRmFSU3dka0FYUGJKRUotMElZZkp4MHJISFlSMEtMUG1BajU4N0…",
+            "source": "simplywall.st",
+            "published": "01.07., 09:00"
           }
         ]
       }
@@ -1277,16 +1277,16 @@
       "description": "Alphabet Inc. Class A",
       "price_decimals": 2,
       "last_date": "2026-08-10",
-      "last_close": 354.44500732421875,
+      "last_close": 357.5199890136719,
       "previous_close": 354.29998779296875,
-      "change_abs": 0.15,
-      "change_pct": 0.04,
-      "change_5d_pct": -5.1,
-      "change_1m_pct": -0.77,
-      "change_3m_pct": -11.57,
+      "change_abs": 3.22,
+      "change_pct": 0.91,
+      "change_5d_pct": -4.28,
+      "change_1m_pct": 0.1,
+      "change_3m_pct": -10.8,
       "change_1y_pct": null,
-      "ytd_pct": 13.24,
-      "volatility_30d_pct": 44.56,
+      "ytd_pct": 14.22,
+      "volatility_30d_pct": 44.6,
       "sparkline": [
         {
           "date": "2026-04-01",
@@ -1646,29 +1646,29 @@
         },
         {
           "date": "2026-08-10",
-          "close": 354.44500732421875
+          "close": 357.5199890136719
         }
       ],
       "explanation": {
-        "direction": "kaum verändert",
+        "direction": "gestiegen",
         "confidence": "niedrig",
-        "summary": "Kaum Kursbewegung: Obwohl aktuelle Schlagzeilen gefunden wurden, ist die Tagesbewegung zu klein für eine sinnvolle Ursache-Wirkung-Aussage.",
+        "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
           "KI/Tech",
           "Regulierung",
           "Geopolitik/Sicherheit"
         ],
         "bullets": [
-          "Der Kurs liegt nahezu unverändert gegenüber dem letzten Schlusskurs.",
+          "Der Kurs ist spürbar gestiegen: +0.91 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: KI/Tech, Regulierung, Geopolitik/Sicherheit.",
-          "Wichtigste gefundene Headlines: Alphabet Aktie: Cloud-Umsatz springt 82 Prozent auf 24,8 Milliarden - Börse Express | Telekom erweitert Mobilfunkangebot um Google One - Deutsche Telekom."
+          "Wichtigste gefundene Headlines: Alphabet Aktie: Berkshire investiert 10 Milliarden im Juni - Börse Express | Telekom erweitert Mobilfunkangebot um Google One - Deutsche Telekom."
         ],
         "headlines": [
           {
-            "title": "Alphabet Aktie: Cloud-Umsatz springt 82 Prozent auf 24,8 Milliarden - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcS1tSW1KRlZRUl9aTVRlLU5jYmhtbEotUFFDRWF0NDlpdGVlSm1QZkhUdGdkRElHcUJWSE5WWVVSajV1clV6V1RPZnJmOWUtZ25BYWxFaHpJanhMVE5KOXNDLTFTNmpGTDYxOWVYMUQ4WEVCMkJaMEZ0S3hFQlNlSWZaNnNoUW1MN3RkM3E1enZGWGpOelBPR0c5czd2cXItcXBkbUtrWDNMS0VjSk96WnYxZVdxUEFj?oc=5",
+            "title": "Alphabet Aktie: Berkshire investiert 10 Milliarden im Juni - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcnpJcFZSRFVQNFM3U0RPbU1kWmdHazljVXR6cnBZWkNPZTF1TmFISWFITS1rYi1jM3l6dGJUUDB6TERaZmMyaUxVemlWR1oyTWpmR3RfWXlHdnV3bGs2X09aWFRvcF9IbjlpWVpISEZvV0hWejlLU1IxYjRQNm0wLXpTRU1kQVFSSDR3NjdQSmVhMkdEbndKNWJYUl82RTRsVDFydEdyVUFKTTFNX3c?oc=5",
             "source": "Börse Express",
-            "published": "10.08., 04:20"
+            "published": "10.08., 19:04"
           },
           {
             "title": "Telekom erweitert Mobilfunkangebot um Google One - Deutsche Telekom",
@@ -1677,16 +1677,16 @@
             "published": "07.08., 08:00"
           },
           {
+            "title": "Alphabet Aktie: Cloud-Umsatz springt 82 Prozent auf 24,8 Milliarden - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcS1tSW1KRlZRUl9aTVRlLU5jYmhtbEotUFFDRWF0NDlpdGVlSm1QZkhUdGdkRElHcUJWSE5WWVVSajV1clV6V1RPZnJmOWUtZ25BYWxFaHpJanhMVE5KOXNDLTFTNmpGTDYxOWVYMUQ4WEVCMkJaMEZ0S3hFQlNlSWZaNnNoUW1MN3RkM3E1enZGWGpOelBPR0c5czd2cXItcXBkbUtrWDNMS0VjSk96WnYxZVdxUEFj?oc=5",
+            "source": "Börse Express",
+            "published": "10.08., 04:20"
+          },
+          {
             "title": "Google-Cloud-Chefin zu KI aus der EU: „Da gibt es im Moment viel Schwarzmalerei“ - heise online",
             "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZEtQU1c0NE9JQmRJYXJ2dkNtVjA5NzFHLVF2VE5RV2pYcGpCRldldFZSc1ZvdFV3NnhoTjMtUXRWdi1fMDIzVG1wT3ZEY0E4SnVjN09WNlAtSUJ5bnA2N0g5NXdpc04xOWlMRXRVV1E4VnBNV01fVXkteWJwdmttWDJtZDFIRXVVaC0wZ05UR0xfRGcxUGxseVBjYTFfdUlLRWYtLU0yYXBncGJKWDRvNUVNSXZEWGtLQ2dZSEs2X1hzdw?oc=5",
             "source": "heise online",
             "published": "04.08., 11:23"
-          },
-          {
-            "title": "Alphabet Stock Tumbles Following Major AI Reshuffle and Executive Departure - TIKR.com",
-            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNR0NJczlSam9CZ3BKOEd1dkVLS2JFbEg5YnBEU1QwTE5rdmc2aEtoWWpJN1V5Z2FyMktaaWc5cXNIZHRGZDhSb3lSZU5BQk9RSWRrb1NlRU5MV2pKZHcxQVhid3FvQ2FmeFU0ckRtZWRHZUc2LV9lMGhnR0xqaGktZjdOREhVZ0Y2LWlVMg?oc=5",
-            "source": "TIKR.com",
-            "published": "07.08., 08:17"
           }
         ]
       }
@@ -1698,22 +1698,18 @@
       "currency": "USD/oz",
       "description": "Goldpreis, primär über Gold-Future, fallback XAU/USD",
       "price_decimals": 2,
-      "last_date": "2026-08-10",
-      "last_close": 4413.7001953125,
-      "previous_close": 4340.7001953125,
-      "change_abs": 73.0,
-      "change_pct": 1.68,
-      "change_5d_pct": 9.42,
-      "change_1m_pct": 7.54,
-      "change_3m_pct": -6.5,
+      "last_date": "2026-08-11",
+      "last_close": 4465.2001953125,
+      "previous_close": 4361.7998046875,
+      "change_abs": 103.4,
+      "change_pct": 2.37,
+      "change_5d_pct": 9.03,
+      "change_1m_pct": 11.71,
+      "change_3m_pct": -5.37,
       "change_1y_pct": null,
-      "ytd_pct": 2.04,
-      "volatility_30d_pct": 23.27,
+      "ytd_pct": 3.23,
+      "volatility_30d_pct": 23.18,
       "sparkline": [
-        {
-          "date": "2026-04-01",
-          "close": 4783.2001953125
-        },
         {
           "date": "2026-04-02",
           "close": 4651.5
@@ -2068,7 +2064,11 @@
         },
         {
           "date": "2026-08-10",
-          "close": 4413.7001953125
+          "close": 4361.7998046875
+        },
+        {
+          "date": "2026-08-11",
+          "close": 4465.2001953125
         }
       ],
       "explanation": {
@@ -2078,26 +2078,25 @@
         "themes": [
           "Zinsen/Fed",
           "US-Dollar",
-          "Regulierung",
-          "Geopolitik/Sicherheit"
+          "Regulierung"
         ],
         "bullets": [
-          "Der Kurs ist deutlich gestiegen: +1.68 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: Zinsen/Fed, US-Dollar, Regulierung, Geopolitik/Sicherheit.",
-          "Wichtigste gefundene Headlines: Gold: 23.000 Stellen-Schock katapultiert auf 4.401 Dollar - Börse Express | Gold vor 5.000 Dollar: Ausbruch oder gefährliche Falle? - Wallstreet Online."
+          "Der Kurs ist deutlich gestiegen: +2.37 % gegenüber dem vorherigen Schlusskurs.",
+          "Gefundene Nachrichten-Themen: Zinsen/Fed, US-Dollar, Regulierung.",
+          "Wichtigste gefundene Headlines: Gold: Ausbruch über 4.380 Dollar - Börse Express | Gold vor 5.000 Dollar: Ausbruch oder gefährliche Falle? - Wallstreet Online."
         ],
         "headlines": [
           {
-            "title": "Gold: 23.000 Stellen-Schock katapultiert auf 4.401 Dollar - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUVluWDNOSHNkVTF4d1lGQlZSTUo0aTBZUHdRdjRxdXY2VXhjM1JrYkpycWdsN1pCV0hBdWlMREpuN3ByOE9SeFliYmVtcDJYOFZIeFZQNXdaVllWcjd2S2hIaTVTQ2tNYmFlSXR4RDZRUkVQSkR4eU4xWkc1VDM3WjRhRkZ0eUl3ejBBM3ppNUpkUGtmZGNjTTZteC1WUjJRRGgzUFNiYV9TZw?oc=5",
+            "title": "Gold: Ausbruch über 4.380 Dollar - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeUxjMXNaSjhjcDJ4RWRKMFNYMTVrTHlEODFVNS1ZZGxHM21Fdm95VEI4M1FRdzREQmxvakN0SmNVWlFrcG9NNXhoVzgtN29ZNlFMTXNrVDdoTnJaYXNuZTVWVXNoWWRlSW8zcS11b3V1d3FvWmVqZE5OajRKQ0tCa1FkZ2hGN1gzcWZJ?oc=5",
             "source": "Börse Express",
-            "published": "10.08., 06:21"
+            "published": "10.08., 19:40"
           },
           {
             "title": "Gold vor 5.000 Dollar: Ausbruch oder gefährliche Falle? - Wallstreet Online",
             "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxON3lqU01scHZOazV6S1BqN0pOdm5aLXdia2JSbUp6b0hFZjJUSFozaFc2S0ZzSk54eEpIOTFjS0RhdEh6NDk3ZFpfZUc5VEpheDdaVkN4c1U1ZFRNTXZKcXlhRHZjVUU2aHBjNHlTYkVxdmo3OF9xNzBmQ0Z2MGtRN2MweVctcm9HYmR6LUhFTlN1NmszYUk4UjlMUHNyaXktWjFKUGlyQmZucGNsOWQwTnVKYw?oc=5",
             "source": "Wallstreet Online",
-            "published": "10.08., 18:23"
+            "published": "10.08., 21:08"
           },
           {
             "title": "Goldpreis vor dem nächsten Sprung? Deutsche Bank hält an ihren Kursziel fest - finanzen.net",
@@ -2106,10 +2105,10 @@
             "published": "10.08., 15:11"
           },
           {
-            "title": "Divergenz statt Gleichlauf: Warum Fed-Schwäche und EZB-Stärke Gold treiben - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRzBJU0lQajk5b3RmSExRNmp5NGg3ZndsaXVuaGRrb0hwVlkxdnpKbVV6MmIxY2R1bksyWlJQSTlHLVVnempQdDk3Ui1KUWZsTnF0TEhfQzlwRk5DdGtBb2oyZFJDUVlzWm5xS0FoRjh4UTdWSmhQY0lOYmhnQ3hFR2g3TTJ1XzFlOUczbzA3d0dBMHY5ZGhxbGdSQXd0WnJZTUtGb1B0OUhqRVdTb1RoNF9SZ3NIYkxwbDZkOWIzWGt1Nm9tclE?oc=5",
-            "source": "Börse Express",
-            "published": "10.08., 12:40"
+            "title": "Gold legt kräftig zu angesichts einer als weniger straff wahrgenommenen Fed - MarketScreener Deutschland",
+            "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOOVhUd3psZ2ZaM3poelJKVVN3bXhoZlZHVG4zTlk1cU1sNkcwUTJhSDVLZkYwYVEtOS1zaTV3TTBfemlRdWxTWkYzQmZDYkY1M0w1bGFNVzRVTnZzMWx3bS1rMHFtdVBHRmlid1BZTGkzS3pSYmhfTjQ2bXNYYVVUSzJ5bXMzblRGNXZyNGRENEJld2xTQnIxV3FPUHVkWXJscmluYVJJblNKQmJpWE1YZU9sSVhGZFFDMkUzQS02NGNEcnRfOWRfN1FMdVpfY1R3NHVfSG5wY292QQ?oc=5",
+            "source": "MarketScreener Deutschland",
+            "published": "10.08., 21:22"
           }
         ]
       }
