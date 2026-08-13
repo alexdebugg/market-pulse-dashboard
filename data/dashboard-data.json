@@ -1,9 +1,9 @@
 {
   "is_sample": false,
   "source": "Yahoo Finance Kursdaten + Google News RSS Kontext",
-  "generated_at_utc": "2026-08-12T16:54:26+00:00",
-  "generated_at_vienna": "12.08.2026, 18:54 Uhr",
-  "market_mood_internal": "risk-on",
+  "generated_at_utc": "2026-08-13T05:38:20+00:00",
+  "generated_at_vienna": "13.08.2026, 07:38 Uhr",
+  "market_mood_internal": "neutral",
   "assets": [
     {
       "name": "MSCI World",
@@ -12,17 +12,17 @@
       "currency": "EUR",
       "description": "iShares Core MSCI World UCITS ETF als handelbarer Developed-Markets-Proxy",
       "price_decimals": 2,
-      "last_date": "2026-08-12",
-      "last_close": 128.7949981689453,
+      "last_date": "2026-08-11",
+      "last_close": 128.7100067138672,
       "previous_close": 128.7550048828125,
-      "change_abs": 0.04,
-      "change_pct": 0.03,
-      "change_5d_pct": 0.79,
-      "change_1m_pct": 1.98,
-      "change_3m_pct": 5.57,
+      "change_abs": -0.04,
+      "change_pct": -0.03,
+      "change_5d_pct": 0.72,
+      "change_1m_pct": 1.91,
+      "change_3m_pct": 5.5,
       "change_1y_pct": null,
-      "ytd_pct": 15.23,
-      "volatility_30d_pct": 10.24,
+      "ytd_pct": 15.15,
+      "volatility_30d_pct": 10.25,
       "sparkline": [
         {
           "date": "2026-04-07",
@@ -381,8 +381,8 @@
           "close": 128.7550048828125
         },
         {
-          "date": "2026-08-12",
-          "close": 128.7949981689453
+          "date": "2026-08-11",
+          "close": 128.7100067138672
         }
       ],
       "explanation": {
@@ -390,18 +390,19 @@
         "confidence": "niedrig",
         "summary": "Kaum Kursbewegung: Obwohl aktuelle Schlagzeilen gefunden wurden, ist die Tagesbewegung zu klein für eine sinnvolle Ursache-Wirkung-Aussage.",
         "themes": [
-          "KI/Tech"
+          "KI/Tech",
+          "Regulierung"
         ],
         "bullets": [
           "Der Kurs liegt nahezu unverändert gegenüber dem letzten Schlusskurs.",
-          "Gefundene Nachrichten-Themen: KI/Tech.",
-          "Wichtigste gefundene Headlines: Nasdaq übernimmt LeveL Markets – Börse setzt auf jederzeit verfügbare Märkte - de.tradingview.com | Leverage Shares -5x Short Nasdaq 100 ETP Securities | XS3373449761 | A4AU1Y - extraETF."
+          "Gefundene Nachrichten-Themen: KI/Tech, Regulierung.",
+          "Wichtigste gefundene Headlines: Nasdaq übernimmt LeveL Markets – Börse setzt auf jederzeit verfügbare Märkte - TradingView | Leverage Shares -5x Short Nasdaq 100 ETP Securities | XS3373449761 | A4AU1Y - extraETF."
         ],
         "headlines": [
           {
-            "title": "Nasdaq übernimmt LeveL Markets – Börse setzt auf jederzeit verfügbare Märkte - de.tradingview.com",
+            "title": "Nasdaq übernimmt LeveL Markets – Börse setzt auf jederzeit verfügbare Märkte - TradingView",
             "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBqNHNrRUl3eHB2ZlA2NW83ZmRVeFg4alhQdDJBaU16NjNZZjFyUWpRT1dYZXdlQUswUGM4VnpMeGZ1V2pUZEhRSWx5Tnh4dVlmVTFxbnJzVlM3cFZzRnIyUUVrNVBFdm5hbmRUUkMzSQ?oc=5",
-            "source": "de.tradingview.com",
+            "source": "TradingView",
             "published": "11.08., 18:35"
           },
           {
@@ -411,16 +412,16 @@
             "published": "19.06., 18:15"
           },
           {
+            "title": "Nasdaq übernimmt alternatives Handelssystem LeveL Markets - Investing.com Deutsch",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTlBFTlZONDBWS2o2VGdUOHFOVjU5SG9yZjNDbGlJTGE1WElpbVhibFNSaC1QVFNCc2Q0N2h1YkkxcVQ1dzNacW01dTZFRjRNN2FHLV80RFZrT1VGVDhtMHhGTFFjYVZncTl2WldZU1k3aExiYUY5aFIyOU91MWt0VWQ1eGx5YkgyM2NacDNCZWIwZFhialQ3VmJmZDAtMUZuSHExUmRvZ1N4ZkpLemZIakhVVQ?oc=5",
+            "source": "Investing.com Deutsch",
+            "published": "11.08., 15:10"
+          },
+          {
             "title": "CFTC-Daten zeigen: Netto-Short-Positionen im S&P 500 steigen auf -27,3 Tsd., da spekulative Baisse-Wetten zunehmen - VT Markets",
             "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPekh5LTNRX3N2VVBxWmtlZklTZC1lNTNSaTNRZjg0cktuWG52QVI3bF8wbUMwTU1kU2V2UlBaTVFZVkJKUS1TTWlYT2I3V1VxZkFpNVItZkFjVTFXTjR1N0wzQlMxcURLR19UbnVqdnZfTzY2WFZEeU5kUDE4ay1sNkJVWXdMTzlnUXFxWmE5ckxqSENPNU5sTFM2cklFNnM1dE0tbXE4cEpYY3d4NGxzWHV6RkROdm5oODM2VWdjVW9wdmhOWnd0c2tVVllNZDdaLVp0LXlZbXZGV3pxR0hLTDJGWEJudlNwb0E?oc=5",
             "source": "VT Markets",
             "published": "08.08., 11:26"
-          },
-          {
-            "title": "Nasdaq übernimmt LeveL Markets ATS im Vorstoß für immer verfügbare Märkte. - de.qz.com",
-            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxNk85ZmlnRHFFOWFkM1BPb0xZWF9yQ2puVW1raThqY0QtdXB2YnpsMlA4Z2lxRjRrNWpXV0NnSEU0MHNfVnJFOGF3QnlCTzAySXJobkpYOEVlQ2FKblpPdDBESmstWGxp?oc=5",
-            "source": "de.qz.com",
-            "published": "11.08., 19:34"
           }
         ]
       }
@@ -432,17 +433,17 @@
       "currency": "EUR",
       "description": "iShares Core MSCI EM IMI UCITS ETF als Emerging-Markets-Proxy",
       "price_decimals": 2,
-      "last_date": "2026-08-12",
-      "last_close": 47.189998626708984,
+      "last_date": "2026-08-11",
+      "last_close": 46.64899826049805,
       "previous_close": 46.428001403808594,
-      "change_abs": 0.76,
-      "change_pct": 1.64,
-      "change_5d_pct": 0.91,
-      "change_1m_pct": 0.87,
-      "change_3m_pct": 0.0,
+      "change_abs": 0.22,
+      "change_pct": 0.48,
+      "change_5d_pct": -0.25,
+      "change_1m_pct": -0.28,
+      "change_3m_pct": -1.14,
       "change_1y_pct": null,
-      "ytd_pct": 23.06,
-      "volatility_30d_pct": 23.54,
+      "ytd_pct": 21.65,
+      "volatility_30d_pct": 23.03,
       "sparkline": [
         {
           "date": "2026-04-07",
@@ -801,8 +802,8 @@
           "close": 46.428001403808594
         },
         {
-          "date": "2026-08-12",
-          "close": 47.189998626708984
+          "date": "2026-08-11",
+          "close": 46.64899826049805
         }
       ],
       "explanation": {
@@ -815,7 +816,7 @@
           "Geopolitik/Sicherheit"
         ],
         "bullets": [
-          "Der Kurs ist deutlich gestiegen: +1.64 % gegenüber dem vorherigen Schlusskurs.",
+          "Der Kurs ist spürbar gestiegen: +0.48 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: US-Dollar, China/EM, Geopolitik/Sicherheit.",
           "Wichtigste gefundene Headlines: Schwacher US-Dollar und hohe Defizite: Rückenwind für Emerging Markets? - e-fundresearch.com | Pictet AM-Chef-Volkswirt: Schwellenländer trotzem dem Ölpreis-Schock - das investment."
         ],
@@ -854,17 +855,17 @@
       "currency": "EUR",
       "description": "iShares MSCI World Small Cap UCITS ETF als Small-Cap-Proxy",
       "price_decimals": 3,
-      "last_date": "2026-08-12",
-      "last_close": 9.274999618530273,
+      "last_date": "2026-08-11",
+      "last_close": 9.229000091552734,
       "previous_close": 9.20300006866455,
-      "change_abs": 0.072,
-      "change_pct": 0.78,
-      "change_5d_pct": 1.16,
-      "change_1m_pct": 2.02,
-      "change_3m_pct": 6.22,
+      "change_abs": 0.026,
+      "change_pct": 0.28,
+      "change_5d_pct": 0.65,
+      "change_1m_pct": 1.52,
+      "change_3m_pct": 5.69,
       "change_1y_pct": null,
-      "ytd_pct": 19.22,
-      "volatility_30d_pct": 13.32,
+      "ytd_pct": 18.62,
+      "volatility_30d_pct": 13.15,
       "sparkline": [
         {
           "date": "2026-04-07",
@@ -1223,8 +1224,8 @@
           "close": 9.20300006866455
         },
         {
-          "date": "2026-08-12",
-          "close": 9.274999618530273
+          "date": "2026-08-11",
+          "close": 9.229000091552734
         }
       ],
       "explanation": {
@@ -1236,7 +1237,7 @@
           "Geopolitik/Sicherheit"
         ],
         "bullets": [
-          "Der Kurs ist spürbar gestiegen: +0.78 % gegenüber dem vorherigen Schlusskurs.",
+          "Der Kurs ist leicht gestiegen: +0.28 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: China/EM, Geopolitik/Sicherheit.",
           "Wichtigste gefundene Headlines: Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraETF | „Disziplin schlägt Glamour“ – Warum AllianzGI mit systematischem Faktor-Investing jetzt auf US Small Caps setzt - e-fundresearch.com."
         ],
@@ -1276,15 +1277,15 @@
       "description": "Alphabet Inc. Class A",
       "price_decimals": 2,
       "last_date": "2026-08-12",
-      "last_close": 343.1700134277344,
+      "last_close": 343.5400085449219,
       "previous_close": 343.79998779296875,
-      "change_abs": -0.63,
-      "change_pct": -0.18,
-      "change_5d_pct": -5.31,
-      "change_1m_pct": -4.55,
-      "change_3m_pct": -11.41,
+      "change_abs": -0.26,
+      "change_pct": -0.08,
+      "change_5d_pct": -5.21,
+      "change_1m_pct": -4.44,
+      "change_3m_pct": -11.31,
       "change_1y_pct": null,
-      "ytd_pct": 9.64,
+      "ytd_pct": 9.76,
       "volatility_30d_pct": 43.79,
       "sparkline": [
         {
@@ -1645,7 +1646,7 @@
         },
         {
           "date": "2026-08-12",
-          "close": 343.1700134277344
+          "close": 343.5400085449219
         }
       ],
       "explanation": {
@@ -1657,9 +1658,9 @@
           "KI/Tech"
         ],
         "bullets": [
-          "Der Kurs ist leicht gefallen: -0.18 % gegenüber dem vorherigen Schlusskurs.",
+          "Der Kurs ist leicht gefallen: -0.08 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: Zinsen/Fed, KI/Tech.",
-          "Wichtigste gefundene Headlines: Die Pixel 11-Serie: Dein Pixel ist jetzt noch hilfreicher geworden - blog.google | Alphabet Aktie: Gemini überschreitet Milliardengrenze - Börse Express."
+          "Wichtigste gefundene Headlines: Die Pixel 11-Serie: Dein Pixel ist jetzt noch hilfreicher geworden - blog.google | Alphabet Aktie: Cloud-Umsatz springt 82 Prozent auf 24,8 Milliarden - Börse Express."
         ],
         "headlines": [
           {
@@ -1669,10 +1670,10 @@
             "published": "12.08., 16:10"
           },
           {
-            "title": "Alphabet Aktie: Gemini überschreitet Milliardengrenze - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWjNLYXRldTV3bmNYRkhzVzJhNGhpRERKTHNwVUJnb014YTFtbUVZbVRkYWlrLW9WazZYTU5RcTltT2pVNVFib1RKdzRPcTFDeVNVaFpLNnB0Rjg3eDNGcG5VUHMtUHh6a2N4Yll1QnFEQTB4Y1dvUk4yQXRrV09kSDY0VElZVGRzcDRCaUZ6dXluTjc5Z1ZabHdiZ1FIb05tMkZqNkJsSWo?oc=5",
+            "title": "Alphabet Aktie: Cloud-Umsatz springt 82 Prozent auf 24,8 Milliarden - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcS1tSW1KRlZRUl9aTVRlLU5jYmhtbEotUFFDRWF0NDlpdGVlSm1QZkhUdGdkRElHcUJWSE5WWVVSajV1clV6V1RPZnJmOWUtZ25BYWxFaHpJanhMVE5KOXNDLTFTNmpGTDYxOWVYMUQ4WEVCMkJaMEZ0S3hFQlNlSWZaNnNoUW1MN3RkM3E1enZGWGpOelBPR0c5czd2cXItcXBkbUtrWDNMS0VjSk96WnYxZVdxUEFj?oc=5",
             "source": "Börse Express",
-            "published": "12.08., 16:57"
+            "published": "10.08., 04:20"
           },
           {
             "title": "RYANAIR & GOOGLE CLOUD VERKÜNDEN FÜNFJÄHRIGE DATEN- UND KI-PARTNERSCHAFT - Ryanair Corporate",
@@ -1681,9 +1682,9 @@
             "published": "12.08., 09:37"
           },
           {
-            "title": "Ryanair will mit Google-Cloud und -KI wachsen - flugrevue.de",
+            "title": "Ryanair will mit Google-Cloud und -KI wachsen - flug revue",
             "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZWVmWmFKTzFfM1hhQ1djYnU5ZG1EUFJQUUpaaGxYYk5XOFN6N3B5MWxwX2k2S0NwM3NxbFBzLTNWN1lkckZ1ZHZ2eTd4cW9FS0xSSDJ6dzZXVHp4X2hldnhISy00bUd2Z2wzeF9jUGNsYy1HZURJVjNhNFFCb1A5d0RR?oc=5",
-            "source": "flugrevue.de",
+            "source": "flug revue",
             "published": "12.08., 11:29"
           }
         ]
@@ -1696,22 +1697,18 @@
       "currency": "USD/oz",
       "description": "Goldpreis, primär über Gold-Future, fallback XAU/USD",
       "price_decimals": 2,
-      "last_date": "2026-08-12",
-      "last_close": 4470.7001953125,
-      "previous_close": 4383.0,
-      "change_abs": 87.7,
-      "change_pct": 2.0,
-      "change_5d_pct": 5.3,
-      "change_1m_pct": 10.09,
-      "change_3m_pct": -4.42,
+      "last_date": "2026-08-13",
+      "last_close": 4463.7001953125,
+      "previous_close": 4408.89990234375,
+      "change_abs": 54.8,
+      "change_pct": 1.24,
+      "change_5d_pct": 5.23,
+      "change_1m_pct": 10.38,
+      "change_3m_pct": -4.98,
       "change_1y_pct": null,
-      "ytd_pct": 3.35,
-      "volatility_30d_pct": 22.9,
+      "ytd_pct": 3.19,
+      "volatility_30d_pct": 22.43,
       "sparkline": [
-        {
-          "date": "2026-04-06",
-          "close": 4656.7998046875
-        },
         {
           "date": "2026-04-07",
           "close": 4657.10009765625
@@ -2066,25 +2063,35 @@
         },
         {
           "date": "2026-08-12",
-          "close": 4470.7001953125
+          "close": 4408.89990234375
+        },
+        {
+          "date": "2026-08-13",
+          "close": 4463.7001953125
         }
       ],
       "explanation": {
         "direction": "gestiegen",
-        "confidence": "niedrig",
-        "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
+        "confidence": "mittel",
+        "summary": "Plausibler Nachrichtenbezug: Der Kurs ist gestiegen und die gefundenen Schlagzeilen enthalten überwiegend positiv wirkende Formulierungen. Die Quellen passen damit zur Richtung, beweisen aber keine Kausalität.",
         "themes": [
           "Zinsen/Fed",
           "Inflation",
           "US-Dollar",
-          "Geopolitik/Sicherheit"
+          "Regulierung"
         ],
         "bullets": [
-          "Der Kurs ist deutlich gestiegen: +2.00 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: Zinsen/Fed, Inflation, US-Dollar, Geopolitik/Sicherheit.",
-          "Wichtigste gefundene Headlines: Geldanlage: Warum der Goldpreis trotz möglicher Zinserhöhungen steigt - Handelsblatt | Gold: 3 Milliarden Dollar zurück in ETFs - Börse Express."
+          "Der Kurs ist deutlich gestiegen: +1.24 % gegenüber dem vorherigen Schlusskurs.",
+          "Gefundene Nachrichten-Themen: Zinsen/Fed, Inflation, US-Dollar, Regulierung.",
+          "Wichtigste gefundene Headlines: Lundin Gold Aktie: Q2-Gewinn 202 Millionen bei 4.359 Dollar je Unze - Börse Express | Geldanlage: Warum der Goldpreis trotz möglicher Zinserhöhungen steigt - Handelsblatt."
         ],
         "headlines": [
+          {
+            "title": "Lundin Gold Aktie: Q2-Gewinn 202 Millionen bei 4.359 Dollar je Unze - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTzlWVEdYbzYxQjN5VDg2c3ZMOURaZFN3M0NsejRNNUttR0h2c2did2QxQ3k5Ty0zX0gzeFB6aXBjX2VnUWJiaV9xektHUTRrRW52LUFLS3FvdXh6NURjd0Z1UEFONjlxQXo4RnROWGZlLVpJMEU5LVBzbE5hcjlqNFJyVVZXOE1QLU5oWm1ZUGdiUGVSNG5zTDNwc05FQ1RBZ2lpYV95UzNpRk5RenBKbHhlREJQVGRY?oc=5",
+            "source": "Börse Express",
+            "published": "12.08., 20:01"
+          },
           {
             "title": "Geldanlage: Warum der Goldpreis trotz möglicher Zinserhöhungen steigt - Handelsblatt",
             "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdXg1V3R1WFdJZlpQRjNVd1ZjLWx5eFlEVE9MNjRwRE8wVVhtczYtT3k1Q2dHMEV0ckNSVUdCbC02R0dVb055NDVGWEdfaDBwNTQwMFBnSVZRTFV2WWpuZnlJRU9EN2ltZ1B0MEQ4VVBzM20xU21zbVlJallud3lpclJiVF9SalFSZE5wb0t5TjZhSDJYaUZHOWlOZllxempuOHJHUDk4eVBISnZ2czZXbjRPQWlleUU4RDlmcVRMdzB6dGx3TVN0dXhyWm5VYmgxclRwZXNpQ0hmd1JqTmZZQzJtOA?oc=5",
@@ -2092,22 +2099,16 @@
             "published": "12.08., 15:20"
           },
           {
-            "title": "Gold: 3 Milliarden Dollar zurück in ETFs - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPU3BGalRQSFZ4ck9sVWxzUXRJc0N2NlNIUV9ETkxaTlpIOHZqMmhUT0lsd1lPQkRISng5V2NLRnJHQkJ6eEd0ZVVaNlZuOWRNMmJBS1Zfa2g2aHdRWnoxYV9Fd1RWY1dWNVBSWWtoVDM0MVZHUzdqZVFwTGNrZk1qZ3ppMUxDNkhNMjVQR185NG5DbWpSMUpZ?oc=5",
-            "source": "Börse Express",
-            "published": "12.08., 05:11"
+            "title": "Goldpreis stabilisiert sich nach CPI-Rallye nahe 4.400 Dollar – Fed und Straße von Hormus im Fokus - Investing.com Deutsch",
+            "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxONjRWdTZhaC1DM2lVNTVqNmpSd1dQRnV5dDQzZWNNdDVWTk9uQm96N3ZLY2p2bWJRY2RUc0NVbFE0cDJHVlp2cFhVWW45Q2laelUwOEhheU5RamJudEtxYVJjMjhadU1jM1VlVWhYSkhqRHUtWEJMLWgxUlc0WWVobENGXzhIQ3B2M195MFl6UWltN2VYZEZPbXR2RllqVkwtWWJ6NFlWcFZDZ2I3UTBreXV3ZTVuRXcySlVnUmd2WERCM0hGQWtaRlFWT3BWX3A4dlBURm1GZl9JX2xsdm93T1M2czM?oc=5",
+            "source": "Investing.com Deutsch",
+            "published": "13.08., 04:25"
           },
           {
             "title": "Gold, Inflation und das Misstrauen gegen das System Trump! - Wallstreet Online",
             "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRXM4RU54WXdqT2lIdmxBVWhZN2lLdzVraWNWZzlOZnJoYUdoRHcxQTJMTEMtU0VKWHQxcWxsc19OMGpweUdhNVBHTlNiVUMxVmZDbkU2d2JTTXBUbUh3UHdpX0tyYWJBcHZPM3RmYUF5bm1qbmh6cHJGbTVxbkZ2RkQzbVRZQTJXWXE4M1YzWFBPVXlSSTYxLWhlTXNDVGJFOGNJRWkzRQ?oc=5",
             "source": "Wallstreet Online",
             "published": "12.08., 10:26"
-          },
-          {
-            "title": "Goldpreis Prognose & Börse Aktuell: Rekordhoch vor US-Inflationsdaten - XTB.com",
-            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSkplb0k4V25ELVZ1WmV2eFFVcWp5SDdsLUxKdk5NeDdnVmRpRUU5U3BLaXo5XzZBRFFwQm9HLTZ0ZHJLakQtT2JVcllHTTFLQXRxUlUtQnp3UTBrR3U3N1BjeEFTTHlhREhuZVBFa3htcWdtd2Zhc3dHQk9pUm5zY3dkdVVMd0p5TEkyeW5ONGtvVUtjcDBOM3o4Y1hJb1ByV2JoTUh1ajdZQQ?oc=5",
-            "source": "XTB.com",
-            "published": "12.08., 10:50"
           }
         ]
       }
