@@ -1,9 +1,9 @@
 {
   "is_sample": false,
   "source": "Yahoo Finance Kursdaten + Google News RSS Kontext",
-  "generated_at_utc": "2026-08-14T16:48:40+00:00",
-  "generated_at_vienna": "14.08.2026, 18:48 Uhr",
-  "market_mood_internal": "neutral",
+  "generated_at_utc": "2026-08-15T04:27:05+00:00",
+  "generated_at_vienna": "15.08.2026, 06:27 Uhr",
+  "market_mood_internal": "risk-on",
   "assets": [
     {
       "name": "MSCI World",
@@ -12,17 +12,17 @@
       "currency": "EUR",
       "description": "iShares Core MSCI World UCITS ETF als handelbarer Developed-Markets-Proxy",
       "price_decimals": 2,
-      "last_date": "2026-08-14",
-      "last_close": 128.86500549316406,
+      "last_date": "2026-08-13",
+      "last_close": 129.39500427246094,
       "previous_close": 128.7949981689453,
-      "change_abs": 0.07,
-      "change_pct": 0.05,
-      "change_5d_pct": 0.56,
-      "change_1m_pct": 2.03,
-      "change_3m_pct": 7.02,
+      "change_abs": 0.6,
+      "change_pct": 0.47,
+      "change_5d_pct": 0.97,
+      "change_1m_pct": 2.45,
+      "change_3m_pct": 7.46,
       "change_1y_pct": null,
-      "ytd_pct": 15.29,
-      "volatility_30d_pct": 9.97,
+      "ytd_pct": 15.76,
+      "volatility_30d_pct": 10.03,
       "sparkline": [
         {
           "date": "2026-04-09",
@@ -381,8 +381,8 @@
           "close": 128.7949981689453
         },
         {
-          "date": "2026-08-14",
-          "close": 128.86500549316406
+          "date": "2026-08-13",
+          "close": 129.39500427246094
         }
       ],
       "explanation": {
@@ -395,15 +395,15 @@
           "Regulierung"
         ],
         "bullets": [
-          "Der Kurs ist leicht gestiegen: +0.05 % gegenüber dem vorherigen Schlusskurs.",
+          "Der Kurs ist spürbar gestiegen: +0.47 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: Zinsen/Fed, KI/Tech, Regulierung.",
-          "Wichtigste gefundene Headlines: IncomeShares Nasdaq 100 Options ETP | XS2875105608 | A4A50Q - extraETF | Strategy Shares - Strategy Shares NASDAQ 7 HANDL Index ETF kündigt monatliche Dividende an, zahlbar am 14. August 2026 - MarketScreener Deu…."
+          "Wichtigste gefundene Headlines: IncomeShares Nasdaq 100 Options ETP | XS2875105608 | A4A50Q - extraetf.com | Strategy Shares - Strategy Shares NASDAQ 7 HANDL Index ETF kündigt monatliche Dividende an, zahlbar am 14. August 2026 - MarketScreener Deu…."
         ],
         "headlines": [
           {
-            "title": "IncomeShares Nasdaq 100 Options ETP | XS2875105608 | A4A50Q - extraETF",
+            "title": "IncomeShares Nasdaq 100 Options ETP | XS2875105608 | A4A50Q - extraetf.com",
             "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9pOXp6WnVQUmdKMWRkY1JPdlZxbHU3UnVkclh1OTctTGxtMmliSUV1NUFPUV9RODRsY2tQUTBUOHViZG5uS2hOTVh1MUNnMGFwTllGRGJtMHdBNExs?oc=5",
-            "source": "extraETF",
+            "source": "extraetf.com",
             "published": "10.08., 09:00"
           },
           {
@@ -413,9 +413,9 @@
             "published": "12.08., 00:00"
           },
           {
-            "title": "Nasdaq übernimmt alternatives Handelssystem LeveL Markets - de.investing.com",
+            "title": "Nasdaq übernimmt alternatives Handelssystem LeveL Markets - Investing.com Deutsch",
             "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTlBFTlZONDBWS2o2VGdUOHFOVjU5SG9yZjNDbGlJTGE1WElpbVhibFNSaC1QVFNCc2Q0N2h1YkkxcVQ1dzNacW01dTZFRjRNN2FHLV80RFZrT1VGVDhtMHhGTFFjYVZncTl2WldZU1k3aExiYUY5aFIyOU91MWt0VWQ1eGx5YkgyM2NacDNCZWIwZFhialQ3VmJmZDAtMUZuSHExUmRvZ1N4ZkpLemZIakhVVQ?oc=5",
-            "source": "de.investing.com",
+            "source": "Investing.com Deutsch",
             "published": "11.08., 15:10"
           },
           {
@@ -434,17 +434,17 @@
       "currency": "EUR",
       "description": "iShares Core MSCI EM IMI UCITS ETF als Emerging-Markets-Proxy",
       "price_decimals": 2,
-      "last_date": "2026-08-14",
-      "last_close": 47.18299865722656,
+      "last_date": "2026-08-13",
+      "last_close": 47.49800109863281,
       "previous_close": 47.189998626708984,
-      "change_abs": -0.01,
-      "change_pct": -0.01,
-      "change_5d_pct": 1.26,
-      "change_1m_pct": 0.91,
-      "change_3m_pct": 3.59,
+      "change_abs": 0.31,
+      "change_pct": 0.65,
+      "change_5d_pct": 1.93,
+      "change_1m_pct": 1.58,
+      "change_3m_pct": 4.29,
       "change_1y_pct": null,
-      "ytd_pct": 23.04,
-      "volatility_30d_pct": 22.54,
+      "ytd_pct": 23.86,
+      "volatility_30d_pct": 22.62,
       "sparkline": [
         {
           "date": "2026-04-09",
@@ -803,21 +803,21 @@
           "close": 47.189998626708984
         },
         {
-          "date": "2026-08-14",
-          "close": 47.18299865722656
+          "date": "2026-08-13",
+          "close": 47.49800109863281
         }
       ],
       "explanation": {
-        "direction": "kaum verändert",
+        "direction": "gestiegen",
         "confidence": "niedrig",
-        "summary": "Kaum Kursbewegung: Obwohl aktuelle Schlagzeilen gefunden wurden, ist die Tagesbewegung zu klein für eine sinnvolle Ursache-Wirkung-Aussage.",
+        "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
           "US-Dollar",
           "China/EM",
           "Geopolitik/Sicherheit"
         ],
         "bullets": [
-          "Der Kurs liegt nahezu unverändert gegenüber dem letzten Schlusskurs.",
+          "Der Kurs ist spürbar gestiegen: +0.65 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: US-Dollar, China/EM, Geopolitik/Sicherheit.",
           "Wichtigste gefundene Headlines: Schwacher US-Dollar und hohe Defizite: Rückenwind für Emerging Markets? - e-fundresearch.com | Pictet AM-Chef-Volkswirt: Schwellenländer trotzem dem Ölpreis-Schock - das investment."
         ],
@@ -835,16 +835,16 @@
             "published": "31.07., 15:41"
           },
           {
+            "title": "Verlorene Dekade vorbei: Warum Experten jetzt auf Schwellenländeraktien setzen - extraetf.com",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSzF1Y3ZPeFVZQzNGZVd2Y01YZ0RDRDBzWjhxcmFTejl6OVpXQ1VmYmxXOHFXdUVGTTJNSWZYNF9yNmtRVFBDNzFVY2c5X1UxOG9KNmdlc3U4LXF3YlkyWkJ1X0o5QVROZFRCXzdOeVJDZnFOUTRSaHM5LXBXckVrbnhvR0dzR1pjaExxbkhMM0lxM19CQTI5VlNjRnZUWFVnc28xY09YZEVHbXV2MHF0SWZJZnEtRWs?oc=5",
+            "source": "extraetf.com",
+            "published": "17.03., 08:00"
+          },
+          {
             "title": "iShares MSCI EM ex China: Allzeithoch bei 99,78 USD - Börse Express",
             "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVHg5cHVfWE8tQ2tteTRVS0liN0NxX3dtaHhWcDRXdmZBNE1ac3JBVEI3VW5BMHFRM01xVGpNSFowb2hhQlBlZUhDS1gzNnUtOWdCdGpkZmQyWjQ2Sk9yMXlCOUU2MU5DWmFnZmJRUjQydGZWSE9ycjR3dDY2OEZTUktZOUxodXU1S3JGcC1sZW9qQnBTbFdTVGMxcTdYTjZTZFFZ?oc=5",
             "source": "Börse Express",
             "published": "26.05., 09:00"
-          },
-          {
-            "title": "Kapitalmärkte: Iran-Krieg wird zum Stresstest für die Schwellenländer - Handelsblatt",
-            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWHhSNTdKdm9ENnlwNHVYMHVJa3M3VmctRWswSm5tWFFCc29DemNLQk1nVXd4dHcwcFZlemVYcTcxZTJvdm5sYTNFblhwUVZ2UExEbHQxdXFjSUhyV252TUNVam42cnp4Ti15R0pUWEp0S3k4azhUVlFqc1lxNEpRNmRfd09JaU5qTF91Uk91eHRTaW5TVHlBQjlfeHRmVVJvV0Y3Y1lYb1hvWTl3MkxBSkoxR1p6SVBLOGxRXzEzNkQzSV90MTVzY3Z2Mmw?oc=5",
-            "source": "Handelsblatt",
-            "published": "17.04., 09:00"
           }
         ]
       }
@@ -856,17 +856,17 @@
       "currency": "EUR",
       "description": "iShares MSCI World Small Cap UCITS ETF als Small-Cap-Proxy",
       "price_decimals": 3,
-      "last_date": "2026-08-14",
-      "last_close": 9.32699966430664,
+      "last_date": "2026-08-13",
+      "last_close": 9.319999694824219,
       "previous_close": 9.274999618530273,
-      "change_abs": 0.052,
-      "change_pct": 0.56,
-      "change_5d_pct": 1.31,
-      "change_1m_pct": 2.78,
-      "change_3m_pct": 8.77,
+      "change_abs": 0.045,
+      "change_pct": 0.49,
+      "change_5d_pct": 1.24,
+      "change_1m_pct": 2.7,
+      "change_3m_pct": 8.69,
       "change_1y_pct": null,
-      "ytd_pct": 19.88,
-      "volatility_30d_pct": 12.62,
+      "ytd_pct": 19.79,
+      "volatility_30d_pct": 12.6,
       "sparkline": [
         {
           "date": "2026-04-09",
@@ -1225,8 +1225,8 @@
           "close": 9.274999618530273
         },
         {
-          "date": "2026-08-14",
-          "close": 9.32699966430664
+          "date": "2026-08-13",
+          "close": 9.319999694824219
         }
       ],
       "explanation": {
@@ -1238,9 +1238,9 @@
           "Geopolitik/Sicherheit"
         ],
         "bullets": [
-          "Der Kurs ist spürbar gestiegen: +0.56 % gegenüber dem vorherigen Schlusskurs.",
+          "Der Kurs ist spürbar gestiegen: +0.49 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: China/EM, Geopolitik/Sicherheit.",
-          "Wichtigste gefundene Headlines: Global X Russell 2000 Etf/Australia -Chart - ig.com | Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraETF."
+          "Wichtigste gefundene Headlines: Global X Russell 2000 Etf/Australia -Chart - ig.com | Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraetf.com."
         ],
         "headlines": [
           {
@@ -1250,9 +1250,9 @@
             "published": "12.08., 17:34"
           },
           {
-            "title": "Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraETF",
+            "title": "Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraetf.com",
             "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBfSEFMN1dKOFVhZUdmcE5WbGh1V3VIUTVJTE5SdWVzS2hYemNGRWgzRi1MZF8xZXdrbUl3RHVKeTk0SDNRUmhSWGgyQUpMQlRXb2JPS0Jxb2txVm5LM0w3anphOWo5WWIwSDF5Qjg4clFwR0VWUkQ5Qg?oc=5",
-            "source": "extraETF",
+            "source": "extraetf.com",
             "published": "28.04., 10:37"
           },
           {
@@ -1278,16 +1278,16 @@
       "description": "Alphabet Inc. Class A",
       "price_decimals": 2,
       "last_date": "2026-08-14",
-      "last_close": 344.8800048828125,
+      "last_close": 345.8999938964844,
       "previous_close": 346.3599853515625,
-      "change_abs": -1.48,
-      "change_pct": -0.43,
-      "change_5d_pct": -2.66,
-      "change_1m_pct": -2.7,
-      "change_3m_pct": -14.01,
+      "change_abs": -0.46,
+      "change_pct": -0.13,
+      "change_5d_pct": -2.37,
+      "change_1m_pct": -2.41,
+      "change_3m_pct": -13.76,
       "change_1y_pct": null,
-      "ytd_pct": 10.19,
-      "volatility_30d_pct": 43.74,
+      "ytd_pct": 10.51,
+      "volatility_30d_pct": 43.73,
       "sparkline": [
         {
           "date": "2026-04-08",
@@ -1647,7 +1647,7 @@
         },
         {
           "date": "2026-08-14",
-          "close": 344.8800048828125
+          "close": 345.8999938964844
         }
       ],
       "explanation": {
@@ -1655,13 +1655,13 @@
         "confidence": "niedrig",
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
-          "KI/Tech",
-          "Regulierung"
+          "Zinsen/Fed",
+          "KI/Tech"
         ],
         "bullets": [
-          "Der Kurs ist spürbar gefallen: -0.43 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: KI/Tech, Regulierung.",
-          "Wichtigste gefundene Headlines: Gemini Enterprise: Ryanair startet Großoffensive mit Google - it-daily | Alphabet vor der Investitionsprobe: Wird die KI-Wette zur Kurslast? - Börse Express."
+          "Der Kurs ist leicht gefallen: -0.13 % gegenüber dem vorherigen Schlusskurs.",
+          "Gefundene Nachrichten-Themen: Zinsen/Fed, KI/Tech.",
+          "Wichtigste gefundene Headlines: Gemini Enterprise: Ryanair startet Großoffensive mit Google - it-daily | RYANAIR & GOOGLE CLOUD VERKÜNDEN FÜNFJÄHRIGE DATEN- UND KI-PARTNERSCHAFT - Ryanair Corporate."
         ],
         "headlines": [
           {
@@ -1671,16 +1671,16 @@
             "published": "14.08., 12:04"
           },
           {
+            "title": "RYANAIR & GOOGLE CLOUD VERKÜNDEN FÜNFJÄHRIGE DATEN- UND KI-PARTNERSCHAFT - Ryanair Corporate",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUDJYOUxCWmQ1MVFROXN5MTEwVXZ0emV5RUp3RGUtdnR6WXlzbjVtMHNnVGNoQi1hN092NE5oTHY2R0d2VjRtVzBHS0JmSHduN3E1MEgxc2lpSEdGbnZkNUxNcE1kcWktMGdSTVBvZ3NMZFZveUd2Y1d2Unk3M2dubGpmWVBlMDZJcXIwWldRSUVrUGdkNEh1YmFZbF9uOVVhZ2RoOVJCeTU3TzY4THhSN0dB?oc=5",
+            "source": "Ryanair Corporate",
+            "published": "12.08., 09:37"
+          },
+          {
             "title": "Alphabet vor der Investitionsprobe: Wird die KI-Wette zur Kurslast? - Börse Express",
             "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcElBVElrYmp4bEN5bkV4dGFDMFIyNlhaM0hoN3F2M29tTmhUOTFDVUNVbzduajVoX0ZUX3pSdGhUdGQ3LXA5OFQzemRha0lvUWFNNFA0TVFDQzRMM3lORlA4eG9hcXh5S0djTDdWaXQxTHFxOVNOQndhcXdmNEtRMk9VUnJtcmU2LWo4R3FNR1JqTVVCX3psZ3MwTV9BV3hobnhoX2wtd2l6RVR0aDJ2TjN1NzhYaHMz?oc=5",
             "source": "Börse Express",
             "published": "14.08., 02:27"
-          },
-          {
-            "title": "Alphabet (GOOGL) Bündelt Google AI Pro Mit Neuen Laptops - simplywall.st",
-            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPS3F0WUZjb2MzY3YtbTFBdlVmMTNOenBLMzI0aVBIM0RScTJHdWZ0TWV6bVBzcldrTmFWcGdZSkZiZ0xGdmFxaHhrdmdTWWxqcUhnYUhDZ215N3NqZVBOSnctMmV3ZGxGQjJmMFY3Q21JeHZvMGdhU0I2QjRnQ2VyRTE3MVp6WmVQWkxEMVkwWkZuUld1WGNKU1AwNVlpN2otS2tvTGNZd1VTblhhU2RZcHRfVnkzZXYwbUkwUVJVWF_SAcYBQVVfeXFMTTRiWVVfcU0wZlNkRDZZbnl4VE1ZT3lrSUVWdmtFQkU5RC0zVGhWck1CbV9XWi05Sjl2bS1JaUZMMHNaZko4N0N2Wk9Yemh6UGtNRG1HckpaVzNhZkFMQ2ZXVlctaEZkc0t2bnp6N3RhOFUwbTdEMk9TRWFTd21qZS02T3FuVFlyd1VHNENkZGJFZz…",
-            "source": "simplywall.st",
-            "published": "14.08., 03:19"
           },
           {
             "title": "Die Pixel 11-Serie: Dein Pixel ist jetzt noch hilfreicher geworden - blog.google",
@@ -1699,16 +1699,16 @@
       "description": "Goldpreis, primär über Gold-Future, fallback XAU/USD",
       "price_decimals": 2,
       "last_date": "2026-08-14",
-      "last_close": 4443.5,
+      "last_close": 4380.39990234375,
       "previous_close": 4363.60009765625,
-      "change_abs": 79.9,
-      "change_pct": 1.83,
-      "change_5d_pct": 2.37,
-      "change_1m_pct": 11.49,
-      "change_3m_pct": -5.01,
+      "change_abs": 16.8,
+      "change_pct": 0.38,
+      "change_5d_pct": 0.91,
+      "change_1m_pct": 9.91,
+      "change_3m_pct": -6.36,
       "change_1y_pct": null,
-      "ytd_pct": 2.73,
-      "volatility_30d_pct": 22.92,
+      "ytd_pct": 1.27,
+      "volatility_30d_pct": 22.44,
       "sparkline": [
         {
           "date": "2026-04-08",
@@ -2068,21 +2068,22 @@
         },
         {
           "date": "2026-08-14",
-          "close": 4443.5
+          "close": 4380.39990234375
         }
       ],
       "explanation": {
         "direction": "gestiegen",
-        "confidence": "mittel",
-        "summary": "Plausibler Nachrichtenbezug: Der Kurs ist gestiegen und die gefundenen Schlagzeilen enthalten überwiegend positiv wirkende Formulierungen. Die Quellen passen damit zur Richtung, beweisen aber keine Kausalität.",
+        "confidence": "niedrig",
+        "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
           "Inflation",
           "US-Dollar",
-          "Geopolitik/Sicherheit"
+          "Geopolitik/Sicherheit",
+          "Gewinne/Analysten"
         ],
         "bullets": [
-          "Der Kurs ist deutlich gestiegen: +1.83 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: Inflation, US-Dollar, Geopolitik/Sicherheit.",
+          "Der Kurs ist spürbar gestiegen: +0.38 % gegenüber dem vorherigen Schlusskurs.",
+          "Gefundene Nachrichten-Themen: Inflation, US-Dollar, Geopolitik/Sicherheit, Gewinne/Analysten.",
           "Wichtigste gefundene Headlines: Gold: Rücksetzer auf 4.332,90 Dollar - Börse Express | Gold: 5.100 Dollar bis Jahresende? - Der Aktionär."
         ],
         "headlines": [
@@ -2096,19 +2097,19 @@
             "title": "Gold: 5.100 Dollar bis Jahresende? - Der Aktionär",
             "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUnBiMUJQUEpVUlhTcmRsbzkyTzhqc2FUa1hFQ0V6ckVrVHdhR21vSTRrZDNNVkJORDlMeWhCdjRtNTEwM3dLekhIUTRzUWRuS0FMRFJJOUJScHZ3cng3R3dfbHo4Y09iR1NEQmxPdjMyZmRqMXp4SXpLNG4xcm50NWVQU1UzU3pZcDF5R1NiZlYtZw?oc=5",
             "source": "Der Aktionär",
-            "published": "14.08., 14:09"
-          },
-          {
-            "title": "(m+) Gold: Nach Talfahrt im Irankrieg – warum der Goldpreis wieder steigt - Manager Magazin",
-            "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOZDVfU21DVEhHeXhfVzRHeGNCTWtaMGpBYkloMWxJU1Q3T0ZCSTFpUHdGa3JLVWNSZ0NCVUpiZl9MMWphajdPYWdHZmQwSUZyZ3B1TnVWQ3RhYXJnSjNBenRETDE1V1pDdUNYaDVNNENIRE5tUVJYS2t1dXZKOHVaVWstY2VmLUhSc2hYbURrTFFwQWJQUktjcFlXUUdIRnJyUXlPMDRWdjVuRGR0NTJTRGtHMExmN3duVnp1OXpwNWdvZDJiMndNQ1kyOTZnMVlNUDN1U2lpbDF1S0RyMWoyM1NWUW42X3FSYW5Vcg?oc=5",
-            "source": "Manager Magazin",
-            "published": "14.08., 07:01"
+            "published": "14.08., 14:06"
           },
           {
             "title": "Inflation: Ist Kupfer ein besserer Inflationsschutz als Gold? - Handelsblatt",
             "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVG9OT2c1eDZqZEpjUXBObDBnaUZmdkdRX1NtZllxbDhDOHdBaDF3ZFVyNFpWLV94SkVOSWJLLW9MYy11Z1B6M3dHYWNucXpzaElLZjJjWXZXRGl0eUpwNEdmSW9pcE8zS3VjLWlEbUVwWHRUdFFKUnBkcEZib01aZWxQV0VJdVFCdDhrZzY1Y1RGdUowWE9MdW5kVzZ1MDZTRlZIT1ZRSGxNTWpnTnQwaUtRbzFYcXVvRVR1cFhmUEt6SkFTNHdkMWhrbDFpbE1CVmVN?oc=5",
             "source": "Handelsblatt",
             "published": "11.08., 17:22"
+          },
+          {
+            "title": "Gold sollte von schwächerer Inflation profitieren – warum fällt es jetzt? - TradingView",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1YNWo2emRraVNrUWlXb3NVWndaU0ZodWRZOXNjMTVWYnRFVnQtUFlJMjQzQUtWUnhPSl9XZFBTRmdYZ2xZai1GeVg2eUY4NTRSRllnTUhuSm43Mm4yQXBZT1BoQ3RLUQ?oc=5",
+            "source": "TradingView",
+            "published": "14.08., 07:26"
           }
         ]
       }
