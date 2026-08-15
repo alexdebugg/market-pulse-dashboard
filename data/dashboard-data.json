@@ -1,8 +1,8 @@
 {
   "is_sample": false,
   "source": "Yahoo Finance Kursdaten + Google News RSS Kontext",
-  "generated_at_utc": "2026-08-15T04:27:05+00:00",
-  "generated_at_vienna": "15.08.2026, 06:27 Uhr",
+  "generated_at_utc": "2026-08-15T16:20:12+00:00",
+  "generated_at_vienna": "15.08.2026, 18:20 Uhr",
   "market_mood_internal": "risk-on",
   "assets": [
     {
@@ -391,20 +391,19 @@
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
           "Zinsen/Fed",
-          "KI/Tech",
           "Regulierung"
         ],
         "bullets": [
           "Der Kurs ist spürbar gestiegen: +0.47 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: Zinsen/Fed, KI/Tech, Regulierung.",
-          "Wichtigste gefundene Headlines: IncomeShares Nasdaq 100 Options ETP | XS2875105608 | A4A50Q - extraetf.com | Strategy Shares - Strategy Shares NASDAQ 7 HANDL Index ETF kündigt monatliche Dividende an, zahlbar am 14. August 2026 - MarketScreener Deu…."
+          "Gefundene Nachrichten-Themen: Zinsen/Fed, Regulierung.",
+          "Wichtigste gefundene Headlines: IncomeShares Nasdaq 100 Options ETP | XS2875105608 | A4A50Q - extraETF | Strategy Shares - Strategy Shares NASDAQ 7 HANDL Index ETF kündigt monatliche Dividende an, zahlbar am 14. August 2026 - MarketScreener Deu…."
         ],
         "headlines": [
           {
-            "title": "IncomeShares Nasdaq 100 Options ETP | XS2875105608 | A4A50Q - extraetf.com",
+            "title": "IncomeShares Nasdaq 100 Options ETP | XS2875105608 | A4A50Q - extraETF",
             "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9pOXp6WnVQUmdKMWRkY1JPdlZxbHU3UnVkclh1OTctTGxtMmliSUV1NUFPUV9RODRsY2tQUTBUOHViZG5uS2hOTVh1MUNnMGFwTllGRGJtMHdBNExs?oc=5",
-            "source": "extraetf.com",
-            "published": "10.08., 09:00"
+            "source": "extraETF",
+            "published": "12.08., 09:00"
           },
           {
             "title": "Strategy Shares - Strategy Shares NASDAQ 7 HANDL Index ETF kündigt monatliche Dividende an, zahlbar am 14. August 2026 - MarketScreener Deu…",
@@ -419,10 +418,10 @@
             "published": "11.08., 15:10"
           },
           {
-            "title": "CFTC-Daten zeigen: Netto-Short-Positionen im S&P 500 steigen auf -27,3 Tsd., da spekulative Baisse-Wetten zunehmen - VT Markets",
-            "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPekh5LTNRX3N2VVBxWmtlZklTZC1lNTNSaTNRZjg0cktuWG52QVI3bF8wbUMwTU1kU2V2UlBaTVFZVkJKUS1TTWlYT2I3V1VxZkFpNVItZkFjVTFXTjR1N0wzQlMxcURLR19UbnVqdnZfTzY2WFZEeU5kUDE4ay1sNkJVWXdMTzlnUXFxWmE5ckxqSENPNU5sTFM2cklFNnM1dE0tbXE4cEpYY3d4NGxzWHV6RkROdm5oODM2VWdjVW9wdmhOWnd0c2tVVllNZDdaLVp0LXlZbXZGV3pxR0hLTDJGWEJudlNwb0E?oc=5",
-            "source": "VT Markets",
-            "published": "08.08., 11:26"
+            "title": "Robinhood Markets, Inc. Umsatzübersicht – NASDAQ:HOOD - TradingView",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9DS3BLbTAxLTV2S1lLZU5CVTQtUW5pdDh5TTNHeHBpa1lKWDZLdzNBYUpBbXhSNzJBd3NWMzhCRUg2eGlXeDRjbUJ4UGVQMjJ0bFd3b2R2MG5icUZEbEd5QTdCTU1nRDhzZ3hoSkdTRG1ZWXE1Wmc?oc=5",
+            "source": "TradingView",
+            "published": "29.07., 17:19"
           }
         ]
       }
@@ -813,21 +812,16 @@
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
           "US-Dollar",
+          "Regulierung",
           "China/EM",
           "Geopolitik/Sicherheit"
         ],
         "bullets": [
           "Der Kurs ist spürbar gestiegen: +0.65 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: US-Dollar, China/EM, Geopolitik/Sicherheit.",
-          "Wichtigste gefundene Headlines: Schwacher US-Dollar und hohe Defizite: Rückenwind für Emerging Markets? - e-fundresearch.com | Pictet AM-Chef-Volkswirt: Schwellenländer trotzem dem Ölpreis-Schock - das investment."
+          "Gefundene Nachrichten-Themen: US-Dollar, Regulierung, China/EM, Geopolitik/Sicherheit.",
+          "Wichtigste gefundene Headlines: Pictet AM-Chef-Volkswirt: Schwellenländer trotzem dem Ölpreis-Schock - das investment | Emerging Markets Aktien: Generali Investments sieht neue Chancen - e-fundresearch.com."
         ],
         "headlines": [
-          {
-            "title": "Schwacher US-Dollar und hohe Defizite: Rückenwind für Emerging Markets? - e-fundresearch.com",
-            "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdW5LT0NkQVByWUhHM2JvRDZVWERXUW5RWnpWcEpzVVNxRDA2QzgwTEJBQ3p4Y2lYU1NEelhUa1hUZzJyUDg4SnJPTXVmQUppQzRoalhkVURTWEJtaHZ1Zk1MMHNXekE0ZkpyM2x4aTI3UmU0bkU3REl6NXYyVnZIWWxCckFXT3pKaVdvQlp0cFQxMmpPS3lTN0U4ajBWTHd0NGJHVFI2T0Nhc3hhQ2ZSQkJqclRfaWZYMUVEaERfYXcxdklzYXlvRXY5c2R3ZHJDVUpjZmt4TXlQYWNxSHhCSE83cGVjQzc2Nnc?oc=5",
-            "source": "e-fundresearch.com",
-            "published": "25.11., 09:00"
-          },
           {
             "title": "Pictet AM-Chef-Volkswirt: Schwellenländer trotzem dem Ölpreis-Schock - das investment",
             "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQb2NVdHJNOWZLRDdjRjJyZmFIUFd0emRuc21NelZlWmJ5SEN1U0psbTRzNnhweHhhU3ZIb1V6SFNmQUEzX1JWYUIwSTNDSng1YmxBN3RJSmRPSDR1eHI1WWhRakt6X0YxOGQ4cjhnZ0JGbmVVMnFJVEpGTXFQUi0yWExyc2NJeFZtNFBETm1GalVNSE5ZYURQUnFQRQ?oc=5",
@@ -835,16 +829,22 @@
             "published": "31.07., 15:41"
           },
           {
-            "title": "Verlorene Dekade vorbei: Warum Experten jetzt auf Schwellenländeraktien setzen - extraetf.com",
-            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSzF1Y3ZPeFVZQzNGZVd2Y01YZ0RDRDBzWjhxcmFTejl6OVpXQ1VmYmxXOHFXdUVGTTJNSWZYNF9yNmtRVFBDNzFVY2c5X1UxOG9KNmdlc3U4LXF3YlkyWkJ1X0o5QVROZFRCXzdOeVJDZnFOUTRSaHM5LXBXckVrbnhvR0dzR1pjaExxbkhMM0lxM19CQTI5VlNjRnZUWFVnc28xY09YZEVHbXV2MHF0SWZJZnEtRWs?oc=5",
-            "source": "extraetf.com",
-            "published": "17.03., 08:00"
+            "title": "Emerging Markets Aktien: Generali Investments sieht neue Chancen - e-fundresearch.com",
+            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQmdld3JNZUs0NEs2RkJ1TFM1ZDE2b2VHZXZBUDR2X2tueHNpQ2lydERPeGxDZktLWDNQSGxFM2tQWDhfa1JNR1dPUlBhYVBNMTlHUlBveFNoXzJuREhCVVpLakNPNzBNNkc0c1dZbnlTcWVRdXV3akpURU92eTk2Mzh4cTIyZjlMU3hrS1ZtMzA3SWVuLUJmSHNlWXRfN3ZtSWpuX2YyRElfXy1QMmNDelRtdEp2SEJJWnF3ZzdGckY2bVctSzFiOEo5MEF0cVFURmwtYlNSbw?oc=5",
+            "source": "e-fundresearch.com",
+            "published": "27.05., 09:00"
           },
           {
             "title": "iShares MSCI EM ex China: Allzeithoch bei 99,78 USD - Börse Express",
             "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVHg5cHVfWE8tQ2tteTRVS0liN0NxX3dtaHhWcDRXdmZBNE1ac3JBVEI3VW5BMHFRM01xVGpNSFowb2hhQlBlZUhDS1gzNnUtOWdCdGpkZmQyWjQ2Sk9yMXlCOUU2MU5DWmFnZmJRUjQydGZWSE9ycjR3dDY2OEZTUktZOUxodXU1S3JGcC1sZW9qQnBTbFdTVGMxcTdYTjZTZFFZ?oc=5",
             "source": "Börse Express",
             "published": "26.05., 09:00"
+          },
+          {
+            "title": "Verlorene Dekade vorbei: Warum Experten jetzt auf Schwellenländeraktien setzen - extraETF",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSzF1Y3ZPeFVZQzNGZVd2Y01YZ0RDRDBzWjhxcmFTejl6OVpXQ1VmYmxXOHFXdUVGTTJNSWZYNF9yNmtRVFBDNzFVY2c5X1UxOG9KNmdlc3U4LXF3YlkyWkJ1X0o5QVROZFRCXzdOeVJDZnFOUTRSaHM5LXBXckVrbnhvR0dzR1pjaExxbkhMM0lxM19CQTI5VlNjRnZUWFVnc28xY09YZEVHbXV2MHF0SWZJZnEtRWs?oc=5",
+            "source": "extraETF",
+            "published": "17.03., 08:00"
           }
         ]
       }
@@ -1240,20 +1240,20 @@
         "bullets": [
           "Der Kurs ist spürbar gestiegen: +0.49 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: China/EM, Geopolitik/Sicherheit.",
-          "Wichtigste gefundene Headlines: Global X Russell 2000 Etf/Australia -Chart - ig.com | Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraetf.com."
+          "Wichtigste gefundene Headlines: Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraETF | Diese US-Small-Cap-Aktien sind jetzt attraktiv - Morningstar."
         ],
         "headlines": [
           {
-            "title": "Global X Russell 2000 Etf/Australia -Chart - ig.com",
-            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSzkzSVZ6WV9lVVotaFB4X0tuZTAzUDl0TThEaFk3bUdoYVkwckpIcnI0bTNZQmlaSUVndnFTS2w3aGhiOEZSSlVFaFowaEZGSVZsRjRCRHo1SVV3NDNubTgyUUMwX0t6Zml2Q3lqbWM1S1pXVWV4b1Rxbl9FZ2dncmkweDM?oc=5",
-            "source": "ig.com",
-            "published": "12.08., 17:34"
+            "title": "Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraETF",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBfSEFMN1dKOFVhZUdmcE5WbGh1V3VIUTVJTE5SdWVzS2hYemNGRWgzRi1MZF8xZXdrbUl3RHVKeTk0SDNRUmhSWGgyQUpMQlRXb2JPS0Jxb2txVm5LM0w3anphOWo5WWIwSDF5Qjg4clFwR0VWUkQ5Qg?oc=5",
+            "source": "extraETF",
+            "published": "28.04., 10:37"
           },
           {
-            "title": "Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraetf.com",
-            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBfSEFMN1dKOFVhZUdmcE5WbGh1V3VIUTVJTE5SdWVzS2hYemNGRWgzRi1MZF8xZXdrbUl3RHVKeTk0SDNRUmhSWGgyQUpMQlRXb2JPS0Jxb2txVm5LM0w3anphOWo5WWIwSDF5Qjg4clFwR0VWUkQ5Qg?oc=5",
-            "source": "extraetf.com",
-            "published": "28.04., 10:37"
+            "title": "Diese US-Small-Cap-Aktien sind jetzt attraktiv - Morningstar",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNXF1VURGVVhhSUhQWnc3NDlSUTVfU3BWb2hXd3pPN1Z5VWFGa2p4WV84cFd1WTlVaEFheEZ4eVhUVjBlVnBwdlBHTURVR2ptUGMzME5DeFNfR3lHVUhGTHRMVmIwU2ZXNFJUdlBlYW1XZ2M4aXJMTTlCWnNLbmxZc3FndTVMV1NXdmQ5cm9sdVQ?oc=5",
+            "source": "Morningstar",
+            "published": "06.07., 09:00"
           },
           {
             "title": "„Disziplin schlägt Glamour“ – Warum AllianzGI mit systematischem Faktor-Investing jetzt auf US Small Caps setzt - e-fundresearch.com",
@@ -1262,10 +1262,10 @@
             "published": "25.03., 08:00"
           },
           {
-            "title": "Diese US-Small-Cap-Aktien sind jetzt attraktiv - Morningstar",
-            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNXF1VURGVVhhSUhQWnc3NDlSUTVfU3BWb2hXd3pPN1Z5VWFGa2p4WV84cFd1WTlVaEFheEZ4eVhUVjBlVnBwdlBHTURVR2ptUGMzME5DeFNfR3lHVUhGTHRMVmIwU2ZXNFJUdlBlYW1XZ2M4aXJMTTlCWnNLbmxZc3FndTVMV1NXdmQ5cm9sdVQ?oc=5",
-            "source": "Morningstar",
-            "published": "06.07., 09:00"
+            "title": "Verändert die doppelte Aufnahme von Anterix (ATEX) in den Russell 2000-Index das Narrativ des Unternehmens als defensiver Wachstumswert? -…",
+            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTHpOU0ZkSDdmRlBpcVJjdlBXcy1oTFBzWTJkNkIxX0lJWURZd0VNQU83T0lqalhMR1Zyd1B4dWxRRXJrV2VHMXpRY3Q1V0RHbjVwVXh4aWhlZUltQ1U4N1VMVzFZYmZZckU4M1REbVZueFppbkl6OXh6ZGhYNTNaOXR2U19iMUFYUHgxRm0zbGZPcTdBTDBPVDJFQmtVVThSdDhiWEFkQ3lxSXRCOE5uekhKb3hFeW83NE5US01UTEM2WDZ2Ylhv0gHMAUFVX3lxTE85WG5rTFZMTDQ0T2licHJESTRxZm5wMC1aV09BVk53TGVSSjBrRkJIb2c5OHpsOE4ySkg4djFqSTViV1Nsd3VILXZFMGhtNElQYnozbUprNUNxdXJsZE5TdllzSzZPRmFSU3dka0FYUGJKRUotMElZZkp4MHJISFlSMEtMUG1BajU4N0…",
+            "source": "simplywall.st",
+            "published": "01.07., 09:00"
           }
         ]
       }
@@ -1655,38 +1655,38 @@
         "confidence": "niedrig",
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
-          "Zinsen/Fed",
-          "KI/Tech"
+          "KI/Tech",
+          "Regulierung"
         ],
         "bullets": [
           "Der Kurs ist leicht gefallen: -0.13 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: Zinsen/Fed, KI/Tech.",
-          "Wichtigste gefundene Headlines: Gemini Enterprise: Ryanair startet Großoffensive mit Google - it-daily | RYANAIR & GOOGLE CLOUD VERKÜNDEN FÜNFJÄHRIGE DATEN- UND KI-PARTNERSCHAFT - Ryanair Corporate."
+          "Gefundene Nachrichten-Themen: KI/Tech, Regulierung.",
+          "Wichtigste gefundene Headlines: Alphabet Aktie: APIG-Beschwerde löst 3,5-Prozent-Minus aus - Börse Express | Die Pixel 11-Serie: Dein Pixel ist jetzt noch hilfreicher geworden - blog.google."
         ],
         "headlines": [
           {
-            "title": "Gemini Enterprise: Ryanair startet Großoffensive mit Google - it-daily",
-            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9vSURUVF9BRklBeXRnSVhscGYzOTZ1ZVVBTVFRSjdOMHYwUW8yb1B5RlFVcmY3VmE2UVJXRzFJRVdOdEtQaWg5SEVYR1duOVV2TmNnX3NxaGVmSnFBamd2RzFvRVY2Sk9fUUdN?oc=5",
-            "source": "it-daily",
-            "published": "14.08., 12:04"
-          },
-          {
-            "title": "RYANAIR & GOOGLE CLOUD VERKÜNDEN FÜNFJÄHRIGE DATEN- UND KI-PARTNERSCHAFT - Ryanair Corporate",
-            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUDJYOUxCWmQ1MVFROXN5MTEwVXZ0emV5RUp3RGUtdnR6WXlzbjVtMHNnVGNoQi1hN092NE5oTHY2R0d2VjRtVzBHS0JmSHduN3E1MEgxc2lpSEdGbnZkNUxNcE1kcWktMGdSTVBvZ3NMZFZveUd2Y1d2Unk3M2dubGpmWVBlMDZJcXIwWldRSUVrUGdkNEh1YmFZbF9uOVVhZ2RoOVJCeTU3TzY4THhSN0dB?oc=5",
-            "source": "Ryanair Corporate",
-            "published": "12.08., 09:37"
-          },
-          {
-            "title": "Alphabet vor der Investitionsprobe: Wird die KI-Wette zur Kurslast? - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcElBVElrYmp4bEN5bkV4dGFDMFIyNlhaM0hoN3F2M29tTmhUOTFDVUNVbzduajVoX0ZUX3pSdGhUdGQ3LXA5OFQzemRha0lvUWFNNFA0TVFDQzRMM3lORlA4eG9hcXh5S0djTDdWaXQxTHFxOVNOQndhcXdmNEtRMk9VUnJtcmU2LWo4R3FNR1JqTVVCX3psZ3MwTV9BV3hobnhoX2wtd2l6RVR0aDJ2TjN1NzhYaHMz?oc=5",
+            "title": "Alphabet Aktie: APIG-Beschwerde löst 3,5-Prozent-Minus aus - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOS185bE51OHNpcXB6NHB1Q0NocGNHSzhUd28wRE5BTWE3cVotVTZjVFY5dTJ2cVZWaUxGTzVIV2w4UTB4WDRvdmJZNEM2ejd0WnNjMFh6VFFXTHZJSHp2M0dscElZZ3BTNlF5aUdaR01fNHFOWElaVUpKeDUtMnpNN2FpV3NkU20xMHdXOHFjZ0RSMDItb0lLY2tUYmh3SGEtVHNySzNiMFNhN0QzWXc?oc=5",
             "source": "Börse Express",
-            "published": "14.08., 02:27"
+            "published": "15.08., 09:31"
           },
           {
             "title": "Die Pixel 11-Serie: Dein Pixel ist jetzt noch hilfreicher geworden - blog.google",
             "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9fTTBEUENqNGhDbVdfTDBBRGlhQXRsdjZjc05VTVJQdUN3MVhfcEtSNWR6cEt4MXMtOTl5R0d5eGN4R1hOWEZNNmFvblRIVWhpd1pobDVubC1mRFhFUmIybi02UkY1OGpzbHNwNHZ4RHlIRHpuVXBtenY2SlA?oc=5",
             "source": "blog.google",
             "published": "12.08., 16:10"
+          },
+          {
+            "title": "Alphabet (GOOGL) Bündelt Google AI Pro Mit Neuen Laptops - simplywall.st",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPS3F0WUZjb2MzY3YtbTFBdlVmMTNOenBLMzI0aVBIM0RScTJHdWZ0TWV6bVBzcldrTmFWcGdZSkZiZ0xGdmFxaHhrdmdTWWxqcUhnYUhDZ215N3NqZVBOSnctMmV3ZGxGQjJmMFY3Q21JeHZvMGdhU0I2QjRnQ2VyRTE3MVp6WmVQWkxEMVkwWkZuUld1WGNKU1AwNVlpN2otS2tvTGNZd1VTblhhU2RZcHRfVnkzZXYwbUkwUVJVWF_SAcYBQVVfeXFMTTRiWVVfcU0wZlNkRDZZbnl4VE1ZT3lrSUVWdmtFQkU5RC0zVGhWck1CbV9XWi05Sjl2bS1JaUZMMHNaZko4N0N2Wk9Yemh6UGtNRG1HckpaVzNhZkFMQ2ZXVlctaEZkc0t2bnp6N3RhOFUwbTdEMk9TRWFTd21qZS02T3FuVFlyd1VHNENkZGJFZz…",
+            "source": "simplywall.st",
+            "published": "14.08., 03:19"
+          },
+          {
+            "title": "Gemini Enterprise: Ryanair startet Großoffensive mit Google - it-daily",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9vSURUVF9BRklBeXRnSVhscGYzOTZ1ZVVBTVFRSjdOMHYwUW8yb1B5RlFVcmY3VmE2UVJXRzFJRVdOdEtQaWg5SEVYR1duOVV2TmNnX3NxaGVmSnFBamd2RzFvRVY2Sk9fUUdN?oc=5",
+            "source": "it-daily",
+            "published": "14.08., 12:04"
           }
         ]
       }
@@ -2077,16 +2077,20 @@
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
           "Inflation",
-          "US-Dollar",
-          "Geopolitik/Sicherheit",
-          "Gewinne/Analysten"
+          "US-Dollar"
         ],
         "bullets": [
           "Der Kurs ist spürbar gestiegen: +0.38 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: Inflation, US-Dollar, Geopolitik/Sicherheit, Gewinne/Analysten.",
-          "Wichtigste gefundene Headlines: Gold: Rücksetzer auf 4.332,90 Dollar - Börse Express | Gold: 5.100 Dollar bis Jahresende? - Der Aktionär."
+          "Gefundene Nachrichten-Themen: Inflation, US-Dollar.",
+          "Wichtigste gefundene Headlines: Goldpreis-Prognose: Kann Gold bis Ende 2026 wieder auf 5.000 US-Dollar steigen? - Wallstreet Online | Gold: Rücksetzer auf 4.332,90 Dollar - Börse Express."
         ],
         "headlines": [
+          {
+            "title": "Goldpreis-Prognose: Kann Gold bis Ende 2026 wieder auf 5.000 US-Dollar steigen? - Wallstreet Online",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOLTU4aXVBQ084d2VpaGpIb3dVNHZ3V3ZJVnVCTkRIRm4wT2VLQ0N2am80b3hNS0cwcTJyT3JyNkhIOXRFb0NqX0drYm1mU25KMEczSG11dE5HNlAwOTl1bW5od2RXY2Nod3UyM3pmWExKSFBPdDB6TWVXS0QzX1lUeW5IZHowVk5FWWtFeFRPZFVMeGdMYktWQUpsSnpGYnVmX05iV3ZBRVlVRF8xeXhENVRxbk51bzFq?oc=5",
+            "source": "Wallstreet Online",
+            "published": "15.08., 13:06"
+          },
           {
             "title": "Gold: Rücksetzer auf 4.332,90 Dollar - Börse Express",
             "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNajR5NkxHdHdEZnJtYWRtVkpIbmdwSVdhT1ZEWUE1dHdmelRXc1RHSUZWSVNkTkk1Z0FIZl9kYm9KX19maUQtNUFfWjQxTzUyX1ZLRVhnUmNmLVZzV0EtZXhpaWtyU0Ytb2phUGJ0cFZtUUlTSWRtQ0NTTHI4X3hEb1FVcG9hOHhVeFN1MFZuQQ?oc=5",
@@ -2104,12 +2108,6 @@
             "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVG9OT2c1eDZqZEpjUXBObDBnaUZmdkdRX1NtZllxbDhDOHdBaDF3ZFVyNFpWLV94SkVOSWJLLW9MYy11Z1B6M3dHYWNucXpzaElLZjJjWXZXRGl0eUpwNEdmSW9pcE8zS3VjLWlEbUVwWHRUdFFKUnBkcEZib01aZWxQV0VJdVFCdDhrZzY1Y1RGdUowWE9MdW5kVzZ1MDZTRlZIT1ZRSGxNTWpnTnQwaUtRbzFYcXVvRVR1cFhmUEt6SkFTNHdkMWhrbDFpbE1CVmVN?oc=5",
             "source": "Handelsblatt",
             "published": "11.08., 17:22"
-          },
-          {
-            "title": "Gold sollte von schwächerer Inflation profitieren – warum fällt es jetzt? - TradingView",
-            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1YNWo2emRraVNrUWlXb3NVWndaU0ZodWRZOXNjMTVWYnRFVnQtUFlJMjQzQUtWUnhPSl9XZFBTRmdYZ2xZai1GeVg2eUY4NTRSRllnTUhuSm43Mm4yQXBZT1BoQ3RLUQ?oc=5",
-            "source": "TradingView",
-            "published": "14.08., 07:26"
           }
         ]
       }
