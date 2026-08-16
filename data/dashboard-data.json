@@ -1,9 +1,9 @@
 {
   "is_sample": false,
   "source": "Yahoo Finance Kursdaten + Google News RSS Kontext",
-  "generated_at_utc": "2026-08-15T16:20:12+00:00",
-  "generated_at_vienna": "15.08.2026, 18:20 Uhr",
-  "market_mood_internal": "risk-on",
+  "generated_at_utc": "2026-08-16T04:32:51+00:00",
+  "generated_at_vienna": "16.08.2026, 06:32 Uhr",
+  "market_mood_internal": "neutral",
   "assets": [
     {
       "name": "MSCI World",
@@ -12,22 +12,18 @@
       "currency": "EUR",
       "description": "iShares Core MSCI World UCITS ETF als handelbarer Developed-Markets-Proxy",
       "price_decimals": 2,
-      "last_date": "2026-08-13",
-      "last_close": 129.39500427246094,
-      "previous_close": 128.7949981689453,
-      "change_abs": 0.6,
-      "change_pct": 0.47,
-      "change_5d_pct": 0.97,
-      "change_1m_pct": 2.45,
-      "change_3m_pct": 7.46,
+      "last_date": "2026-08-14",
+      "last_close": 128.86500549316406,
+      "previous_close": 129.39500427246094,
+      "change_abs": -0.53,
+      "change_pct": -0.41,
+      "change_5d_pct": 0.17,
+      "change_1m_pct": 2.07,
+      "change_3m_pct": 7.13,
       "change_1y_pct": null,
-      "ytd_pct": 15.76,
-      "volatility_30d_pct": 10.03,
+      "ytd_pct": 15.29,
+      "volatility_30d_pct": 10.1,
       "sparkline": [
-        {
-          "date": "2026-04-09",
-          "close": 112.68499755859375
-        },
         {
           "date": "2026-04-10",
           "close": 112.94999694824219
@@ -383,10 +379,14 @@
         {
           "date": "2026-08-13",
           "close": 129.39500427246094
+        },
+        {
+          "date": "2026-08-14",
+          "close": 128.86500549316406
         }
       ],
       "explanation": {
-        "direction": "gestiegen",
+        "direction": "gefallen",
         "confidence": "niedrig",
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
@@ -394,7 +394,7 @@
           "Regulierung"
         ],
         "bullets": [
-          "Der Kurs ist spürbar gestiegen: +0.47 % gegenüber dem vorherigen Schlusskurs.",
+          "Der Kurs ist spürbar gefallen: -0.41 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: Zinsen/Fed, Regulierung.",
           "Wichtigste gefundene Headlines: IncomeShares Nasdaq 100 Options ETP | XS2875105608 | A4A50Q - extraETF | Strategy Shares - Strategy Shares NASDAQ 7 HANDL Index ETF kündigt monatliche Dividende an, zahlbar am 14. August 2026 - MarketScreener Deu…."
         ],
@@ -433,22 +433,18 @@
       "currency": "EUR",
       "description": "iShares Core MSCI EM IMI UCITS ETF als Emerging-Markets-Proxy",
       "price_decimals": 2,
-      "last_date": "2026-08-13",
-      "last_close": 47.49800109863281,
-      "previous_close": 47.189998626708984,
-      "change_abs": 0.31,
-      "change_pct": 0.65,
-      "change_5d_pct": 1.93,
-      "change_1m_pct": 1.58,
-      "change_3m_pct": 4.29,
+      "last_date": "2026-08-14",
+      "last_close": 47.18299865722656,
+      "previous_close": 47.49800109863281,
+      "change_abs": -0.32,
+      "change_pct": -0.66,
+      "change_5d_pct": 1.35,
+      "change_1m_pct": 2.06,
+      "change_3m_pct": 4.82,
       "change_1y_pct": null,
-      "ytd_pct": 23.86,
-      "volatility_30d_pct": 22.62,
+      "ytd_pct": 23.04,
+      "volatility_30d_pct": 21.81,
       "sparkline": [
-        {
-          "date": "2026-04-09",
-          "close": 42.03200149536133
-        },
         {
           "date": "2026-04-10",
           "close": 42.303001403808594
@@ -804,10 +800,14 @@
         {
           "date": "2026-08-13",
           "close": 47.49800109863281
+        },
+        {
+          "date": "2026-08-14",
+          "close": 47.18299865722656
         }
       ],
       "explanation": {
-        "direction": "gestiegen",
+        "direction": "gefallen",
         "confidence": "niedrig",
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
@@ -817,7 +817,7 @@
           "Geopolitik/Sicherheit"
         ],
         "bullets": [
-          "Der Kurs ist spürbar gestiegen: +0.65 % gegenüber dem vorherigen Schlusskurs.",
+          "Der Kurs ist spürbar gefallen: -0.66 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: US-Dollar, Regulierung, China/EM, Geopolitik/Sicherheit.",
           "Wichtigste gefundene Headlines: Pictet AM-Chef-Volkswirt: Schwellenländer trotzem dem Ölpreis-Schock - das investment | Emerging Markets Aktien: Generali Investments sieht neue Chancen - e-fundresearch.com."
         ],
@@ -841,10 +841,10 @@
             "published": "26.05., 09:00"
           },
           {
-            "title": "Verlorene Dekade vorbei: Warum Experten jetzt auf Schwellenländeraktien setzen - extraETF",
-            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSzF1Y3ZPeFVZQzNGZVd2Y01YZ0RDRDBzWjhxcmFTejl6OVpXQ1VmYmxXOHFXdUVGTTJNSWZYNF9yNmtRVFBDNzFVY2c5X1UxOG9KNmdlc3U4LXF3YlkyWkJ1X0o5QVROZFRCXzdOeVJDZnFOUTRSaHM5LXBXckVrbnhvR0dzR1pjaExxbkhMM0lxM19CQTI5VlNjRnZUWFVnc28xY09YZEVHbXV2MHF0SWZJZnEtRWs?oc=5",
-            "source": "extraETF",
-            "published": "17.03., 08:00"
+            "title": "Kapitalmärkte: Iran-Krieg wird zum Stresstest für die Schwellenländer - Handelsblatt",
+            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWHhSNTdKdm9ENnlwNHVYMHVJa3M3VmctRWswSm5tWFFCc29DemNLQk1nVXd4dHcwcFZlemVYcTcxZTJvdm5sYTNFblhwUVZ2UExEbHQxdXFjSUhyV252TUNVam42cnp4Ti15R0pUWEp0S3k4azhUVlFqc1lxNEpRNmRfd09JaU5qTF91Uk91eHRTaW5TVHlBQjlfeHRmVVJvV0Y3Y1lYb1hvWTl3MkxBSkoxR1p6SVBLOGxRXzEzNkQzSV90MTVzY3Z2Mmw?oc=5",
+            "source": "Handelsblatt",
+            "published": "17.04., 09:00"
           }
         ]
       }
@@ -856,22 +856,18 @@
       "currency": "EUR",
       "description": "iShares MSCI World Small Cap UCITS ETF als Small-Cap-Proxy",
       "price_decimals": 3,
-      "last_date": "2026-08-13",
-      "last_close": 9.319999694824219,
-      "previous_close": 9.274999618530273,
-      "change_abs": 0.045,
-      "change_pct": 0.49,
-      "change_5d_pct": 1.24,
-      "change_1m_pct": 2.7,
-      "change_3m_pct": 8.69,
+      "last_date": "2026-08-14",
+      "last_close": 9.32699966430664,
+      "previous_close": 9.319999694824219,
+      "change_abs": 0.007,
+      "change_pct": 0.08,
+      "change_5d_pct": 1.08,
+      "change_1m_pct": 2.57,
+      "change_3m_pct": 9.5,
       "change_1y_pct": null,
-      "ytd_pct": 19.79,
-      "volatility_30d_pct": 12.6,
+      "ytd_pct": 19.88,
+      "volatility_30d_pct": 12.53,
       "sparkline": [
-        {
-          "date": "2026-04-09",
-          "close": 8.288999557495117
-        },
         {
           "date": "2026-04-10",
           "close": 8.27299976348877
@@ -1227,6 +1223,10 @@
         {
           "date": "2026-08-13",
           "close": 9.319999694824219
+        },
+        {
+          "date": "2026-08-14",
+          "close": 9.32699966430664
         }
       ],
       "explanation": {
@@ -1238,7 +1238,7 @@
           "Geopolitik/Sicherheit"
         ],
         "bullets": [
-          "Der Kurs ist spürbar gestiegen: +0.49 % gegenüber dem vorherigen Schlusskurs.",
+          "Der Kurs ist leicht gestiegen: +0.08 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: China/EM, Geopolitik/Sicherheit.",
           "Wichtigste gefundene Headlines: Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraETF | Diese US-Small-Cap-Aktien sind jetzt attraktiv - Morningstar."
         ],
@@ -1661,14 +1661,14 @@
         "bullets": [
           "Der Kurs ist leicht gefallen: -0.13 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: KI/Tech, Regulierung.",
-          "Wichtigste gefundene Headlines: Alphabet Aktie: APIG-Beschwerde löst 3,5-Prozent-Minus aus - Börse Express | Die Pixel 11-Serie: Dein Pixel ist jetzt noch hilfreicher geworden - blog.google."
+          "Wichtigste gefundene Headlines: Alphabet Aktie: Erstmals minus 5,9 Milliarden Cashflow - Börse Express | Die Pixel 11-Serie: Dein Pixel ist jetzt noch hilfreicher geworden - blog.google."
         ],
         "headlines": [
           {
-            "title": "Alphabet Aktie: APIG-Beschwerde löst 3,5-Prozent-Minus aus - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOS185bE51OHNpcXB6NHB1Q0NocGNHSzhUd28wRE5BTWE3cVotVTZjVFY5dTJ2cVZWaUxGTzVIV2w4UTB4WDRvdmJZNEM2ejd0WnNjMFh6VFFXTHZJSHp2M0dscElZZ3BTNlF5aUdaR01fNHFOWElaVUpKeDUtMnpNN2FpV3NkU20xMHdXOHFjZ0RSMDItb0lLY2tUYmh3SGEtVHNySzNiMFNhN0QzWXc?oc=5",
+            "title": "Alphabet Aktie: Erstmals minus 5,9 Milliarden Cashflow - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYTNVemZYUWhnaTlMRE1fVHBoZF9tMS14WnEzc0RmLUhQR2xQOGVTeGVEdDhsSDQ1RVJuM1NsQ2dXYUtLYjNnV2hlNzF4RFJ2NGpERkVONzJmcHQ4Mi1hSXdWYVNDZlgzSThqWDZWV1FwWkJBX3pEck5TX3BjelZQMEVIeFJyN0UxaWItNGtucXhTVDFKblh0LWEyV0lzSnFMY2dlNTl5TQ?oc=5",
             "source": "Börse Express",
-            "published": "15.08., 09:31"
+            "published": "15.08., 19:10"
           },
           {
             "title": "Die Pixel 11-Serie: Dein Pixel ist jetzt noch hilfreicher geworden - blog.google",
@@ -1699,16 +1699,16 @@
       "description": "Goldpreis, primär über Gold-Future, fallback XAU/USD",
       "price_decimals": 2,
       "last_date": "2026-08-14",
-      "last_close": 4380.39990234375,
+      "last_close": 4437.2998046875,
       "previous_close": 4363.60009765625,
-      "change_abs": 16.8,
-      "change_pct": 0.38,
-      "change_5d_pct": 0.91,
-      "change_1m_pct": 9.91,
-      "change_3m_pct": -6.36,
+      "change_abs": 73.7,
+      "change_pct": 1.69,
+      "change_5d_pct": 2.23,
+      "change_1m_pct": 11.33,
+      "change_3m_pct": -5.15,
       "change_1y_pct": null,
-      "ytd_pct": 1.27,
-      "volatility_30d_pct": 22.44,
+      "ytd_pct": 2.58,
+      "volatility_30d_pct": 22.84,
       "sparkline": [
         {
           "date": "2026-04-08",
@@ -2068,7 +2068,7 @@
         },
         {
           "date": "2026-08-14",
-          "close": 4380.39990234375
+          "close": 4437.2998046875
         }
       ],
       "explanation": {
@@ -2080,22 +2080,22 @@
           "US-Dollar"
         ],
         "bullets": [
-          "Der Kurs ist spürbar gestiegen: +0.38 % gegenüber dem vorherigen Schlusskurs.",
+          "Der Kurs ist deutlich gestiegen: +1.69 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: Inflation, US-Dollar.",
-          "Wichtigste gefundene Headlines: Goldpreis-Prognose: Kann Gold bis Ende 2026 wieder auf 5.000 US-Dollar steigen? - Wallstreet Online | Gold: Rücksetzer auf 4.332,90 Dollar - Börse Express."
+          "Wichtigste gefundene Headlines: Gold: Rücksetzer auf 4.332,90 Dollar - Börse Express | Goldpreis-Prognose: Kann Gold bis Ende 2026 wieder auf 5.000 US-Dollar steigen? - Wallstreet Online."
         ],
         "headlines": [
-          {
-            "title": "Goldpreis-Prognose: Kann Gold bis Ende 2026 wieder auf 5.000 US-Dollar steigen? - Wallstreet Online",
-            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOLTU4aXVBQ084d2VpaGpIb3dVNHZ3V3ZJVnVCTkRIRm4wT2VLQ0N2am80b3hNS0cwcTJyT3JyNkhIOXRFb0NqX0drYm1mU25KMEczSG11dE5HNlAwOTl1bW5od2RXY2Nod3UyM3pmWExKSFBPdDB6TWVXS0QzX1lUeW5IZHowVk5FWWtFeFRPZFVMeGdMYktWQUpsSnpGYnVmX05iV3ZBRVlVRF8xeXhENVRxbk51bzFq?oc=5",
-            "source": "Wallstreet Online",
-            "published": "15.08., 13:06"
-          },
           {
             "title": "Gold: Rücksetzer auf 4.332,90 Dollar - Börse Express",
             "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNajR5NkxHdHdEZnJtYWRtVkpIbmdwSVdhT1ZEWUE1dHdmelRXc1RHSUZWSVNkTkk1Z0FIZl9kYm9KX19maUQtNUFfWjQxTzUyX1ZLRVhnUmNmLVZzV0EtZXhpaWtyU0Ytb2phUGJ0cFZtUUlTSWRtQ0NTTHI4X3hEb1FVcG9hOHhVeFN1MFZuQQ?oc=5",
             "source": "Börse Express",
             "published": "14.08., 10:58"
+          },
+          {
+            "title": "Goldpreis-Prognose: Kann Gold bis Ende 2026 wieder auf 5.000 US-Dollar steigen? - Wallstreet Online",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOLTU4aXVBQ084d2VpaGpIb3dVNHZ3V3ZJVnVCTkRIRm4wT2VLQ0N2am80b3hNS0cwcTJyT3JyNkhIOXRFb0NqX0drYm1mU25KMEczSG11dE5HNlAwOTl1bW5od2RXY2Nod3UyM3pmWExKSFBPdDB6TWVXS0QzX1lUeW5IZHowVk5FWWtFeFRPZFVMeGdMYktWQUpsSnpGYnVmX05iV3ZBRVlVRF8xeXhENVRxbk51bzFq?oc=5",
+            "source": "Wallstreet Online",
+            "published": "15.08., 13:06"
           },
           {
             "title": "Gold: 5.100 Dollar bis Jahresende? - Der Aktionär",
