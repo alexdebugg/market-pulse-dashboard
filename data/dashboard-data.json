@@ -1,8 +1,8 @@
 {
   "is_sample": false,
   "source": "Yahoo Finance Kursdaten + Google News RSS Kontext",
-  "generated_at_utc": "2026-08-16T04:32:51+00:00",
-  "generated_at_vienna": "16.08.2026, 06:32 Uhr",
+  "generated_at_utc": "2026-08-16T16:20:41+00:00",
+  "generated_at_vienna": "16.08.2026, 18:20 Uhr",
   "market_mood_internal": "neutral",
   "assets": [
     {
@@ -387,16 +387,15 @@
       ],
       "explanation": {
         "direction": "gefallen",
-        "confidence": "niedrig",
-        "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
+        "confidence": "mittel",
+        "summary": "Plausibler Nachrichtenbezug: Der Kurs ist gefallen und die gefundenen Schlagzeilen enthalten überwiegend belastend wirkende Formulierungen. Die Quellen passen damit zur Richtung, beweisen aber keine Kausalität.",
         "themes": [
-          "Zinsen/Fed",
           "Regulierung"
         ],
         "bullets": [
           "Der Kurs ist spürbar gefallen: -0.41 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: Zinsen/Fed, Regulierung.",
-          "Wichtigste gefundene Headlines: IncomeShares Nasdaq 100 Options ETP | XS2875105608 | A4A50Q - extraETF | Strategy Shares - Strategy Shares NASDAQ 7 HANDL Index ETF kündigt monatliche Dividende an, zahlbar am 14. August 2026 - MarketScreener Deu…."
+          "Gefundene Nachrichten-Themen: Regulierung.",
+          "Wichtigste gefundene Headlines: IncomeShares Nasdaq 100 Options ETP | XS2875105608 | A4A50Q - extraETF | Nasdaq übernimmt alternatives Handelssystem LeveL Markets - Investing.com Deutsch."
         ],
         "headlines": [
           {
@@ -406,16 +405,16 @@
             "published": "12.08., 09:00"
           },
           {
-            "title": "Strategy Shares - Strategy Shares NASDAQ 7 HANDL Index ETF kündigt monatliche Dividende an, zahlbar am 14. August 2026 - MarketScreener Deu…",
-            "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOYk9laGhCOEtVZEpEMWtLSWc3NDhOejloRmhDZEpqM3RnMFZSZTRVeDlGZTNBT2lkeTRaUXUyRVpIeHR1Q2FRZ0lyR0F4N3EyV1Z3N0JFOTVOTnJZWFpIVkh3UVpzcmUySUI2c2VFZklhc0VST2N6dXVZR29ZOGxYTks5cVZDZi1NTWhNWk9LRi11Wkh1aFZRS3dXaFlmYjJsYnI1dUhrY0Z6a1h3bHlsclQ2WFJRZzBXU281M2lIcFFDbk84b2RUSzRraGV3Q3Y0TS13aHc4TkFBT0IyeWZuRklFWlRsaHlvRlRhSEZmNEtLc2VueWc?oc=5",
-            "source": "MarketScreener Deutschland",
-            "published": "12.08., 00:00"
-          },
-          {
             "title": "Nasdaq übernimmt alternatives Handelssystem LeveL Markets - Investing.com Deutsch",
             "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTlBFTlZONDBWS2o2VGdUOHFOVjU5SG9yZjNDbGlJTGE1WElpbVhibFNSaC1QVFNCc2Q0N2h1YkkxcVQ1dzNacW01dTZFRjRNN2FHLV80RFZrT1VGVDhtMHhGTFFjYVZncTl2WldZU1k3aExiYUY5aFIyOU91MWt0VWQ1eGx5YkgyM2NacDNCZWIwZFhialQ3VmJmZDAtMUZuSHExUmRvZ1N4ZkpLemZIakhVVQ?oc=5",
             "source": "Investing.com Deutsch",
             "published": "11.08., 15:10"
+          },
+          {
+            "title": "(3⁺) NASDAQ – Der Index fällt, was bleibt? - stock3",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9mUHJ4THhrY293c0VSc0dEMWtHb2ZuWUtua0p6QmNYeUFtTmlPc0VjU1NpZWc1LUdzYlNDVlFIQ1BQSUtFcHBUX19Fdzc3M09WczQ1Z3RWS2tyNnUtVzFqQnRzRF9HLTZoZzFrRmJkTVJCYXpvTWc?oc=5",
+            "source": "stock3",
+            "published": "05.06., 09:00"
           },
           {
             "title": "Robinhood Markets, Inc. Umsatzübersicht – NASDAQ:HOOD - TradingView",
@@ -812,27 +811,26 @@
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
           "US-Dollar",
-          "Regulierung",
           "China/EM",
           "Geopolitik/Sicherheit"
         ],
         "bullets": [
           "Der Kurs ist spürbar gefallen: -0.66 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: US-Dollar, Regulierung, China/EM, Geopolitik/Sicherheit.",
-          "Wichtigste gefundene Headlines: Pictet AM-Chef-Volkswirt: Schwellenländer trotzem dem Ölpreis-Schock - das investment | Emerging Markets Aktien: Generali Investments sieht neue Chancen - e-fundresearch.com."
+          "Gefundene Nachrichten-Themen: US-Dollar, China/EM, Geopolitik/Sicherheit.",
+          "Wichtigste gefundene Headlines: Schwacher US-Dollar und hohe Defizite: Rückenwind für Emerging Markets? - e-fundresearch.com | Pictet AM-Chef-Volkswirt: Schwellenländer trotzem dem Ölpreis-Schock - das investment."
         ],
         "headlines": [
+          {
+            "title": "Schwacher US-Dollar und hohe Defizite: Rückenwind für Emerging Markets? - e-fundresearch.com",
+            "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdW5LT0NkQVByWUhHM2JvRDZVWERXUW5RWnpWcEpzVVNxRDA2QzgwTEJBQ3p4Y2lYU1NEelhUa1hUZzJyUDg4SnJPTXVmQUppQzRoalhkVURTWEJtaHZ1Zk1MMHNXekE0ZkpyM2x4aTI3UmU0bkU3REl6NXYyVnZIWWxCckFXT3pKaVdvQlp0cFQxMmpPS3lTN0U4ajBWTHd0NGJHVFI2T0Nhc3hhQ2ZSQkJqclRfaWZYMUVEaERfYXcxdklzYXlvRXY5c2R3ZHJDVUpjZmt4TXlQYWNxSHhCSE83cGVjQzc2Nnc?oc=5",
+            "source": "e-fundresearch.com",
+            "published": "25.11., 09:00"
+          },
           {
             "title": "Pictet AM-Chef-Volkswirt: Schwellenländer trotzem dem Ölpreis-Schock - das investment",
             "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQb2NVdHJNOWZLRDdjRjJyZmFIUFd0emRuc21NelZlWmJ5SEN1U0psbTRzNnhweHhhU3ZIb1V6SFNmQUEzX1JWYUIwSTNDSng1YmxBN3RJSmRPSDR1eHI1WWhRakt6X0YxOGQ4cjhnZ0JGbmVVMnFJVEpGTXFQUi0yWExyc2NJeFZtNFBETm1GalVNSE5ZYURQUnFQRQ?oc=5",
             "source": "das investment",
             "published": "31.07., 15:41"
-          },
-          {
-            "title": "Emerging Markets Aktien: Generali Investments sieht neue Chancen - e-fundresearch.com",
-            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQmdld3JNZUs0NEs2RkJ1TFM1ZDE2b2VHZXZBUDR2X2tueHNpQ2lydERPeGxDZktLWDNQSGxFM2tQWDhfa1JNR1dPUlBhYVBNMTlHUlBveFNoXzJuREhCVVpLakNPNzBNNkc0c1dZbnlTcWVRdXV3akpURU92eTk2Mzh4cTIyZjlMU3hrS1ZtMzA3SWVuLUJmSHNlWXRfN3ZtSWpuX2YyRElfXy1QMmNDelRtdEp2SEJJWnF3ZzdGckY2bVctSzFiOEo5MEF0cVFURmwtYlNSbw?oc=5",
-            "source": "e-fundresearch.com",
-            "published": "27.05., 09:00"
           },
           {
             "title": "iShares MSCI EM ex China: Allzeithoch bei 99,78 USD - Börse Express",
@@ -1677,16 +1675,16 @@
             "published": "12.08., 16:10"
           },
           {
+            "title": "Die Ryanair-Aktie legt nach Google-Cloud-Deal zu - ad-hoc-news.de",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTkxiWkxXTlhiVzVONGNKekc3ZHBJU1loZWZNbGQtTkxraFp2N1dRSzhXZlZOSk9qZmlNRnQ3X0swdXRwVDZQWDJPdmNYMVlXd183T2dfZDJ0VVBYSHBzR1Fjc2xzQzRoXzVJbjl1SDk5dDNkV2VfaGJOMTI0M1lscGNfMUY4b1QzZFFnVEpoM05TQlhFRk14dHlTS2RqRmxOSUFwdDZUNnVKLS0zQUZ0Ug?oc=5",
+            "source": "ad-hoc-news.de",
+            "published": "16.08., 14:06"
+          },
+          {
             "title": "Alphabet (GOOGL) Bündelt Google AI Pro Mit Neuen Laptops - simplywall.st",
             "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPS3F0WUZjb2MzY3YtbTFBdlVmMTNOenBLMzI0aVBIM0RScTJHdWZ0TWV6bVBzcldrTmFWcGdZSkZiZ0xGdmFxaHhrdmdTWWxqcUhnYUhDZ215N3NqZVBOSnctMmV3ZGxGQjJmMFY3Q21JeHZvMGdhU0I2QjRnQ2VyRTE3MVp6WmVQWkxEMVkwWkZuUld1WGNKU1AwNVlpN2otS2tvTGNZd1VTblhhU2RZcHRfVnkzZXYwbUkwUVJVWF_SAcYBQVVfeXFMTTRiWVVfcU0wZlNkRDZZbnl4VE1ZT3lrSUVWdmtFQkU5RC0zVGhWck1CbV9XWi05Sjl2bS1JaUZMMHNaZko4N0N2Wk9Yemh6UGtNRG1HckpaVzNhZkFMQ2ZXVlctaEZkc0t2bnp6N3RhOFUwbTdEMk9TRWFTd21qZS02T3FuVFlyd1VHNENkZGJFZz…",
             "source": "simplywall.st",
             "published": "14.08., 03:19"
-          },
-          {
-            "title": "Gemini Enterprise: Ryanair startet Großoffensive mit Google - it-daily",
-            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9vSURUVF9BRklBeXRnSVhscGYzOTZ1ZVVBTVFRSjdOMHYwUW8yb1B5RlFVcmY3VmE2UVJXRzFJRVdOdEtQaWg5SEVYR1duOVV2TmNnX3NxaGVmSnFBamd2RzFvRVY2Sk9fUUdN?oc=5",
-            "source": "it-daily",
-            "published": "14.08., 12:04"
           }
         ]
       }
@@ -2077,19 +2075,21 @@
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
           "Inflation",
-          "US-Dollar"
+          "US-Dollar",
+          "Geopolitik/Sicherheit",
+          "Gewinne/Analysten"
         ],
         "bullets": [
           "Der Kurs ist deutlich gestiegen: +1.69 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: Inflation, US-Dollar.",
-          "Wichtigste gefundene Headlines: Gold: Rücksetzer auf 4.332,90 Dollar - Börse Express | Goldpreis-Prognose: Kann Gold bis Ende 2026 wieder auf 5.000 US-Dollar steigen? - Wallstreet Online."
+          "Gefundene Nachrichten-Themen: Inflation, US-Dollar, Geopolitik/Sicherheit, Gewinne/Analysten.",
+          "Wichtigste gefundene Headlines: Gold: 4.432 Dollar nach Zehn-Wochen-Hoch - Börse Express | Goldpreis-Prognose: Kann Gold bis Ende 2026 wieder auf 5.000 US-Dollar steigen? - Wallstreet Online."
         ],
         "headlines": [
           {
-            "title": "Gold: Rücksetzer auf 4.332,90 Dollar - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNajR5NkxHdHdEZnJtYWRtVkpIbmdwSVdhT1ZEWUE1dHdmelRXc1RHSUZWSVNkTkk1Z0FIZl9kYm9KX19maUQtNUFfWjQxTzUyX1ZLRVhnUmNmLVZzV0EtZXhpaWtyU0Ytb2phUGJ0cFZtUUlTSWRtQ0NTTHI4X3hEb1FVcG9hOHhVeFN1MFZuQQ?oc=5",
+            "title": "Gold: 4.432 Dollar nach Zehn-Wochen-Hoch - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNzRPYWROallqU3ZOeXJJdHpjdll2eTBWdURWOEhSMVN5cEwwQURadVBNTDdMcDZLaWFkeWVMZ1VtbEN5c01SREZBSVlldVVHMU5sOExaZWJMU3lJT0w5NWVOWFgyanNudGV5Y19Lc29EZGFMT0dYXzZZaWJCSldsZHVuVTNCYmNzWXNzVXdSWDhuak4x?oc=5",
             "source": "Börse Express",
-            "published": "14.08., 10:58"
+            "published": "16.08., 08:19"
           },
           {
             "title": "Goldpreis-Prognose: Kann Gold bis Ende 2026 wieder auf 5.000 US-Dollar steigen? - Wallstreet Online",
@@ -2098,16 +2098,16 @@
             "published": "15.08., 13:06"
           },
           {
-            "title": "Gold: 5.100 Dollar bis Jahresende? - Der Aktionär",
-            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUnBiMUJQUEpVUlhTcmRsbzkyTzhqc2FUa1hFQ0V6ckVrVHdhR21vSTRrZDNNVkJORDlMeWhCdjRtNTEwM3dLekhIUTRzUWRuS0FMRFJJOUJScHZ3cng3R3dfbHo4Y09iR1NEQmxPdjMyZmRqMXp4SXpLNG4xcm50NWVQU1UzU3pZcDF5R1NiZlYtZw?oc=5",
-            "source": "Der Aktionär",
-            "published": "14.08., 14:06"
-          },
-          {
             "title": "Inflation: Ist Kupfer ein besserer Inflationsschutz als Gold? - Handelsblatt",
             "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVG9OT2c1eDZqZEpjUXBObDBnaUZmdkdRX1NtZllxbDhDOHdBaDF3ZFVyNFpWLV94SkVOSWJLLW9MYy11Z1B6M3dHYWNucXpzaElLZjJjWXZXRGl0eUpwNEdmSW9pcE8zS3VjLWlEbUVwWHRUdFFKUnBkcEZib01aZWxQV0VJdVFCdDhrZzY1Y1RGdUowWE9MdW5kVzZ1MDZTRlZIT1ZRSGxNTWpnTnQwaUtRbzFYcXVvRVR1cFhmUEt6SkFTNHdkMWhrbDFpbE1CVmVN?oc=5",
             "source": "Handelsblatt",
             "published": "11.08., 17:22"
+          },
+          {
+            "title": "Gold sollte von schwächerer Inflation profitieren – warum fällt es jetzt? - TradingView",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1YNWo2emRraVNrUWlXb3NVWndaU0ZodWRZOXNjMTVWYnRFVnQtUFlJMjQzQUtWUnhPSl9XZFBTRmdYZ2xZai1GeVg2eUY4NTRSRllnTUhuSm43Mm4yQXBZT1BoQ3RLUQ?oc=5",
+            "source": "TradingView",
+            "published": "14.08., 07:26"
           }
         ]
       }
