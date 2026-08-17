@@ -1,8 +1,8 @@
 {
   "is_sample": false,
   "source": "Yahoo Finance Kursdaten + Google News RSS Kontext",
-  "generated_at_utc": "2026-08-16T16:20:41+00:00",
-  "generated_at_vienna": "16.08.2026, 18:20 Uhr",
+  "generated_at_utc": "2026-08-17T04:38:35+00:00",
+  "generated_at_vienna": "17.08.2026, 06:38 Uhr",
   "market_mood_internal": "neutral",
   "assets": [
     {
@@ -395,7 +395,7 @@
         "bullets": [
           "Der Kurs ist spürbar gefallen: -0.41 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: Regulierung.",
-          "Wichtigste gefundene Headlines: IncomeShares Nasdaq 100 Options ETP | XS2875105608 | A4A50Q - extraETF | Nasdaq übernimmt alternatives Handelssystem LeveL Markets - Investing.com Deutsch."
+          "Wichtigste gefundene Headlines: IncomeShares Nasdaq 100 Options ETP | XS2875105608 | A4A50Q - extraETF | Fidelity Nasdaq Composite Index ETF [Common Shares] Fonds | Kurs | Realtime | Chart - boerse.de."
         ],
         "headlines": [
           {
@@ -403,6 +403,12 @@
             "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9pOXp6WnVQUmdKMWRkY1JPdlZxbHU3UnVkclh1OTctTGxtMmliSUV1NUFPUV9RODRsY2tQUTBUOHViZG5uS2hOTVh1MUNnMGFwTllGRGJtMHdBNExs?oc=5",
             "source": "extraETF",
             "published": "12.08., 09:00"
+          },
+          {
+            "title": "Fidelity Nasdaq Composite Index ETF [Common Shares] Fonds | Kurs | Realtime | Chart - boerse.de",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMEFfZUlGeTd3SW4zTXFqYzhxTWRocElHY1JOenp3X2Yza3NRQ2NhMjh2d3U3bXcwV3Z5ZENJeWZVZEM5elVEYjFBTHJUNkExaFJ2aTU4VzRJTHVObFlmcS1UZTliU2tSVnhnTmFFSmVONFdMX1pRazNJLTI0WlBoNzdQem1Vc3lDXzJzR1dHZ3NNRzdf?oc=5",
+            "source": "boerse.de",
+            "published": "14.08., 09:00"
           },
           {
             "title": "Nasdaq übernimmt alternatives Handelssystem LeveL Markets - Investing.com Deutsch",
@@ -415,12 +421,6 @@
             "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9mUHJ4THhrY293c0VSc0dEMWtHb2ZuWUtua0p6QmNYeUFtTmlPc0VjU1NpZWc1LUdzYlNDVlFIQ1BQSUtFcHBUX19Fdzc3M09WczQ1Z3RWS2tyNnUtVzFqQnRzRF9HLTZoZzFrRmJkTVJCYXpvTWc?oc=5",
             "source": "stock3",
             "published": "05.06., 09:00"
-          },
-          {
-            "title": "Robinhood Markets, Inc. Umsatzübersicht – NASDAQ:HOOD - TradingView",
-            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9DS3BLbTAxLTV2S1lLZU5CVTQtUW5pdDh5TTNHeHBpa1lKWDZLdzNBYUpBbXhSNzJBd3NWMzhCRUg2eGlXeDRjbUJ4UGVQMjJ0bFd3b2R2MG5icUZEbEd5QTdCTU1nRDhzZ3hoSkdTRG1ZWXE1Wmc?oc=5",
-            "source": "TradingView",
-            "published": "29.07., 17:19"
           }
         ]
       }
@@ -833,10 +833,10 @@
             "published": "31.07., 15:41"
           },
           {
-            "title": "iShares MSCI EM ex China: Allzeithoch bei 99,78 USD - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVHg5cHVfWE8tQ2tteTRVS0liN0NxX3dtaHhWcDRXdmZBNE1ac3JBVEI3VW5BMHFRM01xVGpNSFowb2hhQlBlZUhDS1gzNnUtOWdCdGpkZmQyWjQ2Sk9yMXlCOUU2MU5DWmFnZmJRUjQydGZWSE9ycjR3dDY2OEZTUktZOUxodXU1S3JGcC1sZW9qQnBTbFdTVGMxcTdYTjZTZFFZ?oc=5",
+            "title": "Xtrackers Emerging Markets ETF: Erfolg durch Absicherung - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbHRDWERqQm5nODhKOE9KenRvbkNIVjBWZUFHRDRZTklSNk8xWkYzbDZtVmNfenEtY18wN3R6aklEZjFab2RMWlRCYXR6MjYwMk5nVjRBN2EtZDZYam84YlRjbVN0U2VvUEJSbXJpaE5rMmotZnRNLWZsa054clFjUFZCR0pKczl1dldILXZ0VXlsUk15LW1fU2w1el9tVkFTX0NCbmlEUzZMREE?oc=5",
             "source": "Börse Express",
-            "published": "26.05., 09:00"
+            "published": "28.03., 08:00"
           },
           {
             "title": "Kapitalmärkte: Iran-Krieg wird zum Stresstest für die Schwellenländer - Handelsblatt",
@@ -1232,12 +1232,13 @@
         "confidence": "niedrig",
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
+          "Regulierung",
           "China/EM",
           "Geopolitik/Sicherheit"
         ],
         "bullets": [
           "Der Kurs ist leicht gestiegen: +0.08 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: China/EM, Geopolitik/Sicherheit.",
+          "Gefundene Nachrichten-Themen: Regulierung, China/EM, Geopolitik/Sicherheit.",
           "Wichtigste gefundene Headlines: Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraETF | Diese US-Small-Cap-Aktien sind jetzt attraktiv - Morningstar."
         ],
         "headlines": [
@@ -1260,10 +1261,10 @@
             "published": "25.03., 08:00"
           },
           {
-            "title": "Verändert die doppelte Aufnahme von Anterix (ATEX) in den Russell 2000-Index das Narrativ des Unternehmens als defensiver Wachstumswert? -…",
-            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTHpOU0ZkSDdmRlBpcVJjdlBXcy1oTFBzWTJkNkIxX0lJWURZd0VNQU83T0lqalhMR1Zyd1B4dWxRRXJrV2VHMXpRY3Q1V0RHbjVwVXh4aWhlZUltQ1U4N1VMVzFZYmZZckU4M1REbVZueFppbkl6OXh6ZGhYNTNaOXR2U19iMUFYUHgxRm0zbGZPcTdBTDBPVDJFQmtVVThSdDhiWEFkQ3lxSXRCOE5uekhKb3hFeW83NE5US01UTEM2WDZ2Ylhv0gHMAUFVX3lxTE85WG5rTFZMTDQ0T2licHJESTRxZm5wMC1aV09BVk53TGVSSjBrRkJIb2c5OHpsOE4ySkg4djFqSTViV1Nsd3VILXZFMGhtNElQYnozbUprNUNxdXJsZE5TdllzSzZPRmFSU3dka0FYUGJKRUotMElZZkp4MHJISFlSMEtMUG1BajU4N0…",
-            "source": "simplywall.st",
-            "published": "01.07., 09:00"
+            "title": "Hot Stocks KW 30 / 2026: Pharma-Aktien im Kaufrausch - Was hinter der neuen Megawelle steckt! - FinanzNachrichten.de",
+            "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQUDdDSEdIc1RHNDczN3VvMV9Za2lmYUhUZE5GRFpCdVliZGNnd3c0YzJvY2JNa1R2Ni1zN3dZcFEtTXRVNXo2RFJsZkpJQzA1RUpDejhVT2ZmbnJmU0VxR01Ba0llVlVYUWN2a2ZSa1RNbEJwbHdEUl9BM1hxQjBLXzIzdTktNzFXZnhyVEdOXzk5eWxtVmhzMFJQNlYxWi1USE5Bb0NLQlB1cV9TRjFSR3ZvWjdpVjdTdDBFRWdLMXVUSkxCdi14U2pqdmtmLVI3QmRoWUItS3N6SFpZY3pxeV9KQURKUTNMa1V4YlB3?oc=5",
+            "source": "FinanzNachrichten.de",
+            "published": "26.07., 09:00"
           }
         ]
       }
@@ -1675,10 +1676,10 @@
             "published": "12.08., 16:10"
           },
           {
-            "title": "Die Ryanair-Aktie legt nach Google-Cloud-Deal zu - ad-hoc-news.de",
-            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTkxiWkxXTlhiVzVONGNKekc3ZHBJU1loZWZNbGQtTkxraFp2N1dRSzhXZlZOSk9qZmlNRnQ3X0swdXRwVDZQWDJPdmNYMVlXd183T2dfZDJ0VVBYSHBzR1Fjc2xzQzRoXzVJbjl1SDk5dDNkV2VfaGJOMTI0M1lscGNfMUY4b1QzZFFnVEpoM05TQlhFRk14dHlTS2RqRmxOSUFwdDZUNnVKLS0zQUZ0Ug?oc=5",
-            "source": "ad-hoc-news.de",
-            "published": "16.08., 14:06"
+            "title": "Google in Kronstorf: Dieses Rechenzentrum bringt uns keine Datensouveränität - trendingtopics.eu",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbDJMTlVZVVRPMmd4cWFnckQzWEp2MDNZdlR2aGRVRERxM0J3OTdMR0xUM2FRaHRDYnZialpNeFBhcGpzaGJlb2tib1pyZGRycl9fQ0h5TjNJaVppdzNUQ2R2VlNOc1Zmd2tPUTBqdFM5aHVlN1g3UHhmRHVXV3B6N20wQUtZYm94WE5qQWx2R0pSaVk?oc=5",
+            "source": "trendingtopics.eu",
+            "published": "12.08., 11:22"
           },
           {
             "title": "Alphabet (GOOGL) Bündelt Google AI Pro Mit Neuen Laptops - simplywall.st",
@@ -1696,22 +1697,18 @@
       "currency": "USD/oz",
       "description": "Goldpreis, primär über Gold-Future, fallback XAU/USD",
       "price_decimals": 2,
-      "last_date": "2026-08-14",
-      "last_close": 4437.2998046875,
-      "previous_close": 4363.60009765625,
-      "change_abs": 73.7,
-      "change_pct": 1.69,
-      "change_5d_pct": 2.23,
-      "change_1m_pct": 11.33,
-      "change_3m_pct": -5.15,
+      "last_date": "2026-08-17",
+      "last_close": 4447.7998046875,
+      "previous_close": 4380.39990234375,
+      "change_abs": 67.4,
+      "change_pct": 1.54,
+      "change_5d_pct": 1.97,
+      "change_1m_pct": 10.84,
+      "change_3m_pct": -2.37,
       "change_1y_pct": null,
-      "ytd_pct": 2.58,
-      "volatility_30d_pct": 22.84,
+      "ytd_pct": 2.83,
+      "volatility_30d_pct": 22.65,
       "sparkline": [
-        {
-          "date": "2026-04-08",
-          "close": 4749.5
-        },
         {
           "date": "2026-04-09",
           "close": 4792.2001953125
@@ -2066,7 +2063,11 @@
         },
         {
           "date": "2026-08-14",
-          "close": 4437.2998046875
+          "close": 4380.39990234375
+        },
+        {
+          "date": "2026-08-17",
+          "close": 4447.7998046875
         }
       ],
       "explanation": {
@@ -2080,16 +2081,16 @@
           "Gewinne/Analysten"
         ],
         "bullets": [
-          "Der Kurs ist deutlich gestiegen: +1.69 % gegenüber dem vorherigen Schlusskurs.",
+          "Der Kurs ist deutlich gestiegen: +1.54 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: Inflation, US-Dollar, Geopolitik/Sicherheit, Gewinne/Analysten.",
-          "Wichtigste gefundene Headlines: Gold: 4.432 Dollar nach Zehn-Wochen-Hoch - Börse Express | Goldpreis-Prognose: Kann Gold bis Ende 2026 wieder auf 5.000 US-Dollar steigen? - Wallstreet Online."
+          "Wichtigste gefundene Headlines: Gold: Nahost-Eskalation treibt auf 4.432 Dollar - Börse Express | Goldpreis-Prognose: Kann Gold bis Ende 2026 wieder auf 5.000 US-Dollar steigen? - Wallstreet Online."
         ],
         "headlines": [
           {
-            "title": "Gold: 4.432 Dollar nach Zehn-Wochen-Hoch - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNzRPYWROallqU3ZOeXJJdHpjdll2eTBWdURWOEhSMVN5cEwwQURadVBNTDdMcDZLaWFkeWVMZ1VtbEN5c01SREZBSVlldVVHMU5sOExaZWJMU3lJT0w5NWVOWFgyanNudGV5Y19Lc29EZGFMT0dYXzZZaWJCSldsZHVuVTNCYmNzWXNzVXdSWDhuak4x?oc=5",
+            "title": "Gold: Nahost-Eskalation treibt auf 4.432 Dollar - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMGNQc0tuRExtR1VpbmNtSV92bVl6WXNCcmFQLU5yZ3ZtdTZYSXZjNF9PcGFyRUZEQmdVM2F5ZUxxR2x0SHljUldGWXBCY3FRdFdMSFVEYTk1VjNUR1ZIU0dUZ2UyWUZ3M1VZTmc3c2lBNno5ci0zSmJQdDRlR0pEUFVYQTQzclFIb2F5SklLZ2RwREN0enI1VS1PNmt3Zw?oc=5",
             "source": "Börse Express",
-            "published": "16.08., 08:19"
+            "published": "17.08., 02:46"
           },
           {
             "title": "Goldpreis-Prognose: Kann Gold bis Ende 2026 wieder auf 5.000 US-Dollar steigen? - Wallstreet Online",
