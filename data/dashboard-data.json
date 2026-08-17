@@ -1,8 +1,8 @@
 {
   "is_sample": false,
   "source": "Yahoo Finance Kursdaten + Google News RSS Kontext",
-  "generated_at_utc": "2026-08-17T04:38:35+00:00",
-  "generated_at_vienna": "17.08.2026, 06:38 Uhr",
+  "generated_at_utc": "2026-08-17T16:23:35+00:00",
+  "generated_at_vienna": "17.08.2026, 18:23 Uhr",
   "market_mood_internal": "neutral",
   "assets": [
     {
@@ -12,22 +12,18 @@
       "currency": "EUR",
       "description": "iShares Core MSCI World UCITS ETF als handelbarer Developed-Markets-Proxy",
       "price_decimals": 2,
-      "last_date": "2026-08-14",
-      "last_close": 128.86500549316406,
-      "previous_close": 129.39500427246094,
-      "change_abs": -0.53,
-      "change_pct": -0.41,
-      "change_5d_pct": 0.17,
-      "change_1m_pct": 2.07,
-      "change_3m_pct": 7.13,
+      "last_date": "2026-08-17",
+      "last_close": 128.6999969482422,
+      "previous_close": 128.86500549316406,
+      "change_abs": -0.17,
+      "change_pct": -0.13,
+      "change_5d_pct": -0.04,
+      "change_1m_pct": 3.06,
+      "change_3m_pct": 6.05,
       "change_1y_pct": null,
-      "ytd_pct": 15.29,
-      "volatility_30d_pct": 10.1,
+      "ytd_pct": 15.14,
+      "volatility_30d_pct": 10.05,
       "sparkline": [
-        {
-          "date": "2026-04-10",
-          "close": 112.94999694824219
-        },
         {
           "date": "2026-04-13",
           "close": 112.94499969482422
@@ -383,6 +379,10 @@
         {
           "date": "2026-08-14",
           "close": 128.86500549316406
+        },
+        {
+          "date": "2026-08-17",
+          "close": 128.6999969482422
         }
       ],
       "explanation": {
@@ -393,7 +393,7 @@
           "Regulierung"
         ],
         "bullets": [
-          "Der Kurs ist spürbar gefallen: -0.41 % gegenüber dem vorherigen Schlusskurs.",
+          "Der Kurs ist leicht gefallen: -0.13 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: Regulierung.",
           "Wichtigste gefundene Headlines: IncomeShares Nasdaq 100 Options ETP | XS2875105608 | A4A50Q - extraETF | Fidelity Nasdaq Composite Index ETF [Common Shares] Fonds | Kurs | Realtime | Chart - boerse.de."
         ],
@@ -432,22 +432,18 @@
       "currency": "EUR",
       "description": "iShares Core MSCI EM IMI UCITS ETF als Emerging-Markets-Proxy",
       "price_decimals": 2,
-      "last_date": "2026-08-14",
-      "last_close": 47.18299865722656,
-      "previous_close": 47.49800109863281,
-      "change_abs": -0.32,
-      "change_pct": -0.66,
-      "change_5d_pct": 1.35,
-      "change_1m_pct": 2.06,
-      "change_3m_pct": 4.82,
+      "last_date": "2026-08-17",
+      "last_close": 47.987998962402344,
+      "previous_close": 47.18299865722656,
+      "change_abs": 0.81,
+      "change_pct": 1.71,
+      "change_5d_pct": 3.36,
+      "change_1m_pct": 5.88,
+      "change_3m_pct": 4.6,
       "change_1y_pct": null,
-      "ytd_pct": 23.04,
-      "volatility_30d_pct": 21.81,
+      "ytd_pct": 25.14,
+      "volatility_30d_pct": 22.4,
       "sparkline": [
-        {
-          "date": "2026-04-10",
-          "close": 42.303001403808594
-        },
         {
           "date": "2026-04-13",
           "close": 42.250999450683594
@@ -803,10 +799,14 @@
         {
           "date": "2026-08-14",
           "close": 47.18299865722656
+        },
+        {
+          "date": "2026-08-17",
+          "close": 47.987998962402344
         }
       ],
       "explanation": {
-        "direction": "gefallen",
+        "direction": "gestiegen",
         "confidence": "niedrig",
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
@@ -815,7 +815,7 @@
           "Geopolitik/Sicherheit"
         ],
         "bullets": [
-          "Der Kurs ist spürbar gefallen: -0.66 % gegenüber dem vorherigen Schlusskurs.",
+          "Der Kurs ist deutlich gestiegen: +1.71 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: US-Dollar, China/EM, Geopolitik/Sicherheit.",
           "Wichtigste gefundene Headlines: Schwacher US-Dollar und hohe Defizite: Rückenwind für Emerging Markets? - e-fundresearch.com | Pictet AM-Chef-Volkswirt: Schwellenländer trotzem dem Ölpreis-Schock - das investment."
         ],
@@ -854,22 +854,18 @@
       "currency": "EUR",
       "description": "iShares MSCI World Small Cap UCITS ETF als Small-Cap-Proxy",
       "price_decimals": 3,
-      "last_date": "2026-08-14",
-      "last_close": 9.32699966430664,
-      "previous_close": 9.319999694824219,
-      "change_abs": 0.007,
-      "change_pct": 0.08,
-      "change_5d_pct": 1.08,
-      "change_1m_pct": 2.57,
-      "change_3m_pct": 9.5,
+      "last_date": "2026-08-17",
+      "last_close": 9.32800006866455,
+      "previous_close": 9.32699966430664,
+      "change_abs": 0.001,
+      "change_pct": 0.01,
+      "change_5d_pct": 1.36,
+      "change_1m_pct": 3.79,
+      "change_3m_pct": 8.13,
       "change_1y_pct": null,
-      "ytd_pct": 19.88,
-      "volatility_30d_pct": 12.53,
+      "ytd_pct": 19.9,
+      "volatility_30d_pct": 12.52,
       "sparkline": [
-        {
-          "date": "2026-04-10",
-          "close": 8.27299976348877
-        },
         {
           "date": "2026-04-13",
           "close": 8.27299976348877
@@ -1225,19 +1221,23 @@
         {
           "date": "2026-08-14",
           "close": 9.32699966430664
+        },
+        {
+          "date": "2026-08-17",
+          "close": 9.32800006866455
         }
       ],
       "explanation": {
-        "direction": "gestiegen",
+        "direction": "kaum verändert",
         "confidence": "niedrig",
-        "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
+        "summary": "Kaum Kursbewegung: Obwohl aktuelle Schlagzeilen gefunden wurden, ist die Tagesbewegung zu klein für eine sinnvolle Ursache-Wirkung-Aussage.",
         "themes": [
           "Regulierung",
           "China/EM",
           "Geopolitik/Sicherheit"
         ],
         "bullets": [
-          "Der Kurs ist leicht gestiegen: +0.08 % gegenüber dem vorherigen Schlusskurs.",
+          "Der Kurs liegt nahezu unverändert gegenüber dem letzten Schlusskurs.",
           "Gefundene Nachrichten-Themen: Regulierung, China/EM, Geopolitik/Sicherheit.",
           "Wichtigste gefundene Headlines: Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraETF | Diese US-Small-Cap-Aktien sind jetzt attraktiv - Morningstar."
         ],
@@ -1276,22 +1276,18 @@
       "currency": "USD",
       "description": "Alphabet Inc. Class A",
       "price_decimals": 2,
-      "last_date": "2026-08-14",
-      "last_close": 345.8999938964844,
-      "previous_close": 346.3599853515625,
-      "change_abs": -0.46,
-      "change_pct": -0.13,
-      "change_5d_pct": -2.37,
-      "change_1m_pct": -2.41,
-      "change_3m_pct": -13.76,
+      "last_date": "2026-08-17",
+      "last_close": 344.4200134277344,
+      "previous_close": 345.8999938964844,
+      "change_abs": -1.48,
+      "change_pct": -0.43,
+      "change_5d_pct": -3.66,
+      "change_1m_pct": -0.68,
+      "change_3m_pct": -13.2,
       "change_1y_pct": null,
-      "ytd_pct": 10.51,
-      "volatility_30d_pct": 43.73,
+      "ytd_pct": 10.04,
+      "volatility_30d_pct": 43.36,
       "sparkline": [
-        {
-          "date": "2026-04-08",
-          "close": 317.32000732421875
-        },
         {
           "date": "2026-04-09",
           "close": 318.489990234375
@@ -1647,6 +1643,10 @@
         {
           "date": "2026-08-14",
           "close": 345.8999938964844
+        },
+        {
+          "date": "2026-08-17",
+          "close": 344.4200134277344
         }
       ],
       "explanation": {
@@ -1658,11 +1658,17 @@
           "Regulierung"
         ],
         "bullets": [
-          "Der Kurs ist leicht gefallen: -0.13 % gegenüber dem vorherigen Schlusskurs.",
+          "Der Kurs ist spürbar gefallen: -0.43 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: KI/Tech, Regulierung.",
-          "Wichtigste gefundene Headlines: Alphabet Aktie: Erstmals minus 5,9 Milliarden Cashflow - Börse Express | Die Pixel 11-Serie: Dein Pixel ist jetzt noch hilfreicher geworden - blog.google."
+          "Wichtigste gefundene Headlines: Alphabet Is Down 15% From Its High as AI Leaders Exit. Here’s Where the Stock Could Go - TIKR.com | Alphabet Aktie: Erstmals minus 5,9 Milliarden Cashflow - Börse Express."
         ],
         "headlines": [
+          {
+            "title": "Alphabet Is Down 15% From Its High as AI Leaders Exit. Here’s Where the Stock Could Go - TIKR.com",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORm9NazQzT3pwcm5Bc0ZxcnVmUlNHZ0VpVFBTYS1OSTNBRElzRk9naHFKTzQ1LWNkdUd3VFRsUUFTQUEwUkJtdHNnSWM4eTdiRGJoM0VMWWdJb0FTTTFPZ0JzVWVBNUlGZ1lwbkRya3JwUUpUcWRkUU5wVVREWWw0Tjd1VHZ5N25WQkJWZ2JYcnJOTnQxZ2kwWE1EY2FOU3hzNWoyN1RPamZuOTFiSk1aRGRmYw?oc=5",
+            "source": "TIKR.com",
+            "published": "17.08., 14:22"
+          },
           {
             "title": "Alphabet Aktie: Erstmals minus 5,9 Milliarden Cashflow - Börse Express",
             "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYTNVemZYUWhnaTlMRE1fVHBoZF9tMS14WnEzc0RmLUhQR2xQOGVTeGVEdDhsSDQ1RVJuM1NsQ2dXYUtLYjNnV2hlNzF4RFJ2NGpERkVONzJmcHQ4Mi1hSXdWYVNDZlgzSThqWDZWV1FwWkJBX3pEck5TX3BjelZQMEVIeFJyN0UxaWItNGtucXhTVDFKblh0LWEyV0lzSnFMY2dlNTl5TQ?oc=5",
@@ -1674,12 +1680,6 @@
             "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9fTTBEUENqNGhDbVdfTDBBRGlhQXRsdjZjc05VTVJQdUN3MVhfcEtSNWR6cEt4MXMtOTl5R0d5eGN4R1hOWEZNNmFvblRIVWhpd1pobDVubC1mRFhFUmIybi02UkY1OGpzbHNwNHZ4RHlIRHpuVXBtenY2SlA?oc=5",
             "source": "blog.google",
             "published": "12.08., 16:10"
-          },
-          {
-            "title": "Google in Kronstorf: Dieses Rechenzentrum bringt uns keine Datensouveränität - trendingtopics.eu",
-            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbDJMTlVZVVRPMmd4cWFnckQzWEp2MDNZdlR2aGRVRERxM0J3OTdMR0xUM2FRaHRDYnZialpNeFBhcGpzaGJlb2tib1pyZGRycl9fQ0h5TjNJaVppdzNUQ2R2VlNOc1Zmd2tPUTBqdFM5aHVlN1g3UHhmRHVXV3B6N20wQUtZYm94WE5qQWx2R0pSaVk?oc=5",
-            "source": "trendingtopics.eu",
-            "published": "12.08., 11:22"
           },
           {
             "title": "Alphabet (GOOGL) Bündelt Google AI Pro Mit Neuen Laptops - simplywall.st",
@@ -1698,16 +1698,16 @@
       "description": "Goldpreis, primär über Gold-Future, fallback XAU/USD",
       "price_decimals": 2,
       "last_date": "2026-08-17",
-      "last_close": 4447.7998046875,
+      "last_close": 4483.7998046875,
       "previous_close": 4380.39990234375,
-      "change_abs": 67.4,
-      "change_pct": 1.54,
-      "change_5d_pct": 1.97,
-      "change_1m_pct": 10.84,
-      "change_3m_pct": -2.37,
+      "change_abs": 103.4,
+      "change_pct": 2.36,
+      "change_5d_pct": 2.8,
+      "change_1m_pct": 11.74,
+      "change_3m_pct": -1.58,
       "change_1y_pct": null,
-      "ytd_pct": 2.83,
-      "volatility_30d_pct": 22.65,
+      "ytd_pct": 3.66,
+      "volatility_30d_pct": 23.18,
       "sparkline": [
         {
           "date": "2026-04-09",
@@ -2067,48 +2067,46 @@
         },
         {
           "date": "2026-08-17",
-          "close": 4447.7998046875
+          "close": 4483.7998046875
         }
       ],
       "explanation": {
         "direction": "gestiegen",
-        "confidence": "niedrig",
-        "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
+        "confidence": "mittel",
+        "summary": "Plausibler Nachrichtenbezug: Der Kurs ist gestiegen und die gefundenen Schlagzeilen enthalten überwiegend positiv wirkende Formulierungen. Die Quellen passen damit zur Richtung, beweisen aber keine Kausalität.",
         "themes": [
-          "Inflation",
           "US-Dollar",
-          "Geopolitik/Sicherheit",
-          "Gewinne/Analysten"
+          "Geopolitik/Sicherheit"
         ],
         "bullets": [
-          "Der Kurs ist deutlich gestiegen: +1.54 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: Inflation, US-Dollar, Geopolitik/Sicherheit, Gewinne/Analysten.",
-          "Wichtigste gefundene Headlines: Gold: Nahost-Eskalation treibt auf 4.432 Dollar - Börse Express | Goldpreis-Prognose: Kann Gold bis Ende 2026 wieder auf 5.000 US-Dollar steigen? - Wallstreet Online."
+          "Der Kurs ist deutlich gestiegen: +2.36 % gegenüber dem vorherigen Schlusskurs.",
+          "Gefundene Nachrichten-Themen: US-Dollar, Geopolitik/Sicherheit.",
+          "Wichtigste gefundene Headlines: Gold: 4.477 Dollar nach Jobabbau - Börse Express | Goldpreis nähert sich 4.500 Dollar - Goldman Sachs optimistisch - finanzen.at."
         ],
         "headlines": [
           {
-            "title": "Gold: Nahost-Eskalation treibt auf 4.432 Dollar - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMGNQc0tuRExtR1VpbmNtSV92bVl6WXNCcmFQLU5yZ3ZtdTZYSXZjNF9PcGFyRUZEQmdVM2F5ZUxxR2x0SHljUldGWXBCY3FRdFdMSFVEYTk1VjNUR1ZIU0dUZ2UyWUZ3M1VZTmc3c2lBNno5ci0zSmJQdDRlR0pEUFVYQTQzclFIb2F5SklLZ2RwREN0enI1VS1PNmt3Zw?oc=5",
+            "title": "Gold: 4.477 Dollar nach Jobabbau - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQT2Y1VHJ4cExRN0dUY3ktMWRQQ2p0QmoxbzFrclZsRXNWWTFPdF8yUFB2NE14dGFVRzVXWFpOa3h5MTRDZFRzejBvZ3RmdFFpamw5RmNoWDg2WWNBU2w0MFNjQ25pZ1RIRzdCU2RsZVNYbktzTGpLYnJLTlc2SWNnODgyRUxfVTBoQ2c?oc=5",
             "source": "Börse Express",
-            "published": "17.08., 02:46"
+            "published": "17.08., 17:20"
           },
           {
-            "title": "Goldpreis-Prognose: Kann Gold bis Ende 2026 wieder auf 5.000 US-Dollar steigen? - Wallstreet Online",
-            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOLTU4aXVBQ084d2VpaGpIb3dVNHZ3V3ZJVnVCTkRIRm4wT2VLQ0N2am80b3hNS0cwcTJyT3JyNkhIOXRFb0NqX0drYm1mU25KMEczSG11dE5HNlAwOTl1bW5od2RXY2Nod3UyM3pmWExKSFBPdDB6TWVXS0QzX1lUeW5IZHowVk5FWWtFeFRPZFVMeGdMYktWQUpsSnpGYnVmX05iV3ZBRVlVRF8xeXhENVRxbk51bzFq?oc=5",
-            "source": "Wallstreet Online",
-            "published": "15.08., 13:06"
+            "title": "Goldpreis nähert sich 4.500 Dollar - Goldman Sachs optimistisch - finanzen.at",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ1lwNHRwSTI1T0o0UkJtbm1xYlE2TWVYc3E4dnZfVkpEWDIwbHVKODg1WEN4bGpyTkJKQ05DVk05ZWw1UXFhcloxMEpJMWxEWFVkRzBjQ1NSTUNGWHB0TlZZNmJ6ZWQxRl9fSDBkUUxKenZ0OE5ESmJ3R0VjLU5NNWFjdHFlQzc4Uy1TaEUzM0JOOWdxWUl1V00yTjU2Y0RrQkNEc2JNOFMyUUpORHdfQUdIZjg2WVdWc1E?oc=5",
+            "source": "finanzen.at",
+            "published": "17.08., 08:30"
           },
           {
-            "title": "Inflation: Ist Kupfer ein besserer Inflationsschutz als Gold? - Handelsblatt",
-            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVG9OT2c1eDZqZEpjUXBObDBnaUZmdkdRX1NtZllxbDhDOHdBaDF3ZFVyNFpWLV94SkVOSWJLLW9MYy11Z1B6M3dHYWNucXpzaElLZjJjWXZXRGl0eUpwNEdmSW9pcE8zS3VjLWlEbUVwWHRUdFFKUnBkcEZib01aZWxQV0VJdVFCdDhrZzY1Y1RGdUowWE9MdW5kVzZ1MDZTRlZIT1ZRSGxNTWpnTnQwaUtRbzFYcXVvRVR1cFhmUEt6SkFTNHdkMWhrbDFpbE1CVmVN?oc=5",
-            "source": "Handelsblatt",
-            "published": "11.08., 17:22"
+            "title": "Gold und Silber: Die nächste Rally wird verrückt - Der Aktionär",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdzFYUUVnVGoxQkI3RXVBRHFUbDYwa2tnRHk0WXBBeGF6R0taZ2hMZGdtc1RRaGJDMkJxeFFMUTRKQ0ppdjJ4a3lPLUpNcmFOUC0xNmM5RkxvVGRieV9UMi1Fd1A2TXB4ZHlaY2tUSEYwZ2ZqMjdDSW00M20tLUJsTjE4ZktrQXFENXBkWUJlSGxfS1pUeW9GUGZvNlBEVnBnajV2ZDRid1hka2JzRDR5VjlOTXI?oc=5",
+            "source": "Der Aktionär",
+            "published": "17.08., 14:20"
           },
           {
-            "title": "Gold sollte von schwächerer Inflation profitieren – warum fällt es jetzt? - TradingView",
-            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1YNWo2emRraVNrUWlXb3NVWndaU0ZodWRZOXNjMTVWYnRFVnQtUFlJMjQzQUtWUnhPSl9XZFBTRmdYZ2xZai1GeVg2eUY4NTRSRllnTUhuSm43Mm4yQXBZT1BoQ3RLUQ?oc=5",
-            "source": "TradingView",
-            "published": "14.08., 07:26"
+            "title": "Gold: 4.450 Dollar nach Nahost-Eskalation - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQV1d4OFQ2cXU1M0ZsYnpSWEV3b3ltV1pEOFVqSjVyZkhsUTEwZUs1bjNscTZvQ01oLXkzeVZqdW9DUWZyWUJhd2c1ekxfMUl6VTFIVFZBdWk1cDdqWGZVQWdXcTVSLU0yTTdXd1BDZG1ySXBRb3d2UEdRWWVIODZ2TnU3dWlCUUc4LVQ4a0xHSERBU0hGa2c?oc=5",
+            "source": "Börse Express",
+            "published": "17.08., 12:26"
           }
         ]
       }
