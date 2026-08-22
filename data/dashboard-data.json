@@ -1,8 +1,8 @@
 {
   "is_sample": false,
   "source": "Yahoo Finance Kursdaten + Google News RSS Kontext",
-  "generated_at_utc": "2026-08-22T04:29:52+00:00",
-  "generated_at_vienna": "22.08.2026, 06:29 Uhr",
+  "generated_at_utc": "2026-08-22T16:19:54+00:00",
+  "generated_at_vienna": "22.08.2026, 18:19 Uhr",
   "market_mood_internal": "neutral",
   "assets": [
     {
@@ -396,7 +396,7 @@
         "bullets": [
           "Der Kurs ist spürbar gefallen: -0.65 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: Zinsen/Fed, Regulierung.",
-          "Wichtigste gefundene Headlines: Leverage Shares -5x Short Nasdaq 100 ETP Securities | XS3373449761 | A4AU1Y - extraETF | Strategy Shares - Strategy Shares NASDAQ 7 HANDL Index ETF kündigt monatliche Dividende an, zahlbar am 14. August 2026 - MarketScreener Deu…."
+          "Wichtigste gefundene Headlines: Leverage Shares -5x Short Nasdaq 100 ETP Securities | XS3373449761 | A4AU1Y - extraETF | Stocks mixed with Nasdaq down; US oil eases on Iran talks - TradingView."
         ],
         "headlines": [
           {
@@ -404,6 +404,12 @@
             "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmZUhjNmxQU3JodWVkRkFCMUR2M3d0Y0x6NTdOTDNIU0dvWFB2OFBGaUN4UktyMTdaV3hhQ0JsWG1mZUJPSkI5dnJYOC1sRXM1cVNRVElQaFZ5QmRY?oc=5",
             "source": "extraETF",
             "published": "19.06., 18:15"
+          },
+          {
+            "title": "Stocks mixed with Nasdaq down; US oil eases on Iran talks - TradingView",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOG40T2lLUVozdzVQSDR6THYweUVNc1MzaE1sUmFMNVBLR1ZPSEh6YXo3aVhSRTZ6ME82bHp1WHN6VnI2VktGN1VGTnRZU0JJOTh2T0hzanQ2S1hvaW1hUVo5YUJ4dWhZdGI0RnZIOVZaZVplS2RtVVFZX0FwN0czVG1MeWZpOGUxZDVCUi14eVhvblJPOERXZGIwOE9oXzQ5MDdHeFdxcHpMMG1MUER3YzBKZUY4ZFRQX3B1ZlliNnc0WE0?oc=5",
+            "source": "TradingView",
+            "published": "05.08., 09:00"
           },
           {
             "title": "Strategy Shares - Strategy Shares NASDAQ 7 HANDL Index ETF kündigt monatliche Dividende an, zahlbar am 14. August 2026 - MarketScreener Deu…",
@@ -416,12 +422,6 @@
             "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9mUHJ4THhrY293c0VSc0dEMWtHb2ZuWUtua0p6QmNYeUFtTmlPc0VjU1NpZWc1LUdzYlNDVlFIQ1BQSUtFcHBUX19Fdzc3M09WczQ1Z3RWS2tyNnUtVzFqQnRzRF9HLTZoZzFrRmJkTVJCYXpvTWc?oc=5",
             "source": "stock3",
             "published": "05.06., 09:00"
-          },
-          {
-            "title": "Perfekte Beimischung zum MSCI World: Geheimtipp-ETF, den Sie unbedingt im Portfolio haben sollten - Börse Online",
-            "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQTmlDNFlBSTYzNTAwOHhrWkxlWnZsOVdZWUNkQ0Q3VjdZLXhZYkU1R0dtOWl2ZmdyMVZjS2lTSTRMcnkwNjlpU3l4RmtBRndpMkd2bHhOYjFUOUZBSGZTZXI5WS1EYVprbUdfZTNTWFBvVEhzemNmV0xwdGRWUGx1eXJnUTFDbHRYQ2NUQUxyT2U5djBhZGJPSGNWbWVOa2lZWHVSQXlkVWpyd2loX0N3cnVUM0U4dEd1dm52VnFrWkdxQjluQ2NLbTVsdThMMl9fSndLblBPR0hKeEpmVEJHbG95WUdoWUp0MGNabw?oc=5",
-            "source": "Börse Online",
-            "published": "06.08., 09:00"
           }
         ]
       }
@@ -812,22 +812,14 @@
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
           "US-Dollar",
-          "KI/Tech",
-          "Konjunktur",
           "China/EM"
         ],
         "bullets": [
           "Der Kurs ist leicht gestiegen: +0.19 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: US-Dollar, KI/Tech, Konjunktur, China/EM.",
-          "Wichtigste gefundene Headlines: 7. Rethinking Governance for Circular Economy and Net-Zero Transitions in Emerging Markets: Conclusion and Recommendations - springerprofes… | Gold und Silber legen zu, da sich die US-Defizite ausweiten und China seine Goldkäufe erhöht – bei schwächerem Dollar - VT Markets."
+          "Gefundene Nachrichten-Themen: US-Dollar, China/EM.",
+          "Wichtigste gefundene Headlines: Gold und Silber legen zu, da sich die US-Defizite ausweiten und China seine Goldkäufe erhöht – bei schwächerem Dollar - VT Markets | Schwacher US-Dollar und hohe Defizite: Rückenwind für Emerging Markets? - e-fundresearch.com."
         ],
         "headlines": [
-          {
-            "title": "7. Rethinking Governance for Circular Economy and Net-Zero Transitions in Emerging Markets: Conclusion and Recommendations - springerprofes…",
-            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTmxNWnQ5bFRMTGdVamlvOElhMFEyTUc1X05kVWdTWTB3eXk4N0xLcVl3SVZkTGpRdjQ1WjlpLTRjRjF0OXJwczdib21FRUhETjRuU0lWUkJJNE9nUnFnQjNyZTc1YTBPVmJ0WVZXNDdUQ2dSQkpHWlZ5QVM4aW12dGg5U0ZWTGotRGdNbG9ob1EwRXpGT1BpeHVzck42QWp2emhadnNYR3JDNlpaUlE?oc=5",
-            "source": "springerprofessional.de",
-            "published": "18.08., 03:39"
-          },
           {
             "title": "Gold und Silber legen zu, da sich die US-Defizite ausweiten und China seine Goldkäufe erhöht – bei schwächerem Dollar - VT Markets",
             "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOWmFDUmJaLVAzRk1rckZOQWk3WDYxazhEaGF5dGlSYk94WDFBVmFabm0teWlsU3k0WEFiRFV5TDItSTVPOGM5cTlveWZrbjhmcER6VmEyOHFCQkVTOGlEeldSYmUxRndyRmRTZlZxSm9UTXVfLTM5ZGttSEFQNEJvOGl3RTkxRGxKVlJVYkRQNmNxWGQ0NU40OXBYMlZBcmJGLUFyNUw1Y29rYW9rZzZ5b01JNFZ1dTZPclNGWFNjQmpoX05wWWdzbXFQSVZUZlZWWFZHNGZ2UVVBV29Na2JKYlVCekduYzNaVERKYUdqWjliQQ?oc=5",
@@ -845,6 +837,12 @@
             "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQb2NVdHJNOWZLRDdjRjJyZmFIUFd0emRuc21NelZlWmJ5SEN1U0psbTRzNnhweHhhU3ZIb1V6SFNmQUEzX1JWYUIwSTNDSng1YmxBN3RJSmRPSDR1eHI1WWhRakt6X0YxOGQ4cjhnZ0JGbmVVMnFJVEpGTXFQUi0yWExyc2NJeFZtNFBETm1GalVNSE5ZYURQUnFQRQ?oc=5",
             "source": "das investment",
             "published": "31.07., 09:00"
+          },
+          {
+            "title": "iShares MSCI EM ex China: Allzeithoch bei 99,78 USD - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVHg5cHVfWE8tQ2tteTRVS0liN0NxX3dtaHhWcDRXdmZBNE1ac3JBVEI3VW5BMHFRM01xVGpNSFowb2hhQlBlZUhDS1gzNnUtOWdCdGpkZmQyWjQ2Sk9yMXlCOUU2MU5DWmFnZmJRUjQydGZWSE9ycjR3dDY2OEZTUktZOUxodXU1S3JGcC1sZW9qQnBTbFdTVGMxcTdYTjZTZFFZ?oc=5",
+            "source": "Börse Express",
+            "published": "26.05., 09:00"
           }
         ]
       }
@@ -1234,12 +1232,13 @@
         "confidence": "niedrig",
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
+          "Zinsen/Fed",
           "China/EM"
         ],
         "bullets": [
           "Der Kurs ist spürbar gefallen: -0.82 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: China/EM.",
-          "Wichtigste gefundene Headlines: Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraETF | Flexi-cap funds received 3x more inflows than multi-caps in FY26 despite similar returns: What should investors do? - TradingView."
+          "Gefundene Nachrichten-Themen: Zinsen/Fed, China/EM.",
+          "Wichtigste gefundene Headlines: Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraETF | US Small Caps sind bereit für die Aufholjagd - e-fundresearch.com."
         ],
         "headlines": [
           {
@@ -1247,12 +1246,6 @@
             "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBfSEFMN1dKOFVhZUdmcE5WbGh1V3VIUTVJTE5SdWVzS2hYemNGRWgzRi1MZF8xZXdrbUl3RHVKeTk0SDNRUmhSWGgyQUpMQlRXb2JPS0Jxb2txVm5LM0w3anphOWo5WWIwSDF5Qjg4clFwR0VWUkQ5Qg?oc=5",
             "source": "extraETF",
             "published": "28.04., 10:37"
-          },
-          {
-            "title": "Flexi-cap funds received 3x more inflows than multi-caps in FY26 despite similar returns: What should investors do? - TradingView",
-            "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQOTNEdW00UURrbWwxcnhtcjJnbDcyVG16Vm9lSmh1TTY3cVJvcThDbWNITnFINUNTNFJ0R0dSYXRZdWdHaDdDRkJaT3NjbFNiaWd4cHBOWGVnMkVPcFNxU0s5Zjk5SG5YemFGTmEydGdvcnlBQU5uYUVZVnZfVTBadV80dEI3VkZTTVV1aVo5T21TeVJ0dVA2X3RydGxDX0M5cEtIUmZsbWdQMDVGdjhQeE1zSFdBOFpPeEd4UXJtdDd4RzNxVlZWanVzcG1leWdpbVBOUm9ueUNKNjVNckozMVBRRVNXTXRmaWhJa1lXSjRWbjVsMk9CRXVkV3loUQ?oc=5",
-            "source": "TradingView",
-            "published": "18.08., 22:18"
           },
           {
             "title": "US Small Caps sind bereit für die Aufholjagd - e-fundresearch.com",
@@ -1265,6 +1258,12 @@
             "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNXF1VURGVVhhSUhQWnc3NDlSUTVfU3BWb2hXd3pPN1Z5VWFGa2p4WV84cFd1WTlVaEFheEZ4eVhUVjBlVnBwdlBHTURVR2ptUGMzME5DeFNfR3lHVUhGTHRMVmIwU2ZXNFJUdlBlYW1XZ2M4aXJMTTlCWnNLbmxZc3FndTVMV1NXdmQ5cm9sdVQ?oc=5",
             "source": "Morningstar",
             "published": "06.07., 09:00"
+          },
+          {
+            "title": "US Stocks End Third Session Lower As Higher Treasury Yields, Oil Prices Weigh — BABA, AAPL, GRRR, KLAR, CRWD In Focus - TradingView",
+            "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNSzhlUEZSZjhJbTk2VUlEdFl5eHZjTC02M2ROd2pRMlhOSF9XYm1DODZ6ejJ1NjdxQ2tKXzRwc2Vfcm5IcGdnSld1RTM5anYtOGdrSHZhdXRYSVJNekNlY2UtWlluemVKVFAwdmtMa1luV2QtMXBwTC1IU3EybzhEdXBwb0d3VldvOTRWSHg1eGtia2hnSm9fejE0TTdjeTlBbG1zd0Z3SWhIbWhLM0ltOEU4dG1teXBMZU5fS3VXM1ZDeFVzTUZwYU1UZExfVk54dmc1Vmd0eUNWMWZVaWg1Z3VUM25jMWdYUkVpazVzZ2tZa2ZjOWRnNHZBeGswYXc?oc=5",
+            "source": "TradingView",
+            "published": "18.08., 23:35"
           }
         ]
       }
@@ -1655,12 +1654,11 @@
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
           "KI/Tech",
-          "Regulierung",
-          "Geopolitik/Sicherheit"
+          "Regulierung"
         ],
         "bullets": [
           "Der Kurs ist deutlich gestiegen: +1.22 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: KI/Tech, Regulierung, Geopolitik/Sicherheit.",
+          "Gefundene Nachrichten-Themen: KI/Tech, Regulierung.",
           "Wichtigste gefundene Headlines: Alphabet Aktie: Google Cloud wächst 82 Prozent - Börse Express | Google Student Hub: Kostenlos Google AI Pro für Studierende - BornCity."
         ],
         "headlines": [
@@ -1683,10 +1681,10 @@
             "published": "19.08., 21:22"
           },
           {
-            "title": "Ausgewählte ASUS Notebooks eröffnen neue Möglichkeiten mit Google AI - Hartware.net",
-            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTm9QeVNKcFhiNWVzUWQyWkttR19fWWFJbnBUMEZrTWR0a3VCYVhoZVRLQ0d3SmRvOWJodFF4X1diN2R4NFd4czBqTmpNNkpMR2pMemphQmg4TTluejg2WEJtX0ExbTdfMHY0MlZVMUdFMmZZN2VDWDJtd0NwZ1VuQlgzY1BnUXNhYTRxVUJtSWluTi1zNG02T2xVYTR6WHotM004VVFhcVZKR0k?oc=5",
-            "source": "Hartware.net",
-            "published": "21.08., 15:16"
+            "title": "Google Gemini: AI-Plus für Studenten ein Jahr gratis plus neue Lernwerk­zeu­ge - ComputerBase",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdTVlQXlxcURINU1aWUFxeHJQb2EtWmpNUmc0VlhMN2syNzY2Nk42VUlocnhlLVMwZDZVYURtaG41N2NkWDIzRWhPQzZzZFdCRHppRmYyQ1U1SFZ2V2lwN25vZU4xaGkxSm9kZDF1OUlJejhhSzBaTmRXRVJfc3VzMXU4ZE0wdmJ3Z1hFd0Y3YWpMVE5LUFg5RURIdVQzOE1YajBVamZlM1Z6dHhEMzZBU3h0YndNbTdzNHd2Y0ZR?oc=5",
+            "source": "ComputerBase",
+            "published": "20.08., 14:32"
           }
         ]
       }
@@ -2077,38 +2075,37 @@
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
           "US-Dollar",
-          "Regulierung",
-          "Gewinne/Analysten"
+          "Regulierung"
         ],
         "bullets": [
           "Der Kurs ist deutlich gestiegen: +2.39 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: US-Dollar, Regulierung, Gewinne/Analysten.",
-          "Wichtigste gefundene Headlines: Gold: 4.655,90 Dollar nach Ausbruch - Börse Express | Nächstes Ziel: 5000 Dollar - Analysten sehen beim Goldpreis weiterhin Potenzial - Börse Online."
+          "Gefundene Nachrichten-Themen: US-Dollar, Regulierung.",
+          "Wichtigste gefundene Headlines: Gold: 4.661,60 Dollar nach Bessent-Intervention - Börse Express | Goldpreisprognose 2026: Jetzt 6.000 statt 5.000 US-Dollar für Gold? - Wallstreet Online."
         ],
         "headlines": [
           {
-            "title": "Gold: 4.655,90 Dollar nach Ausbruch - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONkVBaUc4NWlQdGtrUS1pTG55VnhPWlVCalNmWVhqUGcxN1VpM2hMYWJWMUtiYUhoa2JoS3JHeXlpeDAxR214dnM2Z0JvSnR0eGoySWh1TUtlTzJNRWZMLXdERWtjcUZVbWRHWTRtaXlKQlVHMnhVeUtNZ1JhS3FSdkc5MHN6R2wxYzFHRg?oc=5",
+            "title": "Gold: 4.661,60 Dollar nach Bessent-Intervention - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWXRfMl9fdXJBUnNmbGpKRlNYek9YTEMzbzlIZUE0VG00OTJtZklFeDBob2s0cExJLWNselpsSjJka3BfOVhER2hiYzc1U3NrdFNEMXdJREZzNkxpTllEWjBHY0lsV2pIV0VLNFJvQ3ZCVUFhMzJITE1rbHp0ajZhLWxKbVBkVFVLaGVZUW1QZnhXaUV2TW45TS1kU1E?oc=5",
             "source": "Börse Express",
-            "published": "21.08., 15:22"
+            "published": "22.08., 09:38"
           },
           {
-            "title": "Nächstes Ziel: 5000 Dollar - Analysten sehen beim Goldpreis weiterhin Potenzial - Börse Online",
-            "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPa0NnUHMtOERRU091ekNCNnNheTNkRkhGYmVQNVYwUmJrMlJDcGk4Z3BZdTZNbEE4RnBMa2k3VWliRUlRTXhjRzFhRnZTb0tDcEoyTFZIRjB1d1h1ZHRrMDg0S3RJWW54VGxmQm9kMFExcDdfaEJsblFobzlxaGJPT1BzV2tPbFAteHpTRXBDci05LVR6dzRpZmQ5Y19zdl9yREcxbnZQMGJYbkZQTlpRcHJVOXlycTM2MTVLNkNxOWhtSjkzU21ucnVuT1gxRXJfSHZRc3VlTGFYdw?oc=5",
-            "source": "Börse Online",
-            "published": "21.08., 15:05"
+            "title": "Goldpreisprognose 2026: Jetzt 6.000 statt 5.000 US-Dollar für Gold? - Wallstreet Online",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcXdwQmxKVTRrdVdhS0FzdUFrQ2FZbDNsS2RfWDg0c2IwSXpFNU5iMTRHdGxZeEZmeDNwM1NPSF9iNzM5LUhuTlUxaXNWMG04enczNUxmN3E4TmxLSlZGQ1lpUVc1QkZ2OTdoNFZTenZvcVNmeVJQZTVYRUE5Wk9sbDZjOHBqUTQ4VEFoVkRSY0Z0RUsteUZDSzVYM1huaF9zdG1udE4yUDRxTWl4VzNQQkJRYWFLWXVFOGRUVVFISWc?oc=5",
+            "source": "Wallstreet Online",
+            "published": "22.08., 13:04"
           },
           {
-            "title": "Gold visiert 4600-$-Marke an – wie das Dollar-Misstrauen die Kurse treibt - Business Insider Deutschland",
-            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORUZ5c1VLc095TWJCYTZSSnlNa1RuM0xGQnRFTjc0bUFicXdEazBDRG5tU3VUTTI5RTZjYnJ2YXAxQnA3LW1GRWJxWjVQam9JZ0J5cms2YXM2WVBucmpXRUQ4TFg3OXBLakFOSWFVRTZHWDRwQlk0aUhGRWxUZG4yNjBfN0tyVVRCeFg4ckZGajNjM01rVm82VlE4RFRBbG5SWS16U0VRb1U4a3N0Y3B2ZVhn?oc=5",
-            "source": "Business Insider Deutschland",
-            "published": "21.08., 17:43"
+            "title": "Flucht aus dem Dollar – die neuen Dimensionen des globalen Goldrausches - WELT",
+            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZ0s5UHRuMXNIODhvUXJGZmVWNWhuRGJCR3lqYU1HRmlaMXJ0dmpVUW4wczFtUlB6bENZa25EQnkwT2wtcU1PQndEeXBFN0RrR0VPcnJzazRhTDZBeGpEMDFqVDh0UXJiWnplSEE2SjVMbjlGNXNoUG1zcURlNTBqeVVLRU8xZTlKVmlfaXZJbXNVb1JudVNWM2hoZ0N4ekp0TWRZOERTV1JIa1RMdHFLN3RLTk9YNzEtTHJvOVAyWk1TUHhnVHFQLTdFZUI?oc=5",
+            "source": "WELT",
+            "published": "22.08., 14:31"
           },
           {
-            "title": "Gold: 5.100 Dollar sind drin - Der Aktionär",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRTQxTUhwalB1M2VhTGplU2lCazEyRTQxSDg0bGsxS0thamFsREI0UUE2a3BJdUxqSkQ4TnRTLVpIblh2SFFzcDBnSXZLampybmFGQmY3b1NLQ0pUaG1oM3hSYmFvUDNnN2tadnU2TVItd2NaME5fdlVnUm9sZmVjTWl4SXMzblliYVVz?oc=5",
+            "title": "Gold und Silber: Eine wirklich spannende Woche - Der Aktionär",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYW9Ya2R3akk1Q0dSQlphT1REbXNTcVBKeGRuV0hPYlRmbkJYNTRTcXNzM0VYVmVSYzFRb3RBcDFUQlFZRjRxOWpGZnU2UVlScVpzNlBCdU5uSWphM0JiVUJjQW9QYUdvc2FzbTdnRVh3eGQzVzZRWDJ2c1FpcXNpTFhaajdBT1JNUTlubWh2VlN1N0d2eElkOUVuMThCc25qb01UOA?oc=5",
             "source": "Der Aktionär",
-            "published": "21.08., 07:26"
+            "published": "22.08., 08:32"
           }
         ]
       }
