@@ -1,8 +1,8 @@
 {
   "is_sample": false,
   "source": "Yahoo Finance Kursdaten + Google News RSS Kontext",
-  "generated_at_utc": "2026-08-23T04:33:35+00:00",
-  "generated_at_vienna": "23.08.2026, 06:33 Uhr",
+  "generated_at_utc": "2026-08-23T16:21:22+00:00",
+  "generated_at_vienna": "23.08.2026, 18:21 Uhr",
   "market_mood_internal": "risk-on",
   "assets": [
     {
@@ -390,32 +390,31 @@
         "confidence": "niedrig",
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
-          "Zinsen/Fed",
           "Regulierung"
         ],
         "bullets": [
           "Der Kurs ist leicht gestiegen: +0.29 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: Zinsen/Fed, Regulierung.",
-          "Wichtigste gefundene Headlines: Leverage Shares -5x Short Nasdaq 100 ETP Securities | XS3373449761 | A4AU1Y - extraETF | Stocks mixed with Nasdaq down; US oil eases on Iran talks - TradingView."
+          "Gefundene Nachrichten-Themen: Regulierung.",
+          "Wichtigste gefundene Headlines: Leverage Shares -5x Short Nasdaq 100 ETP Securities | XS3373449761 | A4AU1Y - extraETF | IncomeShares Nasdaq 100 Options ETP | XS2875105608 | A4A50Q - extraETF."
         ],
         "headlines": [
           {
             "title": "Leverage Shares -5x Short Nasdaq 100 ETP Securities | XS3373449761 | A4AU1Y - extraETF",
             "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmZUhjNmxQU3JodWVkRkFCMUR2M3d0Y0x6NTdOTDNIU0dvWFB2OFBGaUN4UktyMTdaV3hhQ0JsWG1mZUJPSkI5dnJYOC1sRXM1cVNRVElQaFZ5QmRY?oc=5",
             "source": "extraETF",
-            "published": "19.06., 18:15"
+            "published": "20.08., 09:00"
           },
           {
-            "title": "Stocks mixed with Nasdaq down; US oil eases on Iran talks - TradingView",
-            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOG40T2lLUVozdzVQSDR6THYweUVNc1MzaE1sUmFMNVBLR1ZPSEh6YXo3aVhSRTZ6ME82bHp1WHN6VnI2VktGN1VGTnRZU0JJOTh2T0hzanQ2S1hvaW1hUVo5YUJ4dWhZdGI0RnZIOVZaZVplS2RtVVFZX0FwN0czVG1MeWZpOGUxZDVCUi14eVhvblJPOERXZGIwOE9oXzQ5MDdHeFdxcHpMMG1MUER3YzBKZUY4ZFRQX3B1ZlliNnc0WE0?oc=5",
-            "source": "TradingView",
-            "published": "05.08., 09:00"
+            "title": "IncomeShares Nasdaq 100 Options ETP | XS2875105608 | A4A50Q - extraETF",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9pOXp6WnVQUmdKMWRkY1JPdlZxbHU3UnVkclh1OTctTGxtMmliSUV1NUFPUV9RODRsY2tQUTBUOHViZG5uS2hOTVh1MUNnMGFwTllGRGJtMHdBNExs?oc=5",
+            "source": "extraETF",
+            "published": "21.08., 09:00"
           },
           {
-            "title": "Strategy Shares - Strategy Shares NASDAQ 7 HANDL Index ETF kündigt monatliche Dividende an, zahlbar am 14. August 2026 - MarketScreener Deu…",
-            "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOYk9laGhCOEtVZEpEMWtLSWc3NDhOejloRmhDZEpqM3RnMFZSZTRVeDlGZTNBT2lkeTRaUXUyRVpIeHR1Q2FRZ0lyR0F4N3EyV1Z3N0JFOTVOTnJZWFpIVkh3UVpzcmUySUI2c2VFZklhc0VST2N6dXVZR29ZOGxYTks5cVZDZi1NTWhNWk9LRi11Wkh1aFZRS3dXaFlmYjJsYnI1dUhrY0Z6a1h3bHlsclQ2WFJRZzBXU281M2lIcFFDbk84b2RUSzRraGV3Q3Y0TS13aHc4TkFBT0IyeWZuRklFWlRsaHlvRlRhSEZmNEtLc2VueWc?oc=5",
+            "title": "Robinhood Markets, Inc. Aktie (A3CVQC) - Kurs Nasdaq - MarketScreener Deutschland",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE80amcwNnlVc3hpMjczenY2YUlKemNBUnFEZ1R5a3hBMF81ckQwNUlxckstYmtWWmxSd083ZXZ1THJzOEVkNTlZUE9OQXc1MkxuS21XNjk1cnFzaUNNTWgxcExJYlFmNkxMN0IzU1NtQy0xenNNdWlTT2ZXbG91dw?oc=5",
             "source": "MarketScreener Deutschland",
-            "published": "12.08., 00:00"
+            "published": "21.08., 09:00"
           },
           {
             "title": "Fidelity Nasdaq Composite Index ETF [Common Shares] Fonds | Kurs | Realtime | Chart - boerse.de",
@@ -1653,13 +1652,12 @@
         "confidence": "niedrig",
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
-          "KI/Tech",
-          "Regulierung"
+          "KI/Tech"
         ],
         "bullets": [
           "Der Kurs ist deutlich gestiegen: +1.22 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: KI/Tech, Regulierung.",
-          "Wichtigste gefundene Headlines: Alphabet Aktie: Google Cloud wächst 82 Prozent - Börse Express | Google Student Hub: Kostenlos Google AI Pro für Studierende - BornCity."
+          "Gefundene Nachrichten-Themen: KI/Tech.",
+          "Wichtigste gefundene Headlines: Alphabet Aktie: Google Cloud wächst 82 Prozent - Börse Express | KI-Hilfe trifft auf 400 GB Speicher: Google verschenkt das Paket ein Jahr lang - CHIP."
         ],
         "headlines": [
           {
@@ -1669,22 +1667,22 @@
             "published": "22.08., 04:00"
           },
           {
+            "title": "KI-Hilfe trifft auf 400 GB Speicher: Google verschenkt das Paket ein Jahr lang - CHIP",
+            "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNeXVLNm5KclJLNzFMaF9JektHTU5USWFNbWY5MGNtaEk0am5XbmN6MGlTc2ViNm84RVR1cmlnckFJSUlUVlJnMnNTaDQzVUhGeXh4eHgyZzh2eDV3NExscVZHUHp1QmszamJGWFRXRmU3Sm80U3Itby1GXzgtakJQa2M4c1JGbTBrbk00UGp6SThKM2htaHBnQzlyNFEzT0Y3czc5WWRDQ2FBOHdQNEJDY3BXMUp3b2xsU2xUWC10NC11d0JqTTlUaUJELTVVaUU3MUVXdUxubTBqamQ2Zl94QVE5LVI1LW14QUZHQzBmOA?oc=5",
+            "source": "CHIP",
+            "published": "23.08., 16:01"
+          },
+          {
             "title": "Google Student Hub: Kostenlos Google AI Pro für Studierende - BornCity",
             "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOX0FLWDhuTTNTa0xheUw4bThpdkdheVRNZFVkVWJtVm1DTEtUaFB2bUhVaXdDMWFjVkxDZVpJbUJwcXhsa3hNR0k5OTZXZE4xVnRMWHpGWGt2OVdXeGJVZ0I1UkVGc3ZucEdiUnJfTzdPbVlUZzE2M0l5cWY3bW1uaGx5NGc0SWFlQ3lHRUY2cw?oc=5",
             "source": "BornCity",
             "published": "21.08., 09:31"
           },
           {
-            "title": "Google Gemini: AI-Plus für Studenten ein Jahr gratis plus neue Lernwerk­zeu­ge - ComputerBase",
-            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdTVlQXlxcURINU1aWUFxeHJQb2EtWmpNUmc0VlhMN2syNzY2Nk42VUlocnhlLVMwZDZVYURtaG41N2NkWDIzRWhPQzZzZFdCRHppRmYyQ1U1SFZ2V2lwN25vZU4xaGkxSm9kZDF1OUlJejhhSzBaTmRXRVJfc3VzMXU4ZE0wdmJ3Z1hFd0Y3YWpMVE5LUFg5RURIdVQzOE1YajBVamZlM1Z6dHhEMzZBU3h0YndNbTdzNHd2Y0ZR?oc=5",
-            "source": "ComputerBase",
-            "published": "20.08., 14:32"
-          },
-          {
-            "title": "(3⁺) Google-Deal katapultiert MARVELL-Aktie nach oben - stock3",
-            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYThaOGtCUkd1d1N5eVUzaUpfWTdvOElQT1VGNmw0S054N3VCMkFMNHlaVVNBbkQwNDY0QjZfNDJNcGdMVk40VHdLckdERXQ3Z3VucWd0RFJyTHItOXpCZEFlSWZyRWdSY09CRVlHRHFnSG1NbWJvWkhGbnZGV0xMUFFmOGtEZTBz?oc=5",
-            "source": "stock3",
-            "published": "20.08., 12:15"
+            "title": "Google AI Plus Studentenangebot: KI-Abo 1 Jahr kostenlos - klamm.de",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWFhZWXNlWm02ckhqWm1iX1c1b09qUV9WWWFQSUFtcmIxMi1TaFlINjRYdlQyUEhtZXFpUmk2VzFsLUlVVXdtQzlLZUZaLTQxMW9EbXVjaEFaclN2UktaMzltWEQ3RXZJclAyMWJ0aFUwX1ViQVdrV09mSjZFTTZEcUVHREpaY0xGY3plUFlEMFlNeVdvNnYyelpraDdsQQ?oc=5",
+            "source": "klamm.de",
+            "published": "19.08., 21:22"
           }
         ]
       }
@@ -2075,37 +2073,38 @@
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
           "US-Dollar",
-          "Regulierung"
+          "Geopolitik/Sicherheit",
+          "Gewinne/Analysten"
         ],
         "bullets": [
           "Der Kurs ist deutlich gestiegen: +3.64 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: US-Dollar, Regulierung.",
-          "Wichtigste gefundene Headlines: Gold: 4.661,60 Dollar nach Bessent-Intervention - Börse Express | Flucht aus dem Dollar – die neuen Dimensionen des globalen Goldrausches - WELT."
+          "Gefundene Nachrichten-Themen: US-Dollar, Geopolitik/Sicherheit, Gewinne/Analysten.",
+          "Wichtigste gefundene Headlines: Gold auf Dreimonatshoch: Warum jetzt 5.000 US-Dollar möglich sind - Wallstreet Online | Gold: 4.655,90 Dollar nach Ausbruch - Börse Express."
         ],
         "headlines": [
           {
-            "title": "Gold: 4.661,60 Dollar nach Bessent-Intervention - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWXRfMl9fdXJBUnNmbGpKRlNYek9YTEMzbzlIZUE0VG00OTJtZklFeDBob2s0cExJLWNselpsSjJka3BfOVhER2hiYzc1U3NrdFNEMXdJREZzNkxpTllEWjBHY0lsV2pIV0VLNFJvQ3ZCVUFhMzJITE1rbHp0ajZhLWxKbVBkVFVLaGVZUW1QZnhXaUV2TW45TS1kU1E?oc=5",
-            "source": "Börse Express",
-            "published": "22.08., 09:38"
-          },
-          {
-            "title": "Flucht aus dem Dollar – die neuen Dimensionen des globalen Goldrausches - WELT",
-            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZ0s5UHRuMXNIODhvUXJGZmVWNWhuRGJCR3lqYU1HRmlaMXJ0dmpVUW4wczFtUlB6bENZa25EQnkwT2wtcU1PQndEeXBFN0RrR0VPcnJzazRhTDZBeGpEMDFqVDh0UXJiWnplSEE2SjVMbjlGNXNoUG1zcURlNTBqeVVLRU8xZTlKVmlfaXZJbXNVb1JudVNWM2hoZ0N4ekp0TWRZOERTV1JIa1RMdHFLN3RLTk9YNzEtTHJvOVAyWk1TUHhnVHFQLTdFZUI?oc=5",
-            "source": "WELT",
-            "published": "22.08., 14:31"
-          },
-          {
-            "title": "Goldpreisprognose 2026: Jetzt 6.000 statt 5.000 US-Dollar für Gold? - Wallstreet Online",
-            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcXdwQmxKVTRrdVdhS0FzdUFrQ2FZbDNsS2RfWDg0c2IwSXpFNU5iMTRHdGxZeEZmeDNwM1NPSF9iNzM5LUhuTlUxaXNWMG04enczNUxmN3E4TmxLSlZGQ1lpUVc1QkZ2OTdoNFZTenZvcVNmeVJQZTVYRUE5Wk9sbDZjOHBqUTQ4VEFoVkRSY0Z0RUsteUZDSzVYM1huaF9zdG1udE4yUDRxTWl4VzNQQkJRYWFLWXVFOGRUVVFISWc?oc=5",
+            "title": "Gold auf Dreimonatshoch: Warum jetzt 5.000 US-Dollar möglich sind - Wallstreet Online",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUXVESzhiQkwtN3A4RF9WQUE1SWpCSWdmVEppSnFzVk1hV3VnNkJJU25HNEN4OFd5aEphVFFJZ1FuelVPb1VMYVJORjk2Z2J2QmNyYUVDVDI5VDh2TjFxQ0NhVWFIVUZoSWNsUlJUUXpDLVNLMGR2bGlKYXJkN1ZSRDU1UFJSMG9DUERMc2hTMnQ?oc=5",
             "source": "Wallstreet Online",
-            "published": "22.08., 13:04"
+            "published": "23.08., 07:43"
           },
           {
-            "title": "Gold: 5.100 Dollar sind drin - Der Aktionär",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRTQxTUhwalB1M2VhTGplU2lCazEyRTQxSDg0bGsxS0thamFsREI0UUE2a3BJdUxqSkQ4TnRTLVpIblh2SFFzcDBnSXZLampybmFGQmY3b1NLQ0pUaG1oM3hSYmFvUDNnN2tadnU2TVItd2NaME5fdlVnUm9sZmVjTWl4SXMzblliYVVz?oc=5",
-            "source": "Der Aktionär",
-            "published": "21.08., 07:26"
+            "title": "Gold: 4.655,90 Dollar nach Ausbruch - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONkVBaUc4NWlQdGtrUS1pTG55VnhPWlVCalNmWVhqUGcxN1VpM2hMYWJWMUtiYUhoa2JoS3JHeXlpeDAxR214dnM2Z0JvSnR0eGoySWh1TUtlTzJNRWZMLXdERWtjcUZVbWRHWTRtaXlKQlVHMnhVeUtNZ1JhS3FSdkc5MHN6R2wxYzFHRg?oc=5",
+            "source": "Börse Express",
+            "published": "21.08., 15:22"
+          },
+          {
+            "title": "Nächstes Ziel: 5000 Dollar - Analysten sehen beim Goldpreis weiterhin Potenzial - Börse Online",
+            "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPa0NnUHMtOERRU091ekNCNnNheTNkRkhGYmVQNVYwUmJrMlJDcGk4Z3BZdTZNbEE4RnBMa2k3VWliRUlRTXhjRzFhRnZTb0tDcEoyTFZIRjB1d1h1ZHRrMDg0S3RJWW54VGxmQm9kMFExcDdfaEJsblFobzlxaGJPT1BzV2tPbFAteHpTRXBDci05LVR6dzRpZmQ5Y19zdl9yREcxbnZQMGJYbkZQTlpRcHJVOXlycTM2MTVLNkNxOWhtSjkzU21ucnVuT1gxRXJfSHZRc3VlTGFYdw?oc=5",
+            "source": "Börse Online",
+            "published": "23.08., 11:02"
+          },
+          {
+            "title": "Gold: 4.661,60 Dollar nach Bessents Rückkauf-Verdopplung - Finanztrends",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRUVFYWpRYXloNHRMUlVDTlB2TlVNZDRJOHhzdnRrOHFuV256dzlqcUZ2U0M3N2Z3c2dnbUgyZHRWSkU0OWdvRWJEMUc0Vkwwc09KSzl5M3I0SVdvRzl5UmZSYlBWNXliR0tvaFNkeW45V2FLNFExV3FBMkxRZk5JbDJXQkhJVW5QVVhrV3BjaDM3ajA?oc=5",
+            "source": "Finanztrends",
+            "published": "23.08., 14:09"
           }
         ]
       }
