@@ -1,9 +1,9 @@
 {
   "is_sample": false,
   "source": "Yahoo Finance Kursdaten + Google News RSS Kontext",
-  "generated_at_utc": "2026-08-22T16:19:54+00:00",
-  "generated_at_vienna": "22.08.2026, 18:19 Uhr",
-  "market_mood_internal": "neutral",
+  "generated_at_utc": "2026-08-23T04:33:35+00:00",
+  "generated_at_vienna": "23.08.2026, 06:33 Uhr",
+  "market_mood_internal": "risk-on",
   "assets": [
     {
       "name": "MSCI World",
@@ -12,22 +12,18 @@
       "currency": "EUR",
       "description": "iShares Core MSCI World UCITS ETF als handelbarer Developed-Markets-Proxy",
       "price_decimals": 2,
-      "last_date": "2026-08-20",
-      "last_close": 126.1449966430664,
-      "previous_close": 126.9749984741211,
-      "change_abs": -0.83,
-      "change_pct": -0.65,
-      "change_5d_pct": -2.51,
-      "change_1m_pct": 0.12,
-      "change_3m_pct": 2.14,
+      "last_date": "2026-08-21",
+      "last_close": 126.50499725341797,
+      "previous_close": 126.1449966430664,
+      "change_abs": 0.36,
+      "change_pct": 0.29,
+      "change_5d_pct": -1.83,
+      "change_1m_pct": 1.65,
+      "change_3m_pct": 2.75,
       "change_1y_pct": null,
-      "ytd_pct": 12.86,
-      "volatility_30d_pct": 9.89,
+      "ytd_pct": 13.18,
+      "volatility_30d_pct": 9.87,
       "sparkline": [
-        {
-          "date": "2026-04-16",
-          "close": 115.31999969482422
-        },
         {
           "date": "2026-04-17",
           "close": 116.69999694824219
@@ -383,18 +379,22 @@
         {
           "date": "2026-08-20",
           "close": 126.1449966430664
+        },
+        {
+          "date": "2026-08-21",
+          "close": 126.50499725341797
         }
       ],
       "explanation": {
-        "direction": "gefallen",
-        "confidence": "mittel",
-        "summary": "Plausibler Nachrichtenbezug: Der Kurs ist gefallen und die gefundenen Schlagzeilen enthalten überwiegend belastend wirkende Formulierungen. Die Quellen passen damit zur Richtung, beweisen aber keine Kausalität.",
+        "direction": "gestiegen",
+        "confidence": "niedrig",
+        "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
           "Zinsen/Fed",
           "Regulierung"
         ],
         "bullets": [
-          "Der Kurs ist spürbar gefallen: -0.65 % gegenüber dem vorherigen Schlusskurs.",
+          "Der Kurs ist leicht gestiegen: +0.29 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: Zinsen/Fed, Regulierung.",
           "Wichtigste gefundene Headlines: Leverage Shares -5x Short Nasdaq 100 ETP Securities | XS3373449761 | A4AU1Y - extraETF | Stocks mixed with Nasdaq down; US oil eases on Iran talks - TradingView."
         ],
@@ -418,10 +418,10 @@
             "published": "12.08., 00:00"
           },
           {
-            "title": "(3⁺) NASDAQ – Der Index fällt, was bleibt? - stock3",
-            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9mUHJ4THhrY293c0VSc0dEMWtHb2ZuWUtua0p6QmNYeUFtTmlPc0VjU1NpZWc1LUdzYlNDVlFIQ1BQSUtFcHBUX19Fdzc3M09WczQ1Z3RWS2tyNnUtVzFqQnRzRF9HLTZoZzFrRmJkTVJCYXpvTWc?oc=5",
-            "source": "stock3",
-            "published": "05.06., 09:00"
+            "title": "Fidelity Nasdaq Composite Index ETF [Common Shares] Fonds | Kurs | Realtime | Chart - boerse.de",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMEFfZUlGeTd3SW4zTXFqYzhxTWRocElHY1JOenp3X2Yza3NRQ2NhMjh2d3U3bXcwV3Z5ZENJeWZVZEM5elVEYjFBTHJUNkExaFJ2aTU4VzRJTHVObFlmcS1UZTliU2tSVnhnTmFFSmVONFdMX1pRazNJLTI0WlBoNzdQem1Vc3lDXzJzR1dHZ3NNRzdf?oc=5",
+            "source": "boerse.de",
+            "published": "13.05., 05:34"
           }
         ]
       }
@@ -433,22 +433,18 @@
       "currency": "EUR",
       "description": "iShares Core MSCI EM IMI UCITS ETF als Emerging-Markets-Proxy",
       "price_decimals": 2,
-      "last_date": "2026-08-20",
-      "last_close": 46.62099838256836,
-      "previous_close": 46.534000396728516,
-      "change_abs": 0.09,
-      "change_pct": 0.19,
-      "change_5d_pct": -1.85,
-      "change_1m_pct": -0.05,
-      "change_3m_pct": -1.65,
+      "last_date": "2026-08-21",
+      "last_close": 47.15399932861328,
+      "previous_close": 46.62099838256836,
+      "change_abs": 0.53,
+      "change_pct": 1.14,
+      "change_5d_pct": -0.06,
+      "change_1m_pct": 2.14,
+      "change_3m_pct": -1.38,
       "change_1y_pct": null,
-      "ytd_pct": 21.57,
-      "volatility_30d_pct": 21.35,
+      "ytd_pct": 22.96,
+      "volatility_30d_pct": 21.63,
       "sparkline": [
-        {
-          "date": "2026-04-16",
-          "close": 43.47700119018555
-        },
         {
           "date": "2026-04-17",
           "close": 44.36000061035156
@@ -804,6 +800,10 @@
         {
           "date": "2026-08-20",
           "close": 46.62099838256836
+        },
+        {
+          "date": "2026-08-21",
+          "close": 47.15399932861328
         }
       ],
       "explanation": {
@@ -815,7 +815,7 @@
           "China/EM"
         ],
         "bullets": [
-          "Der Kurs ist leicht gestiegen: +0.19 % gegenüber dem vorherigen Schlusskurs.",
+          "Der Kurs ist deutlich gestiegen: +1.14 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: US-Dollar, China/EM.",
           "Wichtigste gefundene Headlines: Gold und Silber legen zu, da sich die US-Defizite ausweiten und China seine Goldkäufe erhöht – bei schwächerem Dollar - VT Markets | Schwacher US-Dollar und hohe Defizite: Rückenwind für Emerging Markets? - e-fundresearch.com."
         ],
@@ -854,22 +854,18 @@
       "currency": "EUR",
       "description": "iShares MSCI World Small Cap UCITS ETF als Small-Cap-Proxy",
       "price_decimals": 3,
-      "last_date": "2026-08-20",
-      "last_close": 9.12600040435791,
-      "previous_close": 9.201000213623047,
-      "change_abs": -0.075,
-      "change_pct": -0.82,
-      "change_5d_pct": -2.08,
-      "change_1m_pct": 0.42,
-      "change_3m_pct": 2.86,
+      "last_date": "2026-08-21",
+      "last_close": 9.163999557495117,
+      "previous_close": 9.12600040435791,
+      "change_abs": 0.038,
+      "change_pct": 0.42,
+      "change_5d_pct": -1.75,
+      "change_1m_pct": 1.73,
+      "change_3m_pct": 3.3,
       "change_1y_pct": null,
-      "ytd_pct": 17.3,
-      "volatility_30d_pct": 10.24,
+      "ytd_pct": 17.79,
+      "volatility_30d_pct": 10.29,
       "sparkline": [
-        {
-          "date": "2026-04-16",
-          "close": 8.39900016784668
-        },
         {
           "date": "2026-04-17",
           "close": 8.559000015258789
@@ -1225,10 +1221,14 @@
         {
           "date": "2026-08-20",
           "close": 9.12600040435791
+        },
+        {
+          "date": "2026-08-21",
+          "close": 9.163999557495117
         }
       ],
       "explanation": {
-        "direction": "gefallen",
+        "direction": "gestiegen",
         "confidence": "niedrig",
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
@@ -1236,7 +1236,7 @@
           "China/EM"
         ],
         "bullets": [
-          "Der Kurs ist spürbar gefallen: -0.82 % gegenüber dem vorherigen Schlusskurs.",
+          "Der Kurs ist spürbar gestiegen: +0.42 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: Zinsen/Fed, China/EM.",
           "Wichtigste gefundene Headlines: Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraETF | US Small Caps sind bereit für die Aufholjagd - e-fundresearch.com."
         ],
@@ -1675,16 +1675,16 @@
             "published": "21.08., 09:31"
           },
           {
-            "title": "Google AI Plus Studentenangebot: KI-Abo 1 Jahr kostenlos - klamm.de",
-            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWFhZWXNlWm02ckhqWm1iX1c1b09qUV9WWWFQSUFtcmIxMi1TaFlINjRYdlQyUEhtZXFpUmk2VzFsLUlVVXdtQzlLZUZaLTQxMW9EbXVjaEFaclN2UktaMzltWEQ3RXZJclAyMWJ0aFUwX1ViQVdrV09mSjZFTTZEcUVHREpaY0xGY3plUFlEMFlNeVdvNnYyelpraDdsQQ?oc=5",
-            "source": "klamm.de",
-            "published": "19.08., 21:22"
-          },
-          {
             "title": "Google Gemini: AI-Plus für Studenten ein Jahr gratis plus neue Lernwerk­zeu­ge - ComputerBase",
             "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdTVlQXlxcURINU1aWUFxeHJQb2EtWmpNUmc0VlhMN2syNzY2Nk42VUlocnhlLVMwZDZVYURtaG41N2NkWDIzRWhPQzZzZFdCRHppRmYyQ1U1SFZ2V2lwN25vZU4xaGkxSm9kZDF1OUlJejhhSzBaTmRXRVJfc3VzMXU4ZE0wdmJ3Z1hFd0Y3YWpMVE5LUFg5RURIdVQzOE1YajBVamZlM1Z6dHhEMzZBU3h0YndNbTdzNHd2Y0ZR?oc=5",
             "source": "ComputerBase",
             "published": "20.08., 14:32"
+          },
+          {
+            "title": "(3⁺) Google-Deal katapultiert MARVELL-Aktie nach oben - stock3",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYThaOGtCUkd1d1N5eVUzaUpfWTdvOElQT1VGNmw0S054N3VCMkFMNHlaVVNBbkQwNDY0QjZfNDJNcGdMVk40VHdLckdERXQ3Z3VucWd0RFJyTHItOXpCZEFlSWZyRWdSY09CRVlHRHFnSG1NbWJvWkhGbnZGV0xMUFFmOGtEZTBz?oc=5",
+            "source": "stock3",
+            "published": "20.08., 12:15"
           }
         ]
       }
@@ -1697,16 +1697,16 @@
       "description": "Goldpreis, primär über Gold-Future, fallback XAU/USD",
       "price_decimals": 2,
       "last_date": "2026-08-21",
-      "last_close": 4624.10009765625,
+      "last_close": 4680.60009765625,
       "previous_close": 4516.2998046875,
-      "change_abs": 107.8,
-      "change_pct": 2.39,
-      "change_5d_pct": 5.56,
-      "change_1m_pct": 14.27,
-      "change_3m_pct": 1.86,
+      "change_abs": 164.3,
+      "change_pct": 3.64,
+      "change_5d_pct": 6.85,
+      "change_1m_pct": 15.67,
+      "change_3m_pct": 3.1,
       "change_1y_pct": null,
-      "ytd_pct": 6.9,
-      "volatility_30d_pct": 23.51,
+      "ytd_pct": 8.21,
+      "volatility_30d_pct": 24.68,
       "sparkline": [
         {
           "date": "2026-04-15",
@@ -2066,7 +2066,7 @@
         },
         {
           "date": "2026-08-21",
-          "close": 4624.10009765625
+          "close": 4680.60009765625
         }
       ],
       "explanation": {
@@ -2078,9 +2078,9 @@
           "Regulierung"
         ],
         "bullets": [
-          "Der Kurs ist deutlich gestiegen: +2.39 % gegenüber dem vorherigen Schlusskurs.",
+          "Der Kurs ist deutlich gestiegen: +3.64 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: US-Dollar, Regulierung.",
-          "Wichtigste gefundene Headlines: Gold: 4.661,60 Dollar nach Bessent-Intervention - Börse Express | Goldpreisprognose 2026: Jetzt 6.000 statt 5.000 US-Dollar für Gold? - Wallstreet Online."
+          "Wichtigste gefundene Headlines: Gold: 4.661,60 Dollar nach Bessent-Intervention - Börse Express | Flucht aus dem Dollar – die neuen Dimensionen des globalen Goldrausches - WELT."
         ],
         "headlines": [
           {
@@ -2090,22 +2090,22 @@
             "published": "22.08., 09:38"
           },
           {
-            "title": "Goldpreisprognose 2026: Jetzt 6.000 statt 5.000 US-Dollar für Gold? - Wallstreet Online",
-            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcXdwQmxKVTRrdVdhS0FzdUFrQ2FZbDNsS2RfWDg0c2IwSXpFNU5iMTRHdGxZeEZmeDNwM1NPSF9iNzM5LUhuTlUxaXNWMG04enczNUxmN3E4TmxLSlZGQ1lpUVc1QkZ2OTdoNFZTenZvcVNmeVJQZTVYRUE5Wk9sbDZjOHBqUTQ4VEFoVkRSY0Z0RUsteUZDSzVYM1huaF9zdG1udE4yUDRxTWl4VzNQQkJRYWFLWXVFOGRUVVFISWc?oc=5",
-            "source": "Wallstreet Online",
-            "published": "22.08., 13:04"
-          },
-          {
             "title": "Flucht aus dem Dollar – die neuen Dimensionen des globalen Goldrausches - WELT",
             "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZ0s5UHRuMXNIODhvUXJGZmVWNWhuRGJCR3lqYU1HRmlaMXJ0dmpVUW4wczFtUlB6bENZa25EQnkwT2wtcU1PQndEeXBFN0RrR0VPcnJzazRhTDZBeGpEMDFqVDh0UXJiWnplSEE2SjVMbjlGNXNoUG1zcURlNTBqeVVLRU8xZTlKVmlfaXZJbXNVb1JudVNWM2hoZ0N4ekp0TWRZOERTV1JIa1RMdHFLN3RLTk9YNzEtTHJvOVAyWk1TUHhnVHFQLTdFZUI?oc=5",
             "source": "WELT",
             "published": "22.08., 14:31"
           },
           {
-            "title": "Gold und Silber: Eine wirklich spannende Woche - Der Aktionär",
-            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYW9Ya2R3akk1Q0dSQlphT1REbXNTcVBKeGRuV0hPYlRmbkJYNTRTcXNzM0VYVmVSYzFRb3RBcDFUQlFZRjRxOWpGZnU2UVlScVpzNlBCdU5uSWphM0JiVUJjQW9QYUdvc2FzbTdnRVh3eGQzVzZRWDJ2c1FpcXNpTFhaajdBT1JNUTlubWh2VlN1N0d2eElkOUVuMThCc25qb01UOA?oc=5",
+            "title": "Goldpreisprognose 2026: Jetzt 6.000 statt 5.000 US-Dollar für Gold? - Wallstreet Online",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcXdwQmxKVTRrdVdhS0FzdUFrQ2FZbDNsS2RfWDg0c2IwSXpFNU5iMTRHdGxZeEZmeDNwM1NPSF9iNzM5LUhuTlUxaXNWMG04enczNUxmN3E4TmxLSlZGQ1lpUVc1QkZ2OTdoNFZTenZvcVNmeVJQZTVYRUE5Wk9sbDZjOHBqUTQ4VEFoVkRSY0Z0RUsteUZDSzVYM1huaF9zdG1udE4yUDRxTWl4VzNQQkJRYWFLWXVFOGRUVVFISWc?oc=5",
+            "source": "Wallstreet Online",
+            "published": "22.08., 13:04"
+          },
+          {
+            "title": "Gold: 5.100 Dollar sind drin - Der Aktionär",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRTQxTUhwalB1M2VhTGplU2lCazEyRTQxSDg0bGsxS0thamFsREI0UUE2a3BJdUxqSkQ4TnRTLVpIblh2SFFzcDBnSXZLampybmFGQmY3b1NLQ0pUaG1oM3hSYmFvUDNnN2tadnU2TVItd2NaME5fdlVnUm9sZmVjTWl4SXMzblliYVVz?oc=5",
             "source": "Der Aktionär",
-            "published": "22.08., 08:32"
+            "published": "21.08., 07:26"
           }
         ]
       }
