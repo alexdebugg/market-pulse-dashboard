@@ -1,8 +1,8 @@
 {
   "is_sample": false,
   "source": "Yahoo Finance Kursdaten + Google News RSS Kontext",
-  "generated_at_utc": "2026-08-23T16:21:22+00:00",
-  "generated_at_vienna": "23.08.2026, 18:21 Uhr",
+  "generated_at_utc": "2026-08-24T04:41:04+00:00",
+  "generated_at_vienna": "24.08.2026, 06:41 Uhr",
   "market_mood_internal": "risk-on",
   "assets": [
     {
@@ -816,15 +816,9 @@
         "bullets": [
           "Der Kurs ist deutlich gestiegen: +1.14 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: US-Dollar, China/EM.",
-          "Wichtigste gefundene Headlines: Gold und Silber legen zu, da sich die US-Defizite ausweiten und China seine Goldkäufe erhöht – bei schwächerem Dollar - VT Markets | Schwacher US-Dollar und hohe Defizite: Rückenwind für Emerging Markets? - e-fundresearch.com."
+          "Wichtigste gefundene Headlines: Schwacher US-Dollar und hohe Defizite: Rückenwind für Emerging Markets? - e-fundresearch.com | Gold und Silber legen zu, da sich die US-Defizite ausweiten und China seine Goldkäufe erhöht – bei schwächerem Dollar - VT Markets."
         ],
         "headlines": [
-          {
-            "title": "Gold und Silber legen zu, da sich die US-Defizite ausweiten und China seine Goldkäufe erhöht – bei schwächerem Dollar - VT Markets",
-            "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOWmFDUmJaLVAzRk1rckZOQWk3WDYxazhEaGF5dGlSYk94WDFBVmFabm0teWlsU3k0WEFiRFV5TDItSTVPOGM5cTlveWZrbjhmcER6VmEyOHFCQkVTOGlEeldSYmUxRndyRmRTZlZxSm9UTXVfLTM5ZGttSEFQNEJvOGl3RTkxRGxKVlJVYkRQNmNxWGQ0NU40OXBYMlZBcmJGLUFyNUw1Y29rYW9rZzZ5b01JNFZ1dTZPclNGWFNjQmpoX05wWWdzbXFQSVZUZlZWWFZHNGZ2UVVBV29Na2JKYlVCekduYzNaVERKYUdqWjliQQ?oc=5",
-            "source": "VT Markets",
-            "published": "18.08., 19:10"
-          },
           {
             "title": "Schwacher US-Dollar und hohe Defizite: Rückenwind für Emerging Markets? - e-fundresearch.com",
             "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdW5LT0NkQVByWUhHM2JvRDZVWERXUW5RWnpWcEpzVVNxRDA2QzgwTEJBQ3p4Y2lYU1NEelhUa1hUZzJyUDg4SnJPTXVmQUppQzRoalhkVURTWEJtaHZ1Zk1MMHNXekE0ZkpyM2x4aTI3UmU0bkU3REl6NXYyVnZIWWxCckFXT3pKaVdvQlp0cFQxMmpPS3lTN0U4ajBWTHd0NGJHVFI2T0Nhc3hhQ2ZSQkJqclRfaWZYMUVEaERfYXcxdklzYXlvRXY5c2R3ZHJDVUpjZmt4TXlQYWNxSHhCSE83cGVjQzc2Nnc?oc=5",
@@ -832,16 +826,22 @@
             "published": "25.11., 09:00"
           },
           {
-            "title": "Pictet AM-Chef-Volkswirt: Schwellenländer trotzem dem Ölpreis-Schock - das investment",
-            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQb2NVdHJNOWZLRDdjRjJyZmFIUFd0emRuc21NelZlWmJ5SEN1U0psbTRzNnhweHhhU3ZIb1V6SFNmQUEzX1JWYUIwSTNDSng1YmxBN3RJSmRPSDR1eHI1WWhRakt6X0YxOGQ4cjhnZ0JGbmVVMnFJVEpGTXFQUi0yWExyc2NJeFZtNFBETm1GalVNSE5ZYURQUnFQRQ?oc=5",
-            "source": "das investment",
-            "published": "31.07., 09:00"
+            "title": "Gold und Silber legen zu, da sich die US-Defizite ausweiten und China seine Goldkäufe erhöht – bei schwächerem Dollar - VT Markets",
+            "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOWmFDUmJaLVAzRk1rckZOQWk3WDYxazhEaGF5dGlSYk94WDFBVmFabm0teWlsU3k0WEFiRFV5TDItSTVPOGM5cTlveWZrbjhmcER6VmEyOHFCQkVTOGlEeldSYmUxRndyRmRTZlZxSm9UTXVfLTM5ZGttSEFQNEJvOGl3RTkxRGxKVlJVYkRQNmNxWGQ0NU40OXBYMlZBcmJGLUFyNUw1Y29rYW9rZzZ5b01JNFZ1dTZPclNGWFNjQmpoX05wWWdzbXFQSVZUZlZWWFZHNGZ2UVVBV29Na2JKYlVCekduYzNaVERKYUdqWjliQQ?oc=5",
+            "source": "VT Markets",
+            "published": "18.08., 19:10"
           },
           {
             "title": "iShares MSCI EM ex China: Allzeithoch bei 99,78 USD - Börse Express",
             "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVHg5cHVfWE8tQ2tteTRVS0liN0NxX3dtaHhWcDRXdmZBNE1ac3JBVEI3VW5BMHFRM01xVGpNSFowb2hhQlBlZUhDS1gzNnUtOWdCdGpkZmQyWjQ2Sk9yMXlCOUU2MU5DWmFnZmJRUjQydGZWSE9ycjR3dDY2OEZTUktZOUxodXU1S3JGcC1sZW9qQnBTbFdTVGMxcTdYTjZTZFFZ?oc=5",
             "source": "Börse Express",
             "published": "26.05., 09:00"
+          },
+          {
+            "title": "Pictet AM-Chef-Volkswirt: Schwellenländer trotzem dem Ölpreis-Schock - das investment",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQb2NVdHJNOWZLRDdjRjJyZmFIUFd0emRuc21NelZlWmJ5SEN1U0psbTRzNnhweHhhU3ZIb1V6SFNmQUEzX1JWYUIwSTNDSng1YmxBN3RJSmRPSDR1eHI1WWhRakt6X0YxOGQ4cjhnZ0JGbmVVMnFJVEpGTXFQUi0yWExyc2NJeFZtNFBETm1GalVNSE5ZYURQUnFQRQ?oc=5",
+            "source": "das investment",
+            "published": "31.07., 09:00"
           }
         ]
       }
@@ -1652,14 +1652,21 @@
         "confidence": "niedrig",
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
-          "KI/Tech"
+          "KI/Tech",
+          "Geopolitik/Sicherheit"
         ],
         "bullets": [
           "Der Kurs ist deutlich gestiegen: +1.22 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: KI/Tech.",
-          "Wichtigste gefundene Headlines: Alphabet Aktie: Google Cloud wächst 82 Prozent - Börse Express | KI-Hilfe trifft auf 400 GB Speicher: Google verschenkt das Paket ein Jahr lang - CHIP."
+          "Gefundene Nachrichten-Themen: KI/Tech, Geopolitik/Sicherheit.",
+          "Wichtigste gefundene Headlines: Google AI: Kostenlos für Studierende weltweit für 12 Monate - BornCity | Alphabet Aktie: Google Cloud wächst 82 Prozent - Börse Express."
         ],
         "headlines": [
+          {
+            "title": "Google AI: Kostenlos für Studierende weltweit für 12 Monate - BornCity",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeVpZby1zSEN0aFlhRk5MNlhWV3ZFWW9fMXBubkV1ZXV0NDRqU3JSNDkwODZTdVJveFBqMXloamdheUFHQnZQOW5JLTBZX2s5aExBMHpvTEVPZzgzU2xIbjFaYmhLMnpkSHlPNkVBbTA4Q1VfQWRwWTN3bHdRY2pwOHJBamNjUC1lSlFFSkNtS0s?oc=5",
+            "source": "BornCity",
+            "published": "23.08., 19:07"
+          },
           {
             "title": "Alphabet Aktie: Google Cloud wächst 82 Prozent - Börse Express",
             "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNTcwMDVPMUpRS0R2UDVvWEhEUnphb0JrRnFGSnU2cE5CM1VSbnFRajZHN0Etc1hmMjZLOVVQR21tYWpaYm16ZmQ4UGllWTZ6VlFLbkJveWplckdxU01fVnhuLUdqYldwaW9EZFc5X013bThsLWl0UXpxdi05MExCME5hdld4UTIwWGpjNEpWbmIzdV9FdVNHOEpwTVNMbG8?oc=5",
@@ -1667,22 +1674,16 @@
             "published": "22.08., 04:00"
           },
           {
+            "title": "Marvell: 12,2 Milliarden Warrant-Deal mit Alphabet - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQN0Fra0ljc3dEM1JuaTBTNy1xd285eHM2dHRtdmFXckMtNl91RDBaWlo0NGNSSGN2bVBSZjFkMHlzdWl1SFA2RFVkTEllY0MwVDIyWFAyQ1E1S2VoNW1lZUJWNjhiT2Q5eGp2bXdmdzJSRXQybHVCVmFHSDdsTlhVaHIxdk9rMldNTGZZRGRHN3p0WXBDcnlPTDJjRTRyWlV5UHc?oc=5",
+            "source": "Börse Express",
+            "published": "24.08., 04:33"
+          },
+          {
             "title": "KI-Hilfe trifft auf 400 GB Speicher: Google verschenkt das Paket ein Jahr lang - CHIP",
             "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNeXVLNm5KclJLNzFMaF9JektHTU5USWFNbWY5MGNtaEk0am5XbmN6MGlTc2ViNm84RVR1cmlnckFJSUlUVlJnMnNTaDQzVUhGeXh4eHgyZzh2eDV3NExscVZHUHp1QmszamJGWFRXRmU3Sm80U3Itby1GXzgtakJQa2M4c1JGbTBrbk00UGp6SThKM2htaHBnQzlyNFEzT0Y3czc5WWRDQ2FBOHdQNEJDY3BXMUp3b2xsU2xUWC10NC11d0JqTTlUaUJELTVVaUU3MUVXdUxubTBqamQ2Zl94QVE5LVI1LW14QUZHQzBmOA?oc=5",
             "source": "CHIP",
             "published": "23.08., 16:01"
-          },
-          {
-            "title": "Google Student Hub: Kostenlos Google AI Pro für Studierende - BornCity",
-            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOX0FLWDhuTTNTa0xheUw4bThpdkdheVRNZFVkVWJtVm1DTEtUaFB2bUhVaXdDMWFjVkxDZVpJbUJwcXhsa3hNR0k5OTZXZE4xVnRMWHpGWGt2OVdXeGJVZ0I1UkVGc3ZucEdiUnJfTzdPbVlUZzE2M0l5cWY3bW1uaGx5NGc0SWFlQ3lHRUY2cw?oc=5",
-            "source": "BornCity",
-            "published": "21.08., 09:31"
-          },
-          {
-            "title": "Google AI Plus Studentenangebot: KI-Abo 1 Jahr kostenlos - klamm.de",
-            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWFhZWXNlWm02ckhqWm1iX1c1b09qUV9WWWFQSUFtcmIxMi1TaFlINjRYdlQyUEhtZXFpUmk2VzFsLUlVVXdtQzlLZUZaLTQxMW9EbXVjaEFaclN2UktaMzltWEQ3RXZJclAyMWJ0aFUwX1ViQVdrV09mSjZFTTZEcUVHREpaY0xGY3plUFlEMFlNeVdvNnYyelpraDdsQQ?oc=5",
-            "source": "klamm.de",
-            "published": "19.08., 21:22"
           }
         ]
       }
@@ -1694,22 +1695,18 @@
       "currency": "USD/oz",
       "description": "Goldpreis, primär über Gold-Future, fallback XAU/USD",
       "price_decimals": 2,
-      "last_date": "2026-08-21",
-      "last_close": 4680.60009765625,
-      "previous_close": 4516.2998046875,
-      "change_abs": 164.3,
-      "change_pct": 3.64,
-      "change_5d_pct": 6.85,
-      "change_1m_pct": 15.67,
-      "change_3m_pct": 3.1,
+      "last_date": "2026-08-24",
+      "last_close": 4694.7998046875,
+      "previous_close": 4624.10009765625,
+      "change_abs": 70.7,
+      "change_pct": 1.53,
+      "change_5d_pct": 6.27,
+      "change_1m_pct": 15.42,
+      "change_3m_pct": 3.84,
       "change_1y_pct": null,
-      "ytd_pct": 8.21,
-      "volatility_30d_pct": 24.68,
+      "ytd_pct": 8.54,
+      "volatility_30d_pct": 21.9,
       "sparkline": [
-        {
-          "date": "2026-04-15",
-          "close": 4800.0
-        },
         {
           "date": "2026-04-16",
           "close": 4785.39990234375
@@ -2064,7 +2061,11 @@
         },
         {
           "date": "2026-08-21",
-          "close": 4680.60009765625
+          "close": 4624.10009765625
+        },
+        {
+          "date": "2026-08-24",
+          "close": 4694.7998046875
         }
       ],
       "explanation": {
@@ -2073,38 +2074,38 @@
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
           "US-Dollar",
-          "Geopolitik/Sicherheit",
-          "Gewinne/Analysten"
+          "Regulierung",
+          "Geopolitik/Sicherheit"
         ],
         "bullets": [
-          "Der Kurs ist deutlich gestiegen: +3.64 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: US-Dollar, Geopolitik/Sicherheit, Gewinne/Analysten.",
-          "Wichtigste gefundene Headlines: Gold auf Dreimonatshoch: Warum jetzt 5.000 US-Dollar möglich sind - Wallstreet Online | Gold: 4.655,90 Dollar nach Ausbruch - Börse Express."
+          "Der Kurs ist deutlich gestiegen: +1.53 % gegenüber dem vorherigen Schlusskurs.",
+          "Gefundene Nachrichten-Themen: US-Dollar, Regulierung, Geopolitik/Sicherheit.",
+          "Wichtigste gefundene Headlines: Gold: Mehrmonatshoch über 4.600 Dollar - Börse Express | Gold auf Dreimonatshoch: Warum jetzt 5.000 US-Dollar möglich sind - Wallstreet Online."
         ],
         "headlines": [
+          {
+            "title": "Gold: Mehrmonatshoch über 4.600 Dollar - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWFhLZHJLdGFNcm1LTzlnT25pZ0JkcjQ0TGstNVNOWnI5UmlVZGtZb1ZQNEdMa19YSmZ3dENZMUtyd19wVWdnbDlIbVRlQVpyWWo1d1pRbmgtVVA1UnhtRkpIR2doXzZ3X2ptQTJtMGF2RDBLWnBwMWhsakxDcjhFT0V2NXA4VTJYUjhVOFJodGtXZnM?oc=5",
+            "source": "Börse Express",
+            "published": "23.08., 18:34"
+          },
           {
             "title": "Gold auf Dreimonatshoch: Warum jetzt 5.000 US-Dollar möglich sind - Wallstreet Online",
             "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUXVESzhiQkwtN3A4RF9WQUE1SWpCSWdmVEppSnFzVk1hV3VnNkJJU25HNEN4OFd5aEphVFFJZ1FuelVPb1VMYVJORjk2Z2J2QmNyYUVDVDI5VDh2TjFxQ0NhVWFIVUZoSWNsUlJUUXpDLVNLMGR2bGlKYXJkN1ZSRDU1UFJSMG9DUERMc2hTMnQ?oc=5",
             "source": "Wallstreet Online",
-            "published": "23.08., 07:43"
-          },
-          {
-            "title": "Gold: 4.655,90 Dollar nach Ausbruch - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONkVBaUc4NWlQdGtrUS1pTG55VnhPWlVCalNmWVhqUGcxN1VpM2hMYWJWMUtiYUhoa2JoS3JHeXlpeDAxR214dnM2Z0JvSnR0eGoySWh1TUtlTzJNRWZMLXdERWtjcUZVbWRHWTRtaXlKQlVHMnhVeUtNZ1JhS3FSdkc5MHN6R2wxYzFHRg?oc=5",
-            "source": "Börse Express",
-            "published": "21.08., 15:22"
-          },
-          {
-            "title": "Nächstes Ziel: 5000 Dollar - Analysten sehen beim Goldpreis weiterhin Potenzial - Börse Online",
-            "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPa0NnUHMtOERRU091ekNCNnNheTNkRkhGYmVQNVYwUmJrMlJDcGk4Z3BZdTZNbEE4RnBMa2k3VWliRUlRTXhjRzFhRnZTb0tDcEoyTFZIRjB1d1h1ZHRrMDg0S3RJWW54VGxmQm9kMFExcDdfaEJsblFobzlxaGJPT1BzV2tPbFAteHpTRXBDci05LVR6dzRpZmQ5Y19zdl9yREcxbnZQMGJYbkZQTlpRcHJVOXlycTM2MTVLNkNxOWhtSjkzU21ucnVuT1gxRXJfSHZRc3VlTGFYdw?oc=5",
-            "source": "Börse Online",
-            "published": "23.08., 11:02"
+            "published": "22.08., 13:29"
           },
           {
             "title": "Gold: 4.661,60 Dollar nach Bessents Rückkauf-Verdopplung - Finanztrends",
             "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRUVFYWpRYXloNHRMUlVDTlB2TlVNZDRJOHhzdnRrOHFuV256dzlqcUZ2U0M3N2Z3c2dnbUgyZHRWSkU0OWdvRWJEMUc0Vkwwc09KSzl5M3I0SVdvRzl5UmZSYlBWNXliR0tvaFNkeW45V2FLNFExV3FBMkxRZk5JbDJXQkhJVW5QVVhrV3BjaDM3ajA?oc=5",
             "source": "Finanztrends",
-            "published": "23.08., 14:09"
+            "published": "23.08., 16:06"
+          },
+          {
+            "title": "Flucht aus dem Dollar – die neuen Dimensionen des globalen Goldrausches - WELT",
+            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZ0s5UHRuMXNIODhvUXJGZmVWNWhuRGJCR3lqYU1HRmlaMXJ0dmpVUW4wczFtUlB6bENZa25EQnkwT2wtcU1PQndEeXBFN0RrR0VPcnJzazRhTDZBeGpEMDFqVDh0UXJiWnplSEE2SjVMbjlGNXNoUG1zcURlNTBqeVVLRU8xZTlKVmlfaXZJbXNVb1JudVNWM2hoZ0N4ekp0TWRZOERTV1JIa1RMdHFLN3RLTk9YNzEtTHJvOVAyWk1TUHhnVHFQLTdFZUI?oc=5",
+            "source": "WELT",
+            "published": "22.08., 14:31"
           }
         ]
       }
