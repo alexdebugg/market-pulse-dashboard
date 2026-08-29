@@ -1,8 +1,8 @@
 {
   "is_sample": false,
   "source": "Yahoo Finance Kursdaten + Google News RSS Kontext",
-  "generated_at_utc": "2026-08-29T00:23:35+00:00",
-  "generated_at_vienna": "29.08.2026, 02:23 Uhr",
+  "generated_at_utc": "2026-08-29T10:46:18+00:00",
+  "generated_at_vienna": "29.08.2026, 12:46 Uhr",
   "market_mood_internal": "neutral",
   "assets": [
     {
@@ -12,22 +12,18 @@
       "currency": "EUR",
       "description": "iShares Core MSCI World UCITS ETF als handelbarer Developed-Markets-Proxy",
       "price_decimals": 2,
-      "last_date": "2026-08-26",
-      "last_close": 126.68000030517578,
-      "previous_close": 126.53500366210938,
-      "change_abs": 0.14,
-      "change_pct": 0.11,
-      "change_5d_pct": -0.23,
-      "change_1m_pct": 1.18,
-      "change_3m_pct": 2.64,
+      "last_date": "2026-08-27",
+      "last_close": 127.12999725341797,
+      "previous_close": 126.68000030517578,
+      "change_abs": 0.45,
+      "change_pct": 0.36,
+      "change_5d_pct": 0.78,
+      "change_1m_pct": 2.23,
+      "change_3m_pct": 2.71,
       "change_1y_pct": null,
-      "ytd_pct": 13.33,
-      "volatility_30d_pct": 9.89,
+      "ytd_pct": 13.74,
+      "volatility_30d_pct": 9.93,
       "sparkline": [
-        {
-          "date": "2026-04-22",
-          "close": 116.56500244140625
-        },
         {
           "date": "2026-04-23",
           "close": 116.95999908447266
@@ -383,6 +379,10 @@
         {
           "date": "2026-08-26",
           "close": 126.68000030517578
+        },
+        {
+          "date": "2026-08-27",
+          "close": 127.12999725341797
         }
       ],
       "explanation": {
@@ -391,19 +391,20 @@
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
           "KI/Tech",
-          "Regulierung"
+          "Regulierung",
+          "Geopolitik/Sicherheit"
         ],
         "bullets": [
-          "Der Kurs ist leicht gestiegen: +0.11 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: KI/Tech, Regulierung.",
-          "Wichtigste gefundene Headlines: S&P, Nasdaq futures slip as markets await Iran sanctions, Nvidia results - MarketScreener Deutschland | Nasdaq erholt sich vor Nvidia-Zahlen; Öl fällt wegen Gesprächen über Hormus, Renditen geben nach - VT Markets."
+          "Der Kurs ist spürbar gestiegen: +0.36 % gegenüber dem vorherigen Schlusskurs.",
+          "Gefundene Nachrichten-Themen: KI/Tech, Regulierung, Geopolitik/Sicherheit.",
+          "Wichtigste gefundene Headlines: Schwellenländer schlagen MSCI World: Experte warnt vor teurem Fehler - Hamburger Abendblatt | Nasdaq erholt sich vor Nvidia-Zahlen; Öl fällt wegen Gesprächen über Hormus, Renditen geben nach - VT Markets."
         ],
         "headlines": [
           {
-            "title": "S&P, Nasdaq futures slip as markets await Iran sanctions, Nvidia results - MarketScreener Deutschland",
-            "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcnRyVFFYUXViTTQ2SzloVkdyY1lWdnBGQVRtOWx6ZzNidHVob0JVd2VTRHZZdDg5cHZxUVMwU1Rsa296ZE9NSWZZSzY0SnlRZndoa2xSV3B6Y0s2bkpxeU9uWjFGclNBTF84TTYtSHczYnJiZ2JIMFhGMUU1RXUxNGJDVWoyMFhHNXAxc1U4Vmlwb3dWMHAzcXZJcjMyZzdaN2hqYmpCVlp4RmE3NVBQVzdybjl2YzVVNm1LN0ZPdmhVX3lEY29vaDNhRExzNVRtT2c?oc=5",
-            "source": "MarketScreener Deutschland",
-            "published": "24.08., 12:11"
+            "title": "Schwellenländer schlagen MSCI World: Experte warnt vor teurem Fehler - Hamburger Abendblatt",
+            "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZS1vR1VUbzB3TTBEVnktS1B0aWxwSFlGbjYzOFB1VUdFZV9ocEM4TEpoQS1Yb1p1OE4tYVZ1U2JBS0dkWWVDZmljYlVEdHZJeDhCZXRnMzBkQ2VBbU0xeWFhcjJWVFF2Q0t6SmtIUk15aEc5bGQ2X1JHTHN3NGN6OVFtT1lMMzRFWkJLeWlTbnU2LU9ad2ZxTEZISUtFXzRGYnFhQUhUOVF0MzQwS0hTaHhXbGU5SkgtSEc3MDFObEI3a0Z1dnpOdlgxMjllNTdqejdLWUNIblI?oc=5",
+            "source": "Hamburger Abendblatt",
+            "published": "29.08., 06:51"
           },
           {
             "title": "Nasdaq erholt sich vor Nvidia-Zahlen; Öl fällt wegen Gesprächen über Hormus, Renditen geben nach - VT Markets",
@@ -433,22 +434,18 @@
       "currency": "EUR",
       "description": "iShares Core MSCI EM IMI UCITS ETF als Emerging-Markets-Proxy",
       "price_decimals": 2,
-      "last_date": "2026-08-26",
-      "last_close": 47.404998779296875,
-      "previous_close": 47.14500045776367,
-      "change_abs": 0.26,
-      "change_pct": 0.55,
-      "change_5d_pct": 1.87,
-      "change_1m_pct": 5.46,
-      "change_3m_pct": -1.33,
+      "last_date": "2026-08-27",
+      "last_close": 47.551998138427734,
+      "previous_close": 47.404998779296875,
+      "change_abs": 0.15,
+      "change_pct": 0.31,
+      "change_5d_pct": 2.0,
+      "change_1m_pct": 7.96,
+      "change_3m_pct": -2.84,
       "change_1y_pct": null,
-      "ytd_pct": 23.62,
-      "volatility_30d_pct": 21.56,
+      "ytd_pct": 24.0,
+      "volatility_30d_pct": 21.27,
       "sparkline": [
-        {
-          "date": "2026-04-22",
-          "close": 44.25400161743164
-        },
         {
           "date": "2026-04-23",
           "close": 44.055999755859375
@@ -804,6 +801,10 @@
         {
           "date": "2026-08-26",
           "close": 47.404998779296875
+        },
+        {
+          "date": "2026-08-27",
+          "close": 47.551998138427734
         }
       ],
       "explanation": {
@@ -812,21 +813,21 @@
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
           "US-Dollar",
+          "Regulierung",
           "China/EM",
-          "Geopolitik/Sicherheit",
-          "Gewinne/Analysten"
+          "Geopolitik/Sicherheit"
         ],
         "bullets": [
-          "Der Kurs ist spürbar gestiegen: +0.55 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: US-Dollar, China/EM, Geopolitik/Sicherheit, Gewinne/Analysten.",
-          "Wichtigste gefundene Headlines: Schwacher US-Dollar und hohe Defizite: Rückenwind für Emerging Markets? - e-fundresearch.com | iShares MSCI EM ex China: Allzeithoch bei 99,78 USD - Börse Express."
+          "Der Kurs ist leicht gestiegen: +0.31 % gegenüber dem vorherigen Schlusskurs.",
+          "Gefundene Nachrichten-Themen: US-Dollar, Regulierung, China/EM, Geopolitik/Sicherheit.",
+          "Wichtigste gefundene Headlines: Emerging Markets Aktien: Generali Investments sieht neue Chancen - e-fundresearch.com | iShares MSCI EM ex China: Allzeithoch bei 99,78 USD - Börse Express."
         ],
         "headlines": [
           {
-            "title": "Schwacher US-Dollar und hohe Defizite: Rückenwind für Emerging Markets? - e-fundresearch.com",
-            "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdW5LT0NkQVByWUhHM2JvRDZVWERXUW5RWnpWcEpzVVNxRDA2QzgwTEJBQ3p4Y2lYU1NEelhUa1hUZzJyUDg4SnJPTXVmQUppQzRoalhkVURTWEJtaHZ1Zk1MMHNXekE0ZkpyM2x4aTI3UmU0bkU3REl6NXYyVnZIWWxCckFXT3pKaVdvQlp0cFQxMmpPS3lTN0U4ajBWTHd0NGJHVFI2T0Nhc3hhQ2ZSQkJqclRfaWZYMUVEaERfYXcxdklzYXlvRXY5c2R3ZHJDVUpjZmt4TXlQYWNxSHhCSE83cGVjQzc2Nnc?oc=5",
+            "title": "Emerging Markets Aktien: Generali Investments sieht neue Chancen - e-fundresearch.com",
+            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQmdld3JNZUs0NEs2RkJ1TFM1ZDE2b2VHZXZBUDR2X2tueHNpQ2lydERPeGxDZktLWDNQSGxFM2tQWDhfa1JNR1dPUlBhYVBNMTlHUlBveFNoXzJuREhCVVpLakNPNzBNNkc0c1dZbnlTcWVRdXV3akpURU92eTk2Mzh4cTIyZjlMU3hrS1ZtMzA3SWVuLUJmSHNlWXRfN3ZtSWpuX2YyRElfXy1QMmNDelRtdEp2SEJJWnF3ZzdGckY2bVctSzFiOEo5MEF0cVFURmwtYlNSbw?oc=5",
             "source": "e-fundresearch.com",
-            "published": "25.11., 09:00"
+            "published": "27.05., 09:00"
           },
           {
             "title": "iShares MSCI EM ex China: Allzeithoch bei 99,78 USD - Börse Express",
@@ -835,10 +836,10 @@
             "published": "26.05., 09:00"
           },
           {
-            "title": "EM-Anleihen: Diese rohstoffreichen Schwellenländer profitieren - das investment",
-            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNGJtcEp3MGtIVGNpekNsNWQtbnNYaHhIS2JyMHhWYUlDai1mRjZuQ1VRVmZ5c3ZDRE5malN3TTBJMTMza2x4MGpWaUszZDNiZlJMWWd4TnM4RmxYQThTSDFlZF9USUNIQU1pVEpqRVhxYnU3WUNkcHdqYVBBQVFhX3FuZWpNSHpLNUp3N3ZDOTBwLXhJTk5iNDRtSnRYMXQzdE5vX2RR?oc=5",
+            "title": "Pictet AM-Chef-Volkswirt: Schwellenländer trotzem dem Ölpreis-Schock - das investment",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQb2NVdHJNOWZLRDdjRjJyZmFIUFd0emRuc21NelZlWmJ5SEN1U0psbTRzNnhweHhhU3ZIb1V6SFNmQUEzX1JWYUIwSTNDSng1YmxBN3RJSmRPSDR1eHI1WWhRakt6X0YxOGQ4cjhnZ0JGbmVVMnFJVEpGTXFQUi0yWExyc2NJeFZtNFBETm1GalVNSE5ZYURQUnFQRQ?oc=5",
             "source": "das investment",
-            "published": "29.05., 09:00"
+            "published": "31.07., 09:00"
           },
           {
             "title": "Kapitalmärkte: Iran-Krieg wird zum Stresstest für die Schwellenländer - Handelsblatt",
@@ -856,22 +857,18 @@
       "currency": "EUR",
       "description": "iShares MSCI World Small Cap UCITS ETF als Small-Cap-Proxy",
       "price_decimals": 3,
-      "last_date": "2026-08-26",
-      "last_close": 9.180000305175781,
-      "previous_close": 9.166999816894531,
-      "change_abs": 0.013,
-      "change_pct": 0.14,
-      "change_5d_pct": -0.23,
-      "change_1m_pct": 1.62,
-      "change_3m_pct": 3.39,
+      "last_date": "2026-08-27",
+      "last_close": 9.196000099182129,
+      "previous_close": 9.180000305175781,
+      "change_abs": 0.016,
+      "change_pct": 0.17,
+      "change_5d_pct": 0.77,
+      "change_1m_pct": 2.81,
+      "change_3m_pct": 3.4,
       "change_1y_pct": null,
-      "ytd_pct": 17.99,
+      "ytd_pct": 18.2,
       "volatility_30d_pct": 10.38,
       "sparkline": [
-        {
-          "date": "2026-04-22",
-          "close": 8.520999908447266
-        },
         {
           "date": "2026-04-23",
           "close": 8.522000312805176
@@ -1227,6 +1224,10 @@
         {
           "date": "2026-08-26",
           "close": 9.180000305175781
+        },
+        {
+          "date": "2026-08-27",
+          "close": 9.196000099182129
         }
       ],
       "explanation": {
@@ -1237,7 +1238,7 @@
           "China/EM"
         ],
         "bullets": [
-          "Der Kurs ist leicht gestiegen: +0.14 % gegenüber dem vorherigen Schlusskurs.",
+          "Der Kurs ist leicht gestiegen: +0.17 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: China/EM.",
           "Wichtigste gefundene Headlines: Aktueller Nano.RUSSELL.SEP26 Kurs | E-nano Russell 2000 Sep 26 Future] Stand & Chart - eToro | Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraETF."
         ],
@@ -1255,16 +1256,16 @@
             "published": "28.04., 10:37"
           },
           {
-            "title": "US Small Caps sind bereit für die Aufholjagd - e-fundresearch.com",
-            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOTZzWVl5Y1p0VWdDQTRaNnotS3JfMjkzSk9LdWs2NmxvTW9OTFpfOU9GREpxVHRpQlhuMFJxbmsxY0dnel8yTjRPMHBwTXZ6bXpnTXM3eWFBMHVrMlNxLTZyQkwtZlAzdW9wSkhYdkFJNVdhOExaWXJRN3pMOUVzdmtuQm5yX1VFdUZJOE0wX3JEMFd3YnNuWUZ2UWNxRC1VTW9WeXdXYnVkUQ?oc=5",
-            "source": "e-fundresearch.com",
-            "published": "06.03., 09:00"
-          },
-          {
             "title": "Adidas, Kaffee, WTI, Russell 2000, Nasdaq100 Und DAX Unter Der Lupe! Giuntoli (Gf0CBMUzyr) - Mshale",
             "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBZLVhMV1gyYUZPQ25ub2VkRXY0NUVHQUhFeGRYeUpvWFM5RmJjTlVmLXJxQldBTUtxY3pDeFJwSjZZa2pmZi1nY0dablUyWVlLOUR4OXlpaDVGSkU?oc=5",
             "source": "Mshale",
             "published": "27.08., 08:18"
+          },
+          {
+            "title": "Diese US-Small-Cap-Aktien sind jetzt attraktiv - Morningstar",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNXF1VURGVVhhSUhQWnc3NDlSUTVfU3BWb2hXd3pPN1Z5VWFGa2p4WV84cFd1WTlVaEFheEZ4eVhUVjBlVnBwdlBHTURVR2ptUGMzME5DeFNfR3lHVUhGTHRMVmIwU2ZXNFJUdlBlYW1XZ2M4aXJMTTlCWnNLbmxZc3FndTVMV1NXdmQ5cm9sdVQ?oc=5",
+            "source": "Morningstar",
+            "published": "06.07., 09:00"
           }
         ]
       }
@@ -1276,18 +1277,22 @@
       "currency": "USD",
       "description": "Alphabet Inc. Class A",
       "price_decimals": 2,
-      "last_date": "2026-08-28",
-      "last_close": 346.5899963378906,
-      "previous_close": 340.6499938964844,
-      "change_abs": 5.94,
-      "change_pct": 1.74,
-      "change_5d_pct": 0.51,
-      "change_1m_pct": 3.88,
-      "change_3m_pct": -8.87,
+      "last_date": "2026-08-27",
+      "last_close": 340.6499938964844,
+      "previous_close": 342.0,
+      "change_abs": -1.35,
+      "change_pct": -0.39,
+      "change_5d_pct": -0.01,
+      "change_1m_pct": 1.17,
+      "change_3m_pct": -12.68,
       "change_1y_pct": null,
-      "ytd_pct": 10.73,
-      "volatility_30d_pct": 39.92,
+      "ytd_pct": 8.83,
+      "volatility_30d_pct": 40.07,
       "sparkline": [
+        {
+          "date": "2026-04-21",
+          "close": 332.2900085449219
+        },
         {
           "date": "2026-04-22",
           "close": 339.32000732421875
@@ -1643,24 +1648,21 @@
         {
           "date": "2026-08-27",
           "close": 340.6499938964844
-        },
-        {
-          "date": "2026-08-28",
-          "close": 346.5899963378906
         }
       ],
       "explanation": {
-        "direction": "gestiegen",
-        "confidence": "mittel",
-        "summary": "Plausibler Nachrichtenbezug: Der Kurs ist gestiegen und die gefundenen Schlagzeilen enthalten überwiegend positiv wirkende Formulierungen. Die Quellen passen damit zur Richtung, beweisen aber keine Kausalität.",
+        "direction": "gefallen",
+        "confidence": "niedrig",
+        "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
           "KI/Tech",
-          "Regulierung"
+          "Regulierung",
+          "China/EM"
         ],
         "bullets": [
-          "Der Kurs ist deutlich gestiegen: +1.74 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: KI/Tech, Regulierung.",
-          "Wichtigste gefundene Headlines: Google AI Mode: Flugpreis-Tracking in 180 Ländern gestartet - Börse Express | Google integriert Prämienflüge in den AI Mode – Miles & More könnte folgen - meilenoptimieren."
+          "Der Kurs ist spürbar gefallen: -0.39 % gegenüber dem vorherigen Schlusskurs.",
+          "Gefundene Nachrichten-Themen: KI/Tech, Regulierung, China/EM.",
+          "Wichtigste gefundene Headlines: Google AI Mode: Flugpreis-Tracking in 180 Ländern gestartet - Börse Express | KI für Anwälte: Google startet mit Gemini Enterprise for Legal - FAZ."
         ],
         "headlines": [
           {
@@ -1668,12 +1670,6 @@
             "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWmtqZFdWcTd4UEFtZS1SUnRzYnp4dXpkZnZ4ZFNxUE5CdHhJcGJQMWxneWZhclY0NmhnT2dEb0RNUDV4d1J0Zl9NVVp3UGt4MmlYb0tnNHdGQlRWMkJxLTlGYVVLdjZGdzRtY1dMS3doVzFIMmo3dVcwZkRYc3ZhRE4tN0VvdHpKNVg0Q1JYY0UzczRxR3J3UEM5aWRvVV9wTFBUNUFwcGxHMUYwdE03bQ?oc=5",
             "source": "Börse Express",
             "published": "28.08., 10:53"
-          },
-          {
-            "title": "Google integriert Prämienflüge in den AI Mode – Miles & More könnte folgen - meilenoptimieren",
-            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ja05QWXUycTZZanprdy1Ja2U1MVMyR2VQYTczRU1uYmNLNlNwUnQ2M0ZGbkt0OVVGVnl3U0ZOZjc5dlV3OE9oZGdJc3pyMmlRdXdYck40R0JkM0N0WHBBWWNHV1FWbWo4M25v?oc=5",
-            "source": "meilenoptimieren",
-            "published": "28.08., 12:33"
           },
           {
             "title": "KI für Anwälte: Google startet mit Gemini Enterprise for Legal - FAZ",
@@ -1686,6 +1682,12 @@
             "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZndEYU5LS0FUUmdOdjBmcVJRWlR1SHNFN3d3RzVXeEpBZVJlc2NYdmxGN0lzS2RZWWo1Tm5Ebk1WdjM3ZkE5MmJsQ2JBUlk4YnBiNVl5RWFmeVpYU2JIMFdUamlxNGZNWUpSbDZDc1lGZkFJaUVGYTE0eVFvYUhyWXN5Y0EyVDliZERRcHQxZDlRNzFLajBnVEVLamthVEpGVHlfUmR0cjNkNVVzeTNJY21EbXJjbHpRWDctbWtCMDBZMDRNVnJLaG1xS0MtZw?oc=5",
             "source": "Deutsche Bank AG",
             "published": "25.08., 17:34"
+          },
+          {
+            "title": "Chinas KI-Firma Moonshot plant Deal mit Microsoft, Amazon und Google - DiePresse.com",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUDFGV2dTaWpGNUhHbTdzX3Z0cDhhLUFGc25iY1hjMEZNUVlPX2wxZEV5WUw3WFJ3TnpoTFVYS3VPZmltMTlObjZua3pGckctS0lzY3VsZ1NZblVITjdtUTJRWU8taklhc3EyT3E2YUlHcW9mRXoxM3BYa1NKSVpiYktPSFlFOTI5TVpLalIzWjRhVWl4UnE4RHJmTWVMMEV5YmFYQQ?oc=5",
+            "source": "DiePresse.com",
+            "published": "26.08., 13:07"
           }
         ]
       }
@@ -1697,18 +1699,22 @@
       "currency": "USD/oz",
       "description": "Goldpreis, primär über Gold-Future, fallback XAU/USD",
       "price_decimals": 2,
-      "last_date": "2026-08-28",
-      "last_close": 4504.10009765625,
-      "previous_close": 4609.7001953125,
-      "change_abs": -105.6,
-      "change_pct": -2.29,
-      "change_5d_pct": -2.6,
-      "change_1m_pct": 9.85,
-      "change_3m_pct": -1.24,
+      "last_date": "2026-08-27",
+      "last_close": 4609.7001953125,
+      "previous_close": 4598.2001953125,
+      "change_abs": 11.5,
+      "change_pct": 0.25,
+      "change_5d_pct": 2.07,
+      "change_1m_pct": 14.25,
+      "change_3m_pct": 2.45,
       "change_1y_pct": null,
-      "ytd_pct": 4.13,
-      "volatility_30d_pct": 22.46,
+      "ytd_pct": 6.57,
+      "volatility_30d_pct": 20.97,
       "sparkline": [
+        {
+          "date": "2026-04-21",
+          "close": 4698.39990234375
+        },
         {
           "date": "2026-04-22",
           "close": 4732.5
@@ -2064,16 +2070,12 @@
         {
           "date": "2026-08-27",
           "close": 4609.7001953125
-        },
-        {
-          "date": "2026-08-28",
-          "close": 4504.10009765625
         }
       ],
       "explanation": {
-        "direction": "gefallen",
-        "confidence": "niedrig",
-        "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
+        "direction": "gestiegen",
+        "confidence": "mittel",
+        "summary": "Plausibler Nachrichtenbezug: Der Kurs ist gestiegen und die gefundenen Schlagzeilen enthalten überwiegend positiv wirkende Formulierungen. Die Quellen passen damit zur Richtung, beweisen aber keine Kausalität.",
         "themes": [
           "Zinsen/Fed",
           "Inflation",
@@ -2081,11 +2083,17 @@
           "Regulierung"
         ],
         "bullets": [
-          "Der Kurs ist deutlich gefallen: -2.29 % gegenüber dem vorherigen Schlusskurs.",
+          "Der Kurs ist leicht gestiegen: +0.25 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: Zinsen/Fed, Inflation, US-Dollar, Regulierung.",
-          "Wichtigste gefundene Headlines: Fokus auf hoher Inflation: Fed-Chef Warsh bremst Gold-Rally mit restriktiven Tönen - finanzen.at | (3⁺) US-FED-Chef schießt heute GOLD und BITCOIN ab - stock3."
+          "Wichtigste gefundene Headlines: Newmont Mining Aktie: 1,95 Milliarden Dollar an Barrick - Börse Express | Fokus auf hoher Inflation: Fed-Chef Warsh bremst Gold-Rally mit restriktiven Tönen - finanzen.at."
         ],
         "headlines": [
+          {
+            "title": "Newmont Mining Aktie: 1,95 Milliarden Dollar an Barrick - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTkwtaUc0Nl9FdmdhRWdwRVpXQmhSTUJOdWtXejFqRU0tQXpEWGRiRE9PM1AxSnpjRzY4X1dZVE1TXzFPQ2h0d2FhWldTNjBDazd3NUJXRnA3U0FycmtNdXpVU0RWTWNHcWg1S2V5TkY1MFVraEZwbC1JUXJITzYwWnU5WmlQdnl2d1V1WnpMUV9jeE9xdGZyXzZNTjVHcmFGZlJPSVB1Z3Q?oc=5",
+            "source": "Börse Express",
+            "published": "29.08., 12:19"
+          },
           {
             "title": "Fokus auf hoher Inflation: Fed-Chef Warsh bremst Gold-Rally mit restriktiven Tönen - finanzen.at",
             "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRVNpc1Brd2JtLUpSQnZHUFVYQkxnb2xoOUhsWFhFazM3MUdPU1hLeHJHSjUyYVg5bjhHaFdteTVKNkhSRElNalo1ZWoxbXo2X0lnczAyMjhOTkNwMGJIaTE1RzI0eGRyampKeEJKcWZzMVlFWEFVaGJvUjROa0xtQWlMamhUbWV5RlNkVzk1bUFwSDlJSzVUdUVvdVBQV0dBMFYzb0VCQmRULVdrNHVfMjBKaGRVQWR1S1VXQUo2WkxjbHA0dEJqbjhrWnNLdldYM0dqQVV3?oc=5",
@@ -2093,22 +2101,16 @@
             "published": "28.08., 18:04"
           },
           {
-            "title": "(3⁺) US-FED-Chef schießt heute GOLD und BITCOIN ab - stock3",
-            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNT0tvOG1Vbi1vQjBURTg1SWVKN2tEMmN1Z1dvbnVQZlVCVnFNM1dxV1JWNFRmMGEwNkE4S25JQ0dfc3hsYk9ZOTlDNXZ0S0VRc3NTa1U5czVUUk5Wa0lEVmRyREZ3MVBUS3V3UkhjYzJiMkN2X0hDWUc1cTRiSjBzbjJNdk1xdw?oc=5",
-            "source": "stock3",
-            "published": "28.08., 20:19"
-          },
-          {
-            "title": "Silber Preis: Defizitjahr stützt Rally über 70 Dollar - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZ1ZfX3EyaF9XdndNVlZvdWNvM0ZsSVFheXNLWFNPMS1BQXBWMTJaSlpwRzdqV093cjl4b0kyWWZSMnBaWlh2WTVXTEMwVEpFLWVKT2JRNVd3d3RnemtuQlVPOWFKeWQ5RXhKZ3Q3SG9Fc09wTUEyWTd5N0ZKWG9jUVpOdHRvVVVpSWNmYVYtVWtITXIzb1Fsc1lybGl1Y2FIQTBJS2plQ0VxZw?oc=5",
-            "source": "Börse Express",
-            "published": "28.08., 20:05"
-          },
-          {
             "title": "Grünes Licht für den Goldpreis: Potenzial bis 5.000 US-Dollar - e-fundresearch.com",
             "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQektFT192ZE9ja0drWU9MY3hWaEY2LTZEcmRlRXF4RVd1MG81STlVYmJHSWFTRkhySlJMeHdZamJab2c2VVhHTU5FdElaMFNycktyTjJ6YlpqNHM4alpsRG1JQnFSY3BxZUxqZHJ2Zi1FQ000SmNKN1QyTHJtelo5bXZTNGNWTmQzS0ROY0dBYTVqMXlLdnNxQ29mbWJMWW1qVHl4TVNMYkQ5RDdHMl94b2JwQ1lMMHBVTmlBcFVYZVh6a1Vm?oc=5",
             "source": "e-fundresearch.com",
             "published": "27.08., 10:07"
+          },
+          {
+            "title": "(3⁺) US-FED-Chef schießt heute GOLD und BITCOIN ab - stock3",
+            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNT0tvOG1Vbi1vQjBURTg1SWVKN2tEMmN1Z1dvbnVQZlVCVnFNM1dxV1JWNFRmMGEwNkE4S25JQ0dfc3hsYk9ZOTlDNXZ0S0VRc3NTa1U5czVUUk5Wa0lEVmRyREZ3MVBUS3V3UkhjYzJiMkN2X0hDWUc1cTRiSjBzbjJNdk1xdw?oc=5",
+            "source": "stock3",
+            "published": "28.08., 20:19"
           }
         ]
       }
