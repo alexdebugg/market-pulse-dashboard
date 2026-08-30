@@ -1,8 +1,8 @@
 {
   "is_sample": false,
   "source": "Yahoo Finance Kursdaten + Google News RSS Kontext",
-  "generated_at_utc": "2026-08-30T09:43:37+00:00",
-  "generated_at_vienna": "30.08.2026, 11:43 Uhr",
+  "generated_at_utc": "2026-08-30T19:01:56+00:00",
+  "generated_at_vienna": "30.08.2026, 21:01 Uhr",
   "market_mood_internal": "neutral",
   "assets": [
     {
@@ -419,10 +419,10 @@
             "published": "29.08., 06:51"
           },
           {
-            "title": "CFTC-Daten zeigen: Netto-Spekulativposition im S&P 500 wird stärker short und fällt auf -68.000 Kontrakte - VT Markets",
-            "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxORi0yQ3hMcEZDQnFYTGdTU1Fac0dHMVdGTjhCSXVtc2lnQWdDOENUcC1KMEctaVVaNHQtRl90NmQ0azRQQ0ViYzhLYzBMbVBZSEZYMUo4ek9kaHVhQ0d6WmYxRHlCNEFxYWNTMnN6a1lmQzN3OE1sYzRaZUFWNjFadDFXU25rSmhKTXZ0YzJhQlJVVGd0N2xyZ0VpTVNGcUc4d1Ffcmo3ejhzVDdpQmlLTmRBbkxpYUJzX3I5R0RqOV9kTm1STmloM25uLWdwY1NoTm5aRVNyQVBkbzFla3R6YUN3?oc=5",
-            "source": "VT Markets",
-            "published": "29.08., 15:31"
+            "title": "S&P, Nasdaq futures slip as markets await Iran sanctions, Nvidia results - MarketScreener Deutschland",
+            "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcnRyVFFYUXViTTQ2SzloVkdyY1lWdnBGQVRtOWx6ZzNidHVob0JVd2VTRHZZdDg5cHZxUVMwU1Rsa296ZE9NSWZZSzY0SnlRZndoa2xSV3B6Y0s2bkpxeU9uWjFGclNBTF84TTYtSHczYnJiZ2JIMFhGMUU1RXUxNGJDVWoyMFhHNXAxc1U4Vmlwb3dWMHAzcXZJcjMyZzdaN2hqYmpCVlp4RmE3NVBQVzdybjl2YzVVNm1LN0ZPdmhVX3lEY29vaDNhRExzNVRtT2c?oc=5",
+            "source": "MarketScreener Deutschland",
+            "published": "24.08., 12:11"
           }
         ]
       }
@@ -812,22 +812,22 @@
         "confidence": "niedrig",
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
-          "US-Dollar",
-          "KI/Tech",
+          "Regulierung",
           "China/EM",
-          "Geopolitik/Sicherheit"
+          "Geopolitik/Sicherheit",
+          "Gewinne/Analysten"
         ],
         "bullets": [
           "Der Kurs ist leicht gestiegen: +0.31 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: US-Dollar, KI/Tech, China/EM, Geopolitik/Sicherheit.",
-          "Wichtigste gefundene Headlines: Auftragsbestand an Cloud-Verpflichtungen der großen Hyperscaler knackt Zwei-Billionen-Dollar-Marke - e-fundresearch.com | EM-Anleihen: Diese rohstoffreichen Schwellenländer profitieren - das investment."
+          "Gefundene Nachrichten-Themen: Regulierung, China/EM, Geopolitik/Sicherheit, Gewinne/Analysten.",
+          "Wichtigste gefundene Headlines: Emerging Markets Aktien: Generali Investments sieht neue Chancen - e-fundresearch.com | EM-Anleihen: Diese rohstoffreichen Schwellenländer profitieren - das investment."
         ],
         "headlines": [
           {
-            "title": "Auftragsbestand an Cloud-Verpflichtungen der großen Hyperscaler knackt Zwei-Billionen-Dollar-Marke - e-fundresearch.com",
-            "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQQm5peXZPU0VVMm1WaG0xa3BtektaanZZQW5DY0RncjI3cm5uX1pZRlRnQW5xTHBITG5NWlNKVHlwVVdhb2cxVFUzZDM1cmVIOGZKbmhpT2h4cjJfdFJUQ3hiak1hVUFoc3Y1NzItYW1wS2l6OXRfSFlSWnIxWjhMZGh4SUZhYTZfaC02NHVVSTd1Z3FWTFU2TlpGanVKN3F1MVNwWmtwSGV6R2J6WFlSeFJuYXlwU0V4ZTRPWU1vYURfUmNBdGJacDVsYkdNa3B6ZG5VYUJySFd3c0YzNFIxcXFaRUJyRE54TW03QWpQR2VTQQ?oc=5",
+            "title": "Emerging Markets Aktien: Generali Investments sieht neue Chancen - e-fundresearch.com",
+            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQmdld3JNZUs0NEs2RkJ1TFM1ZDE2b2VHZXZBUDR2X2tueHNpQ2lydERPeGxDZktLWDNQSGxFM2tQWDhfa1JNR1dPUlBhYVBNMTlHUlBveFNoXzJuREhCVVpLakNPNzBNNkc0c1dZbnlTcWVRdXV3akpURU92eTk2Mzh4cTIyZjlMU3hrS1ZtMzA3SWVuLUJmSHNlWXRfN3ZtSWpuX2YyRElfXy1QMmNDelRtdEp2SEJJWnF3ZzdGckY2bVctSzFiOEo5MEF0cVFURmwtYlNSbw?oc=5",
             "source": "e-fundresearch.com",
-            "published": "06.07., 09:00"
+            "published": "27.05., 09:00"
           },
           {
             "title": "EM-Anleihen: Diese rohstoffreichen Schwellenländer profitieren - das investment",
@@ -836,16 +836,16 @@
             "published": "29.05., 09:00"
           },
           {
-            "title": "Kapitalmärkte: Iran-Krieg wird zum Stresstest für die Schwellenländer - Handelsblatt",
-            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWHhSNTdKdm9ENnlwNHVYMHVJa3M3VmctRWswSm5tWFFCc29DemNLQk1nVXd4dHcwcFZlemVYcTcxZTJvdm5sYTNFblhwUVZ2UExEbHQxdXFjSUhyV252TUNVam42cnp4Ti15R0pUWEp0S3k4azhUVlFqc1lxNEpRNmRfd09JaU5qTF91Uk91eHRTaW5TVHlBQjlfeHRmVVJvV0Y3Y1lYb1hvWTl3MkxBSkoxR1p6SVBLOGxRXzEzNkQzSV90MTVzY3Z2Mmw?oc=5",
-            "source": "Handelsblatt",
-            "published": "17.04., 09:00"
-          },
-          {
             "title": "Xtrackers Emerging Markets ETF: Erfolg durch Absicherung - Börse Express",
             "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbHRDWERqQm5nODhKOE9KenRvbkNIVjBWZUFHRDRZTklSNk8xWkYzbDZtVmNfenEtY18wN3R6aklEZjFab2RMWlRCYXR6MjYwMk5nVjRBN2EtZDZYam84YlRjbVN0U2VvUEJSbXJpaE5rMmotZnRNLWZsa054clFjUFZCR0pKczl1dldILXZ0VXlsUk15LW1fU2w1el9tVkFTX0NCbmlEUzZMREE?oc=5",
             "source": "Börse Express",
             "published": "28.03., 08:00"
+          },
+          {
+            "title": "Kapitalmärkte: Iran-Krieg wird zum Stresstest für die Schwellenländer - Handelsblatt",
+            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWHhSNTdKdm9ENnlwNHVYMHVJa3M3VmctRWswSm5tWFFCc29DemNLQk1nVXd4dHcwcFZlemVYcTcxZTJvdm5sYTNFblhwUVZ2UExEbHQxdXFjSUhyV252TUNVam42cnp4Ti15R0pUWEp0S3k4azhUVlFqc1lxNEpRNmRfd09JaU5qTF91Uk91eHRTaW5TVHlBQjlfeHRmVVJvV0Y3Y1lYb1hvWTl3MkxBSkoxR1p6SVBLOGxRXzEzNkQzSV90MTVzY3Z2Mmw?oc=5",
+            "source": "Handelsblatt",
+            "published": "17.04., 09:00"
           }
         ]
       }
@@ -1235,12 +1235,12 @@
         "confidence": "niedrig",
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
-          "Zinsen/Fed",
-          "China/EM"
+          "China/EM",
+          "Geopolitik/Sicherheit"
         ],
         "bullets": [
           "Der Kurs ist leicht gestiegen: +0.17 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: Zinsen/Fed, China/EM.",
+          "Gefundene Nachrichten-Themen: China/EM, Geopolitik/Sicherheit.",
           "Wichtigste gefundene Headlines: Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraETF | Diese US-Small-Cap-Aktien sind jetzt attraktiv - Morningstar."
         ],
         "headlines": [
@@ -1263,10 +1263,10 @@
             "published": "27.08., 08:18"
           },
           {
-            "title": "ETF-Portfolio – die besten Musterportfolios und ETF-Strategien - Finanzen.net",
-            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAzbmFxUlNtQ2wyOTBPRk5raDBsUDNYZ0dqWTk0dkQxWU5KV0VfWDB5TS1ValNJTUY3OGFMcGtEVWM4NXRMZ0Y1eE9QcG1BT0dtYmZyTDFtTGFVdTY4a2tYSWlMUE5UQ1p3Uk9OcExIbmZHTW9hYWw2Wm9n?oc=5",
-            "source": "Finanzen.net",
-            "published": "03.06., 09:00"
+            "title": "„Disziplin schlägt Glamour“ – Warum AllianzGI mit systematischem Faktor-Investing jetzt auf US Small Caps setzt - e-fundresearch.com",
+            "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQNnU3RmttMXdqOFdseEszZHBlbWZ1Yk9yd1ZPTWhvYUhoQnRSMkcyMGZPYUpTMDQzSDcwX3dZQms4OHJrbmZvR21XbFRlZXRjSzFNWXlLR2Q0b0NrZG5fdDRkM2JyV1JJeFEycTR3ZThPVUFyRGpkbnAwa09WdklUMV9aTVZWa1lkcks1WkR3NzIwbXIzalZqZ1pxRUJGWEdnWTFvN21LbndNVGtQbTNWNVExdVV0R3d2T2FDcGYxSm5ONFR1NzN6bXUyR3JZWjFhSU85TENvb3BOd09HMzFCQlloTE5lZ1FIM3RiVVBUdw?oc=5",
+            "source": "e-fundresearch.com",
+            "published": "25.03., 08:00"
           }
         ]
       }
@@ -1657,20 +1657,25 @@
         "summary": "Plausibler Nachrichtenbezug: Der Kurs ist gestiegen und die gefundenen Schlagzeilen enthalten überwiegend positiv wirkende Formulierungen. Die Quellen passen damit zur Richtung, beweisen aber keine Kausalität.",
         "themes": [
           "KI/Tech",
-          "Regulierung",
-          "China/EM"
+          "Regulierung"
         ],
         "bullets": [
           "Der Kurs ist deutlich gestiegen: +1.74 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: KI/Tech, Regulierung, China/EM.",
-          "Wichtigste gefundene Headlines: Alphabet Aktie: 260 Millionen Pfund für Play-Store-Vergleich - Börse Express | KI für Anwälte: Google startet mit Gemini Enterprise for Legal - FAZ."
+          "Gefundene Nachrichten-Themen: KI/Tech, Regulierung.",
+          "Wichtigste gefundene Headlines: Marvell Technology Aktie: Google setzt auf drei neue Chipbereiche - Börse Express | Google integriert Prämienflüge in den AI Mode – Miles & More könnte folgen - meilenoptimieren."
         ],
         "headlines": [
           {
-            "title": "Alphabet Aktie: 260 Millionen Pfund für Play-Store-Vergleich - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNY09HTVVOZm9rcEprS19Pc3MwT0RGdDRJdWVaOEhHN3ZrdlpaQjZsZ1NxREliT2d6UlozMnBXby1ibkpJZURPemRLT05rVHpHMzRLRkl1VGhiOHJWQ2tEa2w1RTlNOTJwWjNMTkxaWmZ0dXdfSnBYY2lTc3VmaXpOTXprVHN1MHhDajEyel9sZUFGbzZ1X216VUpMRzgyV2J6bzVub3VIRk0yaERycFdqcnBn?oc=5",
+            "title": "Marvell Technology Aktie: Google setzt auf drei neue Chipbereiche - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZWN0RFRPSFZKX0xURGJ5SHRfRjQwcDR4NVQ2UnZxd2RSc0poWEJqNWd4dlQwR3c1VDdJX0NraHNmd0RabVkyNEEtUldMcnB6M2Y1Rl9WUjhGcGJDZG9Ra2l2LWVseDRTb0xXVDV2Zy1YM3k2RXdYY2h4a0NORV9FNVd2ZkN2SmltdXVFRXFxU2NMRC1iODFRc3FnSTZLS0hLOGZjNG5IWjJnZ3BtX1MzakdDRWxwNU0?oc=5",
             "source": "Börse Express",
-            "published": "30.08., 04:21"
+            "published": "30.08., 18:18"
+          },
+          {
+            "title": "Google integriert Prämienflüge in den AI Mode – Miles & More könnte folgen - meilenoptimieren",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ja05QWXUycTZZanprdy1Ja2U1MVMyR2VQYTczRU1uYmNLNlNwUnQ2M0ZGbkt0OVVGVnl3U0ZOZjc5dlV3OE9oZGdJc3pyMmlRdXdYck40R0JkM0N0WHBBWWNHV1FWbWo4M25v?oc=5",
+            "source": "meilenoptimieren",
+            "published": "28.08., 12:33"
           },
           {
             "title": "KI für Anwälte: Google startet mit Gemini Enterprise for Legal - FAZ",
@@ -1683,12 +1688,6 @@
             "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZndEYU5LS0FUUmdOdjBmcVJRWlR1SHNFN3d3RzVXeEpBZVJlc2NYdmxGN0lzS2RZWWo1Tm5Ebk1WdjM3ZkE5MmJsQ2JBUlk4YnBiNVl5RWFmeVpYU2JIMFdUamlxNGZNWUpSbDZDc1lGZkFJaUVGYTE0eVFvYUhyWXN5Y0EyVDliZERRcHQxZDlRNzFLajBnVEVLamthVEpGVHlfUmR0cjNkNVVzeTNJY21EbXJjbHpRWDctbWtCMDBZMDRNVnJLaG1xS0MtZw?oc=5",
             "source": "Deutsche Bank AG",
             "published": "25.08., 17:34"
-          },
-          {
-            "title": "Chinas KI-Firma Moonshot plant Deal mit Microsoft, Amazon und Google - DiePresse.com",
-            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUDFGV2dTaWpGNUhHbTdzX3Z0cDhhLUFGc25iY1hjMEZNUVlPX2wxZEV5WUw3WFJ3TnpoTFVYS3VPZmltMTlObjZua3pGckctS0lzY3VsZ1NZblVITjdtUTJRWU8taklhc3EyT3E2YUlHcW9mRXoxM3BYa1NKSVpiYktPSFlFOTI5TVpLalIzWjRhVWl4UnE4RHJmTWVMMEV5YmFYQQ?oc=5",
-            "source": "DiePresse.com",
-            "published": "26.08., 13:07"
           }
         ]
       }
@@ -2075,17 +2074,16 @@
       ],
       "explanation": {
         "direction": "gefallen",
-        "confidence": "niedrig",
-        "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
+        "confidence": "mittel",
+        "summary": "Plausibler Nachrichtenbezug: Der Kurs ist gefallen und die gefundenen Schlagzeilen enthalten überwiegend belastend wirkende Formulierungen. Die Quellen passen damit zur Richtung, beweisen aber keine Kausalität.",
         "themes": [
           "Zinsen/Fed",
-          "Inflation",
           "US-Dollar",
-          "Regulierung"
+          "Geopolitik/Sicherheit"
         ],
         "bullets": [
           "Der Kurs ist deutlich gefallen: -1.73 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: Zinsen/Fed, Inflation, US-Dollar, Regulierung.",
+          "Gefundene Nachrichten-Themen: Zinsen/Fed, US-Dollar, Geopolitik/Sicherheit.",
           "Wichtigste gefundene Headlines: Gold: Warsh plant weniger Fed-Sitzungen - Börse Express | Goldpreis unter Druck: Fed-Signal schürt Zinsangst für September - Wallstreet Online."
         ],
         "headlines": [
@@ -2102,16 +2100,16 @@
             "published": "30.08., 07:49"
           },
           {
-            "title": "5.000 Dollar Gold wieder in Reichweite: Warum Nevadas historischer Eureka-Distrikt für Anleger interessanter wird - Small Microcap",
-            "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBDWHJGYWNaR1hhLWszT0N1LVVjMF9ya0ZoUFRPa1VMSTUwb2MwSzZWMGk0UEpTUHl6aEgtUWJmWFFUbDEwZF9lOGFyaWFxaVVsTDlncG05UTZvazhzdmh0clNCR0ZTdUx2LTNISnBpXzNNbTg?oc=5",
-            "source": "Small Microcap",
-            "published": "30.08., 06:32"
+            "title": "Grünes Licht für den Goldpreis: Potenzial bis 5.000 US-Dollar - e-fundresearch.com",
+            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQektFT192ZE9ja0drWU9MY3hWaEY2LTZEcmRlRXF4RVd1MG81STlVYmJHSWFTRkhySlJMeHdZamJab2c2VVhHTU5FdElaMFNycktyTjJ6YlpqNHM4alpsRG1JQnFSY3BxZUxqZHJ2Zi1FQ000SmNKN1QyTHJtelo5bXZTNGNWTmQzS0ROY0dBYTVqMXlLdnNxQ29mbWJMWW1qVHl4TVNMYkQ5RDdHMl94b2JwQ1lMMHBVTmlBcFVYZVh6a1Vm?oc=5",
+            "source": "e-fundresearch.com",
+            "published": "27.08., 10:07"
           },
           {
-            "title": "Fokus auf hoher Inflation: Fed-Chef Warsh bremst Gold-Rally mit restriktiven Tönen - finanzen.at",
-            "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRVNpc1Brd2JtLUpSQnZHUFVYQkxnb2xoOUhsWFhFazM3MUdPU1hLeHJHSjUyYVg5bjhHaFdteTVKNkhSRElNalo1ZWoxbXo2X0lnczAyMjhOTkNwMGJIaTE1RzI0eGRyampKeEJKcWZzMVlFWEFVaGJvUjROa0xtQWlMamhUbWV5RlNkVzk1bUFwSDlJSzVUdUVvdVBQV0dBMFYzb0VCQmRULVdrNHVfMjBKaGRVQWR1S1VXQUo2WkxjbHA0dEJqbjhrWnNLdldYM0dqQVV3?oc=5",
-            "source": "finanzen.at",
-            "published": "28.08., 18:04"
+            "title": "Goldpreis aktuell: Deshalb steht Gold noch auf wackeligen Beinen - WiWo",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVk96WEZTX1ctckJiaHZnUzFYeWo2OExLZ3FzQ1UtX2dmTDVoaURiMFpSQkxETGNXdTZCMC1Cek9oRjNhRTRsbXk1WlJsTlNxZ0ZmQlRvU3hzZW9USFFXVHBhMktTY1BDSkQxWndtN1UxOEI3dHhiQ2hrdnp0aHJGbjNkeDNFbThyd1JONlUzYUVCQzlfRGFNWWxfS2NhTVFvTzFQQnpibzhFUUZuSmMwbHhLSUw?oc=5",
+            "source": "WiWo",
+            "published": "30.08., 18:59"
           }
         ]
       }
