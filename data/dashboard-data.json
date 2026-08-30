@@ -1,8 +1,8 @@
 {
   "is_sample": false,
   "source": "Yahoo Finance Kursdaten + Google News RSS Kontext",
-  "generated_at_utc": "2026-08-29T19:10:52+00:00",
-  "generated_at_vienna": "29.08.2026, 21:10 Uhr",
+  "generated_at_utc": "2026-08-30T09:43:37+00:00",
+  "generated_at_vienna": "30.08.2026, 11:43 Uhr",
   "market_mood_internal": "neutral",
   "assets": [
     {
@@ -397,7 +397,7 @@
         "bullets": [
           "Der Kurs ist spürbar gestiegen: +0.36 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: KI/Tech, Regulierung, Geopolitik/Sicherheit.",
-          "Wichtigste gefundene Headlines: S&P 500 spürt saisonalen Gegenwind im September – 7.638er-Absicherung rückt 7.120 in den Fokus - VT Markets | Schwellenländer schlagen MSCI World: Experte warnt vor teurem Fehler - Hamburger Abendblatt."
+          "Wichtigste gefundene Headlines: S&P 500 spürt saisonalen Gegenwind im September – 7.638er-Absicherung rückt 7.120 in den Fokus - VT Markets | Leverage Shares -5x Short Nasdaq 100 ETP Securities | XS3373449761 | A4AU1Y - extraETF."
         ],
         "headlines": [
           {
@@ -407,16 +407,16 @@
             "published": "29.08., 15:31"
           },
           {
-            "title": "Schwellenländer schlagen MSCI World: Experte warnt vor teurem Fehler - Hamburger Abendblatt",
-            "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZS1vR1VUbzB3TTBEVnktS1B0aWxwSFlGbjYzOFB1VUdFZV9ocEM4TEpoQS1Yb1p1OE4tYVZ1U2JBS0dkWWVDZmljYlVEdHZJeDhCZXRnMzBkQ2VBbU0xeWFhcjJWVFF2Q0t6SmtIUk15aEc5bGQ2X1JHTHN3NGN6OVFtT1lMMzRFWkJLeWlTbnU2LU9ad2ZxTEZISUtFXzRGYnFhQUhUOVF0MzQwS0hTaHhXbGU5SkgtSEc3MDFObEI3a0Z1dnpOdlgxMjllNTdqejdLWUNIblI?oc=5",
-            "source": "Hamburger Abendblatt",
-            "published": "29.08., 06:51"
-          },
-          {
             "title": "Leverage Shares -5x Short Nasdaq 100 ETP Securities | XS3373449761 | A4AU1Y - extraETF",
             "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmZUhjNmxQU3JodWVkRkFCMUR2M3d0Y0x6NTdOTDNIU0dvWFB2OFBGaUN4UktyMTdaV3hhQ0JsWG1mZUJPSkI5dnJYOC1sRXM1cVNRVElQaFZ5QmRY?oc=5",
             "source": "extraETF",
             "published": "19.06., 18:15"
+          },
+          {
+            "title": "Schwellenländer schlagen MSCI World: Experte warnt vor teurem Fehler - Hamburger Abendblatt",
+            "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZS1vR1VUbzB3TTBEVnktS1B0aWxwSFlGbjYzOFB1VUdFZV9ocEM4TEpoQS1Yb1p1OE4tYVZ1U2JBS0dkWWVDZmljYlVEdHZJeDhCZXRnMzBkQ2VBbU0xeWFhcjJWVFF2Q0t6SmtIUk15aEc5bGQ2X1JHTHN3NGN6OVFtT1lMMzRFWkJLeWlTbnU2LU9ad2ZxTEZISUtFXzRGYnFhQUhUOVF0MzQwS0hTaHhXbGU5SkgtSEc3MDFObEI3a0Z1dnpOdlgxMjllNTdqejdLWUNIblI?oc=5",
+            "source": "Hamburger Abendblatt",
+            "published": "29.08., 06:51"
           },
           {
             "title": "CFTC-Daten zeigen: Netto-Spekulativposition im S&P 500 wird stärker short und fällt auf -68.000 Kontrakte - VT Markets",
@@ -813,39 +813,39 @@
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
           "US-Dollar",
-          "Regulierung",
+          "KI/Tech",
           "China/EM",
           "Geopolitik/Sicherheit"
         ],
         "bullets": [
           "Der Kurs ist leicht gestiegen: +0.31 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: US-Dollar, Regulierung, China/EM, Geopolitik/Sicherheit.",
-          "Wichtigste gefundene Headlines: Emerging Markets Aktien: Generali Investments sieht neue Chancen - e-fundresearch.com | iShares MSCI EM ex China: Allzeithoch bei 99,78 USD - Börse Express."
+          "Gefundene Nachrichten-Themen: US-Dollar, KI/Tech, China/EM, Geopolitik/Sicherheit.",
+          "Wichtigste gefundene Headlines: Auftragsbestand an Cloud-Verpflichtungen der großen Hyperscaler knackt Zwei-Billionen-Dollar-Marke - e-fundresearch.com | EM-Anleihen: Diese rohstoffreichen Schwellenländer profitieren - das investment."
         ],
         "headlines": [
           {
-            "title": "Emerging Markets Aktien: Generali Investments sieht neue Chancen - e-fundresearch.com",
-            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQmdld3JNZUs0NEs2RkJ1TFM1ZDE2b2VHZXZBUDR2X2tueHNpQ2lydERPeGxDZktLWDNQSGxFM2tQWDhfa1JNR1dPUlBhYVBNMTlHUlBveFNoXzJuREhCVVpLakNPNzBNNkc0c1dZbnlTcWVRdXV3akpURU92eTk2Mzh4cTIyZjlMU3hrS1ZtMzA3SWVuLUJmSHNlWXRfN3ZtSWpuX2YyRElfXy1QMmNDelRtdEp2SEJJWnF3ZzdGckY2bVctSzFiOEo5MEF0cVFURmwtYlNSbw?oc=5",
+            "title": "Auftragsbestand an Cloud-Verpflichtungen der großen Hyperscaler knackt Zwei-Billionen-Dollar-Marke - e-fundresearch.com",
+            "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQQm5peXZPU0VVMm1WaG0xa3BtektaanZZQW5DY0RncjI3cm5uX1pZRlRnQW5xTHBITG5NWlNKVHlwVVdhb2cxVFUzZDM1cmVIOGZKbmhpT2h4cjJfdFJUQ3hiak1hVUFoc3Y1NzItYW1wS2l6OXRfSFlSWnIxWjhMZGh4SUZhYTZfaC02NHVVSTd1Z3FWTFU2TlpGanVKN3F1MVNwWmtwSGV6R2J6WFlSeFJuYXlwU0V4ZTRPWU1vYURfUmNBdGJacDVsYkdNa3B6ZG5VYUJySFd3c0YzNFIxcXFaRUJyRE54TW03QWpQR2VTQQ?oc=5",
             "source": "e-fundresearch.com",
-            "published": "27.05., 09:00"
+            "published": "06.07., 09:00"
           },
           {
-            "title": "iShares MSCI EM ex China: Allzeithoch bei 99,78 USD - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVHg5cHVfWE8tQ2tteTRVS0liN0NxX3dtaHhWcDRXdmZBNE1ac3JBVEI3VW5BMHFRM01xVGpNSFowb2hhQlBlZUhDS1gzNnUtOWdCdGpkZmQyWjQ2Sk9yMXlCOUU2MU5DWmFnZmJRUjQydGZWSE9ycjR3dDY2OEZTUktZOUxodXU1S3JGcC1sZW9qQnBTbFdTVGMxcTdYTjZTZFFZ?oc=5",
-            "source": "Börse Express",
-            "published": "26.05., 09:00"
-          },
-          {
-            "title": "Pictet AM-Chef-Volkswirt: Schwellenländer trotzem dem Ölpreis-Schock - das investment",
-            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQb2NVdHJNOWZLRDdjRjJyZmFIUFd0emRuc21NelZlWmJ5SEN1U0psbTRzNnhweHhhU3ZIb1V6SFNmQUEzX1JWYUIwSTNDSng1YmxBN3RJSmRPSDR1eHI1WWhRakt6X0YxOGQ4cjhnZ0JGbmVVMnFJVEpGTXFQUi0yWExyc2NJeFZtNFBETm1GalVNSE5ZYURQUnFQRQ?oc=5",
+            "title": "EM-Anleihen: Diese rohstoffreichen Schwellenländer profitieren - das investment",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNGJtcEp3MGtIVGNpekNsNWQtbnNYaHhIS2JyMHhWYUlDai1mRjZuQ1VRVmZ5c3ZDRE5malN3TTBJMTMza2x4MGpWaUszZDNiZlJMWWd4TnM4RmxYQThTSDFlZF9USUNIQU1pVEpqRVhxYnU3WUNkcHdqYVBBQVFhX3FuZWpNSHpLNUp3N3ZDOTBwLXhJTk5iNDRtSnRYMXQzdE5vX2RR?oc=5",
             "source": "das investment",
-            "published": "31.07., 09:00"
+            "published": "29.05., 09:00"
           },
           {
             "title": "Kapitalmärkte: Iran-Krieg wird zum Stresstest für die Schwellenländer - Handelsblatt",
             "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWHhSNTdKdm9ENnlwNHVYMHVJa3M3VmctRWswSm5tWFFCc29DemNLQk1nVXd4dHcwcFZlemVYcTcxZTJvdm5sYTNFblhwUVZ2UExEbHQxdXFjSUhyV252TUNVam42cnp4Ti15R0pUWEp0S3k4azhUVlFqc1lxNEpRNmRfd09JaU5qTF91Uk91eHRTaW5TVHlBQjlfeHRmVVJvV0Y3Y1lYb1hvWTl3MkxBSkoxR1p6SVBLOGxRXzEzNkQzSV90MTVzY3Z2Mmw?oc=5",
             "source": "Handelsblatt",
             "published": "17.04., 09:00"
+          },
+          {
+            "title": "Xtrackers Emerging Markets ETF: Erfolg durch Absicherung - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbHRDWERqQm5nODhKOE9KenRvbkNIVjBWZUFHRDRZTklSNk8xWkYzbDZtVmNfenEtY18wN3R6aklEZjFab2RMWlRCYXR6MjYwMk5nVjRBN2EtZDZYam84YlRjbVN0U2VvUEJSbXJpaE5rMmotZnRNLWZsa054clFjUFZCR0pKczl1dldILXZ0VXlsUk15LW1fU2w1el9tVkFTX0NCbmlEUzZMREE?oc=5",
+            "source": "Börse Express",
+            "published": "28.03., 08:00"
           }
         ]
       }
@@ -1235,20 +1235,15 @@
         "confidence": "niedrig",
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
+          "Zinsen/Fed",
           "China/EM"
         ],
         "bullets": [
           "Der Kurs ist leicht gestiegen: +0.17 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: China/EM.",
-          "Wichtigste gefundene Headlines: Aktueller Nano.RUSSELL.SEP26 Kurs | E-nano Russell 2000 Sep 26 Future] Stand & Chart - eToro | Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraETF."
+          "Gefundene Nachrichten-Themen: Zinsen/Fed, China/EM.",
+          "Wichtigste gefundene Headlines: Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraETF | Diese US-Small-Cap-Aktien sind jetzt attraktiv - Morningstar."
         ],
         "headlines": [
-          {
-            "title": "Aktueller Nano.RUSSELL.SEP26 Kurs | E-nano Russell 2000 Sep 26 Future] Stand & Chart - eToro",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1uQXdMa1BnZlFLTElPaFo2Nm95TlVsZ21oUld6N09hR041eTcxaGlBeWE2VlJtVWFsaS0xNGxZY3NkXzNCTXJjaTBTUkEzcGVmRzdMY01rbXk4N2FhanMxcg?oc=5",
-            "source": "eToro",
-            "published": "27.08., 09:25"
-          },
           {
             "title": "Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraETF",
             "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBfSEFMN1dKOFVhZUdmcE5WbGh1V3VIUTVJTE5SdWVzS2hYemNGRWgzRi1MZF8xZXdrbUl3RHVKeTk0SDNRUmhSWGgyQUpMQlRXb2JPS0Jxb2txVm5LM0w3anphOWo5WWIwSDF5Qjg4clFwR0VWUkQ5Qg?oc=5",
@@ -1256,16 +1251,22 @@
             "published": "28.04., 10:37"
           },
           {
-            "title": "US Small Caps sind bereit für die Aufholjagd - e-fundresearch.com",
-            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOTZzWVl5Y1p0VWdDQTRaNnotS3JfMjkzSk9LdWs2NmxvTW9OTFpfOU9GREpxVHRpQlhuMFJxbmsxY0dnel8yTjRPMHBwTXZ6bXpnTXM3eWFBMHVrMlNxLTZyQkwtZlAzdW9wSkhYdkFJNVdhOExaWXJRN3pMOUVzdmtuQm5yX1VFdUZJOE0wX3JEMFd3YnNuWUZ2UWNxRC1VTW9WeXdXYnVkUQ?oc=5",
-            "source": "e-fundresearch.com",
-            "published": "06.03., 09:00"
+            "title": "Diese US-Small-Cap-Aktien sind jetzt attraktiv - Morningstar",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNXF1VURGVVhhSUhQWnc3NDlSUTVfU3BWb2hXd3pPN1Z5VWFGa2p4WV84cFd1WTlVaEFheEZ4eVhUVjBlVnBwdlBHTURVR2ptUGMzME5DeFNfR3lHVUhGTHRMVmIwU2ZXNFJUdlBlYW1XZ2M4aXJMTTlCWnNLbmxZc3FndTVMV1NXdmQ5cm9sdVQ?oc=5",
+            "source": "Morningstar",
+            "published": "06.07., 09:00"
           },
           {
             "title": "Adidas, Kaffee, WTI, Russell 2000, Nasdaq100 Und DAX Unter Der Lupe! Giuntoli (Gf0CBMUzyr) - Mshale",
             "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBZLVhMV1gyYUZPQ25ub2VkRXY0NUVHQUhFeGRYeUpvWFM5RmJjTlVmLXJxQldBTUtxY3pDeFJwSjZZa2pmZi1nY0dablUyWVlLOUR4OXlpaDVGSkU?oc=5",
             "source": "Mshale",
             "published": "27.08., 08:18"
+          },
+          {
+            "title": "ETF-Portfolio – die besten Musterportfolios und ETF-Strategien - Finanzen.net",
+            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAzbmFxUlNtQ2wyOTBPRk5raDBsUDNYZ0dqWTk0dkQxWU5KV0VfWDB5TS1ValNJTUY3OGFMcGtEVWM4NXRMZ0Y1eE9QcG1BT0dtYmZyTDFtTGFVdTY4a2tYSWlMUE5UQ1p3Uk9OcExIbmZHTW9hYWw2Wm9n?oc=5",
+            "source": "Finanzen.net",
+            "published": "03.06., 09:00"
           }
         ]
       }
@@ -1662,14 +1663,14 @@
         "bullets": [
           "Der Kurs ist deutlich gestiegen: +1.74 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: KI/Tech, Regulierung, China/EM.",
-          "Wichtigste gefundene Headlines: Google AI Mode: Flugpreis-Tracking in 180 Ländern gestartet - Börse Express | KI für Anwälte: Google startet mit Gemini Enterprise for Legal - FAZ."
+          "Wichtigste gefundene Headlines: Alphabet Aktie: 260 Millionen Pfund für Play-Store-Vergleich - Börse Express | KI für Anwälte: Google startet mit Gemini Enterprise for Legal - FAZ."
         ],
         "headlines": [
           {
-            "title": "Google AI Mode: Flugpreis-Tracking in 180 Ländern gestartet - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWmtqZFdWcTd4UEFtZS1SUnRzYnp4dXpkZnZ4ZFNxUE5CdHhJcGJQMWxneWZhclY0NmhnT2dEb0RNUDV4d1J0Zl9NVVp3UGt4MmlYb0tnNHdGQlRWMkJxLTlGYVVLdjZGdzRtY1dMS3doVzFIMmo3dVcwZkRYc3ZhRE4tN0VvdHpKNVg0Q1JYY0UzczRxR3J3UEM5aWRvVV9wTFBUNUFwcGxHMUYwdE03bQ?oc=5",
+            "title": "Alphabet Aktie: 260 Millionen Pfund für Play-Store-Vergleich - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNY09HTVVOZm9rcEprS19Pc3MwT0RGdDRJdWVaOEhHN3ZrdlpaQjZsZ1NxREliT2d6UlozMnBXby1ibkpJZURPemRLT05rVHpHMzRLRkl1VGhiOHJWQ2tEa2w1RTlNOTJwWjNMTkxaWmZ0dXdfSnBYY2lTc3VmaXpOTXprVHN1MHhDajEyel9sZUFGbzZ1X216VUpMRzgyV2J6bzVub3VIRk0yaERycFdqcnBn?oc=5",
             "source": "Börse Express",
-            "published": "28.08., 10:53"
+            "published": "30.08., 04:21"
           },
           {
             "title": "KI für Anwälte: Google startet mit Gemini Enterprise for Legal - FAZ",
@@ -1700,16 +1701,16 @@
       "description": "Goldpreis, primär über Gold-Future, fallback XAU/USD",
       "price_decimals": 2,
       "last_date": "2026-08-28",
-      "last_close": 4478.10009765625,
+      "last_close": 4529.89990234375,
       "previous_close": 4609.7001953125,
-      "change_abs": -131.6,
-      "change_pct": -2.85,
-      "change_5d_pct": -3.16,
-      "change_1m_pct": 9.22,
-      "change_3m_pct": -1.81,
+      "change_abs": -79.8,
+      "change_pct": -1.73,
+      "change_5d_pct": -2.04,
+      "change_1m_pct": 10.48,
+      "change_3m_pct": -0.67,
       "change_1y_pct": null,
-      "ytd_pct": 3.53,
-      "volatility_30d_pct": 23.09,
+      "ytd_pct": 4.72,
+      "volatility_30d_pct": 21.93,
       "sparkline": [
         {
           "date": "2026-04-22",
@@ -2069,7 +2070,7 @@
         },
         {
           "date": "2026-08-28",
-          "close": 4478.10009765625
+          "close": 4529.89990234375
         }
       ],
       "explanation": {
@@ -2078,39 +2079,39 @@
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
           "Zinsen/Fed",
+          "Inflation",
           "US-Dollar",
-          "KI/Tech",
-          "Geopolitik/Sicherheit"
+          "Regulierung"
         ],
         "bullets": [
-          "Der Kurs ist deutlich gefallen: -2.85 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: Zinsen/Fed, US-Dollar, KI/Tech, Geopolitik/Sicherheit.",
-          "Wichtigste gefundene Headlines: Newmont Mining Aktie: 1,95 Milliarden Dollar an Barrick - Börse Express | Goldpreis: Fed-Chef Warsh zieht Rallye den Stecker – Gold stürzt vorerst ab - Wallstreet Online."
+          "Der Kurs ist deutlich gefallen: -1.73 % gegenüber dem vorherigen Schlusskurs.",
+          "Gefundene Nachrichten-Themen: Zinsen/Fed, Inflation, US-Dollar, Regulierung.",
+          "Wichtigste gefundene Headlines: Gold: Warsh plant weniger Fed-Sitzungen - Börse Express | Goldpreis unter Druck: Fed-Signal schürt Zinsangst für September - Wallstreet Online."
         ],
         "headlines": [
           {
-            "title": "Newmont Mining Aktie: 1,95 Milliarden Dollar an Barrick - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTkwtaUc0Nl9FdmdhRWdwRVpXQmhSTUJOdWtXejFqRU0tQXpEWGRiRE9PM1AxSnpjRzY4X1dZVE1TXzFPQ2h0d2FhWldTNjBDazd3NUJXRnA3U0FycmtNdXpVU0RWTWNHcWg1S2V5TkY1MFVraEZwbC1JUXJITzYwWnU5WmlQdnl2d1V1WnpMUV9jeE9xdGZyXzZNTjVHcmFGZlJPSVB1Z3Q?oc=5",
+            "title": "Gold: Warsh plant weniger Fed-Sitzungen - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaXJRNVY1SVBVWDdxRmVZWThRcmhhbEZIVXd5SWh6LVQ5UG5wcks3RERGaEN1TWF0OEZwTk1qZnRCdlVIZnBxd1RZeV82UDEwaFZuV3NkMmtjcWxZUTA3S09QTlVkX3dKNkVzYzg5MHNhdWEwamc2MTlBaDI1dno1dU1xNFcwemItT1U5eEVLSS1MYlNI?oc=5",
             "source": "Börse Express",
-            "published": "29.08., 12:19"
+            "published": "30.08., 11:14"
           },
           {
-            "title": "Goldpreis: Fed-Chef Warsh zieht Rallye den Stecker – Gold stürzt vorerst ab - Wallstreet Online",
-            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVXM1Z3RrM19CWjh2ZGl3ZEFtUUx1M2FTMW9VSjAwZ2NUNW16LUFsRU9hcnB3Y3RXRjNfM3Bra2NkSnd5SGJFZDJBTXhoZE9TLWxLTC1vdXE0bjRkUHVOWlpTUEVzcENtekEwUlNmb0VZY2pxbkNzeWotRkdFdHViVG03UExRN3N1WDZyT1BHbzdDVktUb1ZUUWpTNDdtS3dEVm9TZGRsWEtwbFdrOWFSOFpqaHlILVV2MXI0ZnFvenlxX1B6MkpUcVUtUWk?oc=5",
+            "title": "Goldpreis unter Druck: Fed-Signal schürt Zinsangst für September - Wallstreet Online",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSWZoOXFibi1TanlKcGVjUGpWdlZndEJrVEVOZEQ2MU5XRDhkQnlTWkhNMUwxNXZfNy1vQnZsNnVzMUxnaTJhTDFycjZzbW9UTFp0Y0VaNnhkZkYxc1piNXZaY0RKbkVYRFQ0Zjd1cWpjUU5GTldjQkotcWJodDQ5bjdxeDBxSjNIQTJ5c09oNjhNSUN4Y1ZpVjNOOEpkNVFpWTFGSTd0SnBjZw?oc=5",
             "source": "Wallstreet Online",
-            "published": "29.08., 13:00"
+            "published": "30.08., 07:49"
           },
           {
-            "title": "Grünes Licht für den Goldpreis: Potenzial bis 5.000 US-Dollar - e-fundresearch.com",
-            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQektFT192ZE9ja0drWU9MY3hWaEY2LTZEcmRlRXF4RVd1MG81STlVYmJHSWFTRkhySlJMeHdZamJab2c2VVhHTU5FdElaMFNycktyTjJ6YlpqNHM4alpsRG1JQnFSY3BxZUxqZHJ2Zi1FQ000SmNKN1QyTHJtelo5bXZTNGNWTmQzS0ROY0dBYTVqMXlLdnNxQ29mbWJMWW1qVHl4TVNMYkQ5RDdHMl94b2JwQ1lMMHBVTmlBcFVYZVh6a1Vm?oc=5",
-            "source": "e-fundresearch.com",
-            "published": "27.08., 10:07"
+            "title": "5.000 Dollar Gold wieder in Reichweite: Warum Nevadas historischer Eureka-Distrikt für Anleger interessanter wird - Small Microcap",
+            "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBDWHJGYWNaR1hhLWszT0N1LVVjMF9ya0ZoUFRPa1VMSTUwb2MwSzZWMGk0UEpTUHl6aEgtUWJmWFFUbDEwZF9lOGFyaWFxaVVsTDlncG05UTZvazhzdmh0clNCR0ZTdUx2LTNISnBpXzNNbTg?oc=5",
+            "source": "Small Microcap",
+            "published": "30.08., 06:32"
           },
           {
-            "title": "Bitcoin rutscht unter 80.000 US-Dollar, während Gold nach der hawkischen Fed-Botschaft aus Jackson Hole nachgibt - VT Markets",
-            "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxON3ZKMnJhclh6MkZhTWViRlVKMGhkc0ZaYVA1UkJXNXVrU1N1aHhwZG5seGMzc1VsOGhzdjFvd1ZZRFk5RUVtZWZOWUdkdktHZE9GTlZnQWdlVTBLVW10V0JydUJraVlQNlR4dFZWNzBjdDdUeGxDOW5ESndXb1NIbDNVUkpYT3lKZFFtNWxsZ0NVZVFKVi1FTXlRZGFCeVlLX2xCYU5XdjJyZmtlZy1DdzVCZ2xNQ2pEaUYxTGZXLXFLV3hJR3hZb3pXUjdUSTdqSlZVVTJOQzd2aFQ1Skc2YVI3Nld6UEc0cFRqV0RR?oc=5",
-            "source": "VT Markets",
-            "published": "29.08., 15:31"
+            "title": "Fokus auf hoher Inflation: Fed-Chef Warsh bremst Gold-Rally mit restriktiven Tönen - finanzen.at",
+            "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRVNpc1Brd2JtLUpSQnZHUFVYQkxnb2xoOUhsWFhFazM3MUdPU1hLeHJHSjUyYVg5bjhHaFdteTVKNkhSRElNalo1ZWoxbXo2X0lnczAyMjhOTkNwMGJIaTE1RzI0eGRyampKeEJKcWZzMVlFWEFVaGJvUjROa0xtQWlMamhUbWV5RlNkVzk1bUFwSDlJSzVUdUVvdVBQV0dBMFYzb0VCQmRULVdrNHVfMjBKaGRVQWR1S1VXQUo2WkxjbHA0dEJqbjhrWnNLdldYM0dqQVV3?oc=5",
+            "source": "finanzen.at",
+            "published": "28.08., 18:04"
           }
         ]
       }
