@@ -1,8 +1,8 @@
 {
   "is_sample": false,
   "source": "Yahoo Finance Kursdaten + Google News RSS Kontext",
-  "generated_at_utc": "2026-09-01T09:09:27+00:00",
-  "generated_at_vienna": "01.09.2026, 11:09 Uhr",
+  "generated_at_utc": "2026-09-01T19:11:30+00:00",
+  "generated_at_vienna": "01.09.2026, 21:11 Uhr",
   "market_mood_internal": "risk-off",
   "assets": [
     {
@@ -13,16 +13,16 @@
       "description": "iShares Core MSCI World UCITS ETF als handelbarer Developed-Markets-Proxy",
       "price_decimals": 2,
       "last_date": "2026-09-01",
-      "last_close": 126.58000183105469,
+      "last_close": 126.58999633789062,
       "previous_close": 128.21499633789062,
-      "change_abs": -1.63,
-      "change_pct": -1.28,
-      "change_5d_pct": 0.28,
-      "change_1m_pct": 1.84,
-      "change_3m_pct": 2.17,
+      "change_abs": -1.62,
+      "change_pct": -1.27,
+      "change_5d_pct": 0.29,
+      "change_1m_pct": 1.85,
+      "change_3m_pct": 2.18,
       "change_1y_pct": null,
       "ytd_pct": 13.25,
-      "volatility_30d_pct": 10.39,
+      "volatility_30d_pct": 10.38,
       "sparkline": [
         {
           "date": "2026-04-27",
@@ -382,7 +382,7 @@
         },
         {
           "date": "2026-09-01",
-          "close": 126.58000183105469
+          "close": 126.58999633789062
         }
       ],
       "explanation": {
@@ -390,28 +390,15 @@
         "confidence": "niedrig",
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
-          "KI/Tech",
           "Regulierung",
           "Geopolitik/Sicherheit"
         ],
         "bullets": [
-          "Der Kurs ist deutlich gefallen: -1.28 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: KI/Tech, Regulierung, Geopolitik/Sicherheit.",
-          "Wichtigste gefundene Headlines: Nasdaq Aktie: Übernahme von LeveL Markets vereinbart - AD HOC NEWS | S&P 500 spürt saisonalen Gegenwind im September – 7.638er-Absicherung rückt 7.120 in den Fokus - vtmarkets.com."
+          "Der Kurs ist deutlich gefallen: -1.27 % gegenüber dem vorherigen Schlusskurs.",
+          "Gefundene Nachrichten-Themen: Regulierung, Geopolitik/Sicherheit.",
+          "Wichtigste gefundene Headlines: Leverage Shares -5x Short Nasdaq 100 ETP Securities | XS3373449761 | A4AU1Y - extraETF | Nasdaq Aktie: Übernahme von LeveL Markets vereinbart - AD HOC NEWS."
         ],
         "headlines": [
-          {
-            "title": "Nasdaq Aktie: Übernahme von LeveL Markets vereinbart - AD HOC NEWS",
-            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaWNneWZFc2VlWXo4S3QxQU9zUTVUalhCS19aQndlYWM5WldhWVdCZjJSV1NJRm04YUxlUlBMell2d0VLYThWZlRDNUZuZER2YnQzRHpqZnBXSFA5YWxMV196RE9PTk5TcEItTnBwei1QdEs3S21heXdlajc1bXowMTBISnBManViUUJYNkFtRW05aXdFRVFQSTdVaTZIbWRuYW9Kd012RzloWFhpOWhYUV9rdHZyYi1CemZON0FLU01QUQ?oc=5",
-            "source": "AD HOC NEWS",
-            "published": "31.08., 15:27"
-          },
-          {
-            "title": "S&P 500 spürt saisonalen Gegenwind im September – 7.638er-Absicherung rückt 7.120 in den Fokus - vtmarkets.com",
-            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONUZucFNUY0hLU2lRUndnYk90VG8yNlE1RXlaRHhfeVlFcjhhMzR6UUN6aEk5cnpfVjVOY0xCSjV5ODdqQjdnSFFKcy01MUVmYjFHWC1jRFZxMEdnS2lOUnZzQ2xoT0JTeXhsdGtLVmhweEJ3QkE0dWdkTFJoRWwtTWM4dmhiWTlWdjBoQ2JQT0hsWXpheFduWGxCTjJoOTlSeUgwTzJWVXU0SFhDS01FeWdWMnE3eEQ4UkRXVmVfdjhCdDJIT0t2STJSV3VFc3JLeEhR?oc=5",
-            "source": "vtmarkets.com",
-            "published": "29.08., 15:31"
-          },
           {
             "title": "Leverage Shares -5x Short Nasdaq 100 ETP Securities | XS3373449761 | A4AU1Y - extraETF",
             "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmZUhjNmxQU3JodWVkRkFCMUR2M3d0Y0x6NTdOTDNIU0dvWFB2OFBGaUN4UktyMTdaV3hhQ0JsWG1mZUJPSkI5dnJYOC1sRXM1cVNRVElQaFZ5QmRY?oc=5",
@@ -419,9 +406,21 @@
             "published": "19.06., 18:15"
           },
           {
-            "title": "Schwellenländer schlagen MSCI World: Experte warnt vor teurem Fehler - abendblatt.de",
+            "title": "Nasdaq Aktie: Übernahme von LeveL Markets vereinbart - AD HOC NEWS",
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaWNneWZFc2VlWXo4S3QxQU9zUTVUalhCS19aQndlYWM5WldhWVdCZjJSV1NJRm04YUxlUlBMell2d0VLYThWZlRDNUZuZER2YnQzRHpqZnBXSFA5YWxMV196RE9PTk5TcEItTnBwei1QdEs3S21heXdlajc1bXowMTBISnBManViUUJYNkFtRW05aXdFRVFQSTdVaTZIbWRuYW9Kd012RzloWFhpOWhYUV9rdHZyYi1CemZON0FLU01QUQ?oc=5",
+            "source": "AD HOC NEWS",
+            "published": "31.08., 15:27"
+          },
+          {
+            "title": "S&P 500 notiert über dem 0,618-Bogen, nimmt die 0,786-Marke ins Visier – bullischer Bias, solange 7.650 hält - VT Markets",
+            "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOeHNWdFR1VVNSWUlURTN4ejJwMm5kdHRQazI1OE5aZ3JPMEluY0lQNWxvOW1rbW1CaGdzZ0wyUGdZLWI0TXNreDRlaW1CQm5lTGdIdENqUUFrSkxOV05JVUh3aEhiUGFVOU5VLWtyNE51UG1xZ1ZXVzJDN21NMEhHQV9HMUxoelUxeTRJZmVZYXYxWjRDc2FMVkVWcHM4amZoYzd4UGZPS0ZVQkNqRXFMS1FSbzcwU2FZM2JiMTROXzkzekZLZEMwaUZPdERRZ1g4czFfOTM3UEpETmZwQU84ZA?oc=5",
+            "source": "VT Markets",
+            "published": "31.08., 01:21"
+          },
+          {
+            "title": "Schwellenländer schlagen MSCI World: Experte warnt vor teurem Fehler - Hamburger Abendblatt",
             "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZS1vR1VUbzB3TTBEVnktS1B0aWxwSFlGbjYzOFB1VUdFZV9ocEM4TEpoQS1Yb1p1OE4tYVZ1U2JBS0dkWWVDZmljYlVEdHZJeDhCZXRnMzBkQ2VBbU0xeWFhcjJWVFF2Q0t6SmtIUk15aEc5bGQ2X1JHTHN3NGN6OVFtT1lMMzRFWkJLeWlTbnU2LU9ad2ZxTEZISUtFXzRGYnFhQUhUOVF0MzQwS0hTaHhXbGU5SkgtSEc3MDFObEI3a0Z1dnpOdlgxMjllNTdqejdLWUNIblI?oc=5",
-            "source": "abendblatt.de",
+            "source": "Hamburger Abendblatt",
             "published": "29.08., 06:51"
           }
         ]
@@ -435,16 +434,16 @@
       "description": "iShares Core MSCI EM IMI UCITS ETF als Emerging-Markets-Proxy",
       "price_decimals": 2,
       "last_date": "2026-09-01",
-      "last_close": 47.56800079345703,
+      "last_close": 47.652000427246094,
       "previous_close": 47.845001220703125,
-      "change_abs": -0.28,
-      "change_pct": -0.58,
-      "change_5d_pct": 2.37,
-      "change_1m_pct": 4.88,
-      "change_3m_pct": -2.84,
+      "change_abs": -0.19,
+      "change_pct": -0.4,
+      "change_5d_pct": 2.55,
+      "change_1m_pct": 5.06,
+      "change_3m_pct": -2.67,
       "change_1y_pct": null,
-      "ytd_pct": 24.04,
-      "volatility_30d_pct": 20.32,
+      "ytd_pct": 24.26,
+      "volatility_30d_pct": 20.27,
       "sparkline": [
         {
           "date": "2026-04-27",
@@ -804,7 +803,7 @@
         },
         {
           "date": "2026-09-01",
-          "close": 47.56800079345703
+          "close": 47.652000427246094
         }
       ],
       "explanation": {
@@ -818,7 +817,7 @@
           "Gewinne/Analysten"
         ],
         "bullets": [
-          "Der Kurs ist spürbar gefallen: -0.58 % gegenüber dem vorherigen Schlusskurs.",
+          "Der Kurs ist spürbar gefallen: -0.40 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: US-Dollar, China/EM, Geopolitik/Sicherheit, Gewinne/Analysten.",
           "Wichtigste gefundene Headlines: Schwacher US-Dollar und hohe Defizite: Rückenwind für Emerging Markets? - e-fundresearch.com | EM-Anleihen: Diese rohstoffreichen Schwellenländer profitieren - das investment."
         ],
@@ -858,16 +857,16 @@
       "description": "iShares MSCI World Small Cap UCITS ETF als Small-Cap-Proxy",
       "price_decimals": 3,
       "last_date": "2026-09-01",
-      "last_close": 9.093000411987305,
+      "last_close": 9.074999809265137,
       "previous_close": 9.199000358581543,
-      "change_abs": -0.106,
-      "change_pct": -1.15,
-      "change_5d_pct": -0.41,
-      "change_1m_pct": 1.92,
-      "change_3m_pct": 2.31,
+      "change_abs": -0.124,
+      "change_pct": -1.35,
+      "change_5d_pct": -0.6,
+      "change_1m_pct": 1.71,
+      "change_3m_pct": 2.1,
       "change_1y_pct": null,
-      "ytd_pct": 16.88,
-      "volatility_30d_pct": 10.36,
+      "ytd_pct": 16.65,
+      "volatility_30d_pct": 10.57,
       "sparkline": [
         {
           "date": "2026-04-27",
@@ -1227,7 +1226,7 @@
         },
         {
           "date": "2026-09-01",
-          "close": 9.093000411987305
+          "close": 9.074999809265137
         }
       ],
       "explanation": {
@@ -1238,7 +1237,7 @@
           "China/EM"
         ],
         "bullets": [
-          "Der Kurs ist deutlich gefallen: -1.15 % gegenüber dem vorherigen Schlusskurs.",
+          "Der Kurs ist deutlich gefallen: -1.35 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: China/EM.",
           "Wichtigste gefundene Headlines: Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraETF | US Small Caps sind bereit für die Aufholjagd - e-fundresearch.com."
         ],
@@ -1277,22 +1276,18 @@
       "currency": "USD",
       "description": "Alphabet Inc. Class A",
       "price_decimals": 2,
-      "last_date": "2026-08-31",
-      "last_close": 339.3500061035156,
-      "previous_close": 346.5899963378906,
-      "change_abs": -7.24,
-      "change_pct": -2.09,
-      "change_5d_pct": -2.5,
-      "change_1m_pct": -4.71,
-      "change_3m_pct": -9.84,
+      "last_date": "2026-09-01",
+      "last_close": 334.6099853515625,
+      "previous_close": 339.3500061035156,
+      "change_abs": -4.74,
+      "change_pct": -1.4,
+      "change_5d_pct": -3.56,
+      "change_1m_pct": -10.41,
+      "change_3m_pct": -7.53,
       "change_1y_pct": null,
-      "ytd_pct": 8.42,
+      "ytd_pct": 6.9,
       "volatility_30d_pct": 40.13,
       "sparkline": [
-        {
-          "date": "2026-04-23",
-          "close": 338.8900146484375
-        },
         {
           "date": "2026-04-24",
           "close": 344.3999938964844
@@ -1648,6 +1643,10 @@
         {
           "date": "2026-08-31",
           "close": 339.3500061035156
+        },
+        {
+          "date": "2026-09-01",
+          "close": 334.6099853515625
         }
       ],
       "explanation": {
@@ -1655,13 +1654,15 @@
         "confidence": "niedrig",
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
+          "US-Dollar",
           "KI/Tech",
-          "Regulierung"
+          "Regulierung",
+          "Geopolitik/Sicherheit"
         ],
         "bullets": [
-          "Der Kurs ist deutlich gefallen: -2.09 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: KI/Tech, Regulierung.",
-          "Wichtigste gefundene Headlines: Lernen mit Gemini: Neue Funktionen und kostenloses Plus-Abo - blog.google | Google AI Mode: Flugpreis-Tracking in 180 Ländern gestartet - Börse Express."
+          "Der Kurs ist deutlich gefallen: -1.40 % gegenüber dem vorherigen Schlusskurs.",
+          "Gefundene Nachrichten-Themen: US-Dollar, KI/Tech, Regulierung, Geopolitik/Sicherheit.",
+          "Wichtigste gefundene Headlines: Lernen mit Gemini: Neue Funktionen und kostenloses Plus-Abo - blog.google | Google AI: Kostenlos für Studenten in 140+ Ländern bis Dezember - BornCity."
         ],
         "headlines": [
           {
@@ -1671,22 +1672,22 @@
             "published": "01.09., 09:55"
           },
           {
-            "title": "Google AI Mode: Flugpreis-Tracking in 180 Ländern gestartet - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWmtqZFdWcTd4UEFtZS1SUnRzYnp4dXpkZnZ4ZFNxUE5CdHhJcGJQMWxneWZhclY0NmhnT2dEb0RNUDV4d1J0Zl9NVVp3UGt4MmlYb0tnNHdGQlRWMkJxLTlGYVVLdjZGdzRtY1dMS3doVzFIMmo3dVcwZkRYc3ZhRE4tN0VvdHpKNVg0Q1JYY0UzczRxR3J3UEM5aWRvVV9wTFBUNUFwcGxHMUYwdE03bQ?oc=5",
+            "title": "Google AI: Kostenlos für Studenten in 140+ Ländern bis Dezember - BornCity",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSVBicWwyeTRrRU4wMjBFSVZrLXU2dzQ4a0xjSDVkazAySU1qVklTdjRVOUJlTmJNSGZQTVg5eFlFREdaY2hSOXBBUlkwWnE5NnB5V0ZaVG1paVlqMVhwM1J5U19mUEtrR3o5SGtab2JCdWNJeTV0VFFxVjhkT1piTlpCdDBGenQzSk11WUVzNGt0Qmpn?oc=5",
+            "source": "BornCity",
+            "published": "01.09., 15:27"
+          },
+          {
+            "title": "CrowdStrike-Quartal: 1,47 Milliarden Dollar, +26% Wachstum - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUGNrcjNXS3MtOEIxRnkycmh5Sl9HT1gtbjVmUmlONTNGTDg3bTY4ZmpPZW5MU05XNENCMU1YYm1UU1E5MUVfWXNkQzV6THE0ZEZTZ0ZkOVczMlZNSWtBY29UTTVVOVBSamo3YmxjU1l4VTlXVFJhWkRPNjZVMV84TU1KRHl3X3UwR2RBNDYyTXJKZGRQSVhmdFJCZF9KR2JEWm1pWER1Y3k?oc=5",
             "source": "Börse Express",
-            "published": "28.08., 10:53"
+            "published": "01.09., 10:33"
           },
           {
-            "title": "KI für Anwälte: Google startet mit Gemini Enterprise for Legal - FAZ",
-            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQXzRUaXVaTE5seFZjRFFVa3JGQVVwZ3VuNDlaSHZrcmNBS3pFMDFJYWRwZkM3Vm5IYWxFMXRqVkNMbGhvWWp6U05IU182dXZOcWdPel9IWkhEMjFMN3pqSU5YaDExbEdpR1ZKMnVOMUozS2oxN1Y5TUhraGVUN3d2ZzU3dmREaFV3ZXFKeHIwYUJiMldOY0U5R1BhLWtaYTVXUmRzbzVYMllNdlAyNGYwc2FhWW50MThlUkVqQ2JoX2pMWW83VmF1Nw?oc=5",
-            "source": "FAZ",
-            "published": "27.08., 18:19"
-          },
-          {
-            "title": "Google Search testet automatische Expansion von AI Overviews - Golem.de",
-            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOd1BvekVJYTU2OTVqTExveVVhUUVpZU51MDJLejZya08xbW5sVURyeGdON1BaUDNBMy1fM3o2cVU1NUthTDdJd3RyOU82cDdMc3BETHM1Qlc2NTBQaXVTYnZ5N3JGZnVFSVQzaVp4RTJuUExiaHVvazYwWVF1bkl6bTlDejViY1lxbmJKVzZPMzF5UFM1d0pGblMtUmZxMFRJOTBfamo5ekx2THk2TmNoRW5B?oc=5",
-            "source": "Golem.de",
-            "published": "01.09., 08:22"
+            "title": "Alphabet: Warum 460 Dollar trotz Bewertung realistisch sind - Onvista",
+            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZzhIS2hwVnVPazBSZG1lWDNBdGdDTUJpQkpGeXFzekNmZkZzWVFMXy16elUtNkg0a3JIenozeFJfTnBLQUNpQWtrbDBtbTQyOUZRTjd2Xy1mdHQ1X25nZ1JvNzdrUllOcUVOTjNOb0wzMHQwc0JWUFVtbDlNOHN2aW1jdDk4TFR4aTRfb1d4MGZQTmM4bVZ4dVk4ZWVmbFotUjU5SEQ0YXZGOXVMUzUtUXFDbmJhUHZMd0NRdw?oc=5",
+            "source": "Onvista",
+            "published": "01.09., 16:45"
           }
         ]
       }
@@ -1699,16 +1700,16 @@
       "description": "Goldpreis, primär über Gold-Future, fallback XAU/USD",
       "price_decimals": 2,
       "last_date": "2026-09-01",
-      "last_close": 4421.60009765625,
+      "last_close": 4378.10009765625,
       "previous_close": 4431.10009765625,
-      "change_abs": -9.5,
-      "change_pct": -0.21,
-      "change_5d_pct": -4.67,
-      "change_1m_pct": 9.62,
-      "change_3m_pct": -1.5,
+      "change_abs": -53.0,
+      "change_pct": -1.2,
+      "change_5d_pct": -5.61,
+      "change_1m_pct": 8.54,
+      "change_3m_pct": -2.47,
       "change_1y_pct": null,
-      "ytd_pct": 2.22,
-      "volatility_30d_pct": 23.21,
+      "ytd_pct": 1.21,
+      "volatility_30d_pct": 23.57,
       "sparkline": [
         {
           "date": "2026-04-24",
@@ -2068,7 +2069,7 @@
         },
         {
           "date": "2026-09-01",
-          "close": 4421.60009765625
+          "close": 4378.10009765625
         }
       ],
       "explanation": {
@@ -2077,20 +2078,26 @@
         "summary": "Plausibler Nachrichtenbezug: Der Kurs ist gefallen und die gefundenen Schlagzeilen enthalten überwiegend belastend wirkende Formulierungen. Die Quellen passen damit zur Richtung, beweisen aber keine Kausalität.",
         "themes": [
           "Zinsen/Fed",
+          "US-Dollar",
           "KI/Tech",
-          "Regulierung",
           "Geopolitik/Sicherheit"
         ],
         "bullets": [
-          "Der Kurs ist leicht gefallen: -0.21 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: Zinsen/Fed, KI/Tech, Regulierung, Geopolitik/Sicherheit.",
-          "Wichtigste gefundene Headlines: Gold: Kippt Fed-Chef Warsh den Goldsommer am Freitag? - Der Aktionär | Gold: Finanzministerium verdoppelt Anleiherückkäufe - Börse Express."
+          "Der Kurs ist deutlich gefallen: -1.20 % gegenüber dem vorherigen Schlusskurs.",
+          "Gefundene Nachrichten-Themen: Zinsen/Fed, US-Dollar, KI/Tech, Geopolitik/Sicherheit.",
+          "Wichtigste gefundene Headlines: Bitcoin: Die Kryptowährung schützt Anleger kaum vor einem Dollar-Crash - Handelsblatt | Gold: Kippt Fed-Chef Warsh den Goldsommer am Freitag? - deraktionaer.de."
         ],
         "headlines": [
           {
-            "title": "Gold: Kippt Fed-Chef Warsh den Goldsommer am Freitag? - Der Aktionär",
+            "title": "Bitcoin: Die Kryptowährung schützt Anleger kaum vor einem Dollar-Crash - Handelsblatt",
+            "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOUkzQTZrZzV4Q1pIWXB6TEVWdnlZNzNDa0VmSG11b2p4Tks1eFVpMG11cm5ra21qVEVSV1RhV0MyTkZKZlMxbUg5Q3BSR3hNZmY1X1lRMmRoVmgzUExCUFVTeTlwNDJVMnVRRS0zQ2hQNTZZU1ZCaE9zWk5RX3RNZTJ1cW5VWGZ5WU1QQWV2UkFzcWYyaGVRVTM3bS04eW9GQUZFUDkwUW81TGhpNjhERjVYRGNUdWJOMmxJMFF2TTYySTI0ZWtNN2RUaUI5c1gtXzAxTEZ1cWVVREFUZE9hRDJWQQ?oc=5",
+            "source": "Handelsblatt",
+            "published": "01.09., 18:00"
+          },
+          {
+            "title": "Gold: Kippt Fed-Chef Warsh den Goldsommer am Freitag? - deraktionaer.de",
             "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWktDRzA5VU1QYTFmUWxNZE5ScUtGTGxZWWJiUHZndk85Rk1UVE1DTF9rTXRvYnVWTDZoS0hoWG4yX29ROXVJMG82RUd6TXBEMURxMEZ5djdOMlYxR01aN1lVSEdLcXpjWkRIZmEyRmtJeFIzQVFfb0FHYy1KMjRHM0dlMnRkZ3NPd0U0YnFhUVRZT0JRSElnekxQV0RGQkJjRzRYQ2lTSFVSdHN5Tnp1b3pEcFB4Wmc?oc=5",
-            "source": "Der Aktionär",
+            "source": "deraktionaer.de",
             "published": "01.09., 10:48"
           },
           {
@@ -2100,16 +2107,10 @@
             "published": "01.09., 06:52"
           },
           {
-            "title": "Goldpreis unter Druck: Falkenhafte Fed und Iran-Spannungen belasten Edelmetall - Investing.com Deutsch",
-            "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVUYtMUlvMzRqVGlaNVJrOWpnclFCQ1lsVDhmc2ltREZBb1BZU1NrMWFDUUZBX1BqRlZWMUlMZjAyU0Y3bklqNjZLamtMemlJNENlSXl5aDRxTUNYZ1RxUnhFajd2Y05xTUk3VUZTNU82eDUzRTFIYTQwNnlLMXQ4ZmR2c1pQdmZ4aUJERVFubmNXazI2a3Z3emJSc1VOZWFtQ2tBVUJFTHMzLWp4bjBGUFAzM0ZPUEFxOTNJX25JbmFvWm8tUWx3dFZoVzQ4azBNcWdaMk5EQW8?oc=5",
-            "source": "Investing.com Deutsch",
-            "published": "01.09., 03:37"
-          },
-          {
             "title": "Goldpreis unter Druck: Fed-Signal schürt Zinsangst für September - Wallstreet Online",
             "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSWZoOXFibi1TanlKcGVjUGpWdlZndEJrVEVOZEQ2MU5XRDhkQnlTWkhNMUwxNXZfNy1vQnZsNnVzMUxnaTJhTDFycjZzbW9UTFp0Y0VaNnhkZkYxc1piNXZaY0RKbkVYRFQ0Zjd1cWpjUU5GTldjQkotcWJodDQ5bjdxeDBxSjNIQTJ5c09oNjhNSUN4Y1ZpVjNOOEpkNVFpWTFGSTd0SnBjZw?oc=5",
             "source": "Wallstreet Online",
-            "published": "31.08., 12:55"
+            "published": "01.09., 03:50"
           }
         ]
       }
