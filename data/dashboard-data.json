@@ -1,8 +1,8 @@
 {
   "is_sample": false,
   "source": "Yahoo Finance Kursdaten + Google News RSS Kontext",
-  "generated_at_utc": "2026-09-06T08:21:10+00:00",
-  "generated_at_vienna": "06.09.2026, 10:21 Uhr",
+  "generated_at_utc": "2026-09-06T18:00:12+00:00",
+  "generated_at_vienna": "06.09.2026, 20:00 Uhr",
   "market_mood_internal": "neutral",
   "assets": [
     {
@@ -390,19 +390,18 @@
         "confidence": "niedrig",
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
-          "KI/Tech",
           "China/EM"
         ],
         "bullets": [
           "Der Kurs ist leicht gefallen: -0.32 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: KI/Tech, China/EM.",
-          "Wichtigste gefundene Headlines: NB7KV6 | Open End Turbo auf NASDAQ 100 von ING Markets | DE000NB7KV67 - Finanzen.net | Leverage Shares -5x Short Nasdaq 100 ETP Securities | XS3373449761 | A4AU1Y - extraETF."
+          "Gefundene Nachrichten-Themen: China/EM.",
+          "Wichtigste gefundene Headlines: NB7KV6 | Open End Turbo auf NASDAQ 100 von ING Markets | DE000NB7KV67 - finanzen.net | Leverage Shares -5x Short Nasdaq 100 ETP Securities | XS3373449761 | A4AU1Y - extraETF."
         ],
         "headlines": [
           {
-            "title": "NB7KV6 | Open End Turbo auf NASDAQ 100 von ING Markets | DE000NB7KV67 - Finanzen.net",
+            "title": "NB7KV6 | Open End Turbo auf NASDAQ 100 von ING Markets | DE000NB7KV67 - finanzen.net",
             "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xbXJNZ1FRcXpaVjM4aFNTeGlaTV9jNVZOZzZPTjd0VEc1TXVqd0tySGtFUkhHOGN5dTQtN1hQcTBtbS12MHAzUkFhb01XMlpURGhHMDVkSWVCd2hMcmRIMzhoRWpkSnM?oc=5",
-            "source": "Finanzen.net",
+            "source": "finanzen.net",
             "published": "03.09., 18:50"
           },
           {
@@ -418,10 +417,10 @@
             "published": "28.05., 09:00"
           },
           {
-            "title": "KI-Gewinnboom treibt den S&P 500 auf Rekordstände – JPMorgan sieht Kursziel von 8.000 bis 2026 - VT Markets",
-            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWEc2aHdRWVJKaE1UYTE5anNETVZtTnlYaUR6NjZ3aFRmd3hVZWpMeWU5UFU0Vl9wZlo5UTVUN2UzR1d6VkFyRUlWQkplN1R5S2hJUFFzMGlvYmN5QXBEaXJYbVR3cDV1OWlSVjRDV3NQUEdPZ2ZLNVBhaDJ4eWNZUGtmbEREdnNSemVrQ29jNVdmeXpfMUZNY0wwa0FGRnRVMjVaS0lYT0dwTmtLN0FLTnM4UGRJNmJObFFYb1NYMENQUzQzdDhCUTFwLWJldk0tUEJr?oc=5",
-            "source": "VT Markets",
-            "published": "31.08., 11:04"
+            "title": "Nasdaq Aktie: Übernahme von LeveL Markets vereinbart - AD HOC NEWS",
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaWNneWZFc2VlWXo4S3QxQU9zUTVUalhCS19aQndlYWM5WldhWVdCZjJSV1NJRm04YUxlUlBMell2d0VLYThWZlRDNUZuZER2YnQzRHpqZnBXSFA5YWxMV196RE9PTk5TcEItTnBwei1QdEs3S21heXdlajc1bXowMTBISnBManViUUJYNkFtRW05aXdFRVFQSTdVaTZIbWRuYW9Kd012RzloWFhpOWhYUV9rdHZyYi1CemZON0FLU01QUQ?oc=5",
+            "source": "AD HOC NEWS",
+            "published": "31.08., 15:27"
           }
         ]
       }
@@ -819,7 +818,7 @@
         "bullets": [
           "Der Kurs ist deutlich gestiegen: +1.42 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: US-Dollar, China/EM, Geopolitik/Sicherheit, Gewinne/Analysten.",
-          "Wichtigste gefundene Headlines: Schwacher US-Dollar und hohe Defizite: Rückenwind für Emerging Markets? - e-fundresearch.com | iShares MSCI EM ex China: Allzeithoch bei 99,78 USD - Börse Express."
+          "Wichtigste gefundene Headlines: Schwacher US-Dollar und hohe Defizite: Rückenwind für Emerging Markets? - e-fundresearch.com | EM-Anleihen: Diese rohstoffreichen Schwellenländer profitieren - das investment."
         ],
         "headlines": [
           {
@@ -829,22 +828,22 @@
             "published": "25.11., 09:00"
           },
           {
-            "title": "iShares MSCI EM ex China: Allzeithoch bei 99,78 USD - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVHg5cHVfWE8tQ2tteTRVS0liN0NxX3dtaHhWcDRXdmZBNE1ac3JBVEI3VW5BMHFRM01xVGpNSFowb2hhQlBlZUhDS1gzNnUtOWdCdGpkZmQyWjQ2Sk9yMXlCOUU2MU5DWmFnZmJRUjQydGZWSE9ycjR3dDY2OEZTUktZOUxodXU1S3JGcC1sZW9qQnBTbFdTVGMxcTdYTjZTZFFZ?oc=5",
-            "source": "Börse Express",
-            "published": "26.05., 09:00"
-          },
-          {
             "title": "EM-Anleihen: Diese rohstoffreichen Schwellenländer profitieren - das investment",
             "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNGJtcEp3MGtIVGNpekNsNWQtbnNYaHhIS2JyMHhWYUlDai1mRjZuQ1VRVmZ5c3ZDRE5malN3TTBJMTMza2x4MGpWaUszZDNiZlJMWWd4TnM4RmxYQThTSDFlZF9USUNIQU1pVEpqRVhxYnU3WUNkcHdqYVBBQVFhX3FuZWpNSHpLNUp3N3ZDOTBwLXhJTk5iNDRtSnRYMXQzdE5vX2RR?oc=5",
             "source": "das investment",
             "published": "29.05., 09:00"
           },
           {
-            "title": "Kapitalmärkte: Iran-Krieg wird zum Stresstest für die Schwellenländer - handelsblatt.com",
+            "title": "Kapitalmärkte: Iran-Krieg wird zum Stresstest für die Schwellenländer - Handelsblatt",
             "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWHhSNTdKdm9ENnlwNHVYMHVJa3M3VmctRWswSm5tWFFCc29DemNLQk1nVXd4dHcwcFZlemVYcTcxZTJvdm5sYTNFblhwUVZ2UExEbHQxdXFjSUhyV252TUNVam42cnp4Ti15R0pUWEp0S3k4azhUVlFqc1lxNEpRNmRfd09JaU5qTF91Uk91eHRTaW5TVHlBQjlfeHRmVVJvV0Y3Y1lYb1hvWTl3MkxBSkoxR1p6SVBLOGxRXzEzNkQzSV90MTVzY3Z2Mmw?oc=5",
-            "source": "handelsblatt.com",
+            "source": "Handelsblatt",
             "published": "17.04., 09:00"
+          },
+          {
+            "title": "„Wer US-Wachstumsaktien hält, sollte über Emerging Markets nachdenken“ - e-fundresearch.com",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWmZDbWJ2YXlQbV9COGVZVExGX3Zucjc0ckkzQl8xZHNHRlhqNVByb3lnMWw4LUVVR0VfSFpsRWdybVNNeVBfbjVXakhPVVJfVTdCMDlaaktKSVBBRDY0MzhrWnM0TzJzLUJqRnNpZHZmNFZtZkRuTm9yeWdLeVBNaUxJZV9rNHd5ODRlaWtBajQ5ajVOajVJdHlOUEhMV3hWc0FOdVlxNUx3aURZaEw5TkJaNkJ3bGppdlpB?oc=5",
+            "source": "e-fundresearch.com",
+            "published": "04.11., 09:00"
           }
         ]
       }
@@ -1235,12 +1234,13 @@
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
           "Zinsen/Fed",
-          "China/EM"
+          "China/EM",
+          "Geopolitik/Sicherheit"
         ],
         "bullets": [
           "Der Kurs ist leicht gestiegen: +0.07 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: Zinsen/Fed, China/EM.",
-          "Wichtigste gefundene Headlines: Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraETF | US Small Caps sind bereit für die Aufholjagd - e-fundresearch.com."
+          "Gefundene Nachrichten-Themen: Zinsen/Fed, China/EM, Geopolitik/Sicherheit.",
+          "Wichtigste gefundene Headlines: Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraETF | Diese US-Small-Cap-Aktien sind jetzt attraktiv - Morningstar."
         ],
         "headlines": [
           {
@@ -1250,21 +1250,21 @@
             "published": "28.04., 10:37"
           },
           {
-            "title": "US Small Caps sind bereit für die Aufholjagd - e-fundresearch.com",
-            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOTZzWVl5Y1p0VWdDQTRaNnotS3JfMjkzSk9LdWs2NmxvTW9OTFpfOU9GREpxVHRpQlhuMFJxbmsxY0dnel8yTjRPMHBwTXZ6bXpnTXM3eWFBMHVrMlNxLTZyQkwtZlAzdW9wSkhYdkFJNVdhOExaWXJRN3pMOUVzdmtuQm5yX1VFdUZJOE0wX3JEMFd3YnNuWUZ2UWNxRC1VTW9WeXdXYnVkUQ?oc=5",
-            "source": "e-fundresearch.com",
-            "published": "06.03., 09:00"
-          },
-          {
             "title": "Diese US-Small-Cap-Aktien sind jetzt attraktiv - Morningstar",
             "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNXF1VURGVVhhSUhQWnc3NDlSUTVfU3BWb2hXd3pPN1Z5VWFGa2p4WV84cFd1WTlVaEFheEZ4eVhUVjBlVnBwdlBHTURVR2ptUGMzME5DeFNfR3lHVUhGTHRMVmIwU2ZXNFJUdlBlYW1XZ2M4aXJMTTlCWnNLbmxZc3FndTVMV1NXdmQ5cm9sdVQ?oc=5",
             "source": "Morningstar",
             "published": "06.07., 09:00"
           },
           {
-            "title": "ETF-Portfolio – die besten Musterportfolios und ETF-Strategien - Finanzen.net",
+            "title": "„Disziplin schlägt Glamour“ – Warum AllianzGI mit systematischem Faktor-Investing jetzt auf US Small Caps setzt - e-fundresearch.com",
+            "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQNnU3RmttMXdqOFdseEszZHBlbWZ1Yk9yd1ZPTWhvYUhoQnRSMkcyMGZPYUpTMDQzSDcwX3dZQms4OHJrbmZvR21XbFRlZXRjSzFNWXlLR2Q0b0NrZG5fdDRkM2JyV1JJeFEycTR3ZThPVUFyRGpkbnAwa09WdklUMV9aTVZWa1lkcks1WkR3NzIwbXIzalZqZ1pxRUJGWEdnWTFvN21LbndNVGtQbTNWNVExdVV0R3d2T2FDcGYxSm5ONFR1NzN6bXUyR3JZWjFhSU85TENvb3BOd09HMzFCQlloTE5lZ1FIM3RiVVBUdw?oc=5",
+            "source": "e-fundresearch.com",
+            "published": "25.03., 08:00"
+          },
+          {
+            "title": "ETF-Portfolio – die besten Musterportfolios und ETF-Strategien - finanzen.net",
             "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAzbmFxUlNtQ2wyOTBPRk5raDBsUDNYZ0dqWTk0dkQxWU5KV0VfWDB5TS1ValNJTUY3OGFMcGtEVWM4NXRMZ0Y1eE9QcG1BT0dtYmZyTDFtTGFVdTY4a2tYSWlMUE5UQ1p3Uk9OcExIbmZHTW9hYWw2Wm9n?oc=5",
-            "source": "Finanzen.net",
+            "source": "finanzen.net",
             "published": "03.06., 09:00"
           }
         ]
@@ -1661,9 +1661,15 @@
         "bullets": [
           "Der Kurs ist deutlich gefallen: -1.17 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: KI/Tech, Regulierung.",
-          "Wichtigste gefundene Headlines: Google Cloud: Ingenieur zieht Glasfasern ab – 4 Stunden Totalausfall - BornCity | Lernen mit Gemini: Neue Funktionen und kostenloses Plus-Abo - blog.google."
+          "Wichtigste gefundene Headlines: Alphabet Aktie: Gericht weist AdX-Verkauf zurück - Börse Express | Google Cloud: Ingenieur zieht Glasfasern ab – 4 Stunden Totalausfall - BornCity."
         ],
         "headlines": [
+          {
+            "title": "Alphabet Aktie: Gericht weist AdX-Verkauf zurück - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQVhpOEF2ZkgxcnNROURfTl9KVnVfemVMWlB3MWRza3o4Mi1kMDdodHk5MFFpc2FmUTBsMVQwYS1LNmlLXzhrVnFsazVjOThvUFdiSkNMWnFmZW5VV3RkS3BMWXhMN1BTMkpJaVBzSGN4ZkZqSUZqTkdUWG1WYk16QnJuZXE2T1VTMzUyVGhIdGNkY1JrcWlyUnZSWHotdVVwMHc?oc=5",
+            "source": "Börse Express",
+            "published": "06.09., 19:34"
+          },
           {
             "title": "Google Cloud: Ingenieur zieht Glasfasern ab – 4 Stunden Totalausfall - BornCity",
             "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOb1VSVmZ2ckVsNUdpYk5XRENINVBBR2JEYWxuWkJYQ0d2T0J3U21XZTRFbHJLVFBfLVYwMXd0Q2JhMzc4RjVSMXQwb3lmV0V6dllLZHlHcklrUC1iN282MXZtMGVFYUZFTWFUZFZKLVVsUmwyN3c5blFyYkNpNjRYNGlyNXdQb0FBNE1zakFvZG9VcU9FcHNF?oc=5",
@@ -1675,12 +1681,6 @@
             "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSHpGckFtREZVYlR3eGkybXlyc3RtMEx6WDhXeUN1akZLR2ExTWN5R2t6aXdzdkljMmNCTW11RklyS0hEdFRnbFFaSWtBQjhDUnZHQlFlbWZUS05WM1JZU1VwQmQtemNmcDlPN2VPNVJGVDVtX1VWRFlRRmhyNkdqeHZmd09rYlR5eDBlVGVka3RFYWxoMkNWN3dsSQ?oc=5",
             "source": "blog.google",
             "published": "01.09., 09:55"
-          },
-          {
-            "title": "Alphabet Aktie: Gericht stoppt AdX-Verkauf - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNM1czZ0pGbU50MXIxN0gwOFZOTl9kMEx5UldsQmdLZWV5eVNnYTJ3QXBnZms4R2xVS0lkMmFLamFQUjBoc1prU2ZXNlhtR1dmbEY3dXVmMWxaVXpzWWtYX2JJYTcwY0otWUlYOVRmQTBFTTRJSF82ZjhCeF82ZWRBOWlCSGlyYmNmTkxNTGJvNmtuZ0U2OWVPWA?oc=5",
-            "source": "Börse Express",
-            "published": "06.09., 03:28"
           },
           {
             "title": "Google weitet AI Overviews auf den ganzen Bildschirm aus und verdrängt organische Ergebnisse - Pasquale Pillitteri",
@@ -2077,12 +2077,14 @@
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
           "Zinsen/Fed",
-          "US-Dollar"
+          "US-Dollar",
+          "KI/Tech",
+          "Geopolitik/Sicherheit"
         ],
         "bullets": [
           "Der Kurs ist leicht gefallen: -0.34 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: Zinsen/Fed, US-Dollar.",
-          "Wichtigste gefundene Headlines: Silber Preis: Geopolitik und Fed treiben Volatilität - Börse Express | Preis steigt wieder - Schwacher US-Dollar schickt Gold auf Höhenflug - krone.at."
+          "Gefundene Nachrichten-Themen: Zinsen/Fed, US-Dollar, KI/Tech, Geopolitik/Sicherheit.",
+          "Wichtigste gefundene Headlines: Silber Preis: Geopolitik und Fed treiben Volatilität - Börse Express | Preis steigt wieder - Schwacher US-Dollar schickt Gold auf Höhenflug - Kronen Zeitung."
         ],
         "headlines": [
           {
@@ -2092,22 +2094,22 @@
             "published": "06.09., 07:38"
           },
           {
-            "title": "Preis steigt wieder - Schwacher US-Dollar schickt Gold auf Höhenflug - krone.at",
+            "title": "Preis steigt wieder - Schwacher US-Dollar schickt Gold auf Höhenflug - Kronen Zeitung",
             "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE43VEx3MTFtUFdYZGU4d21rYXFfeTUtSGJva2R4NzFOUFplRXV2bExfMS15SXJDT1NzNGFhZU5jZW15UQ?oc=5",
-            "source": "krone.at",
+            "source": "Kronen Zeitung",
             "published": "03.09., 17:40"
           },
           {
-            "title": "Gold rückt wieder in den Fokus, da der US-Dollar nachgibt - e-fundresearch.com",
-            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdVZrTEZpaE5oMHJRUlJFU3BYSEU5aEU0MDBPcm9JaHgyQ2hTMVNsY3FwS05BczdkOE1jV2J4d0xLQUZuSlZPcVhxX1lXVC05NjJ5YkRzbUFxMlVPM1A2QVBhMjhhS25HZjZpVmpra2pfbmhCaW9Qd3ctX0FMV3Y1WjEwUHMzOHd6THUwVS1VLWFvd0pOS2hoVGpwLWFqMVkwYXFXalpnQVJSTW9IODRFNUk0eHUxSFVoUkYzekNST2tBeHJEQ2lWZ2czSWpHVmdGZUkw?oc=5",
-            "source": "e-fundresearch.com",
-            "published": "31.08., 14:18"
+            "title": "Goldpreis übersteht ersten Schock – doch am Freitag droht der nächste Hammer - Frankfurter Rundschau",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRm9uVjhvSDBvUmcxaHBmb3gxOUlfUVU1TFlVcU1sRVlMa0Q2RVZmNUFPUkZKTnk3ZmF0Q0VYd0o5WW5QMmZ3bFpTelZzQVRuZ3VIODJDWXY3R0g1dmM2RmZWSm5lMGgwYUlVNWFEWHR0cEVwdllkajFibGZGR2JCd2JZV2F0Nl9Hb2xMaV9ZV2FlTXF0XzVxeUo3eUx6ekk?oc=5",
+            "source": "Frankfurter Rundschau",
+            "published": "06.09., 13:35"
           },
           {
-            "title": "Goldpreis-Prognose: Droht am Freitag bereits der nächste Hammer? - Wallstreet Online",
-            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPR0xybFBNMmdHc2xkczFNZ2pVS2tCdWVfNVNTaS1LNWRsTmdNMVhfdG9CaWlRTXZRUTBKWkR2aEdKa0M1V01MWDJJcFEtUXBXblFzTXZ5T1V1ZEpfLWYwSW1iUjdPdW9zMjNIS0dhMS1DckFyVXk5azNreVVmRkdvampPYV9nUWNUTFkwYzhBczdpR3dZSlhoVXNVdmZiM1RTSHlwc2V6eEI0bDVVOXAzNVBDaG1yUQ?oc=5",
-            "source": "Wallstreet Online",
-            "published": "05.09., 13:04"
+            "title": "Gold: Kippt Fed-Chef Warsh den Goldsommer am Freitag? - deraktionaer.de",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWktDRzA5VU1QYTFmUWxNZE5ScUtGTGxZWWJiUHZndk85Rk1UVE1DTF9rTXRvYnVWTDZoS0hoWG4yX29ROXVJMG82RUd6TXBEMURxMEZ5djdOMlYxR01aN1lVSEdLcXpjWkRIZmEyRmtJeFIzQVFfb0FHYy1KMjRHM0dlMnRkZ3NPd0U0YnFhUVRZT0JRSElnekxQV0RGQkJjRzRYQ2lTSFVSdHN5Tnp1b3pEcFB4Wmc?oc=5",
+            "source": "deraktionaer.de",
+            "published": "01.09., 10:30"
           }
         ]
       }
