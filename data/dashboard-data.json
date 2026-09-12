@@ -1,8 +1,8 @@
 {
   "is_sample": false,
   "source": "Yahoo Finance Kursdaten + Google News RSS Kontext",
-  "generated_at_utc": "2026-09-12T08:21:20+00:00",
-  "generated_at_vienna": "12.09.2026, 10:21 Uhr",
+  "generated_at_utc": "2026-09-12T18:05:33+00:00",
+  "generated_at_vienna": "12.09.2026, 20:05 Uhr",
   "market_mood_internal": "neutral",
   "assets": [
     {
@@ -389,18 +389,22 @@
         "direction": "gefallen",
         "confidence": "niedrig",
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
-        "themes": [],
+        "themes": [
+          "US-Dollar",
+          "KI/Tech",
+          "Regulierung"
+        ],
         "bullets": [
           "Der Kurs ist spürbar gefallen: -0.45 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: keine klaren Themen erkannt.",
-          "Wichtigste gefundene Headlines: Leverage Shares 3x Long S&P 500 ETP Secs | XS2472197149 - e-fundresearch.com | IncomeShares Nasdaq 100 Options ETP | XS2875105608 | A4A50Q - extraETF."
+          "Gefundene Nachrichten-Themen: US-Dollar, KI/Tech, Regulierung.",
+          "Wichtigste gefundene Headlines: Leverage Shares 3x Lg Nasdaq 100ETP Secs | XS2472197065 - e-fundresearch.com | IncomeShares Nasdaq 100 Options ETP | XS2875105608 | A4A50Q - extraETF."
         ],
         "headlines": [
           {
-            "title": "Leverage Shares 3x Long S&P 500 ETP Secs | XS2472197149 - e-fundresearch.com",
-            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWTIyMnBVaDdOeEFvendjYl9zQ0ZMN3VjWVdnSGtzV2FaSzgtSXZTMDJVYjFPWEt4WjNGcmptQXZka2Y4QlBna2VxWDhXN21rendMeE1hVXlPeE1jYkdiTGtXaGc3eGdHd25wYzdMVGtlSXpvdTV3YnNkbFVrdmxzRWxpQmFPb2xVQnpjLU1vX0lidDdQS2ppTDlTMXVrcTg?oc=5",
+            "title": "Leverage Shares 3x Lg Nasdaq 100ETP Secs | XS2472197065 - e-fundresearch.com",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPa1hGbGE2cVRYeURBdy1TS2prOXlfc1hPVWl3NWw0eE42S3lVMXdPemd4WDNzQUpKRHJHNlFZQXpxOVcyd29fNE9aT0VXNFl5SVhkWVJkbXJoZ2M4VzZhUENsMnhiaUVUMThLNE44WGJjN21EdnBzbG83S2lyMlBteUF1NmZsZWVqN2V0V2I3OTRMUGEtLXBqbHFmeXVrb201?oc=5",
             "source": "e-fundresearch.com",
-            "published": "11.09., 21:14"
+            "published": "11.09., 21:15"
           },
           {
             "title": "IncomeShares Nasdaq 100 Options ETP | XS2875105608 | A4A50Q - extraETF",
@@ -409,16 +413,16 @@
             "published": "04.09., 09:00"
           },
           {
-            "title": "Leverage Shares 3x Lg Nasdaq 100ETP Secs | XS2472197065 - e-fundresearch.com",
-            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPa1hGbGE2cVRYeURBdy1TS2prOXlfc1hPVWl3NWw0eE42S3lVMXdPemd4WDNzQUpKRHJHNlFZQXpxOVcyd29fNE9aT0VXNFl5SVhkWVJkbXJoZ2M4VzZhUENsMnhiaUVUMThLNE44WGJjN21EdnBzbG83S2lyMlBteUF1NmZsZWVqN2V0V2I3OTRMUGEtLXBqbHFmeXVrb201?oc=5",
-            "source": "e-fundresearch.com",
-            "published": "11.09., 21:15"
+            "title": "iShares MSCI World: Neues 52-Wochen-Hoch bei 204,83 Dollar - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNnJwZHp5ZXVZcVpFTkhFOW0zNHlHZHVqWk1VS2twWkFqX3F6UGRhZjhzc2JEazItSVNzSjQxWmZpak9oU3ViU0l3MVNJVEY2QjVSb2hXQTBSUVJERTZ6dHFwS0ZkV25CbktOTXhiMEp5T2kwa1pGb255WTdEajdhUWNsMktYRlFIQjc3ZkJua3hUd2w5V0docHltUzNRWUJBdnVrb2Nia0ZqNEdt?oc=5",
+            "source": "Börse Express",
+            "published": "28.05., 09:00"
           },
           {
-            "title": "NB7KV6 | Open End Turbo auf NASDAQ 100 von ING Markets | DE000NB7KV67 - Finanzen.net",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xbXJNZ1FRcXpaVjM4aFNTeGlaTV9jNVZOZzZPTjd0VEc1TXVqd0tySGtFUkhHOGN5dTQtN1hQcTBtbS12MHAzUkFhb01XMlpURGhHMDVkSWVCd2hMcmRIMzhoRWpkSnM?oc=5",
-            "source": "Finanzen.net",
-            "published": "03.09., 18:50"
+            "title": "S&P 500 spürt saisonalen Gegenwind im September – 7.638er-Absicherung rückt 7.120 in den Fokus - VT Markets",
+            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONUZucFNUY0hLU2lRUndnYk90VG8yNlE1RXlaRHhfeVlFcjhhMzR6UUN6aEk5cnpfVjVOY0xCSjV5ODdqQjdnSFFKcy01MUVmYjFHWC1jRFZxMEdnS2lOUnZzQ2xoT0JTeXhsdGtLVmhweEJ3QkE0dWdkTFJoRWwtTWM4dmhiWTlWdjBoQ2JQT0hsWXpheFduWGxCTjJoOTlSeUgwTzJWVXU0SFhDS01FeWdWMnE3eEQ4UkRXVmVfdjhCdDJIT0t2STJSV3VFc3JLeEhR?oc=5",
+            "source": "VT Markets",
+            "published": "29.08., 15:31"
           }
         ]
       }
@@ -816,7 +820,7 @@
         "bullets": [
           "Der Kurs ist deutlich gefallen: -1.63 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: US-Dollar, China/EM, Geopolitik/Sicherheit, Gewinne/Analysten.",
-          "Wichtigste gefundene Headlines: Schwacher US-Dollar und hohe Defizite: Rückenwind für Emerging Markets? - e-fundresearch.com | EM-Anleihen: Diese rohstoffreichen Schwellenländer profitieren - das investment."
+          "Wichtigste gefundene Headlines: Schwacher US-Dollar und hohe Defizite: Rückenwind für Emerging Markets? - e-fundresearch.com | iShares MSCI EM ex China: Allzeithoch bei 99,78 USD - Börse Express."
         ],
         "headlines": [
           {
@@ -824,6 +828,12 @@
             "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdW5LT0NkQVByWUhHM2JvRDZVWERXUW5RWnpWcEpzVVNxRDA2QzgwTEJBQ3p4Y2lYU1NEelhUa1hUZzJyUDg4SnJPTXVmQUppQzRoalhkVURTWEJtaHZ1Zk1MMHNXekE0ZkpyM2x4aTI3UmU0bkU3REl6NXYyVnZIWWxCckFXT3pKaVdvQlp0cFQxMmpPS3lTN0U4ajBWTHd0NGJHVFI2T0Nhc3hhQ2ZSQkJqclRfaWZYMUVEaERfYXcxdklzYXlvRXY5c2R3ZHJDVUpjZmt4TXlQYWNxSHhCSE83cGVjQzc2Nnc?oc=5",
             "source": "e-fundresearch.com",
             "published": "25.11., 09:00"
+          },
+          {
+            "title": "iShares MSCI EM ex China: Allzeithoch bei 99,78 USD - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVHg5cHVfWE8tQ2tteTRVS0liN0NxX3dtaHhWcDRXdmZBNE1ac3JBVEI3VW5BMHFRM01xVGpNSFowb2hhQlBlZUhDS1gzNnUtOWdCdGpkZmQyWjQ2Sk9yMXlCOUU2MU5DWmFnZmJRUjQydGZWSE9ycjR3dDY2OEZTUktZOUxodXU1S3JGcC1sZW9qQnBTbFdTVGMxcTdYTjZTZFFZ?oc=5",
+            "source": "Börse Express",
+            "published": "26.05., 09:00"
           },
           {
             "title": "EM-Anleihen: Diese rohstoffreichen Schwellenländer profitieren - das investment",
@@ -836,12 +846,6 @@
             "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWHhSNTdKdm9ENnlwNHVYMHVJa3M3VmctRWswSm5tWFFCc29DemNLQk1nVXd4dHcwcFZlemVYcTcxZTJvdm5sYTNFblhwUVZ2UExEbHQxdXFjSUhyV252TUNVam42cnp4Ti15R0pUWEp0S3k4azhUVlFqc1lxNEpRNmRfd09JaU5qTF91Uk91eHRTaW5TVHlBQjlfeHRmVVJvV0Y3Y1lYb1hvWTl3MkxBSkoxR1p6SVBLOGxRXzEzNkQzSV90MTVzY3Z2Mmw?oc=5",
             "source": "Handelsblatt",
             "published": "17.04., 09:00"
-          },
-          {
-            "title": "„Wer US-Wachstumsaktien hält, sollte über Emerging Markets nachdenken“ - e-fundresearch.com",
-            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWmZDbWJ2YXlQbV9COGVZVExGX3Zucjc0ckkzQl8xZHNHRlhqNVByb3lnMWw4LUVVR0VfSFpsRWdybVNNeVBfbjVXakhPVVJfVTdCMDlaaktKSVBBRDY0MzhrWnM0TzJzLUJqRnNpZHZmNFZtZkRuTm9yeWdLeVBNaUxJZV9rNHd5ODRlaWtBajQ5ajVOajVJdHlOUEhMV3hWc0FOdVlxNUx3aURZaEw5TkJaNkJ3bGppdlpB?oc=5",
-            "source": "e-fundresearch.com",
-            "published": "04.11., 09:00"
           }
         ]
       }
@@ -1238,13 +1242,13 @@
         "bullets": [
           "Der Kurs ist spürbar gefallen: -0.88 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: US-Dollar, KI/Tech, China/EM.",
-          "Wichtigste gefundene Headlines: Bitcoin notiert nahe 78.000 USD, während Memecoins und Small Caps eine breite Krypto-Rücksetzung anführen - coindesk.com | Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraETF."
+          "Wichtigste gefundene Headlines: Bitcoin notiert nahe 78.000 USD, während Memecoins und Small Caps eine breite Krypto-Rücksetzung anführen - CoinDesk | Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraETF."
         ],
         "headlines": [
           {
-            "title": "Bitcoin notiert nahe 78.000 USD, während Memecoins und Small Caps eine breite Krypto-Rücksetzung anführen - coindesk.com",
+            "title": "Bitcoin notiert nahe 78.000 USD, während Memecoins und Small Caps eine breite Krypto-Rücksetzung anführen - CoinDesk",
             "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVndoZHMxdjJtSG8wSW12QjNWOFQwclFZSk5sY1ZiZWxmSzVvb2tYZTc5MHVneGhCZzlNbWdNcFhqNkJNWF9iZ3lLR1piNjJxQVhhbmdIQ1hjRHMwWU41SEVJang3QWQwNkJNMUVpeHJNOGRFejJOcnlsNTVqS0R6T25CdGlob0R0RXlqTVZ0bkh1NzEtVUhXTzVEZkt1RGJRVzJlXzZjelU1OEJHWGlnMDlEVTlzbnROMnFWTVVqWTlpVWFmdVhj?oc=5",
-            "source": "coindesk.com",
+            "source": "CoinDesk",
             "published": "10.09., 12:24"
           },
           {
@@ -1254,16 +1258,16 @@
             "published": "28.04., 10:37"
           },
           {
+            "title": "US Small Caps sind bereit für die Aufholjagd - e-fundresearch.com",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOTZzWVl5Y1p0VWdDQTRaNnotS3JfMjkzSk9LdWs2NmxvTW9OTFpfOU9GREpxVHRpQlhuMFJxbmsxY0dnel8yTjRPMHBwTXZ6bXpnTXM3eWFBMHVrMlNxLTZyQkwtZlAzdW9wSkhYdkFJNVdhOExaWXJRN3pMOUVzdmtuQm5yX1VFdUZJOE0wX3JEMFd3YnNuWUZ2UWNxRC1VTW9WeXdXYnVkUQ?oc=5",
+            "source": "e-fundresearch.com",
+            "published": "06.03., 09:00"
+          },
+          {
             "title": "Russell 2000 auf Rekordhoch: Small Caps lassen S&P 500 und Magnificent 7 mit NVIDIA, Apple & Co. hinter sich - Finanzen.net",
             "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNa3RLSGRWT0x4cTBuNXFwZGxkMzNnelZzZmJhNG1NNnJOVFF2ekc3T0FTRFZscUp2Z2htYnY5RVFSUWFmcDlOZ3YzWVlCa1ZvWUc1QUVOM21Wd1dMdkdGUkVMUFZwbVlPcDBya2dNMDl5ZlhrZVNsQl9FalFCS2RnUVBIM3B6RnVjSEZ5a3Nwa3RTVWFfcEF3UW0xLWxlUE1raGlLaU5BcXB1SjIzUFdfaC1vNnlzUkdmYUtYZzVHWDFzWWRlZVpNaHBhLUdXTTE5OWFzcF9kdVBScmFRUno1eTd5bndjQWcwaWV1SmxiRUdJaGZIWVJWZ29DaVVzamVhcjFFZQ?oc=5",
             "source": "Finanzen.net",
             "published": "23.08., 09:00"
-          },
-          {
-            "title": "Diese US-Small-Cap-Aktien sind jetzt attraktiv - Morningstar",
-            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNXF1VURGVVhhSUhQWnc3NDlSUTVfU3BWb2hXd3pPN1Z5VWFGa2p4WV84cFd1WTlVaEFheEZ4eVhUVjBlVnBwdlBHTURVR2ptUGMzME5DeFNfR3lHVUhGTHRMVmIwU2ZXNFJUdlBlYW1XZ2M4aXJMTTlCWnNLbmxZc3FndTVMV1NXdmQ5cm9sdVQ?oc=5",
-            "source": "Morningstar",
-            "published": "06.07., 09:00"
           }
         ]
       }
@@ -1659,7 +1663,7 @@
         "bullets": [
           "Der Kurs ist deutlich gestiegen: +1.77 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: KI/Tech, Regulierung.",
-          "Wichtigste gefundene Headlines: (3⁺) So will ALPHABET an jeder Ebene des KI-Booms mitverdienen - stock3 | Marvell: Google-Vereinbarung erweitert - Börse Express."
+          "Wichtigste gefundene Headlines: (3⁺) So will ALPHABET an jeder Ebene des KI-Booms mitverdienen - stock3 | Lernen mit Gemini: Neue Funktionen und kostenloses Plus-Abo - blog.google."
         ],
         "headlines": [
           {
@@ -1669,16 +1673,16 @@
             "published": "10.09., 08:21"
           },
           {
-            "title": "Marvell: Google-Vereinbarung erweitert - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOME8weDZoRUdmN3ZVTGZLcTJjQ0htRmZ6SVVUYTdWVy1aWWhucGRTUi1oc3NmUld2ZDd6ZXJyc2RTdHZ6cUVFcGFQWi03QlZuWTFXa2lmQ2ptRk5IVExZS2oxdlZlcW5YQnR2ZWhxWnJxZlVyb1gyaU1STDNaUzJpYlBZZGxGbEV5ejRDY2R0SkExX1E?oc=5",
-            "source": "Börse Express",
-            "published": "11.09., 17:58"
-          },
-          {
             "title": "Lernen mit Gemini: Neue Funktionen und kostenloses Plus-Abo - blog.google",
             "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSHpGckFtREZVYlR3eGkybXlyc3RtMEx6WDhXeUN1akZLR2ExTWN5R2t6aXdzdkljMmNCTW11RklyS0hEdFRnbFFaSWtBQjhDUnZHQlFlbWZUS05WM1JZU1VwQmQtemNmcDlPN2VPNVJGVDVtX1VWRFlRRmhyNkdqeHZmd09rYlR5eDBlVGVka3RFYWxoMkNWN3dsSQ?oc=5",
             "source": "blog.google",
             "published": "01.09., 09:00"
+          },
+          {
+            "title": "Marvell: Google-Vereinbarung erweitert - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOME8weDZoRUdmN3ZVTGZLcTJjQ0htRmZ6SVVUYTdWVy1aWWhucGRTUi1oc3NmUld2ZDd6ZXJyc2RTdHZ6cUVFcGFQWi03QlZuWTFXa2lmQ2ptRk5IVExZS2oxdlZlcW5YQnR2ZWhxWnJxZlVyb1gyaU1STDNaUzJpYlBZZGxGbEV5ejRDY2R0SkExX1E?oc=5",
+            "source": "Börse Express",
+            "published": "11.09., 17:58"
           },
           {
             "title": "Google AI: Starke neue Funktionen, neue Apps, Gemini-Erweiterungen und mehr für Abonnenten (Alle Infos) - GoogleWatchBlog",
@@ -2075,38 +2079,37 @@
         "summary": "Kaum Kursbewegung: Obwohl aktuelle Schlagzeilen gefunden wurden, ist die Tagesbewegung zu klein für eine sinnvolle Ursache-Wirkung-Aussage.",
         "themes": [
           "Zinsen/Fed",
-          "Inflation",
-          "US-Dollar"
+          "Inflation"
         ],
         "bullets": [
           "Der Kurs liegt nahezu unverändert gegenüber dem letzten Schlusskurs.",
-          "Gefundene Nachrichten-Themen: Zinsen/Fed, Inflation, US-Dollar.",
-          "Wichtigste gefundene Headlines: Gold: Fed-Sitzung am 15. September belastet - Börse Express | Flucht aus dem Dollar? Gold explodiert – und hier wurden historische 80,4 g/t erbohrt - Wallstreet Online."
+          "Gefundene Nachrichten-Themen: Zinsen/Fed, Inflation.",
+          "Wichtigste gefundene Headlines: Gold: Inflationsdaten treiben Fed-Zinserhöhungs-Wahrscheinlichkeit auf 67 bis 86 Prozent - Börse Express | Goldpreis: Beendet die Fed am Mittwoch die Goldrallye mit einem Paukenschlag? - Wallstreet Online."
         ],
         "headlines": [
           {
-            "title": "Gold: Fed-Sitzung am 15. September belastet - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMHRFZWxDQ0ZfNnVrRnc1VTY1QjR3LXNieVBDWEZnUkozWFBnM2Q2NUE1Q25BaGdQdDJMR1czcWV2Ti1ZdXlHU3o5Um1YelpNS1ktcGxjY2xlcE5EZFlFbnBNZ1ViTXBIblJDM2xOTy1aYWVLZlVLdDF6SEhraFVTbU1fZ29nNm5HZV8xUV93YUVmWUEzM2Z1eA?oc=5",
+            "title": "Gold: Inflationsdaten treiben Fed-Zinserhöhungs-Wahrscheinlichkeit auf 67 bis 86 Prozent - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORHRjSGtlMURPeVZFQmFLaGVhWjB0ZTBJUGpvc0xsM1VoTXRLcGR1dGVoZ2xwN1pjejBYMjNJajVVMXhLQ2gtU1RYZG5lMldIbzJXT05mZFRGWTkxNDMwcnBQejFoRFpMNkNFejlRai01VlFxcEZHb25DbXJwTWRraUlVblJaQllhMGh6RzE1WDBZMzg0Uk5PSjExeVR6MlY5U1pXSnliaWVpLXFoRVl6ZW44NGo1VjNXMjZaeTZiSWx5YXZTY3h4SWlpYlZPaVZfZ0lpUHV1NA?oc=5",
             "source": "Börse Express",
-            "published": "11.09., 13:28"
+            "published": "12.09., 11:44"
           },
           {
-            "title": "Flucht aus dem Dollar? Gold explodiert – und hier wurden historische 80,4 g/t erbohrt - Wallstreet Online",
-            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeW9CWEZUT3VENDRac0Vsa04td2VoeGVPTEFFMW01RHh5cXNLa2JMNmdzUUVHY0ZrZjZjVmVBN2t2cEtKNjBoamhReFZxTXdrZlphdWVsRWhNZUQxd3BSdXhZcWJHOE9leFZFYUFUSjRQMW9VdmdJWTJWYUY1cWVfQzg1Q1ROVWZneVFnVmR5UGxsdjNFWThLVktRVE1VNHZLVlB2Rnc4U3I1c2dfTEhB?oc=5",
+            "title": "Goldpreis: Beendet die Fed am Mittwoch die Goldrallye mit einem Paukenschlag? - Wallstreet Online",
+            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSEx4YlRLcWhGdEZUSURYQmR4MzY1ajFSeG5IZTV0Qmh6MUEtQlQyR2RSTG1hX1ludENxSm9uYVBLWHBGZGMwd0gxSVNRejcwMVRPdzlPTGtXcmZaaEk2QkhvaERvbTI0Zm9PSFVydFQ1bVRRZlNuOU9ObkYzUjY5RXpwaUhNZWxFLUVyZXVPQkR4RzRYREFaaW1vLXNlZHBjNWdzeldsQ2hFRjlyRHVCc1NQQmxPSTN0eGV4QnBPUkFQcUlXcmRoQzA0dUtRQQ?oc=5",
             "source": "Wallstreet Online",
-            "published": "12.09., 09:26"
+            "published": "12.09., 13:04"
           },
           {
-            "title": "Diese drei Szenarien könnten den Goldpreis Experten zufolge auf 5.000 US-Dollar treiben - Finanzen.net",
-            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOYmVnYkNTcWk4S0tiU2hCbWp5UlZFY1VsWTZndkV6bkFRamNKaGJRX3lzc3I0c1VIQXB3YktqRlhWV0xYbGk5N0cwWHJJWC1VVzdzNG5zWVdYMmZYZ2lqaklzQVgwWGRPRmh1ZmFTT2lDX0ZKWm5IVWVzRTh4Xzh5cUd6cHpMWGV6ZUwtc3g1VFZ1VjlYUGRKT3o1NUVEa0VnY3V3QTlkQUUwa0t1bUdnUmFUWlBIYkd1eVpnOG0zVkt0WWlPSnNEOV9OSXNTMmlxaGtwMER2ekhKVWxFMXVFXzFoa1dsRUpyVXp5ZkVURzVVREh1?oc=5",
+            "title": "Gold-Stratege Stöferle: \"Gold ist weiterhin extrem günstig\" - Finanzen.net",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVWFRTnhDNEhXaTl6RE1MMVVwS0s4bTJZV1A1Yms5QmRocnRBU2EzQ3h3YnY2UV85YkxYNlh0YzJEeGZINFU4MDVDYWVFOHFHTzlnVlRvV0ZCd2dPS3k0a0NLTVo1Z01JOF9rcTE5c0xmMENuNHNyODkxVThsM1pqa2E5SXZpbXZFUHFfMVROVnF5VU9KT20tUHVSSlhLcjZzU0t2RHM5VVRiWHpUVTJoOWF3?oc=5",
             "source": "Finanzen.net",
-            "published": "11.09., 21:56"
+            "published": "12.09., 10:21"
           },
           {
-            "title": "Börse Aktuell: US-CPI-Daten & Goldpreis Prognose vor Fed-Wahl | Jens Klatt - XTB.com",
-            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ2pWVVE2NGdGUjlORTZ2bmNfanBmZElxcnRaUjVWR2xDNUhoWXVqeU5YdGJtdVN4UU44OGVFaXFXRGw1SHowQ2poc3JuTk4tY0x6WXFiTmJKU3k1MC1fek55U2huRVlnTEtFMzRad0lVRERoUHZqdWtwUnI0amZUNXFIMklsaGNfMF81amlyTDctLW9nMXRR?oc=5",
-            "source": "XTB.com",
-            "published": "11.09., 13:39"
+            "title": "Gold: Anleger in großer Sorge: Goldpreis: Beendet die Fed am Mittwoch die Goldrallye mit einem Paukenschlag? - FinanzNachrichten.de",
+            "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNdGlrNXRLcEx0UDdwdmZPOW1xUmJXTV9oR1I2M2lmY240MzZiOEtueEpua2tvLUh2V0JjWWw1Q2x0ZS1ibnhjSU1WYXdoUlFXOG1EbFcxTmxicVNobVRrWlhDcHYxRlBKbEktUWlHdC1uSktrX3JjZ0JsX2s5TnFaTklRanBiSndlbWdpazdCMXVxcFo3Ti1xcW1zSktWaUd5TlVSQUZIdURXTnZuZnFiT0lnb3ZUcE5VbzdMLWp3aEhRYjVONXpiRWxKXzJacUJkREpnazFfbXJUcVpOeFo5MWtDdGpnOFMzVFp4c1JQeFlXWGVSNVlQZXJQb3JaaHlRVFpwb1ZR?oc=5",
+            "source": "FinanzNachrichten.de",
+            "published": "12.09., 13:23"
           }
         ]
       }
