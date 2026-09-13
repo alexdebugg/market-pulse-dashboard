@@ -1,8 +1,8 @@
 {
   "is_sample": false,
   "source": "Yahoo Finance Kursdaten + Google News RSS Kontext",
-  "generated_at_utc": "2026-09-13T08:55:54+00:00",
-  "generated_at_vienna": "13.09.2026, 10:55 Uhr",
+  "generated_at_utc": "2026-09-13T18:31:40+00:00",
+  "generated_at_vienna": "13.09.2026, 20:31 Uhr",
   "market_mood_internal": "risk-on",
   "assets": [
     {
@@ -389,13 +389,21 @@
         "direction": "gestiegen",
         "confidence": "niedrig",
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
-        "themes": [],
+        "themes": [
+          "Regulierung"
+        ],
         "bullets": [
           "Der Kurs ist spürbar gestiegen: +0.94 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: keine klaren Themen erkannt.",
-          "Wichtigste gefundene Headlines: Leverage Shares 3x Long S&P 500 ETP Secs | XS2472197149 - e-fundresearch.com | IncomeShares Nasdaq 100 Options ETP | XS2875105608 | A4A50Q - extraETF."
+          "Gefundene Nachrichten-Themen: Regulierung.",
+          "Wichtigste gefundene Headlines: IncomeShares Nasdaq 100 Options ETP | XS2875105608 | A4A50Q - extraETF | Leverage Shares 3x Long S&P 500 ETP Secs | XS2472197149 - e-fundresearch.com."
         ],
         "headlines": [
+          {
+            "title": "IncomeShares Nasdaq 100 Options ETP | XS2875105608 | A4A50Q - extraETF",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9pOXp6WnVQUmdKMWRkY1JPdlZxbHU3UnVkclh1OTctTGxtMmliSUV1NUFPUV9RODRsY2tQUTBUOHViZG5uS2hOTVh1MUNnMGFwTllGRGJtMHdBNExs?oc=5",
+            "source": "extraETF",
+            "published": "11.09., 09:00"
+          },
           {
             "title": "Leverage Shares 3x Long S&P 500 ETP Secs | XS2472197149 - e-fundresearch.com",
             "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWTIyMnBVaDdOeEFvendjYl9zQ0ZMN3VjWVdnSGtzV2FaSzgtSXZTMDJVYjFPWEt4WjNGcmptQXZka2Y4QlBna2VxWDhXN21rendMeE1hVXlPeE1jYkdiTGtXaGc3eGdHd25wYzdMVGtlSXpvdTV3YnNkbFVrdmxzRWxpQmFPb2xVQnpjLU1vX0lidDdQS2ppTDlTMXVrcTg?oc=5",
@@ -403,22 +411,16 @@
             "published": "11.09., 21:14"
           },
           {
-            "title": "IncomeShares Nasdaq 100 Options ETP | XS2875105608 | A4A50Q - extraETF",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9pOXp6WnVQUmdKMWRkY1JPdlZxbHU3UnVkclh1OTctTGxtMmliSUV1NUFPUV9RODRsY2tQUTBUOHViZG5uS2hOTVh1MUNnMGFwTllGRGJtMHdBNExs?oc=5",
-            "source": "extraETF",
-            "published": "04.09., 09:00"
+            "title": "Robinhood Markets, Inc. Aktie (A3CVQC) - Kurs Nasdaq - MarketScreener Deutschland",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE80amcwNnlVc3hpMjczenY2YUlKemNBUnFEZ1R5a3hBMF81ckQwNUlxckstYmtWWmxSd083ZXZ1THJzOEVkNTlZUE9OQXc1MkxuS21XNjk1cnFzaUNNTWgxcExJYlFmNkxMN0IzU1NtQy0xenNNdWlTT2ZXbG91dw?oc=5",
+            "source": "MarketScreener Deutschland",
+            "published": "11.09., 09:00"
           },
           {
             "title": "Leverage Shares 3x Lg Nasdaq 100ETP Secs | XS2472197065 - e-fundresearch.com",
             "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPa1hGbGE2cVRYeURBdy1TS2prOXlfc1hPVWl3NWw0eE42S3lVMXdPemd4WDNzQUpKRHJHNlFZQXpxOVcyd29fNE9aT0VXNFl5SVhkWVJkbXJoZ2M4VzZhUENsMnhiaUVUMThLNE44WGJjN21EdnBzbG83S2lyMlBteUF1NmZsZWVqN2V0V2I3OTRMUGEtLXBqbHFmeXVrb201?oc=5",
             "source": "e-fundresearch.com",
             "published": "11.09., 21:15"
-          },
-          {
-            "title": "Leverage Shares -5x Short Nasdaq 100 ETP Securities | XS3373449761 | A4AU1Y - extraETF",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmZUhjNmxQU3JodWVkRkFCMUR2M3d0Y0x6NTdOTDNIU0dvWFB2OFBGaUN4UktyMTdaV3hhQ0JsWG1mZUJPSkI5dnJYOC1sRXM1cVNRVElQaFZ5QmRY?oc=5",
-            "source": "extraETF",
-            "published": "19.06., 18:15"
           }
         ]
       }
@@ -2075,11 +2077,12 @@
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
           "Zinsen/Fed",
+          "Inflation",
           "US-Dollar"
         ],
         "bullets": [
           "Der Kurs ist deutlich gestiegen: +1.02 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: Zinsen/Fed, US-Dollar.",
+          "Gefundene Nachrichten-Themen: Zinsen/Fed, Inflation, US-Dollar.",
           "Wichtigste gefundene Headlines: Flucht aus dem Dollar? Gold explodiert – und hier wurden historische 80,4 g/t erbohrt - Wallstreet Online | Gold: Fed-Sitzung am 15. September belastet - Börse Express."
         ],
         "headlines": [
@@ -2087,7 +2090,7 @@
             "title": "Flucht aus dem Dollar? Gold explodiert – und hier wurden historische 80,4 g/t erbohrt - Wallstreet Online",
             "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeW9CWEZUT3VENDRac0Vsa04td2VoeGVPTEFFMW01RHh5cXNLa2JMNmdzUUVHY0ZrZjZjVmVBN2t2cEtKNjBoamhReFZxTXdrZlphdWVsRWhNZUQxd3BSdXhZcWJHOE9leFZFYUFUSjRQMW9VdmdJWTJWYUY1cWVfQzg1Q1ROVWZneVFnVmR5UGxsdjNFWThLVktRVE1VNHZLVlB2Rnc4U3I1c2dfTEhB?oc=5",
             "source": "Wallstreet Online",
-            "published": "13.09., 10:40"
+            "published": "13.09., 19:42"
           },
           {
             "title": "Gold: Fed-Sitzung am 15. September belastet - Börse Express",
@@ -2096,16 +2099,16 @@
             "published": "11.09., 13:28"
           },
           {
-            "title": "Gold: 5 Milliarden Dollar ETC-Zuflüsse in drei Wochen - Börse Global",
-            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbVlWRnYwZ2ZULXpCekMyY3ZBQXBOMVJUX1pHeG44UVFpMVhXUFVMQTFCbzV3MUNTRHd4aml5NS1uUzRrVTJsWDZhbDFFRTRlVkhwYWl0NXNLaGxIWUprdllENW9XSnY0aGcyNng0NnpRVTA1SGNPUUt2d3BfdkxHRjBvLV9FRFluQzVTWE9wVWNVQ3c?oc=5",
-            "source": "Börse Global",
-            "published": "13.09., 09:03"
+            "title": "Börse Aktuell: US-CPI-Daten & Goldpreis Prognose vor Fed-Wahl | Jens Klatt - xtb.com",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ2pWVVE2NGdGUjlORTZ2bmNfanBmZElxcnRaUjVWR2xDNUhoWXVqeU5YdGJtdVN4UU44OGVFaXFXRGw1SHowQ2poc3JuTk4tY0x6WXFiTmJKU3k1MC1fek55U2huRVlnTEtFMzRad0lVRERoUHZqdWtwUnI0amZUNXFIMklsaGNfMF81amlyTDctLW9nMXRR?oc=5",
+            "source": "xtb.com",
+            "published": "11.09., 13:39"
           },
           {
-            "title": "Gold wieder über 4.400 Dollar, Newmont nahe Jahreshoch - Small Microcap",
-            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaTh6eUZic2R4bWdGLXctaUZrbE4taUZWczl3Vmo5aXl1bzVsU2IydE5zVmNQeVV5OHFRU2VoZ2Y4U0VzWUFCdWZYcVZzUFNJTjBlTmszU0daZmpRZzIwOTNHcjgwUzlaUEFMSkp0TkhGa0FkRkJ4VkEwREFsRFk2cHBsSTU2NTd4?oc=5",
-            "source": "Small Microcap",
-            "published": "13.09., 09:00"
+            "title": "Gold: Unter 4.356 Dollar nach Inflationsdaten - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMVVWaEpnVG1xbG1fTEJzalZtUlUwX01nX1pYc3NoR2xlOVBla1dIaXo5eXN4UXQ0SnltejBRMEpBLWF4bk5uWE45WTktTjBEWWFHdjVjSG53aUFCREhCTlBNdmpJd0xRX0dGNG5tOXU5d2FjUnBXakZDZmZjcXJkdEtua0g3QlFnVjdsZ0VIbG5YdzRQOVUxZC1pZw?oc=5",
+            "source": "Börse Express",
+            "published": "11.09., 07:54"
           }
         ]
       }
