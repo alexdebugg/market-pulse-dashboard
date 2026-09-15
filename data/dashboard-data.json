@@ -1,8 +1,8 @@
 {
   "is_sample": false,
   "source": "Yahoo Finance Kursdaten + Google News RSS Kontext",
-  "generated_at_utc": "2026-09-15T09:11:23+00:00",
-  "generated_at_vienna": "15.09.2026, 11:11 Uhr",
+  "generated_at_utc": "2026-09-15T19:30:45+00:00",
+  "generated_at_vienna": "15.09.2026, 21:30 Uhr",
   "market_mood_internal": "risk-off",
   "assets": [
     {
@@ -13,16 +13,16 @@
       "description": "iShares Core MSCI World UCITS ETF als handelbarer Developed-Markets-Proxy",
       "price_decimals": 2,
       "last_date": "2026-09-15",
-      "last_close": 125.69499969482422,
+      "last_close": 125.80000305175781,
       "previous_close": 126.63500213623047,
-      "change_abs": -0.94,
-      "change_pct": -0.74,
-      "change_5d_pct": -1.28,
-      "change_1m_pct": -2.46,
-      "change_3m_pct": 1.2,
+      "change_abs": -0.83,
+      "change_pct": -0.66,
+      "change_5d_pct": -1.2,
+      "change_1m_pct": -2.38,
+      "change_3m_pct": 1.28,
       "change_1y_pct": null,
-      "ytd_pct": 12.45,
-      "volatility_30d_pct": 9.08,
+      "ytd_pct": 12.55,
+      "volatility_30d_pct": 9.02,
       "sparkline": [
         {
           "date": "2026-05-12",
@@ -382,7 +382,7 @@
         },
         {
           "date": "2026-09-15",
-          "close": 125.69499969482422
+          "close": 125.80000305175781
         }
       ],
       "explanation": {
@@ -390,11 +390,12 @@
         "confidence": "niedrig",
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
+          "Zinsen/Fed",
           "KI/Tech"
         ],
         "bullets": [
-          "Der Kurs ist spürbar gefallen: -0.74 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: KI/Tech.",
+          "Der Kurs ist spürbar gefallen: -0.66 % gegenüber dem vorherigen Schlusskurs.",
+          "Gefundene Nachrichten-Themen: Zinsen/Fed, KI/Tech.",
           "Wichtigste gefundene Headlines: IncomeShares Nasdaq 100 Options ETP | XS2875105608 | A4A50Q - extraETF | Leverage Shares 3x Long S&P 500 ETP Secs | XS2472197149 - e-fundresearch.com."
         ],
         "headlines": [
@@ -411,16 +412,16 @@
             "published": "11.09., 21:14"
           },
           {
+            "title": "Strategy Shares - Strategy Shares NASDAQ 7 HANDL Index ETF kündigt monatliche Dividende an, zahlbar am 15. September 2026 - MarketScreener…",
+            "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQbTNPLXhwZm5ROWRFNHRRT2cxcVI5REkzcDVWQ1Q3cm1vWC1KUlZrYW1pR25ZcllVUXFHdGFkLTd3ODduWHZEOHZSNHUwQlNIYnN6MWNVYUVzWkktbklkWS1tVWxkZ2t3RTZiVVJ2dzRHRF9zeE9iRUV0LVhNVnhscXJzdUE5b2tDYk9mRVB2Qlg5ZDZkOXFDWGFOXzRFTkhuYzlNSEhDa212cFltdXRjTFlsbzFpOG55d0ZsdlhzcGpOMVBzRml5aDBNNTNydVNfVlNxT2Jhc3A3Tm5fOGZsUkMxVjVlYlJOdXdXcnFYUzRXSEZ5RUE?oc=5",
+            "source": "MarketScreener Deutschland",
+            "published": "11.09., 00:00"
+          },
+          {
             "title": "CFTC-Daten zeigen: S&P-500-Spekulanten bauen Short-Positionen aus – saisonale September-Schwäche rückt näher - VT Markets",
             "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQaDUxdENqMHpXRkVVTlA3RTZJZTNQWUYwQi1jUWpvakJwWmVKaGJQeXlld2NWZ0ZpS051d054cDVfUVpyX3ZHOWFaSUpOZlkwejB0YnZ3aklfYVFrRXdyYk5RcXlPSjNGaHpxZHY3emNlMUZlaXhaN0ZEUnhiR1hmYXhtZnhrS0Z2R0F2TWxiekJsMnREb0NlcExHb3Y5R3c2d0s5VkY0cGNyeEdyUTAxbmNpREZqYlpBb01wM2dDWFA1VGpRSGNwdmVmVU12TmJnSkE5dTZRc0tmTWR1aTBrd0VOYzA?oc=5",
             "source": "VT Markets",
             "published": "12.09., 09:00"
-          },
-          {
-            "title": "Cboe Global Markets-Aktie geht vor Handelsstart mit minus 0,5 Prozent in den Tag - ad-hoc-news.de",
-            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUjg2V2pILU5hNkJaMzlvZ21ScGJXLVdsN2VscFVQY2dLSHNVSzNkNGRhcW53a0ozb05XWU5kUm01NUpIdEJrQTFZX2gyVjQ1NDZOYncxbDJibVNhUkV3TjJFaDBQTWhpcEVFclVFVlFXR1FtU0xaUkVjYkJKSEhtZkI0UlU3MTFqaE93NVQxX1Jxdnd0dmRjNlhPSnJ3OGlxVVgxRWxfV2RBWWRpWGZRSlJ2NDJpZHI4UGJBSXAzTUYyTEwtamZSdjVBWmRIQmtN?oc=5",
-            "source": "ad-hoc-news.de",
-            "published": "14.09., 05:28"
           }
         ]
       }
@@ -433,16 +434,16 @@
       "description": "iShares Core MSCI EM IMI UCITS ETF als Emerging-Markets-Proxy",
       "price_decimals": 2,
       "last_date": "2026-09-15",
-      "last_close": 46.689998626708984,
+      "last_close": 46.68600082397461,
       "previous_close": 48.000999450683594,
       "change_abs": -1.31,
-      "change_pct": -2.73,
-      "change_5d_pct": -3.58,
-      "change_1m_pct": -1.04,
-      "change_3m_pct": -5.19,
+      "change_pct": -2.74,
+      "change_5d_pct": -3.59,
+      "change_1m_pct": -1.05,
+      "change_3m_pct": -5.2,
       "change_1y_pct": null,
-      "ytd_pct": 21.75,
-      "volatility_30d_pct": 20.04,
+      "ytd_pct": 21.74,
+      "volatility_30d_pct": 20.05,
       "sparkline": [
         {
           "date": "2026-05-12",
@@ -802,7 +803,7 @@
         },
         {
           "date": "2026-09-15",
-          "close": 46.689998626708984
+          "close": 46.68600082397461
         }
       ],
       "explanation": {
@@ -811,21 +812,21 @@
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
           "US-Dollar",
+          "KI/Tech",
           "China/EM",
-          "Geopolitik/Sicherheit",
           "Gewinne/Analysten"
         ],
         "bullets": [
-          "Der Kurs ist deutlich gefallen: -2.73 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: US-Dollar, China/EM, Geopolitik/Sicherheit, Gewinne/Analysten.",
-          "Wichtigste gefundene Headlines: Schwacher US-Dollar und hohe Defizite: Rückenwind für Emerging Markets? - e-fundresearch.com | iShares MSCI EM ex China: Allzeithoch bei 99,78 USD - Börse Express."
+          "Der Kurs ist deutlich gefallen: -2.74 % gegenüber dem vorherigen Schlusskurs.",
+          "Gefundene Nachrichten-Themen: US-Dollar, KI/Tech, China/EM, Gewinne/Analysten.",
+          "Wichtigste gefundene Headlines: Auftragsbestand an Cloud-Verpflichtungen der großen Hyperscaler knackt Zwei-Billionen-Dollar-Marke - e-fundresearch.com | iShares MSCI EM ex China: Allzeithoch bei 99,78 USD - Börse Express."
         ],
         "headlines": [
           {
-            "title": "Schwacher US-Dollar und hohe Defizite: Rückenwind für Emerging Markets? - e-fundresearch.com",
-            "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdW5LT0NkQVByWUhHM2JvRDZVWERXUW5RWnpWcEpzVVNxRDA2QzgwTEJBQ3p4Y2lYU1NEelhUa1hUZzJyUDg4SnJPTXVmQUppQzRoalhkVURTWEJtaHZ1Zk1MMHNXekE0ZkpyM2x4aTI3UmU0bkU3REl6NXYyVnZIWWxCckFXT3pKaVdvQlp0cFQxMmpPS3lTN0U4ajBWTHd0NGJHVFI2T0Nhc3hhQ2ZSQkJqclRfaWZYMUVEaERfYXcxdklzYXlvRXY5c2R3ZHJDVUpjZmt4TXlQYWNxSHhCSE83cGVjQzc2Nnc?oc=5",
+            "title": "Auftragsbestand an Cloud-Verpflichtungen der großen Hyperscaler knackt Zwei-Billionen-Dollar-Marke - e-fundresearch.com",
+            "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQQm5peXZPU0VVMm1WaG0xa3BtektaanZZQW5DY0RncjI3cm5uX1pZRlRnQW5xTHBITG5NWlNKVHlwVVdhb2cxVFUzZDM1cmVIOGZKbmhpT2h4cjJfdFJUQ3hiak1hVUFoc3Y1NzItYW1wS2l6OXRfSFlSWnIxWjhMZGh4SUZhYTZfaC02NHVVSTd1Z3FWTFU2TlpGanVKN3F1MVNwWmtwSGV6R2J6WFlSeFJuYXlwU0V4ZTRPWU1vYURfUmNBdGJacDVsYkdNa3B6ZG5VYUJySFd3c0YzNFIxcXFaRUJyRE54TW03QWpQR2VTQQ?oc=5",
             "source": "e-fundresearch.com",
-            "published": "25.11., 09:00"
+            "published": "06.07., 09:00"
           },
           {
             "title": "iShares MSCI EM ex China: Allzeithoch bei 99,78 USD - Börse Express",
@@ -834,16 +835,16 @@
             "published": "26.05., 09:00"
           },
           {
-            "title": "EM-Anleihen: Diese rohstoffreichen Schwellenländer profitieren - das investment",
+            "title": "EM-Anleihen: Diese rohstoffreichen Schwellenländer profitieren - dasinvestment.com",
             "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNGJtcEp3MGtIVGNpekNsNWQtbnNYaHhIS2JyMHhWYUlDai1mRjZuQ1VRVmZ5c3ZDRE5malN3TTBJMTMza2x4MGpWaUszZDNiZlJMWWd4TnM4RmxYQThTSDFlZF9USUNIQU1pVEpqRVhxYnU3WUNkcHdqYVBBQVFhX3FuZWpNSHpLNUp3N3ZDOTBwLXhJTk5iNDRtSnRYMXQzdE5vX2RR?oc=5",
-            "source": "das investment",
+            "source": "dasinvestment.com",
             "published": "29.05., 09:00"
           },
           {
-            "title": "Kapitalmärkte: Iran-Krieg wird zum Stresstest für die Schwellenländer - Handelsblatt",
-            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWHhSNTdKdm9ENnlwNHVYMHVJa3M3VmctRWswSm5tWFFCc29DemNLQk1nVXd4dHcwcFZlemVYcTcxZTJvdm5sYTNFblhwUVZ2UExEbHQxdXFjSUhyV252TUNVam42cnp4Ti15R0pUWEp0S3k4azhUVlFqc1lxNEpRNmRfd09JaU5qTF91Uk91eHRTaW5TVHlBQjlfeHRmVVJvV0Y3Y1lYb1hvWTl3MkxBSkoxR1p6SVBLOGxRXzEzNkQzSV90MTVzY3Z2Mmw?oc=5",
+            "title": "Künstliche Intelligenz: Wie auch Schwellenländer vom KI-Boom profitieren - Handelsblatt",
+            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWkFmZUEzMXcyVlZuT0FNdFFSUjYwZWZqWUoxLXFzS1ZhTjM2TXJ1NWJVcHRxU3RUQUgzc1o2N25yb3FFRVUwcFpKLXRVMEdBWnpOdGZuX3lzbUtHZzktalE1dzVLOURURU9Mb05uTmNQUkh6Z0tnTDRmUm83N0V5WmlVcnhkNC0xb3hBTnFtalBzaGo5V0lxNjZlYzRId1lTOHFlVms1eDhlWS1BMURxeUxqYkhuODc1eTJWSUJabU1jb2ll?oc=5",
             "source": "Handelsblatt",
-            "published": "17.04., 09:00"
+            "published": "24.06., 09:00"
           }
         ]
       }
@@ -1240,21 +1241,9 @@
         "bullets": [
           "Der Kurs ist spürbar gefallen: -0.82 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: US-Dollar, Regulierung, China/EM.",
-          "Wichtigste gefundene Headlines: Bitcoin notiert nahe 78.000 USD, während Memecoins und Small Caps eine breite Krypto-Rücksetzung anführen - CoinDesk | Small Caps: Investieren in die besten deutschen Nebenwerte und Aktien aus SDAX und MDAX - Finanzen.net."
+          "Wichtigste gefundene Headlines: Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraETF | Bitcoin notiert nahe 78.000 USD, während Memecoins und Small Caps eine breite Krypto-Rücksetzung anführen - CoinDesk."
         ],
         "headlines": [
-          {
-            "title": "Bitcoin notiert nahe 78.000 USD, während Memecoins und Small Caps eine breite Krypto-Rücksetzung anführen - CoinDesk",
-            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVndoZHMxdjJtSG8wSW12QjNWOFQwclFZSk5sY1ZiZWxmSzVvb2tYZTc5MHVneGhCZzlNbWdNcFhqNkJNWF9iZ3lLR1piNjJxQVhhbmdIQ1hjRHMwWU41SEVJang3QWQwNkJNMUVpeHJNOGRFejJOcnlsNTVqS0R6T25CdGlob0R0RXlqTVZ0bkh1NzEtVUhXTzVEZkt1RGJRVzJlXzZjelU1OEJHWGlnMDlEVTlzbnROMnFWTVVqWTlpVWFmdVhj?oc=5",
-            "source": "CoinDesk",
-            "published": "10.09., 12:24"
-          },
-          {
-            "title": "Small Caps: Investieren in die besten deutschen Nebenwerte und Aktien aus SDAX und MDAX - Finanzen.net",
-            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOEFTX0J1QUlVQXlxd0djcjN5VDBuTzhxdVZwdUU1dThIUkVLR1FsUlM4LXRRYURxTUp0UVkzNUVjNVhzOUluODZhQnlUaXJrQko5S180ajk2ZjlxQzlidG51bmhmcHh0SVVkeXdsS0JuNGNQSXAwWTIzeDB3dXJSVWlISEFrbklsUFhYc3Iza3F3WEJmYU9nOU5YaFFyNlVHSzBjOFlaMjc4TjNuS2U4ci1XdE43VXpXVVdN?oc=5",
-            "source": "Finanzen.net",
-            "published": "31.08., 09:00"
-          },
           {
             "title": "Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraETF",
             "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBfSEFMN1dKOFVhZUdmcE5WbGh1V3VIUTVJTE5SdWVzS2hYemNGRWgzRi1MZF8xZXdrbUl3RHVKeTk0SDNRUmhSWGgyQUpMQlRXb2JPS0Jxb2txVm5LM0w3anphOWo5WWIwSDF5Qjg4clFwR0VWUkQ5Qg?oc=5",
@@ -1262,10 +1251,22 @@
             "published": "28.04., 10:37"
           },
           {
+            "title": "Bitcoin notiert nahe 78.000 USD, während Memecoins und Small Caps eine breite Krypto-Rücksetzung anführen - CoinDesk",
+            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVndoZHMxdjJtSG8wSW12QjNWOFQwclFZSk5sY1ZiZWxmSzVvb2tYZTc5MHVneGhCZzlNbWdNcFhqNkJNWF9iZ3lLR1piNjJxQVhhbmdIQ1hjRHMwWU41SEVJang3QWQwNkJNMUVpeHJNOGRFejJOcnlsNTVqS0R6T25CdGlob0R0RXlqTVZ0bkh1NzEtVUhXTzVEZkt1RGJRVzJlXzZjelU1OEJHWGlnMDlEVTlzbnROMnFWTVVqWTlpVWFmdVhj?oc=5",
+            "source": "CoinDesk",
+            "published": "10.09., 12:24"
+          },
+          {
             "title": "Diese US-Small-Cap-Aktien sind jetzt attraktiv - Morningstar",
             "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNXF1VURGVVhhSUhQWnc3NDlSUTVfU3BWb2hXd3pPN1Z5VWFGa2p4WV84cFd1WTlVaEFheEZ4eVhUVjBlVnBwdlBHTURVR2ptUGMzME5DeFNfR3lHVUhGTHRMVmIwU2ZXNFJUdlBlYW1XZ2M4aXJMTTlCWnNLbmxZc3FndTVMV1NXdmQ5cm9sdVQ?oc=5",
             "source": "Morningstar",
             "published": "06.07., 09:00"
+          },
+          {
+            "title": "Small Caps: Investieren in die besten deutschen Nebenwerte und Aktien aus SDAX und MDAX - Finanzen.net",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOEFTX0J1QUlVQXlxd0djcjN5VDBuTzhxdVZwdUU1dThIUkVLR1FsUlM4LXRRYURxTUp0UVkzNUVjNVhzOUluODZhQnlUaXJrQko5S180ajk2ZjlxQzlidG51bmhmcHh0SVVkeXdsS0JuNGNQSXAwWTIzeDB3dXJSVWlISEFrbklsUFhYc3Iza3F3WEJmYU9nOU5YaFFyNlVHSzBjOFlaMjc4TjNuS2U4ci1XdE43VXpXVVdN?oc=5",
+            "source": "Finanzen.net",
+            "published": "31.08., 09:00"
           }
         ]
       }
@@ -1277,22 +1278,18 @@
       "currency": "USD",
       "description": "Alphabet Inc. Class A",
       "price_decimals": 2,
-      "last_date": "2026-09-14",
-      "last_close": 349.3900146484375,
-      "previous_close": 338.5,
-      "change_abs": 10.89,
-      "change_pct": 3.22,
-      "change_5d_pct": 3.23,
-      "change_1m_pct": 0.87,
-      "change_3m_pct": -2.86,
+      "last_date": "2026-09-15",
+      "last_close": 344.135009765625,
+      "previous_close": 349.3900146484375,
+      "change_abs": -5.26,
+      "change_pct": -1.5,
+      "change_5d_pct": 1.71,
+      "change_1m_pct": -0.51,
+      "change_3m_pct": -6.83,
       "change_1y_pct": null,
-      "ytd_pct": 11.63,
-      "volatility_30d_pct": 29.3,
+      "ytd_pct": 9.95,
+      "volatility_30d_pct": 25.58,
       "sparkline": [
-        {
-          "date": "2026-05-06",
-          "close": 398.0400085449219
-        },
         {
           "date": "2026-05-07",
           "close": 397.989990234375
@@ -1648,45 +1645,49 @@
         {
           "date": "2026-09-14",
           "close": 349.3900146484375
+        },
+        {
+          "date": "2026-09-15",
+          "close": 344.135009765625
         }
       ],
       "explanation": {
-        "direction": "gestiegen",
-        "confidence": "mittel",
-        "summary": "Plausibler Nachrichtenbezug: Der Kurs ist gestiegen und die gefundenen Schlagzeilen enthalten überwiegend positiv wirkende Formulierungen. Die Quellen passen damit zur Richtung, beweisen aber keine Kausalität.",
+        "direction": "gefallen",
+        "confidence": "niedrig",
+        "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
           "KI/Tech",
           "Regulierung"
         ],
         "bullets": [
-          "Der Kurs ist deutlich gestiegen: +3.22 % gegenüber dem vorherigen Schlusskurs.",
+          "Der Kurs ist deutlich gefallen: -1.50 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: KI/Tech, Regulierung.",
-          "Wichtigste gefundene Headlines: Google bezahlt Publisher für bestimmte Inhalte in AI-Antworten - OnlineMarketing.de | Lernen mit Gemini: Neue Funktionen und kostenloses Plus-Abo - blog.google."
+          "Wichtigste gefundene Headlines: Google Cloud erweitert seine Partnerschaft mit Salesforce, eröffnet ein Zentrum in Singapur - MarketScreener Deutschland | Google Firebase führt Kostendeckel für KI und Hosting ein - heise online."
         ],
         "headlines": [
           {
-            "title": "Google bezahlt Publisher für bestimmte Inhalte in AI-Antworten - OnlineMarketing.de",
-            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQS3pJTkozVWg0alZ5MEdNZldUWHpKalhYN1FrVTBhck81bS10NTJRZGJldGhNaDRjYy1TRTFsemlHVUFJNk9WQWgwXzlXeFRVNFdiYzFxOUhjbWgxUGRUMmtrcXJFTnN3NkdzdHhLQXRsNlM0dzdRX2FpeTlFSjZudDBaRHcyb3Z1WVY3VzdlclF0YnZXVk4wME1IdEV2Skk?oc=5",
-            "source": "OnlineMarketing.de",
-            "published": "15.09., 10:26"
+            "title": "Google Cloud erweitert seine Partnerschaft mit Salesforce, eröffnet ein Zentrum in Singapur - MarketScreener Deutschland",
+            "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQR2hTSkE1VUJYbTFNNlNPWWVvVlhrVVhfTEM2YkdtNml3cU00MVZKV0ROc3BrNGVNUGg1NlllcXFqa1JjcVFXMUVrdExUcjBtZnVOWWhKaXFTQk8waHdsWHR4NGd3c204Q1o2T3FYV1JpSlNWVFplRzdwRTNYMFBVTFREako0djcyamFsbE1sbmdCR1hFS0FWTWF6TVFMOUFORHpkbHN0MldrQWVBamVDOGJTcUY1M2pQMFhnOWpaS2xTYXBsUXBtZ0NJcWJ3WWl2MXZhN09lbzlVc3d4NWt6OEdQTDc0Wkh0YXFuUHhR?oc=5",
+            "source": "MarketScreener Deutschland",
+            "published": "15.09., 16:22"
           },
           {
-            "title": "Lernen mit Gemini: Neue Funktionen und kostenloses Plus-Abo - blog.google",
-            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSHpGckFtREZVYlR3eGkybXlyc3RtMEx6WDhXeUN1akZLR2ExTWN5R2t6aXdzdkljMmNCTW11RklyS0hEdFRnbFFaSWtBQjhDUnZHQlFlbWZUS05WM1JZU1VwQmQtemNmcDlPN2VPNVJGVDVtX1VWRFlRRmhyNkdqeHZmd09rYlR5eDBlVGVka3RFYWxoMkNWN3dsSQ?oc=5",
-            "source": "blog.google",
-            "published": "01.09., 09:00"
+            "title": "Google Firebase führt Kostendeckel für KI und Hosting ein - heise online",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMy1fM0VEa0h1Uk1jVnBDX3hNNVh0U0w4RWk3M0M2RkVyTUFEd3hUaVQ3UXZBd0pOeVh3Y2E1bWJ1dUtOSmtFWE51eFU3Qmlkc2RpTWF6NmE5X1NBZHR1RFBZNXJQX3diWUZPdVV5VGtEQVV4V0JiSmdNcjdUejZEVWVxT1ZheHpUUE1GN3NYeHpqTEc0Wk0yUERtSVE1NHpr?oc=5",
+            "source": "heise online",
+            "published": "15.09., 12:15"
           },
           {
-            "title": "Marvell: Google-Vereinbarung erweitert - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOME8weDZoRUdmN3ZVTGZLcTJjQ0htRmZ6SVVUYTdWVy1aWWhucGRTUi1oc3NmUld2ZDd6ZXJyc2RTdHZ6cUVFcGFQWi03QlZuWTFXa2lmQ2ptRk5IVExZS2oxdlZlcW5YQnR2ZWhxWnJxZlVyb1gyaU1STDNaUzJpYlBZZGxGbEV5ejRDY2R0SkExX1E?oc=5",
-            "source": "Börse Express",
-            "published": "11.09., 17:58"
+            "title": "Die Alphabet-C-Aktie steigt nach starkem Cloud-Wachstum und hohem KI-Capex - ad-hoc-news.de",
+            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTDB3YW1RcThoeFNhNDNZZFJ6UUVDZFkwbmRhMmtFbVBzSFVFR1hSVHc2X3V5cGs0X2NrWG1CLVBFeUdzTFhUSVRWenRoSkNkT29xM0pLZnJTcVpYWXdjRVdsYUUtdmcyVTJfS0FoR1dkTHhzN2lYNmxUN1VmX0tPSEhOY2s0YVpUU1BYX245R2NFVXI5SzdISjhseTdzdVU1VWdmUjZHVFM4Q3dFdTJieXJfSE0zMXhmTWNnTjR3alltTUZCQkFtVmlmazRIWmU0aG1V?oc=5",
+            "source": "ad-hoc-news.de",
+            "published": "15.09., 13:47"
           },
           {
-            "title": "KI für Anwälte: Google startet mit Gemini Enterprise for Legal - FAZ",
-            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQXzRUaXVaTE5seFZjRFFVa3JGQVVwZ3VuNDlaSHZrcmNBS3pFMDFJYWRwZkM3Vm5IYWxFMXRqVkNMbGhvWWp6U05IU182dXZOcWdPel9IWkhEMjFMN3pqSU5YaDExbEdpR1ZKMnVOMUozS2oxN1Y5TUhraGVUN3d2ZzU3dmREaFV3ZXFKeHIwYUJiMldOY0U5R1BhLWtaYTVXUmRzbzVYMllNdlAyNGYwc2FhWW50MThlUkVqQ2JoX2pMWW83VmF1Nw?oc=5",
-            "source": "FAZ",
-            "published": "27.08., 09:00"
+            "title": "Salesforce betreibt Hyperforce auf Google Cloud in erweiterter Partnerschaft - Unite.AI",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYjlzc2lCbWQ1bF83TFpBRFM1a0J0dHNCUmVTbG92YWlkWDZXWkRFNW9jMGxBS1ZoMGZTUWNyNk43NE1hNTR6aHF0M0Q1LUFDeW55MnVrYzBZX0J1cU9vU1M2WVVpNUFJNDJSQnUwMDcxVzBnMkNHZEFKYzJkVFNiWE1GUWdUXzlEeG9XbUZfUnlPWmE4WXc?oc=5",
+            "source": "Unite.AI",
+            "published": "15.09., 14:25"
           }
         ]
       }
@@ -1699,72 +1700,72 @@
       "description": "Goldpreis, primär über Gold-Future, fallback XAU/USD",
       "price_decimals": 2,
       "last_date": "2026-09-15",
-      "last_close": 4303.60009765625,
+      "last_close": 4338.7001953125,
       "previous_close": 4351.89990234375,
-      "change_abs": -48.3,
-      "change_pct": -1.11,
-      "change_5d_pct": -2.06,
-      "change_1m_pct": -1.75,
-      "change_3m_pct": -0.56,
+      "change_abs": -13.2,
+      "change_pct": -0.3,
+      "change_5d_pct": -2.26,
+      "change_1m_pct": -2.22,
+      "change_3m_pct": -0.3,
       "change_1y_pct": null,
-      "ytd_pct": -0.51,
-      "volatility_30d_pct": 24.33,
+      "ytd_pct": -0.06,
+      "volatility_30d_pct": 24.02,
       "sparkline": [
         {
           "date": "2026-05-07",
-          "close": 4699.7998046875
+          "close": 4710.89990234375
         },
         {
           "date": "2026-05-08",
-          "close": 4720.39990234375
+          "close": 4730.7001953125
         },
         {
           "date": "2026-05-11",
-          "close": 4718.7001953125
+          "close": 4728.7001953125
         },
         {
           "date": "2026-05-12",
-          "close": 4677.60009765625
+          "close": 4686.7001953125
         },
         {
           "date": "2026-05-13",
-          "close": 4697.7001953125
+          "close": 4706.7001953125
         },
         {
           "date": "2026-05-14",
-          "close": 4678.10009765625
+          "close": 4685.2998046875
         },
         {
           "date": "2026-05-15",
-          "close": 4555.7998046875
+          "close": 4561.89990234375
         },
         {
           "date": "2026-05-18",
-          "close": 4552.5
+          "close": 4558.0
         },
         {
           "date": "2026-05-19",
-          "close": 4506.2998046875
+          "close": 4511.2001953125
         },
         {
           "date": "2026-05-20",
-          "close": 4531.2998046875
+          "close": 4535.2998046875
         },
         {
           "date": "2026-05-21",
-          "close": 4539.7998046875
+          "close": 4542.5
         },
         {
           "date": "2026-05-22",
-          "close": 4521.0
+          "close": 4523.2001953125
         },
         {
           "date": "2026-05-26",
-          "close": 4500.39990234375
+          "close": 4502.2998046875
         },
         {
           "date": "2026-05-27",
-          "close": 4447.5
+          "close": 4448.39990234375
         },
         {
           "date": "2026-05-28",
@@ -1772,171 +1773,171 @@
         },
         {
           "date": "2026-05-29",
-          "close": 4560.5
+          "close": 4593.0
         },
         {
           "date": "2026-06-01",
-          "close": 4475.2001953125
+          "close": 4506.2998046875
         },
         {
           "date": "2026-06-02",
-          "close": 4489.10009765625
+          "close": 4519.89990234375
         },
         {
           "date": "2026-06-03",
-          "close": 4436.7001953125
+          "close": 4466.89990234375
         },
         {
           "date": "2026-06-04",
-          "close": 4475.7998046875
+          "close": 4505.0
         },
         {
           "date": "2026-06-05",
-          "close": 4337.10009765625
+          "close": 4365.2998046875
         },
         {
           "date": "2026-06-08",
-          "close": 4335.89990234375
+          "close": 4363.39990234375
         },
         {
           "date": "2026-06-09",
-          "close": 4260.0
+          "close": 4286.39990234375
         },
         {
           "date": "2026-06-10",
-          "close": 4108.2001953125
+          "close": 4133.2998046875
         },
         {
           "date": "2026-06-11",
-          "close": 4090.300048828125
+          "close": 4114.0
         },
         {
           "date": "2026-06-12",
-          "close": 4215.0
+          "close": 4238.7998046875
         },
         {
           "date": "2026-06-15",
-          "close": 4328.0
+          "close": 4351.60009765625
         },
         {
           "date": "2026-06-16",
-          "close": 4330.89990234375
+          "close": 4354.39990234375
         },
         {
           "date": "2026-06-17",
-          "close": 4358.89990234375
+          "close": 4381.39990234375
         },
         {
           "date": "2026-06-18",
-          "close": 4224.10009765625
+          "close": 4245.89990234375
         },
         {
           "date": "2026-06-22",
-          "close": 4181.89990234375
+          "close": 4202.7001953125
         },
         {
           "date": "2026-06-23",
-          "close": 4129.89990234375
+          "close": 4149.39990234375
         },
         {
           "date": "2026-06-24",
-          "close": 3990.300048828125
+          "close": 4008.800048828125
         },
         {
           "date": "2026-06-25",
-          "close": 4030.5
+          "close": 4047.60009765625
         },
         {
           "date": "2026-06-26",
-          "close": 4078.699951171875
+          "close": 4096.2998046875
         },
         {
           "date": "2026-06-29",
-          "close": 4022.300048828125
+          "close": 4038.89990234375
         },
         {
           "date": "2026-06-30",
-          "close": 4022.89990234375
+          "close": 4038.5
         },
         {
           "date": "2026-07-01",
-          "close": 4068.300048828125
+          "close": 4082.39990234375
         },
         {
           "date": "2026-07-02",
-          "close": 4112.7001953125
+          "close": 4125.7001953125
         },
         {
           "date": "2026-07-06",
-          "close": 4155.10009765625
+          "close": 4167.5
         },
         {
           "date": "2026-07-07",
-          "close": 4145.2998046875
+          "close": 4157.39990234375
         },
         {
           "date": "2026-07-08",
-          "close": 4070.89990234375
+          "close": 4082.39990234375
         },
         {
           "date": "2026-07-09",
-          "close": 4130.60009765625
+          "close": 4140.7998046875
         },
         {
           "date": "2026-07-10",
-          "close": 4104.10009765625
+          "close": 4113.7001953125
         },
         {
           "date": "2026-07-13",
-          "close": 3997.0
+          "close": 4005.699951171875
         },
         {
           "date": "2026-07-14",
-          "close": 4061.10009765625
+          "close": 4069.699951171875
         },
         {
           "date": "2026-07-15",
-          "close": 4044.0
+          "close": 4051.800048828125
         },
         {
           "date": "2026-07-16",
-          "close": 3985.60009765625
+          "close": 3992.10009765625
         },
         {
           "date": "2026-07-17",
-          "close": 4012.699951171875
+          "close": 4018.800048828125
         },
         {
           "date": "2026-07-20",
-          "close": 4010.300048828125
+          "close": 4015.89990234375
         },
         {
           "date": "2026-07-21",
-          "close": 4071.10009765625
+          "close": 4076.39990234375
         },
         {
           "date": "2026-07-22",
-          "close": 4146.89990234375
+          "close": 4151.89990234375
         },
         {
           "date": "2026-07-23",
-          "close": 4046.60009765625
+          "close": 4050.199951171875
         },
         {
           "date": "2026-07-24",
-          "close": 4067.60009765625
+          "close": 4070.800048828125
         },
         {
           "date": "2026-07-27",
-          "close": 4074.5
+          "close": 4077.0
         },
         {
           "date": "2026-07-28",
-          "close": 4036.300048828125
+          "close": 4038.699951171875
         },
         {
           "date": "2026-07-29",
-          "close": 4034.699951171875
+          "close": 4036.300048828125
         },
         {
           "date": "2026-07-30",
@@ -1944,119 +1945,119 @@
         },
         {
           "date": "2026-07-31",
-          "close": 4049.10009765625
+          "close": 4107.0
         },
         {
           "date": "2026-08-03",
-          "close": 4033.699951171875
+          "close": 4090.5
         },
         {
           "date": "2026-08-04",
-          "close": 4095.39990234375
+          "close": 4152.60009765625
         },
         {
           "date": "2026-08-05",
-          "close": 4245.7998046875
+          "close": 4305.2001953125
         },
         {
           "date": "2026-08-06",
-          "close": 4242.0
+          "close": 4299.60009765625
         },
         {
           "date": "2026-08-07",
-          "close": 4340.7001953125
+          "close": 4399.7001953125
         },
         {
           "date": "2026-08-10",
-          "close": 4361.7998046875
+          "close": 4419.7001953125
         },
         {
           "date": "2026-08-11",
-          "close": 4383.0
+          "close": 4441.10009765625
         },
         {
           "date": "2026-08-12",
-          "close": 4408.89990234375
+          "close": 4467.5
         },
         {
           "date": "2026-08-13",
-          "close": 4363.60009765625
+          "close": 4420.39990234375
         },
         {
           "date": "2026-08-14",
-          "close": 4380.39990234375
+          "close": 4437.2998046875
         },
         {
           "date": "2026-08-17",
-          "close": 4417.7998046875
+          "close": 4473.7001953125
         },
         {
           "date": "2026-08-18",
-          "close": 4366.0
+          "close": 4420.60009765625
         },
         {
           "date": "2026-08-19",
-          "close": 4489.39990234375
+          "close": 4545.2998046875
         },
         {
           "date": "2026-08-20",
-          "close": 4516.2998046875
+          "close": 4571.39990234375
         },
         {
           "date": "2026-08-21",
-          "close": 4624.10009765625
+          "close": 4680.60009765625
         },
         {
           "date": "2026-08-24",
-          "close": 4640.7998046875
+          "close": 4697.7998046875
         },
         {
           "date": "2026-08-25",
-          "close": 4638.10009765625
+          "close": 4694.5
         },
         {
           "date": "2026-08-26",
-          "close": 4598.2001953125
+          "close": 4653.2998046875
         },
         {
           "date": "2026-08-27",
-          "close": 4609.7001953125
+          "close": 4664.0
         },
         {
           "date": "2026-08-28",
-          "close": 4478.10009765625
+          "close": 4529.89990234375
         },
         {
           "date": "2026-08-31",
-          "close": 4431.10009765625
+          "close": 4481.5
         },
         {
           "date": "2026-09-01",
-          "close": 4348.0
+          "close": 4396.39990234375
         },
         {
           "date": "2026-09-02",
-          "close": 4366.2998046875
+          "close": 4414.60009765625
         },
         {
           "date": "2026-09-03",
-          "close": 4491.7001953125
+          "close": 4539.89990234375
         },
         {
           "date": "2026-09-04",
-          "close": 4429.7998046875
+          "close": 4476.60009765625
         },
         {
           "date": "2026-09-08",
-          "close": 4393.89990234375
+          "close": 4439.0
         },
         {
           "date": "2026-09-09",
-          "close": 4416.0
+          "close": 4460.7001953125
         },
         {
           "date": "2026-09-10",
-          "close": 4364.5
+          "close": 4407.2998046875
         },
         {
           "date": "2026-09-11",
@@ -2068,48 +2069,45 @@
         },
         {
           "date": "2026-09-15",
-          "close": 4303.60009765625
+          "close": 4338.7001953125
         }
       ],
       "explanation": {
         "direction": "gefallen",
-        "confidence": "mittel",
-        "summary": "Plausibler Nachrichtenbezug: Der Kurs ist gefallen und die gefundenen Schlagzeilen enthalten überwiegend belastend wirkende Formulierungen. Die Quellen passen damit zur Richtung, beweisen aber keine Kausalität.",
+        "confidence": "niedrig",
+        "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
-          "Zinsen/Fed",
-          "US-Dollar",
-          "Regulierung",
-          "Geopolitik/Sicherheit"
+          "Zinsen/Fed"
         ],
         "bullets": [
-          "Der Kurs ist deutlich gefallen: -1.11 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: Zinsen/Fed, US-Dollar, Regulierung, Geopolitik/Sicherheit.",
-          "Wichtigste gefundene Headlines: Gold: 1,2 Prozent Minus vor Fed-Entscheidung - Börse Express | Gold-Stratege Stöferle: \"Gold ist weiterhin extrem günstig\" - Finanzen.net."
+          "Der Kurs ist leicht gefallen: -0.30 % gegenüber dem vorherigen Schlusskurs.",
+          "Gefundene Nachrichten-Themen: Zinsen/Fed.",
+          "Wichtigste gefundene Headlines: Gold: Zittern vor der Fed - Börse Express | Goldpreis Prognose: Fed-Zinsschritt droht – Markt News zur Korrektur bei Gold | Jens Klatt - XTB.com."
         ],
         "headlines": [
           {
-            "title": "Gold: 1,2 Prozent Minus vor Fed-Entscheidung - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTXktMERBM0l2R1VtMEp4U3BjRk93anpsNEcxQ0ZBWXZ4N3lkN0x2VVJsM1hkN0ZqYlRNcVF5eVdDazVNZnBuTURiaTd6djhzS1pxdzd2cFZCcWNXeGY2Rms1UHF0STFkUHZudmZQLWxwUEhUSmJqS1lONTJZU3FGNlVhbzYwbHNnd2xsYXIxekhPUi1HY3M3UHBB?oc=5",
+            "title": "Gold: Zittern vor der Fed - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbmpGQnQtWkJISnNMU0daZ1FOVndfUGxqeGNoU0hqaWYwekIzNWoxR0hKQ0tXejFlMVRXaGdRMkdaMF9DdkFxQ1ZLWVJ0VEJMUXVoTGRxakVfa3dpNi13Z29wdHB5WVdKTzRqTHdMRXVLNGV2S2pRZVFzQ01IQjBhSFJR?oc=5",
             "source": "Börse Express",
-            "published": "14.09., 13:43"
+            "published": "15.09., 14:06"
           },
           {
-            "title": "Gold-Stratege Stöferle: \"Gold ist weiterhin extrem günstig\" - Finanzen.net",
-            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMmF0c1JEdmxiYnpKNTg2TlI4THZGbGxuSnVzaGpBWXp2c0xkNklVWldQSlU1Z1FQM01oNTNFZUhCX0dGOGxqcGtRck1fREtwaEVFVjVmcjZKSnZQRkI0aGZhQ29uVDA2Snkxem56VVdZMkgzNXZQWVd3S1gzdHBBeG1BSWNEUzYxMjdaQ1lsS21PMTJkOGxidzR4bGhRMTZ4cVA5RXozSmI5NFpCNnNuNy13?oc=5",
-            "source": "Finanzen.net",
-            "published": "15.09., 10:21"
+            "title": "Goldpreis Prognose: Fed-Zinsschritt droht – Markt News zur Korrektur bei Gold | Jens Klatt - XTB.com",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbVZHODFMaGFhajd1Q096b0ZfbVoyNHpCZ2dKY19EU3FjWWVTTG9mbS1jOWc2SWd3LTlIdHFSeG9nVFBPdENUdjVQbVZFMUFqSGdiV041R2FYYUxQN2ctZEtfRGRxd3Bqbjc3MUlaQ0g3bzRSVUpPTXF2T1NDdE5xTnozelZWVldXUDJYWm93?oc=5",
+            "source": "XTB.com",
+            "published": "15.09., 12:11"
           },
           {
-            "title": "Kurse und Preise im Überblick: So viel sind Gold und Silber heute wert - RND.de",
-            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeGl2ZHg4dnlFVm9jNWhUZkpPMm91UXV0X0UyRFhPbXg4eDdmSkItNkk2UXNIWnk5eHFnZUZyTzB3X2RiVXc3YlRNa0dkcVQtSEZ3Yi1qNDJfQ0lleHNpMjc2ZHJacGxlOFE1c05LNHYwVjI4Z2hRLVJhY2RkMEptaTRLWHNlRTFJR2xpVUtsUTdwZV9zbkIxcUZjcWllS0l1RHRob3VWRlhuME5kZm1XZy1Jb012elNRTllxcXp5bWQzN0pYaWk5NA?oc=5",
-            "source": "RND.de",
-            "published": "15.09., 07:19"
+            "title": "Sprott sieht historische Einstiegschance - Wallstreet Online",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMUxqZnRjTnFTSXlUeGFqWjQ3clRGZ3d1TTlzbG5WX0c4NXpJbkdCdDFYMGVIUi1aLVFZdFFsMWhzaThReFJDeUtNazFpQVBHZThSNW84S1Zqdmo0QTNiM0d4bDI0eG5ibWhnZXNyeTBTaXBMeFVqOHVUcEFmYnZBanR1aC1lZG9tZy1INW5fQ2o1MGs0dmdxUlZEVGktNUwzQ3c?oc=5",
+            "source": "Wallstreet Online",
+            "published": "15.09., 12:32"
           },
           {
-            "title": "Goldpreis fällt unter 4.300 Dollar – Festerer Dollar und Fed-Zinserwartungen belasten - Investing.com Deutsch",
-            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaTZoMWZndWRoTDljRUpxd0o3ZmpmdW5UeVRqcWxjczJaaFVmYXplZzUxWHI5TmJ1azZFeFo4ekNDbGFmbjV5a0YxY3pmMlNXSTdtTmFhdm45d0pGaU9nYzczLTBYdzVsa0FBRmxjQ25sdzZfYXNIel84LXhQdVBJeVhsTW90eXNjcHExSGFudHBWU2NFSll2V2tTTzEtLUxkc2JxRlpiRC1oeGRJT0pWY2ozMDhtSzJPb1VuZU5zc185WEE0N3RJ?oc=5",
-            "source": "Investing.com Deutsch",
-            "published": "15.09., 04:24"
+            "title": "Goldexperte Bußler: Zittern bis zum Zinsentscheid? - Der Aktionär",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPd0h3QVdEY2NTd3FnN3BtQW9LbDB6UHk4R2lqd0VxSW1oWkx2OWRuclpvb3Q0bzZ1cUdKRHlDdkYxYThiM3NwS0o1OVhXdzZadkF2bHRoTHFyeUNfZno3NlZ1RUxhSlNIdTRVeFBQU1hfSlNUN1BYZWFHdmVxLS0xWG5zN29UQmVadHpzbzRSdXdQM2hIVkI1eGlEcVlaQTFfZFhVdmxmVFRnem5JWXdGWVZJQ2E?oc=5",
+            "source": "Der Aktionär",
+            "published": "15.09., 13:17"
           }
         ]
       }
