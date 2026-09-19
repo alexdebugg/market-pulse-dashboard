@@ -1,8 +1,8 @@
 {
   "is_sample": false,
   "source": "Yahoo Finance Kursdaten + Google News RSS Kontext",
-  "generated_at_utc": "2026-09-19T08:31:18+00:00",
-  "generated_at_vienna": "19.09.2026, 10:31 Uhr",
+  "generated_at_utc": "2026-09-19T18:24:35+00:00",
+  "generated_at_vienna": "19.09.2026, 20:24 Uhr",
   "market_mood_internal": "risk-on",
   "assets": [
     {
@@ -1233,12 +1233,11 @@
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
           "US-Dollar",
-          "Regulierung",
           "China/EM"
         ],
         "bullets": [
           "Der Kurs ist spürbar gestiegen: +0.58 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: US-Dollar, Regulierung, China/EM.",
+          "Gefundene Nachrichten-Themen: US-Dollar, China/EM.",
           "Wichtigste gefundene Headlines: Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraETF | Diese US-Small-Cap-Aktien sind jetzt attraktiv - Morningstar."
         ],
         "headlines": [
@@ -1255,16 +1254,16 @@
             "published": "06.07., 09:00"
           },
           {
+            "title": "MSCI World Small Cap ETFs 2026 - LYNX Online Broker",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcU4yRTBRZ25DSmViRmFBTVBTcFJDOGZUQ2JCcFpBaDZjaGlUY0dSRjc1dzl1OW51bC1kOUFoazhiTE5nblRzVzhIVVJoRE9Ec0NibURya0x3cnNSVkxjbGRzVWhyN1hvM0RLV3VyNEVxUHpjM0lwNk9reFFENThtam5ndU9hYlpwS3JaTEliQXB4dw?oc=5",
+            "source": "LYNX Online Broker",
+            "published": "13.09., 09:00"
+          },
+          {
             "title": "Bitcoin notiert nahe 78.000 USD, während Memecoins und Small Caps eine breite Krypto-Rücksetzung anführen - CoinDesk",
             "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVndoZHMxdjJtSG8wSW12QjNWOFQwclFZSk5sY1ZiZWxmSzVvb2tYZTc5MHVneGhCZzlNbWdNcFhqNkJNWF9iZ3lLR1piNjJxQVhhbmdIQ1hjRHMwWU41SEVJang3QWQwNkJNMUVpeHJNOGRFejJOcnlsNTVqS0R6T25CdGlob0R0RXlqTVZ0bkh1NzEtVUhXTzVEZkt1RGJRVzJlXzZjelU1OEJHWGlnMDlEVTlzbnROMnFWTVVqWTlpVWFmdVhj?oc=5",
             "source": "CoinDesk",
             "published": "10.09., 12:24"
-          },
-          {
-            "title": "Small Caps: Investieren in die besten deutschen Nebenwerte und Aktien aus SDAX und MDAX - finanzen.net",
-            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOEFTX0J1QUlVQXlxd0djcjN5VDBuTzhxdVZwdUU1dThIUkVLR1FsUlM4LXRRYURxTUp0UVkzNUVjNVhzOUluODZhQnlUaXJrQko5S180ajk2ZjlxQzlidG51bmhmcHh0SVVkeXdsS0JuNGNQSXAwWTIzeDB3dXJSVWlISEFrbklsUFhYc3Iza3F3WEJmYU9nOU5YaFFyNlVHSzBjOFlaMjc4TjNuS2U4ci1XdE43VXpXVVdN?oc=5",
-            "source": "finanzen.net",
-            "published": "31.08., 09:00"
           }
         ]
       }
@@ -1655,13 +1654,12 @@
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
           "KI/Tech",
-          "Regulierung",
-          "Gewinne/Analysten"
+          "Regulierung"
         ],
         "bullets": [
           "Der Kurs ist spürbar gestiegen: +0.64 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: KI/Tech, Regulierung, Gewinne/Analysten.",
-          "Wichtigste gefundene Headlines: Google zeigt wie man mit dem AI-Chatbot Gemini ein 3D-Druck-Modell erzeugt - 3Druck.com | Alphabet Aktie: Analysten überbieten sich - Börse Express."
+          "Gefundene Nachrichten-Themen: KI/Tech, Regulierung.",
+          "Wichtigste gefundene Headlines: Google zeigt wie man mit dem AI-Chatbot Gemini ein 3D-Druck-Modell erzeugt - 3Druck.com | Nvidia Aktie: Allianz mit Google gegen Netzengpässe - Börse Express."
         ],
         "headlines": [
           {
@@ -1671,16 +1669,16 @@
             "published": "18.09., 14:13"
           },
           {
-            "title": "Alphabet Aktie: Analysten überbieten sich - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcDNvaGxURTlEdHBma2loeFJPZVZYbVNab1ZKRXhVU3UzSHBsVUFpUy1MSU51dTBrZmlhSmxhT28yQ1FhOTMxd3drZ0pMcXFkUF9vaGhjd0JBUE8wdXM3NjJlU0NocjR5OHVlaU5za0NUSzJqYmRaSXRXMTF2RnREbC00OUhMcEp5cl91Zmc4NmFxNDcxTGJUag?oc=5",
+            "title": "Nvidia Aktie: Allianz mit Google gegen Netzengpässe - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQmxqRFNtZk9FXzhWejlUZWl5MHVCOGc3ZXF3Tm1jS1NYWkpiWTh0d2lXVW1TRGhhZWZTWTd4S1ZXTVZsR3FwbU5Nd2QxVm9yRG9SMFFoeEY4WkJhdVVLdFhlbk9idmJqSW5DSUVCUXZUM0JIYzc3WG5Oa3RpR1hMYjIwM0o0MVJ6YjhZN0N3dWZFeEk2UWtrSjJZR29jWWY5WmZTbFhB?oc=5",
             "source": "Börse Express",
-            "published": "19.09., 00:18"
+            "published": "18.09., 22:01"
           },
           {
-            "title": "Samsung Galerie-App: Cloud-Synchronisierung wechselt von OneDrive zu Google - heise.de",
-            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPS0NIMkZmQmY5VVJkMzd3aFBWejYyMDNXZE9kNUhRTnNqeHpBN2t1bDJZMHkyamhHZGdSbTV6SzlJT3dVQkhvOXNTaTJXZ1htN3gwa0U5aFlMVnFIelhBUkxfaS1OdXpyZjNEZzBNTjU2TnRucmNRRllacUE0T2xGX2NPSlpSdWg4RzBSeWlRVnBTajhCcXhjdmxfX3dQLVlVdE5LcXppYmt3TmhSb1JKRFphbW4?oc=5",
-            "source": "heise.de",
-            "published": "18.09., 16:22"
+            "title": "Die Alphabet-C-Aktie steigt nach starken Q2-Zahlen und AI-getriebenen Kurszielen - AD HOC NEWS",
+            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMWxUcWR6MzFDSlNabFZoLVhKUENxU0FSSHM1cFdFNm45emUxbXhvc05wNERzeUVqS3ppUjdKUnh4T2ZXcnRFV1lXMVE3LUtDbFBPcWx3VU1zMUY5OEltY3d4SmFxSDZTMkw1UktGVXVtSENjdFhaY2hBb3hLS3ppSU9mWTRvNGpkVnVnUXhfWC1OTVRla25JS2JRUldlZmJZR1ZteGJwYXQwSkZodzF5VndTMWc4SER5UnRraHA5U28wT0k0dFhBMlZuVmM?oc=5",
+            "source": "AD HOC NEWS",
+            "published": "19.09., 12:05"
           },
           {
             "title": "Samsung-Galerie setzt wohl auf Google Cloud: Backup-Wechsel bei Galaxy-Smartphones - CHIP",
@@ -2082,7 +2080,7 @@
         "bullets": [
           "Der Kurs ist spürbar gestiegen: +0.57 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: Zinsen/Fed, US-Dollar.",
-          "Wichtigste gefundene Headlines: Gold: Fed bremst Rückeroberung - Börse Express | Goldpreis Prognose: Fed-Zinsschritt droht – Markt News zur Korrektur bei Gold | Jens Klatt - XTB.com."
+          "Wichtigste gefundene Headlines: Gold: Fed bremst Rückeroberung - Börse Express | Goldpreis-Prognose: Hat die Fed die nächste Goldrally ausgelöst? - Wallstreet Online."
         ],
         "headlines": [
           {
@@ -2092,16 +2090,16 @@
             "published": "17.09., 09:00"
           },
           {
-            "title": "Goldpreis Prognose: Fed-Zinsschritt droht – Markt News zur Korrektur bei Gold | Jens Klatt - XTB.com",
-            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbVZHODFMaGFhajd1Q096b0ZfbVoyNHpCZ2dKY19EU3FjWWVTTG9mbS1jOWc2SWd3LTlIdHFSeG9nVFBPdENUdjVQbVZFMUFqSGdiV041R2FYYUxQN2ctZEtfRGRxd3Bqbjc3MUlaQ0g3bzRSVUpPTXF2T1NDdE5xTnozelZWVldXUDJYWm93?oc=5",
-            "source": "XTB.com",
-            "published": "15.09., 12:11"
+            "title": "Goldpreis-Prognose: Hat die Fed die nächste Goldrally ausgelöst? - Wallstreet Online",
+            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSHkzeTBYcUV1XzNkSmkyS3dqRFdwUHdiaVJqMTg3WGdrQjdQLW5ZQXF3RHRBUUQ3S0dlb0p2WmlmZlczblA0SjJua3ROSkdlTXFPUDBiYjcxS01xOFpPUDJqWnhuQVNDei05SEdtVHFOeTVta3Rmc3c0V0J3VHFLSVpCLUNhblQwQ0JFS2pfNVdxaU9LT25ZVUhGRndOV3BxVnBpUUtxSG5pckF5YnVwaWRRNmhYT1VTQXl5Vw?oc=5",
+            "source": "Wallstreet Online",
+            "published": "19.09., 13:06"
           },
           {
-            "title": "Gold gewinnt wieder an Boden, da der Rückgang bei Öl den Fed-Schock abschwächt - fxstreet.de.com",
-            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPY3MtbG5sakFuZHE5bDVIdHh3VW05alJYbjVaNldpS2lmSUpoVllJWldVSmxLenhmRzVCTmZXYzBqRlBkaGhpV3l5SFUzamlwMU1vbFEwOW9Ca0dzb09CZHNRaGQ2Tlh3c3FDWG80S0g3MnpxS01uVGlmMDlsQWMwV0FrbFhmVjhrZ1cwTFVBQmpwWkJNTHRiMmhLZnhuLUYxYW1QQ3ZEc0pha2VMamJFQU9reUEwY05ocjVZakVfbUjSAcYBQVVfeXFMTmJ2TnVub0tLWkd6RDd2ZjJUWkZhR0xTMVlBTWxUai1yb2Y1ZVpTTlI0TzlIb3FOeDQwVDhsNm9oWFBuZjVRYThPWWUtNGdzUWNJai14b2ZuanZmRWNCYzZPU1lIU3F6NDVRZzhueXZWSlhHSGNtWWc4RlpHWTdjNVN6NE9HVUdxdGxYT3FGdllVZy…",
-            "source": "fxstreet.de.com",
-            "published": "18.09., 19:44"
+            "title": "Goldpreis Prognose: Fed-Zinsschritt droht – Markt News zur Korrektur bei Gold | Jens Klatt - xtb.com",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbVZHODFMaGFhajd1Q096b0ZfbVoyNHpCZ2dKY19EU3FjWWVTTG9mbS1jOWc2SWd3LTlIdHFSeG9nVFBPdENUdjVQbVZFMUFqSGdiV041R2FYYUxQN2ctZEtfRGRxd3Bqbjc3MUlaQ0g3bzRSVUpPTXF2T1NDdE5xTnozelZWVldXUDJYWm93?oc=5",
+            "source": "xtb.com",
+            "published": "15.09., 12:11"
           },
           {
             "title": "Gold vor dem Fed-Entscheid: Droht jetzt der Absturz auf 4.000 Dollar? - BörsenNEWS.de",
