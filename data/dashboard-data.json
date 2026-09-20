@@ -1,8 +1,8 @@
 {
   "is_sample": false,
   "source": "Yahoo Finance Kursdaten + Google News RSS Kontext",
-  "generated_at_utc": "2026-09-20T09:03:45+00:00",
-  "generated_at_vienna": "20.09.2026, 11:03 Uhr",
+  "generated_at_utc": "2026-09-20T18:28:29+00:00",
+  "generated_at_vienna": "20.09.2026, 20:28 Uhr",
   "market_mood_internal": "neutral",
   "assets": [
     {
@@ -396,19 +396,19 @@
         "bullets": [
           "Der Kurs ist leicht gefallen: -0.28 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: Zinsen/Fed, China/EM.",
-          "Wichtigste gefundene Headlines: IncomeShares Nasdaq 100 Options ETP | XS2875105608 | A4A50Q - extraETF | Cboe-Global-Markets-Aktie geht nach plus 4,9 Prozent vor der Eröffnung in den Handelstag - AD HOC NEWS."
+          "Wichtigste gefundene Headlines: Leverage Shares -5x Short Nasdaq 100 ETP Securities | XS3373449761 | A4AU1Y - extraETF | Cboe-Global-Markets-Aktie geht nach plus 4,9 Prozent vor der Eröffnung in den Handelstag - ad-hoc-news.de."
         ],
         "headlines": [
           {
-            "title": "IncomeShares Nasdaq 100 Options ETP | XS2875105608 | A4A50Q - extraETF",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9pOXp6WnVQUmdKMWRkY1JPdlZxbHU3UnVkclh1OTctTGxtMmliSUV1NUFPUV9RODRsY2tQUTBUOHViZG5uS2hOTVh1MUNnMGFwTllGRGJtMHdBNExs?oc=5",
+            "title": "Leverage Shares -5x Short Nasdaq 100 ETP Securities | XS3373449761 | A4AU1Y - extraETF",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmZUhjNmxQU3JodWVkRkFCMUR2M3d0Y0x6NTdOTDNIU0dvWFB2OFBGaUN4UktyMTdaV3hhQ0JsWG1mZUJPSkI5dnJYOC1sRXM1cVNRVElQaFZ5QmRY?oc=5",
             "source": "extraETF",
-            "published": "11.09., 09:00"
+            "published": "19.06., 18:15"
           },
           {
-            "title": "Cboe-Global-Markets-Aktie geht nach plus 4,9 Prozent vor der Eröffnung in den Handelstag - AD HOC NEWS",
+            "title": "Cboe-Global-Markets-Aktie geht nach plus 4,9 Prozent vor der Eröffnung in den Handelstag - ad-hoc-news.de",
             "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeko3NHd5SHV2bkY4Nm1kazBQWVZqOFBTNE0tblZ6X2FNVE5LUEh1d1ZpaVdzQ1lrWUpIUVIxa044V0NGU2VieXltY0kxTmNPR2lVZW1QcWJUS0U0Z2FkRVA2NzJDOVUtVTVCZVBmeVhkeXRuLVdPS1JjV1VERDFpU0FCNGRjcnlLRTBvT1RiY1JSYVJuTnpOS0lMNy1wM1Uwa2NEZE0tS1ZHUVJ1ZFlkY0dsQ0V5NDJvbDJ0S0FQWS01NnRUTnJlVlFieU9FU2lId2pn?oc=5",
-            "source": "AD HOC NEWS",
+            "source": "ad-hoc-news.de",
             "published": "18.09., 06:09"
           },
           {
@@ -418,10 +418,10 @@
             "published": "28.05., 09:00"
           },
           {
-            "title": "Strategy Shares - Strategy Shares NASDAQ 7 HANDL Index ETF kündigt monatliche Dividende an, zahlbar am 15. September 2026 - MarketScreener…",
-            "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQbTNPLXhwZm5ROWRFNHRRT2cxcVI5REkzcDVWQ1Q3cm1vWC1KUlZrYW1pR25ZcllVUXFHdGFkLTd3ODduWHZEOHZSNHUwQlNIYnN6MWNVYUVzWkktbklkWS1tVWxkZ2t3RTZiVVJ2dzRHRF9zeE9iRUV0LVhNVnhscXJzdUE5b2tDYk9mRVB2Qlg5ZDZkOXFDWGFOXzRFTkhuYzlNSEhDa212cFltdXRjTFlsbzFpOG55d0ZsdlhzcGpOMVBzRml5aDBNNTNydVNfVlNxT2Jhc3A3Tm5fOGZsUkMxVjVlYlJOdXdXcnFYUzRXSEZ5RUE?oc=5",
-            "source": "MarketScreener Deutschland",
-            "published": "11.09., 00:00"
+            "title": "S&P 500 erholt sich trotz steigender US-Renditen, zunehmender ETF-Abflüsse und drohender Fed-Falkenrisiken - VT Markets",
+            "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxObHpWY0FkdjhRYkpzeGFVT3VBbmN2ejJIOF9ySVdlWjBtZVlGSVlHYU1IR05WQWNrd21LSTZCZWRUTi11RXVYTUR2QlJfd2NuRW9hb21hMzEteThfOGFfNUFwWWI1WTFrenBJYS1iYUtaaDZuenMzeWZPVXRxaFhnUm4tUF9Ic3FoVHh0UWtBTFF3UzhFQnhSLUQwT2hSUGJvMFRRU0dwQmdEVEk2ZjlQblBVRWZrUWxYWkU1ak52ZkNpZXNZdjBzQ1pFeU9NOGl5X0FPTDViUjIyYWJNUld3QmFhWE4?oc=5",
+            "source": "VT Markets",
+            "published": "14.09., 09:00"
           }
         ]
       }
@@ -813,13 +813,12 @@
         "themes": [
           "US-Dollar",
           "China/EM",
-          "Geopolitik/Sicherheit",
           "Gewinne/Analysten"
         ],
         "bullets": [
           "Der Kurs ist leicht gefallen: -0.19 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: US-Dollar, China/EM, Geopolitik/Sicherheit, Gewinne/Analysten.",
-          "Wichtigste gefundene Headlines: Schwacher US-Dollar und hohe Defizite: Rückenwind für Emerging Markets? - e-fundresearch.com | iShares MSCI EM ex China: Allzeithoch bei 99,78 USD - Börse Express."
+          "Gefundene Nachrichten-Themen: US-Dollar, China/EM, Gewinne/Analysten.",
+          "Wichtigste gefundene Headlines: Schwacher US-Dollar und hohe Defizite: Rückenwind für Emerging Markets? - e-fundresearch.com | iShares MSCI Emerging Markets ETF rStock Kurs Dollar (REEM/USD): Chart & Nachrichten - CoinGecko."
         ],
         "headlines": [
           {
@@ -829,22 +828,22 @@
             "published": "25.11., 09:00"
           },
           {
+            "title": "iShares MSCI Emerging Markets ETF rStock Kurs Dollar (REEM/USD): Chart & Nachrichten - CoinGecko",
+            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSTZNS1ljWXREQVpRNEExT0psQnBVWjF2MVdOcjF2WlBETW1DSXZKcENWNFlMb0ZOTUtnY2FucXh4SURvalhJaXlfN0Vob1pybUJUVm1LdlNoUkFVekg3Y2lRQnFkZkw5WDFVUFZnRVZTV2JNZ3l5WmtseVNzczdlbQ?oc=5",
+            "source": "CoinGecko",
+            "published": "12.09., 07:07"
+          },
+          {
             "title": "iShares MSCI EM ex China: Allzeithoch bei 99,78 USD - Börse Express",
             "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVHg5cHVfWE8tQ2tteTRVS0liN0NxX3dtaHhWcDRXdmZBNE1ac3JBVEI3VW5BMHFRM01xVGpNSFowb2hhQlBlZUhDS1gzNnUtOWdCdGpkZmQyWjQ2Sk9yMXlCOUU2MU5DWmFnZmJRUjQydGZWSE9ycjR3dDY2OEZTUktZOUxodXU1S3JGcC1sZW9qQnBTbFdTVGMxcTdYTjZTZFFZ?oc=5",
             "source": "Börse Express",
             "published": "26.05., 09:00"
           },
           {
-            "title": "EM-Anleihen: Diese rohstoffreichen Schwellenländer profitieren - das investment",
+            "title": "EM-Anleihen: Diese rohstoffreichen Schwellenländer profitieren - dasinvestment.com",
             "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNGJtcEp3MGtIVGNpekNsNWQtbnNYaHhIS2JyMHhWYUlDai1mRjZuQ1VRVmZ5c3ZDRE5malN3TTBJMTMza2x4MGpWaUszZDNiZlJMWWd4TnM4RmxYQThTSDFlZF9USUNIQU1pVEpqRVhxYnU3WUNkcHdqYVBBQVFhX3FuZWpNSHpLNUp3N3ZDOTBwLXhJTk5iNDRtSnRYMXQzdE5vX2RR?oc=5",
-            "source": "das investment",
+            "source": "dasinvestment.com",
             "published": "29.05., 09:00"
-          },
-          {
-            "title": "Kapitalmärkte: Iran-Krieg wird zum Stresstest für die Schwellenländer - Handelsblatt",
-            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWHhSNTdKdm9ENnlwNHVYMHVJa3M3VmctRWswSm5tWFFCc29DemNLQk1nVXd4dHcwcFZlemVYcTcxZTJvdm5sYTNFblhwUVZ2UExEbHQxdXFjSUhyV252TUNVam42cnp4Ti15R0pUWEp0S3k4azhUVlFqc1lxNEpRNmRfd09JaU5qTF91Uk91eHRTaW5TVHlBQjlfeHRmVVJvV0Y3Y1lYb1hvWTl3MkxBSkoxR1p6SVBLOGxRXzEzNkQzSV90MTVzY3Z2Mmw?oc=5",
-            "source": "Handelsblatt",
-            "published": "17.04., 09:00"
           }
         ]
       }
@@ -1234,14 +1233,13 @@
         "confidence": "niedrig",
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
-          "KI/Tech",
           "Regulierung",
           "China/EM"
         ],
         "bullets": [
           "Der Kurs ist spürbar gefallen: -0.92 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: KI/Tech, Regulierung, China/EM.",
-          "Wichtigste gefundene Headlines: Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraETF | Diese US-Small-Cap-Aktien sind jetzt attraktiv - Morningstar."
+          "Gefundene Nachrichten-Themen: Regulierung, China/EM.",
+          "Wichtigste gefundene Headlines: Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraETF | Diese US-Small-Cap-Aktien sind jetzt attraktiv - global.morningstar.com."
         ],
         "headlines": [
           {
@@ -1251,22 +1249,22 @@
             "published": "28.04., 10:37"
           },
           {
-            "title": "Diese US-Small-Cap-Aktien sind jetzt attraktiv - Morningstar",
+            "title": "Diese US-Small-Cap-Aktien sind jetzt attraktiv - global.morningstar.com",
             "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNXF1VURGVVhhSUhQWnc3NDlSUTVfU3BWb2hXd3pPN1Z5VWFGa2p4WV84cFd1WTlVaEFheEZ4eVhUVjBlVnBwdlBHTURVR2ptUGMzME5DeFNfR3lHVUhGTHRMVmIwU2ZXNFJUdlBlYW1XZ2M4aXJMTTlCWnNLbmxZc3FndTVMV1NXdmQ5cm9sdVQ?oc=5",
-            "source": "Morningstar",
+            "source": "global.morningstar.com",
             "published": "06.07., 09:00"
+          },
+          {
+            "title": "MSCI World Small Cap ETFs 2026 - LYNX Online Broker",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcU4yRTBRZ25DSmViRmFBTVBTcFJDOGZUQ2JCcFpBaDZjaGlUY0dSRjc1dzl1OW51bC1kOUFoazhiTE5nblRzVzhIVVJoRE9Ec0NibURya0x3cnNSVkxjbGRzVWhyN1hvM0RLV3VyNEVxUHpjM0lwNk9reFFENThtam5ndU9hYlpwS3JaTEliQXB4dw?oc=5",
+            "source": "LYNX Online Broker",
+            "published": "13.09., 09:00"
           },
           {
             "title": "Small Caps: Investieren in die besten deutschen Nebenwerte und Aktien aus SDAX und MDAX - finanzen.net",
             "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOEFTX0J1QUlVQXlxd0djcjN5VDBuTzhxdVZwdUU1dThIUkVLR1FsUlM4LXRRYURxTUp0UVkzNUVjNVhzOUluODZhQnlUaXJrQko5S180ajk2ZjlxQzlidG51bmhmcHh0SVVkeXdsS0JuNGNQSXAwWTIzeDB3dXJSVWlISEFrbklsUFhYc3Iza3F3WEJmYU9nOU5YaFFyNlVHSzBjOFlaMjc4TjNuS2U4ci1XdE43VXpXVVdN?oc=5",
             "source": "finanzen.net",
             "published": "31.08., 09:00"
-          },
-          {
-            "title": "1. Fondsliga: Performance AG hat Technologie, Schwellenländer und Small Caps im Fokus - fundresearch.de",
-            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ0pXV2tGSDFRMjV3REg4dmpWZV9qS1Q5QlhqNEY1T3dZeTljWDR0UmJGa0pfSlV1RHlUVXRmNmZKR0MtUDdacHlVQk5DbzVHTVozRHcxeEc4QTY0Nzc0dDRObFM5eXRMdlJnNzRBMlVsS3Z1SkpUMHMwU1hENnZ3QlVVbXpEYmRzbHFvOFJRdHBSMmx5eTZhekR3UVl1dDRVVzVoN0Zzaw?oc=5",
-            "source": "fundresearch.de",
-            "published": "15.06., 09:00"
           }
         ]
       }
@@ -1662,20 +1660,14 @@
         "bullets": [
           "Der Kurs ist spürbar gestiegen: +0.64 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: KI/Tech, Regulierung.",
-          "Wichtigste gefundene Headlines: Samsung-Galerie: Wechsel des Backups von OneDrive zu Google - chip.de | Alphabet Aktie: Gemini hackte fremde Systeme - Börse Express."
+          "Wichtigste gefundene Headlines: Samsung verabschiedet sich von OneDrive – das ändert sich für Galaxy-Nutzer - CHIP | Google zeigt wie man mit dem AI-Chatbot Gemini ein 3D-Druck-Modell erzeugt - 3Druck.com."
         ],
         "headlines": [
           {
-            "title": "Samsung-Galerie: Wechsel des Backups von OneDrive zu Google - chip.de",
-            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNakNpZGw3SFN2NHJPQmxqaElWR2FSZzZZcjFndC1mdjZWQzFEeVJkUXozR2E5TnFHbUdxaW16cEFnQWk1aWdqTmFWY19wMDRHZU9UcElDQkZQOUxZdUtzVE42RDRZemVMN1YyazZObk1fUVRCVUZKV3ZaclN6TEpJbDc2czY0VHpzUFE5SktBUml3Uk56VFU1bEtqakU4WHNlbUFnUjdoV0ExbW9XTjhPS3NkTTA2U2FoVkpmY1BoRTIwbEJFai1yamxMLW9fenc?oc=5",
-            "source": "chip.de",
-            "published": "20.09., 07:46"
-          },
-          {
-            "title": "Alphabet Aktie: Gemini hackte fremde Systeme - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQODhMTFg3STJXR2tOUEVjVzFnUUJiclpOVmxPSFctaXpkWlBQRHQ4NzY0RFA2blZJS3pfU3hMRDJ3SUNuZHIwU3c3aW5XYUFFVW52azFITktGNFQxQUxLbzFSRlN3MHd1RGlEWl9VRF90WEVJTmpPU0JjWmlibzBoZDhYaUdUOFdZbV9ncEc3UkdZSnMtczREd1hXUQ?oc=5",
-            "source": "Börse Express",
-            "published": "20.09., 01:17"
+            "title": "Samsung verabschiedet sich von OneDrive – das ändert sich für Galaxy-Nutzer - CHIP",
+            "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNbktIWkJDMWd4WGxWRUpuUngzSTJ2MEotTGI1VnZLT2UzMDJWTi1LNzV4NjJpanFkc3A1UzlnYmZ5alcwYlRESUl1SnFhbkQ0SWVsRldJNUxNOHg5YjlfdnJyZFRrVkctR1hrcEMtSUdQZE5ERUJtMkt5c2xudnJxckNxdU1wckwxcl8wQ3hWSS1VVnlEZkhjQ1oyR0RqdDJMSGVodXhnNm5rTEF0clg4ZWVpVm0ycUk5RF9UZ21ybk1vQWc5aVRVY1VNWm9VRS1jVUNYTC1QTkEweXJXVEhxQXNaMEpDUQ?oc=5",
+            "source": "CHIP",
+            "published": "20.09., 19:00"
           },
           {
             "title": "Google zeigt wie man mit dem AI-Chatbot Gemini ein 3D-Druck-Modell erzeugt - 3Druck.com",
@@ -1684,10 +1676,16 @@
             "published": "18.09., 14:13"
           },
           {
-            "title": "Samsung Galerie-App: Cloud-Synchronisierung wechselt von OneDrive zu Google - heise online",
-            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPS0NIMkZmQmY5VVJkMzd3aFBWejYyMDNXZE9kNUhRTnNqeHpBN2t1bDJZMHkyamhHZGdSbTV6SzlJT3dVQkhvOXNTaTJXZ1htN3gwa0U5aFlMVnFIelhBUkxfaS1OdXpyZjNEZzBNTjU2TnRucmNRRllacUE0T2xGX2NPSlpSdWg4RzBSeWlRVnBTajhCcXhjdmxfX3dQLVlVdE5LcXppYmt3TmhSb1JKRFphbW4?oc=5",
-            "source": "heise online",
-            "published": "18.09., 16:22"
+            "title": "Alphabet Aktie: Gemini hackte fremde Systeme - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQODhMTFg3STJXR2tOUEVjVzFnUUJiclpOVmxPSFctaXpkWlBQRHQ4NzY0RFA2blZJS3pfU3hMRDJ3SUNuZHIwU3c3aW5XYUFFVW52azFITktGNFQxQUxLbzFSRlN3MHd1RGlEWl9VRF90WEVJTmpPU0JjWmlibzBoZDhYaUdUOFdZbV9ncEc3UkdZSnMtczREd1hXUQ?oc=5",
+            "source": "Börse Express",
+            "published": "20.09., 01:17"
+          },
+          {
+            "title": "Lernen mit Gemini: Neue Funktionen und kostenloses Plus-Abo - blog.google",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSHpGckFtREZVYlR3eGkybXlyc3RtMEx6WDhXeUN1akZLR2ExTWN5R2t6aXdzdkljMmNCTW11RklyS0hEdFRnbFFaSWtBQjhDUnZHQlFlbWZUS05WM1JZU1VwQmQtemNmcDlPN2VPNVJGVDVtX1VWRFlRRmhyNkdqeHZmd09rYlR5eDBlVGVka3RFYWxoMkNWN3dsSQ?oc=5",
+            "source": "blog.google",
+            "published": "01.09., 09:00"
           }
         ]
       }
@@ -2099,9 +2097,9 @@
             "published": "17.09., 09:00"
           },
           {
-            "title": "Goldpreis Prognose: Fed-Zinsschritt droht – Markt News zur Korrektur bei Gold | Jens Klatt - XTB.com",
+            "title": "Goldpreis Prognose: Fed-Zinsschritt droht – Markt News zur Korrektur bei Gold | Jens Klatt - xtb.com",
             "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbVZHODFMaGFhajd1Q096b0ZfbVoyNHpCZ2dKY19EU3FjWWVTTG9mbS1jOWc2SWd3LTlIdHFSeG9nVFBPdENUdjVQbVZFMUFqSGdiV041R2FYYUxQN2ctZEtfRGRxd3Bqbjc3MUlaQ0g3bzRSVUpPTXF2T1NDdE5xTnozelZWVldXUDJYWm93?oc=5",
-            "source": "XTB.com",
+            "source": "xtb.com",
             "published": "15.09., 12:11"
           },
           {
