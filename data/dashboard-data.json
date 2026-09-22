@@ -1,8 +1,8 @@
 {
   "is_sample": false,
   "source": "Yahoo Finance Kursdaten + Google News RSS Kontext",
-  "generated_at_utc": "2026-09-22T09:00:22+00:00",
-  "generated_at_vienna": "22.09.2026, 11:00 Uhr",
+  "generated_at_utc": "2026-09-22T19:33:32+00:00",
+  "generated_at_vienna": "22.09.2026, 21:33 Uhr",
   "market_mood_internal": "risk-on",
   "assets": [
     {
@@ -13,16 +13,16 @@
       "description": "iShares Core MSCI World UCITS ETF als handelbarer Developed-Markets-Proxy",
       "price_decimals": 2,
       "last_date": "2026-09-22",
-      "last_close": 129.2100067138672,
+      "last_close": 129.36500549316406,
       "previous_close": 127.04000091552734,
-      "change_abs": 2.17,
-      "change_pct": 1.71,
-      "change_5d_pct": 2.23,
-      "change_1m_pct": 2.14,
-      "change_3m_pct": 3.54,
+      "change_abs": 2.33,
+      "change_pct": 1.83,
+      "change_5d_pct": 2.35,
+      "change_1m_pct": 2.26,
+      "change_3m_pct": 3.67,
       "change_1y_pct": null,
-      "ytd_pct": 15.6,
-      "volatility_30d_pct": 9.82,
+      "ytd_pct": 15.74,
+      "volatility_30d_pct": 10.01,
       "sparkline": [
         {
           "date": "2026-05-19",
@@ -382,7 +382,7 @@
         },
         {
           "date": "2026-09-22",
-          "close": 129.2100067138672
+          "close": 129.36500549316406
         }
       ],
       "explanation": {
@@ -390,18 +390,19 @@
         "confidence": "mittel",
         "summary": "Plausibler Nachrichtenbezug: Der Kurs ist gestiegen und die gefundenen Schlagzeilen enthalten überwiegend positiv wirkende Formulierungen. Die Quellen passen damit zur Richtung, beweisen aber keine Kausalität.",
         "themes": [
+          "Regulierung",
           "China/EM"
         ],
         "bullets": [
-          "Der Kurs ist deutlich gestiegen: +1.71 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: China/EM.",
-          "Wichtigste gefundene Headlines: Immutep plant Reverse Split der an der Nasdaq notierten American Depositary Shares - de.marketscreener.com | Leverage Shares -5x Short Nasdaq 100 ETP Securities | XS3373449761 | A4AU1Y - extraETF."
+          "Der Kurs ist deutlich gestiegen: +1.83 % gegenüber dem vorherigen Schlusskurs.",
+          "Gefundene Nachrichten-Themen: Regulierung, China/EM.",
+          "Wichtigste gefundene Headlines: Immutep plant Reverse Split der an der Nasdaq notierten American Depositary Shares - MarketScreener Deutschland | Leverage Shares -5x Short Nasdaq 100 ETP Securities | XS3373449761 | A4AU1Y - extraETF."
         ],
         "headlines": [
           {
-            "title": "Immutep plant Reverse Split der an der Nasdaq notierten American Depositary Shares - de.marketscreener.com",
+            "title": "Immutep plant Reverse Split der an der Nasdaq notierten American Depositary Shares - MarketScreener Deutschland",
             "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQRVFHYk5BMFdQcmFBRVBoRzNuRFhTazZkVmFIVUdMVUtGNTlocnFEdWJRaFZIRWhHQm41YmtueXN4WHJWTnZnVl9GOVozbk9wNVZRSF9ldUktaFV3c1hpSy1TcUppckx5cWhFdlYzTlg1VFhybWQ0VXkteHVOb0VZdzc2Mm12ZUNBVHRHbGFXV18zNjA4T09ncXZ0N0FrRkhZWGJvMzNSbGlPRVpONnRIOWFucjZSanVObThURXFJMDlHUmlNLUpCcnJ4NG5qSDhHSzBXUmtQaWJ1Q2k5eHZpX05B?oc=5",
-            "source": "de.marketscreener.com",
+            "source": "MarketScreener Deutschland",
             "published": "21.09., 23:52"
           },
           {
@@ -433,16 +434,16 @@
       "description": "iShares Core MSCI EM IMI UCITS ETF als Emerging-Markets-Proxy",
       "price_decimals": 2,
       "last_date": "2026-09-22",
-      "last_close": 48.779998779296875,
+      "last_close": 49.15399932861328,
       "previous_close": 47.70199966430664,
-      "change_abs": 1.08,
-      "change_pct": 2.26,
-      "change_5d_pct": 3.76,
-      "change_1m_pct": 3.45,
-      "change_3m_pct": 0.47,
+      "change_abs": 1.45,
+      "change_pct": 3.04,
+      "change_5d_pct": 4.55,
+      "change_1m_pct": 4.24,
+      "change_3m_pct": 1.24,
       "change_1y_pct": null,
-      "ytd_pct": 27.2,
-      "volatility_30d_pct": 19.21,
+      "ytd_pct": 28.18,
+      "volatility_30d_pct": 20.07,
       "sparkline": [
         {
           "date": "2026-05-19",
@@ -802,7 +803,7 @@
         },
         {
           "date": "2026-09-22",
-          "close": 48.779998779296875
+          "close": 49.15399932861328
         }
       ],
       "explanation": {
@@ -815,7 +816,7 @@
           "Gewinne/Analysten"
         ],
         "bullets": [
-          "Der Kurs ist deutlich gestiegen: +2.26 % gegenüber dem vorherigen Schlusskurs.",
+          "Der Kurs ist deutlich gestiegen: +3.04 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: US-Dollar, China/EM, Gewinne/Analysten.",
           "Wichtigste gefundene Headlines: Schwacher US-Dollar und hohe Defizite: Rückenwind für Emerging Markets? - e-fundresearch.com | iShares MSCI Emerging Markets ETF rStock Kurs Dollar (REEM/USD): Chart & Nachrichten - CoinGecko."
         ],
@@ -855,16 +856,16 @@
       "description": "iShares MSCI World Small Cap UCITS ETF als Small-Cap-Proxy",
       "price_decimals": 3,
       "last_date": "2026-09-22",
-      "last_close": 9.050000190734863,
+      "last_close": 9.07800006866455,
       "previous_close": 8.96399974822998,
-      "change_abs": 0.086,
-      "change_pct": 0.96,
-      "change_5d_pct": 0.7,
-      "change_1m_pct": -1.24,
-      "change_3m_pct": -1.13,
+      "change_abs": 0.114,
+      "change_pct": 1.27,
+      "change_5d_pct": 1.01,
+      "change_1m_pct": -0.94,
+      "change_3m_pct": -0.82,
       "change_1y_pct": null,
-      "ytd_pct": 16.32,
-      "volatility_30d_pct": 9.95,
+      "ytd_pct": 16.68,
+      "volatility_30d_pct": 10.27,
       "sparkline": [
         {
           "date": "2026-05-19",
@@ -1224,7 +1225,7 @@
         },
         {
           "date": "2026-09-22",
-          "close": 9.050000190734863
+          "close": 9.07800006866455
         }
       ],
       "explanation": {
@@ -1236,7 +1237,7 @@
           "China/EM"
         ],
         "bullets": [
-          "Der Kurs ist spürbar gestiegen: +0.96 % gegenüber dem vorherigen Schlusskurs.",
+          "Der Kurs ist deutlich gestiegen: +1.27 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: Regulierung, China/EM.",
           "Wichtigste gefundene Headlines: Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraETF | Diese US-Small-Cap-Aktien sind jetzt attraktiv - Morningstar."
         ],
@@ -1260,9 +1261,9 @@
             "published": "13.09., 09:00"
           },
           {
-            "title": "Small Caps: Investieren in die besten deutschen Nebenwerte und Aktien aus SDAX und MDAX - finanzen.net",
+            "title": "Small Caps: Investieren in die besten deutschen Nebenwerte und Aktien aus SDAX und MDAX - Finanzen.net",
             "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOEFTX0J1QUlVQXlxd0djcjN5VDBuTzhxdVZwdUU1dThIUkVLR1FsUlM4LXRRYURxTUp0UVkzNUVjNVhzOUluODZhQnlUaXJrQko5S180ajk2ZjlxQzlidG51bmhmcHh0SVVkeXdsS0JuNGNQSXAwWTIzeDB3dXJSVWlISEFrbklsUFhYc3Iza3F3WEJmYU9nOU5YaFFyNlVHSzBjOFlaMjc4TjNuS2U4ci1XdE43VXpXVVdN?oc=5",
-            "source": "finanzen.net",
+            "source": "Finanzen.net",
             "published": "31.08., 09:00"
           }
         ]
@@ -1275,22 +1276,18 @@
       "currency": "USD",
       "description": "Alphabet Inc. Class A",
       "price_decimals": 2,
-      "last_date": "2026-09-21",
-      "last_close": 354.9700012207031,
-      "previous_close": 349.5400085449219,
-      "change_abs": 5.43,
-      "change_pct": 1.55,
-      "change_5d_pct": 1.6,
-      "change_1m_pct": 4.2,
-      "change_3m_pct": 1.51,
+      "last_date": "2026-09-22",
+      "last_close": 353.32000732421875,
+      "previous_close": 354.9700012207031,
+      "change_abs": -1.65,
+      "change_pct": -0.46,
+      "change_5d_pct": 2.42,
+      "change_1m_pct": 2.47,
+      "change_3m_pct": 2.08,
       "change_1y_pct": null,
-      "ytd_pct": 13.41,
-      "volatility_30d_pct": 23.11,
+      "ytd_pct": 12.88,
+      "volatility_30d_pct": 22.99,
       "sparkline": [
-        {
-          "date": "2026-05-13",
-          "close": 402.6199951171875
-        },
         {
           "date": "2026-05-14",
           "close": 401.07000732421875
@@ -1646,27 +1643,32 @@
         {
           "date": "2026-09-21",
           "close": 354.9700012207031
+        },
+        {
+          "date": "2026-09-22",
+          "close": 353.32000732421875
         }
       ],
       "explanation": {
-        "direction": "gestiegen",
+        "direction": "gefallen",
         "confidence": "niedrig",
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
           "KI/Tech",
           "Regulierung",
-          "Geopolitik/Sicherheit"
+          "Geopolitik/Sicherheit",
+          "Gewinne/Analysten"
         ],
         "bullets": [
-          "Der Kurs ist deutlich gestiegen: +1.55 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: KI/Tech, Regulierung, Geopolitik/Sicherheit.",
-          "Wichtigste gefundene Headlines: Accenture und Google Cloud transformieren die Softwareentwicklung bei Volvo Cars - MarketScreener Schweiz | Lernen mit Gemini: Neue Funktionen und kostenloses Plus-Abo - blog.google."
+          "Der Kurs ist spürbar gefallen: -0.46 % gegenüber dem vorherigen Schlusskurs.",
+          "Gefundene Nachrichten-Themen: KI/Tech, Regulierung, Geopolitik/Sicherheit, Gewinne/Analysten.",
+          "Wichtigste gefundene Headlines: Accenture und Google Cloud transformieren die Softwareentwicklung bei Volvo Cars - MarketScreener Deutschland | Lernen mit Gemini: Neue Funktionen und kostenloses Plus-Abo - blog.google."
         ],
         "headlines": [
           {
-            "title": "Accenture und Google Cloud transformieren die Softwareentwicklung bei Volvo Cars - MarketScreener Schweiz",
-            "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNTUotdi1OLTdSN3pLMENYeXFkY2VpZEdQVXpFY3ZDMnBiUzRNR0RCcmhkc0htck15bk5aY3M1YTJEUkRSSVh1elZJcXc2N3pHQkJ3YjNDODlCSS1RXy1RQnhfZFNCc3BoTEowSGRXT0hQVnhseVdpTUtPYWpFdVBhLXF0cDVaejVSOUwzVElqeFZhV1JfVTJVN2kzNDJBM1g1emZ6dFdzRW9xeU04OVZYV2ZzRC0zY0g0ckZtUjBxZjdtYklIdTE1Nzl6N1FfR1BiaERka1dwY1FReDBTS0g0?oc=5",
-            "source": "MarketScreener Schweiz",
+            "title": "Accenture und Google Cloud transformieren die Softwareentwicklung bei Volvo Cars - MarketScreener Deutschland",
+            "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNb05RWjJiOGhDN0lMOEN1a0xUZW1FdzhTMHlHT2pmLUlQcF83RE44TEx5NWNfVDZzSmU5NFhkVGl2ekk0ekN2VFV0MmtQQnJmNi1jeTlnZnpXSjNmaEhUU2RRN3RpTGhIcFBoYkoxNXBaVVhTTDVPZmpXUWZCd0dnVWgxVklSMGI4OWFpd0tBdlJSTXdacHVQNVJ4X2ZVeVkwLVBwZU1OMFY1cWJpVFpnMVFyOHU5QVF1ZXQyTUwyTnY2bmJlTUl4MDVnUDlMSHJNM29Sb3pJOUxJRnJ2NUhz?oc=5",
+            "source": "MarketScreener Deutschland",
             "published": "22.09., 09:23"
           },
           {
@@ -1676,16 +1678,16 @@
             "published": "01.09., 09:00"
           },
           {
-            "title": "Gmail-Suche wird zur Frage-Antwort-Funktion - heise online",
-            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbFp3WVVvVl9VSWgyV1gta21fdHNyN2ZPUk1PT2RsOU9CaE5MNi1xbWZXcXc5WWpfWTJOZ1ZOdW9YRXBMcUdaYnhEMTVpT09Hck9aOWprRnJ2WWVjUmhKdVlyUlc5eTBSYjU3TTNYOU8ya2syeF95WmZZZi1XT1h4Q0pWYzBfNFdQMS11TEl6ajloajg?oc=5",
+            "title": "Samsung Galerie-App: Cloud-Synchronisierung wechselt von OneDrive zu Google - heise online",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPS0NIMkZmQmY5VVJkMzd3aFBWejYyMDNXZE9kNUhRTnNqeHpBN2t1bDJZMHkyamhHZGdSbTV6SzlJT3dVQkhvOXNTaTJXZ1htN3gwa0U5aFlMVnFIelhBUkxfaS1OdXpyZjNEZzBNTjU2TnRucmNRRllacUE0T2xGX2NPSlpSdWg4RzBSeWlRVnBTajhCcXhjdmxfX3dQLVlVdE5LcXppYmt3TmhSb1JKRFphbW4?oc=5",
             "source": "heise online",
-            "published": "21.09., 12:38"
+            "published": "18.09., 16:22"
           },
           {
-            "title": "Google räumt ein, dass Gemini AI Sicherheitsmaßnahmen umgangen hat, um drei andere Unternehmen zu hacken. - Vietnam.vn",
-            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNd1ZZUnExUDNOVHZFeHByRjVndTZtWFdiNElaU2xQbnluWXVKd0Z1dVNtR0hPQ2tveG9sYjdtOXI5bjV3VGg0RDIydGtYRVpqT3REZUNrWFBoTWlEcVhva1lFakVmbElTXzgwYUQ2OVVDb0ZoM2k5WjVtNmYtR2V3elFnM1Vvd0NGWUoxMjRIOA?oc=5",
-            "source": "Vietnam.vn",
-            "published": "22.09., 10:34"
+            "title": "Die Alphabet-Aktie legt zu, Analysten heben Kursziele an - AD HOC NEWS",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRkRmMExuVkpIeGx4ME9vZDVfSS1vc0ZkTmVla0JfTmNiOXhJeDhBQ3VFRjhJcFgzdFlSSndOTkY5blZIekFaT0hvWDlDd3VNUlROOU1NaEc4YkpmbEEtWGU1eDYyZUJLZHNmS1hVMG94ejFab2VzN3JSR2pPSWhiM2VIRUtMeTJ4V3ZkX0g2blVRNmo2TGlQeURaWmtRZnp3MWU1UVZIdG1taU94ZFdFLVdXdFl1bDN1V3c?oc=5",
+            "source": "AD HOC NEWS",
+            "published": "22.09., 12:19"
           }
         ]
       }
@@ -1698,16 +1700,16 @@
       "description": "Goldpreis, primär über Gold-Future, fallback XAU/USD",
       "price_decimals": 2,
       "last_date": "2026-09-22",
-      "last_close": 4362.0,
+      "last_close": 4394.89990234375,
       "previous_close": 4383.89990234375,
-      "change_abs": -21.9,
-      "change_pct": -0.5,
-      "change_5d_pct": 0.67,
-      "change_1m_pct": -6.81,
-      "change_3m_pct": 5.12,
+      "change_abs": 11.0,
+      "change_pct": 0.25,
+      "change_5d_pct": 1.43,
+      "change_1m_pct": -6.1,
+      "change_3m_pct": 5.92,
       "change_1y_pct": null,
-      "ytd_pct": 0.48,
-      "volatility_30d_pct": 20.71,
+      "ytd_pct": 1.24,
+      "volatility_30d_pct": 20.68,
       "sparkline": [
         {
           "date": "2026-05-14",
@@ -2067,23 +2069,23 @@
         },
         {
           "date": "2026-09-22",
-          "close": 4362.0
+          "close": 4394.89990234375
         }
       ],
       "explanation": {
-        "direction": "gefallen",
+        "direction": "gestiegen",
         "confidence": "niedrig",
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
           "Zinsen/Fed",
           "US-Dollar",
-          "KI/Tech",
+          "Regulierung",
           "Geopolitik/Sicherheit"
         ],
         "bullets": [
-          "Der Kurs ist spürbar gefallen: -0.50 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: Zinsen/Fed, US-Dollar, KI/Tech, Geopolitik/Sicherheit.",
-          "Wichtigste gefundene Headlines: Gold: Fed-Erwartungen bremsen Käufer - Börse Express | 80-Dollar-Ziel: Warum die UBS Silber als dynamischere Gold-Wette sieht | Märkte | 22.09.2026 - FONDS professionell."
+          "Der Kurs ist leicht gestiegen: +0.25 % gegenüber dem vorherigen Schlusskurs.",
+          "Gefundene Nachrichten-Themen: Zinsen/Fed, US-Dollar, Regulierung, Geopolitik/Sicherheit.",
+          "Wichtigste gefundene Headlines: Gold: Fed-Erwartungen bremsen Käufer - Börse Express | 80-Dollar-Ziel: Wieso die UBS Silber als dynamischere Gold-Wette sieht | Märkte | 22.09.2026 - FONDS professionell."
         ],
         "headlines": [
           {
@@ -2093,22 +2095,22 @@
             "published": "21.09., 18:49"
           },
           {
-            "title": "80-Dollar-Ziel: Warum die UBS Silber als dynamischere Gold-Wette sieht | Märkte | 22.09.2026 - FONDS professionell",
+            "title": "80-Dollar-Ziel: Wieso die UBS Silber als dynamischere Gold-Wette sieht | Märkte | 22.09.2026 - FONDS professionell",
             "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQU2FOSmhwNzdiY01uTEZWXzk4MUdqRWJOR0JFYkFwOUpxUkdROGxWdGVGWDhZTEhwU0pCVlVpRzZuUm5tbTNaRnlGRThqaGVlN3ZyUi1iaEtLZGE3TzUzMXBLYTlkYU9jVTFsZl9adXFNSU45dW5lN3BIcjktQXdVRVdiaEl1bTFtTDdKWGUxaXRacm91VGtGT1FnYkxRU3JsMVlzd080WW9jVmN6clN0NkJyOXlNblU0SHRqOVM1SXpNeUxvWDhMMnBvMW9tdw?oc=5",
             "source": "FONDS professionell",
             "published": "22.09., 10:05"
           },
           {
-            "title": "Gold kämpft unter 4.350 USD, da die hawkishe Haltung der Fed die Aufwärtsbewegung begrenzt - DE.COM",
-            "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxONjN2SGlTZUgwTVNKS0tTMjRvbkhRaFBqQ0hGRHBhMzNFRUtMVEJuUkZqQ2xubTBKR1Zpd3NvaXUzTVRueG1jQXFta0RJOWl5eHY5WlVjV09VcVJWeDdhUHlpaHQwQXpTY21lSFJNdGxIX19SZkRoODlhSTlLUGRSS3R5VUdPejB4N0FKUG5RdDIwY2dvT2wtYUk5VTNTRDAySFF2bnZpX1ZBTm90WFRFcjV3eUdXbXg5NEZWN004Y0ttZzRVcC1jWmljd3d6bDR4eFU3bHZaS2dVUdIB3wFBVV95cUxOaEJveXBHck9sRkJndUNPcUVQaDlIWjRYaExDUnVMU1BTU3J2UnJnWGFOTWZmRDE0Ui1XaTFEZ081cUJDNEllejBHTjhQXzhFTk55VmtYVHFWTXBnZ2hoU0JzLXRmcmd0UUNfNkI2Zl9WcGhUdG45Tl…",
+            "title": "Gold stabilisiert sich in der Hoffnung auf Diplomatie mit dem Iran, Fed-Ausblick begrenzt Aufwärtspotenzial - DE.COM",
+            "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPR21JQXU5TDBISTVZSXBFTG91UVpUQVdTeU5wd2dYNGNxeXJfNE9ubTJlQzNiYmxPNXRaTG9IeXhRUjZwOFJQV3liWkp5b3pKMTRFMHZnLUNmUzFRd1laQk9kdEhtWTVQTDFGRFF4YkkwNEdOQkNZMFB6U2k3M09TRUp0Qk41LXFuczJFb2dGRVlvcmhSRkpRWVlybjFEbmxXUks3cERFako2RXNTOGV5SFdianVZRWNGSTAxUnpJR25vcGtHUzl0MGp5NlI2R3ZKS3A1dXJrOEpSdUM2aER1ZG5lNERmR2fSAewBQVVfeXFMTnpON2ZURk5FdnFNTXM3VEdaRGZIeFA5RVBnbnFsT3dkelhEUVFhUkJNbEVvUkZyN1NLa0o0V3ZyUWlZZHdCRHlmY0pDQmFEdmtTaUwyU3QyZnpKUDVhV0JvRk1WVEZBS25FV1…",
             "source": "DE.COM",
-            "published": "22.09., 06:19"
+            "published": "22.09., 13:20"
           },
           {
-            "title": "Gold: Société Générale peilt 5.000 Dollar an - Finanztrends",
-            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZWVtdWlJTzFWWEltS0oydmRocmJEeFFaWFFXQ3gxTU15NHdONmhTaVVXYkFYT29zRXo5LUZEaXpqY1g0ZEhlNjZpSlJpZ1JxMTQteHQwSmNnNHk4UEZ0X3dBRGRDQ0Y4Ny1FVVk5ZzdyckZrUDlId25kbGtpd2VYeHd5UQ?oc=5",
-            "source": "Finanztrends",
-            "published": "22.09., 00:08"
+            "title": "Gold gibt nach, da Fed-Vertreter weitere Zinserhöhungen signalisieren - MarketScreener Deutschland",
+            "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNd1pxbmw2SW9EVFJGQVlBSU5Fbi1ocWZvQ3BuenhBX2hZRjVHaGpvd2hua2wtNG1Ha0s2LUdvYW1NRV8xcTdsX0JSMUF4N3UwUTlRTmV4SV9NSE9fdXU5ZW9hYlJNSnlIakRjNGtVLXJua2tkbEJyQ3V1UWxxWW5LYWRjLTBmcjlVdmZmRWdoVFdCYzNmenoxR1JiT3h5clp3QU1mRFBtdVZPOXRaOTNZa0NqRUVQendJdFdhNUI1SzV5NzdTTTY5cy1aeFNNQzVGcXE2b2M1N2c4Z3JhMlUxZjFnX1JnbkNR?oc=5",
+            "source": "MarketScreener Deutschland",
+            "published": "22.09., 11:02"
           }
         ]
       }
