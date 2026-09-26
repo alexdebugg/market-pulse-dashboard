@@ -1,8 +1,8 @@
 {
   "is_sample": false,
   "source": "Yahoo Finance Kursdaten + Google News RSS Kontext",
-  "generated_at_utc": "2026-09-26T09:05:57+00:00",
-  "generated_at_vienna": "26.09.2026, 11:05 Uhr",
+  "generated_at_utc": "2026-09-26T18:59:19+00:00",
+  "generated_at_vienna": "26.09.2026, 20:59 Uhr",
   "market_mood_internal": "neutral",
   "assets": [
     {
@@ -397,13 +397,13 @@
         "bullets": [
           "Der Kurs ist spürbar gefallen: -0.59 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: US-Dollar, Regulierung, China/EM.",
-          "Wichtigste gefundene Headlines: Leverage Shares -5x Short Nasdaq 100 ETP Securities | XS3373449761 | A4AU1Y - extraetf.com | Immutep plant Reverse Split der an der Nasdaq notierten American Depositary Shares - MarketScreener Deutschland."
+          "Wichtigste gefundene Headlines: Leverage Shares -5x Short Nasdaq 100 ETP Securities | XS3373449761 | A4AU1Y - extraETF | Immutep plant Reverse Split der an der Nasdaq notierten American Depositary Shares - MarketScreener Deutschland."
         ],
         "headlines": [
           {
-            "title": "Leverage Shares -5x Short Nasdaq 100 ETP Securities | XS3373449761 | A4AU1Y - extraetf.com",
+            "title": "Leverage Shares -5x Short Nasdaq 100 ETP Securities | XS3373449761 | A4AU1Y - extraETF",
             "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmZUhjNmxQU3JodWVkRkFCMUR2M3d0Y0x6NTdOTDNIU0dvWFB2OFBGaUN4UktyMTdaV3hhQ0JsWG1mZUJPSkI5dnJYOC1sRXM1cVNRVElQaFZ5QmRY?oc=5",
-            "source": "extraetf.com",
+            "source": "extraETF",
             "published": "19.06., 18:15"
           },
           {
@@ -835,9 +835,9 @@
             "published": "25.11., 09:00"
           },
           {
-            "title": "iShares MSCI EM ex China: Allzeithoch bei 99,78 USD - Börse Express",
+            "title": "iShares MSCI EM ex China: Allzeithoch bei 99,78 USD - boerse-express.com",
             "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVHg5cHVfWE8tQ2tteTRVS0liN0NxX3dtaHhWcDRXdmZBNE1ac3JBVEI3VW5BMHFRM01xVGpNSFowb2hhQlBlZUhDS1gzNnUtOWdCdGpkZmQyWjQ2Sk9yMXlCOUU2MU5DWmFnZmJRUjQydGZWSE9ycjR3dDY2OEZTUktZOUxodXU1S3JGcC1sZW9qQnBTbFdTVGMxcTdYTjZTZFFZ?oc=5",
-            "source": "Börse Express",
+            "source": "boerse-express.com",
             "published": "26.05., 09:00"
           },
           {
@@ -1240,13 +1240,13 @@
         "bullets": [
           "Der Kurs ist deutlich gefallen: -1.15 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: US-Dollar, China/EM.",
-          "Wichtigste gefundene Headlines: Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraetf.com | Diese US-Small-Cap-Aktien sind jetzt attraktiv - Morningstar."
+          "Wichtigste gefundene Headlines: Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraETF | Diese US-Small-Cap-Aktien sind jetzt attraktiv - Morningstar."
         ],
         "headlines": [
           {
-            "title": "Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraetf.com",
+            "title": "Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraETF",
             "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBfSEFMN1dKOFVhZUdmcE5WbGh1V3VIUTVJTE5SdWVzS2hYemNGRWgzRi1MZF8xZXdrbUl3RHVKeTk0SDNRUmhSWGgyQUpMQlRXb2JPS0Jxb2txVm5LM0w3anphOWo5WWIwSDF5Qjg4clFwR0VWUkQ5Qg?oc=5",
-            "source": "extraetf.com",
+            "source": "extraETF",
             "published": "28.04., 10:37"
           },
           {
@@ -1661,7 +1661,7 @@
         "bullets": [
           "Der Kurs ist spürbar gestiegen: +0.46 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: KI/Tech, Regulierung.",
-          "Wichtigste gefundene Headlines: Wir bringen AI Brief in weitere Sprachen und führen eine neue Berichtsfunktion für AI Max ein - blog.google | Alphabet Aktie: TPU-Chips testen Weltraum-Tauglichkeit - Börse Express."
+          "Wichtigste gefundene Headlines: Wir bringen AI Brief in weitere Sprachen und führen eine neue Berichtsfunktion für AI Max ein - blog.google | Alphabet Aktie: BNP Paribas vereinbart Cloud-Partnerschaft - Kapitalmarktexperten."
         ],
         "headlines": [
           {
@@ -1671,10 +1671,10 @@
             "published": "23.09., 20:49"
           },
           {
-            "title": "Alphabet Aktie: TPU-Chips testen Weltraum-Tauglichkeit - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOUlSYW1UV2pZeU1kWVJub0kzazZUSmVxdXZ6U1BXbjRXaERFSWFYODVJQmdEeGVkbGd0NU11amNPWFV1bXRtNHFfVUpJeGQ0cC1WSFdTcVNZYzQ2SV80Z2xhQXA2cGZoMXJSQ2xqQk41MjZHUnBaeElGQ1pHNXp3Z1hzRGN0WFdHSy0wSGdhcDBPakpDa29HN3IyQ21HVGRmTVMzMlN4X2c?oc=5",
-            "source": "Börse Express",
-            "published": "26.09., 00:33"
+            "title": "Alphabet Aktie: BNP Paribas vereinbart Cloud-Partnerschaft - Kapitalmarktexperten",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSHczVE5ydHp4aU9ORmFPMERKR0ZBU0tSclpUT3VMVGJiOEZrcU9xNC1SejF6VERVV3FLdGFsVW9CbUZOTjlwandOSENHV0pKWlQyVGZhZENBNHpRTlV6Q3ZnZ2ZkRXRmQ25KWV9PV3M0eHJVdmNtNm9ONmhrX0pGQmR5SHFJVmtGWlNRTmlEeVNQcExaaDVOX0N3?oc=5",
+            "source": "Kapitalmarktexperten",
+            "published": "26.09., 15:44"
           },
           {
             "title": "Alphabet Stock Fell Nearly 4% in a Day on Muse and AI Price Cuts. Here’s What Google’s Chip Math Says - TIKR.com",
@@ -1683,10 +1683,10 @@
             "published": "25.09., 16:48"
           },
           {
-            "title": "Meta vs. Google: Welche ist die bessere langfristige Investition? Ein umfassender Vergleich der META- und GOOGL-Aktien - TradingKey",
-            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdFpMOUlzRVFubHdpdXFveUtVTFJUaDVlS0JYb0o2VTZ0dUVEdEE1NXpMVzZWd1RxRjRsTjUzVURzSnFiQXlVV0p3RnlILVFpNjJlSWVyUUFuWlFFZFNSMXlTSDdrTWNjczJLOGc4QXljbEc0QmZmUGppNFl2QzE1WjlmOVdKYTFWT1FrOUMzdVk2WXRtWDc0NjE3YXI5X1JiWERtRkJtdVhZeDNVQkUyemx0OVllZzdzOTdiSFpWUlZBaGU4aGFxeQ?oc=5",
-            "source": "TradingKey",
-            "published": "25.09., 19:00"
+            "title": "Alternativen zu Google Drive, iCloud & Co.: Hier bleiben eure Daten sicher und in Europa - t3n",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE45LWFuUzNIaGtNNW1ncWxncUdwamw4SWs3WDNsQXZLWk9SNWVOTE16YlF4OHNqRHYtc0FWcm0ya3pyaU15UkFQNzQybzZCbXprUE5Tb29ac0NSTFgzLV9RMUljeDFMakxNSm5oUU9LSEc?oc=5",
+            "source": "t3n",
+            "published": "25.09., 14:01"
           }
         ]
       }
@@ -2078,38 +2078,37 @@
         "themes": [
           "Zinsen/Fed",
           "US-Dollar",
-          "KI/Tech",
-          "Regulierung"
+          "Geopolitik/Sicherheit"
         ],
         "bullets": [
           "Der Kurs ist spürbar gestiegen: +0.54 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: Zinsen/Fed, US-Dollar, KI/Tech, Regulierung.",
-          "Wichtigste gefundene Headlines: Gold: Fed-Zinssorgen bremsen Rally - Börse Express | 80-Dollar-Ziel: Wieso die UBS Silber als dynamischere Gold-Wette sieht | Märkte | 22.09.2026 - fondsprofessionell.at."
+          "Gefundene Nachrichten-Themen: Zinsen/Fed, US-Dollar, Geopolitik/Sicherheit.",
+          "Wichtigste gefundene Headlines: Gold: Fed-Zinssorgen bremsen Rally - boerse-express.com | Goldpreis unter Druck? Warum Zentralbanken den Kurs trotzdem stützen könnten - Merkur."
         ],
         "headlines": [
           {
-            "title": "Gold: Fed-Zinssorgen bremsen Rally - Börse Express",
+            "title": "Gold: Fed-Zinssorgen bremsen Rally - boerse-express.com",
             "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcFhGMExGOW5FWkh1aVFEakJ4Z0RiNERIempfS284eUN5TDdYc3hDSUpGMWpQV05NZTlWX1FiNnI4WUdYRnlMb0RZOEFacFNqeENMcmpaNTBRZjVxVjh1cXdOa1phWVAyWURwMVYwZzNXMkVtTzFsakJBQWtxbUJCZHhqSUlTMVhaZEhPZTNB?oc=5",
-            "source": "Börse Express",
+            "source": "boerse-express.com",
             "published": "25.09., 17:21"
           },
           {
-            "title": "80-Dollar-Ziel: Wieso die UBS Silber als dynamischere Gold-Wette sieht | Märkte | 22.09.2026 - fondsprofessionell.at",
+            "title": "Goldpreis unter Druck? Warum Zentralbanken den Kurs trotzdem stützen könnten - Merkur",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUFJmNUhCQXZlUVQwSFJKTFJMeVMzZnZuNk5XTjRLT1RYR3liOUZYRjNKVlJPM2FZT0dSRDcxR01LckFfcWpab2JSdVY5MVhXdlZRWlQ4UThEbnRRUm95S3haQW93UmdRaVo4dEtPeUZONjc3M1RTdUNkZmxZYXFBWXJDb182OTRFaXozM29lTHVjVzdJem03Wl91UDl1cDU0WVhFSXg5UFdEMnFxNzJTcXFoYXFJbjllWEtrTU5CeEJuQXVGR3c?oc=5",
+            "source": "Merkur",
+            "published": "26.09., 14:43"
+          },
+          {
+            "title": "Gold bleibt stark: Doch Zinsen und Öl verändern die Ausgangslage - BörsenNEWS.de",
+            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVVFrUnFsY1Q5WVlKakUzY19uMnpfNklGWDlLYW5PR0d0UG02UFdJWkh6QkxSS0wtbXo0Y1RFRGozajc4T2k4Tng4VkIzeFpJUDlUbEl1Z1dnZVRBS0JFWVVibnJVcEJFamc1M3picWlMZmtvOEpJU3ptd2ppM3plS1o5dERnWExSc1hra21BcVRnX0h6c3F4TXJtUnRqdnc2d2NyTlJGYWV3V1EweW01RXpnNjJyN19jXzFNS3k0MDNLeHFnengwRUp4T2RkUQ?oc=5",
+            "source": "BörsenNEWS.de",
+            "published": "25.09., 18:53"
+          },
+          {
+            "title": "80-Dollar-Ziel: Wieso die UBS Silber als dynamischere Gold-Wette sieht | Märkte | 22.09.2026 - FONDS professionell",
             "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQU2FOSmhwNzdiY01uTEZWXzk4MUdqRWJOR0JFYkFwOUpxUkdROGxWdGVGWDhZTEhwU0pCVlVpRzZuUm5tbTNaRnlGRThqaGVlN3ZyUi1iaEtLZGE3TzUzMXBLYTlkYU9jVTFsZl9adXFNSU45dW5lN3BIcjktQXdVRVdiaEl1bTFtTDdKWGUxaXRacm91VGtGT1FnYkxRU3JsMVlzd080WW9jVmN6clN0NkJyOXlNblU0SHRqOVM1SXpNeUxvWDhMMnBvMW9tdw?oc=5",
-            "source": "fondsprofessionell.at",
+            "source": "FONDS professionell",
             "published": "22.09., 10:05"
-          },
-          {
-            "title": "Gold kämpft unter 4.300 $, steuert auf Wochenverlust angesichts hawkischer Fed-Aussichten zu - DE.COM",
-            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeHhyVXp5X3ZoMzd2aXdQeXg4LU9wVG5sdGs5eWJXTlZ5ZV9haUtJRDNCMTRUNGxNb2gxS2ZCSTJzZFNrQVlKSHh6aDJDakROTnAzZTRQOVpjZlNMVmxzVDlGOWJSaDl4XzNjNjhHUTNGY0ZsWWNkMzB2TzIta1dfXy16bGFOQ3FCNk0yUk55RjhWb1RkSTZWVzkxdG1WTlh4OFgtbWh1Y0YxdjBWNlRFcms1ckRaUEo3M01iUGFYdEozczg5YUdUeNIBzgFBVV95cUxNUEk2S1FlMm1CZmFkN3VqZ1hsb0tHRi02a1hKWnowWVJWRTdzOVZ6UEIzYnlkemRGb2ZDX3NTVW9fZ2RfWHpXSHNMWEZCdG8zMzA0TnBYZ1FjQXhna0VzQ1lIazdYWEpLTG4tdE14cUZ1dXQ2c0R3a3RUQWNWUUVKcFFXVmFyaGxRSU…",
-            "source": "DE.COM",
-            "published": "25.09., 17:06"
-          },
-          {
-            "title": "Gold: Chinesische Investoren werden zum wichtigsten Treiber des Goldpreises - Manager Magazin",
-            "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOdTM0TXNKS1dNTjhtZVFpZ1MzdzJCSnNDa1hTSHJ4ZVF0SVBmY2tNUDV2bzZjNm9ZcEhDa3YwbFREekhBSW1jT3BBQ1hNUkUxYU9INnFwX2JOb2JvYlB2RDRPdDlXcmx4Wk5rb2dhdEdVYXhKTEp3NFdzRzUzVXR4UjFJZmIydVVWSF9tUkRiTEtXMHFlcEZoazFvRWZtSm9RZDMxZWN4blI5MVRveHhOeFVmcFdOZWRxUHlldS1qWmxuUlNlVVc3djJUOGk3Z19GSGVBQ2djbGpzRW5Ba3N3VXVOYXo1R2JKSHUzSXY1V2JxaUhKOW9J?oc=5",
-            "source": "Manager Magazin",
-            "published": "23.09., 12:00"
           }
         ]
       }
