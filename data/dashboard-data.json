@@ -1,8 +1,8 @@
 {
   "is_sample": false,
   "source": "Yahoo Finance Kursdaten + Google News RSS Kontext",
-  "generated_at_utc": "2026-09-29T20:26:18+00:00",
-  "generated_at_vienna": "29.09.2026, 22:26 Uhr",
+  "generated_at_utc": "2026-09-30T10:16:42+00:00",
+  "generated_at_vienna": "30.09.2026, 12:16 Uhr",
   "market_mood_internal": "neutral",
   "assets": [
     {
@@ -12,22 +12,18 @@
       "currency": "EUR",
       "description": "iShares Core MSCI World UCITS ETF als handelbarer Developed-Markets-Proxy",
       "price_decimals": 2,
-      "last_date": "2026-09-29",
-      "last_close": 128.7050018310547,
-      "previous_close": 128.88499450683594,
-      "change_abs": -0.18,
-      "change_pct": -0.14,
-      "change_5d_pct": 0.1,
-      "change_1m_pct": 0.38,
-      "change_3m_pct": 2.24,
+      "last_date": "2026-09-30",
+      "last_close": 128.82000732421875,
+      "previous_close": 128.55999755859375,
+      "change_abs": 0.26,
+      "change_pct": 0.2,
+      "change_5d_pct": -0.42,
+      "change_1m_pct": 1.62,
+      "change_3m_pct": 2.81,
       "change_1y_pct": null,
-      "ytd_pct": 15.15,
-      "volatility_30d_pct": 9.41,
+      "ytd_pct": 15.25,
+      "volatility_30d_pct": 8.97,
       "sparkline": [
-        {
-          "date": "2026-05-26",
-          "close": 123.11499786376953
-        },
         {
           "date": "2026-05-27",
           "close": 122.81500244140625
@@ -381,19 +377,23 @@
           "close": 128.88499450683594
         },
         {
-          "date": "2026-09-29",
-          "close": 128.7050018310547
+          "date": "2026-09-28",
+          "close": 128.55999755859375
+        },
+        {
+          "date": "2026-09-30",
+          "close": 128.82000732421875
         }
       ],
       "explanation": {
-        "direction": "gefallen",
-        "confidence": "niedrig",
-        "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
+        "direction": "gestiegen",
+        "confidence": "mittel",
+        "summary": "Plausibler Nachrichtenbezug: Der Kurs ist gestiegen und die gefundenen Schlagzeilen enthalten überwiegend positiv wirkende Formulierungen. Die Quellen passen damit zur Richtung, beweisen aber keine Kausalität.",
         "themes": [
           "China/EM"
         ],
         "bullets": [
-          "Der Kurs ist leicht gefallen: -0.14 % gegenüber dem vorherigen Schlusskurs.",
+          "Der Kurs ist leicht gestiegen: +0.20 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: China/EM.",
           "Wichtigste gefundene Headlines: IncomeShares Nasdaq 100 Options ETP | XS2875105608 | A4A50Q - extraETF | Nasdaq-100 price on Sep 29, 2026 at 12pm EDT? - Coinbase."
         ],
@@ -432,22 +432,18 @@
       "currency": "EUR",
       "description": "iShares Core MSCI EM IMI UCITS ETF als Emerging-Markets-Proxy",
       "price_decimals": 2,
-      "last_date": "2026-09-29",
-      "last_close": 48.58599853515625,
-      "previous_close": 48.696998596191406,
-      "change_abs": -0.11,
-      "change_pct": -0.23,
-      "change_5d_pct": -0.71,
-      "change_1m_pct": 1.55,
-      "change_3m_pct": 0.72,
+      "last_date": "2026-09-30",
+      "last_close": 48.32500076293945,
+      "previous_close": 48.1619987487793,
+      "change_abs": 0.16,
+      "change_pct": 0.34,
+      "change_5d_pct": -1.69,
+      "change_1m_pct": 2.03,
+      "change_3m_pct": 1.99,
       "change_1y_pct": null,
-      "ytd_pct": 26.7,
-      "volatility_30d_pct": 19.04,
+      "ytd_pct": 26.02,
+      "volatility_30d_pct": 16.49,
       "sparkline": [
-        {
-          "date": "2026-05-26",
-          "close": 47.8120002746582
-        },
         {
           "date": "2026-05-27",
           "close": 47.79600143432617
@@ -801,37 +797,41 @@
           "close": 48.696998596191406
         },
         {
-          "date": "2026-09-29",
-          "close": 48.58599853515625
+          "date": "2026-09-28",
+          "close": 48.1619987487793
+        },
+        {
+          "date": "2026-09-30",
+          "close": 48.32500076293945
         }
       ],
       "explanation": {
-        "direction": "gefallen",
-        "confidence": "niedrig",
-        "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
+        "direction": "gestiegen",
+        "confidence": "mittel",
+        "summary": "Plausibler Nachrichtenbezug: Der Kurs ist gestiegen und die gefundenen Schlagzeilen enthalten überwiegend positiv wirkende Formulierungen. Die Quellen passen damit zur Richtung, beweisen aber keine Kausalität.",
         "themes": [
           "US-Dollar",
-          "Regulierung",
           "China/EM",
-          "Geopolitik/Sicherheit"
+          "Geopolitik/Sicherheit",
+          "Gewinne/Analysten"
         ],
         "bullets": [
-          "Der Kurs ist leicht gefallen: -0.23 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: US-Dollar, Regulierung, China/EM, Geopolitik/Sicherheit.",
-          "Wichtigste gefundene Headlines: Emerging Markets Aktien: Generali Investments sieht neue Chancen - e-fundresearch.com | iShares MSCI EM ex China: Allzeithoch bei 99,78 USD - Börse Express."
+          "Der Kurs ist leicht gestiegen: +0.34 % gegenüber dem vorherigen Schlusskurs.",
+          "Gefundene Nachrichten-Themen: US-Dollar, China/EM, Geopolitik/Sicherheit, Gewinne/Analysten.",
+          "Wichtigste gefundene Headlines: iShares MSCI EM ex China: Allzeithoch bei 99,78 USD - Börse Express | Emerging Markets-Aktienausblick 2026: Von der Erholung zur Rotation - e-fundresearch.com."
         ],
         "headlines": [
-          {
-            "title": "Emerging Markets Aktien: Generali Investments sieht neue Chancen - e-fundresearch.com",
-            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQmdld3JNZUs0NEs2RkJ1TFM1ZDE2b2VHZXZBUDR2X2tueHNpQ2lydERPeGxDZktLWDNQSGxFM2tQWDhfa1JNR1dPUlBhYVBNMTlHUlBveFNoXzJuREhCVVpLakNPNzBNNkc0c1dZbnlTcWVRdXV3akpURU92eTk2Mzh4cTIyZjlMU3hrS1ZtMzA3SWVuLUJmSHNlWXRfN3ZtSWpuX2YyRElfXy1QMmNDelRtdEp2SEJJWnF3ZzdGckY2bVctSzFiOEo5MEF0cVFURmwtYlNSbw?oc=5",
-            "source": "e-fundresearch.com",
-            "published": "27.05., 09:00"
-          },
           {
             "title": "iShares MSCI EM ex China: Allzeithoch bei 99,78 USD - Börse Express",
             "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVHg5cHVfWE8tQ2tteTRVS0liN0NxX3dtaHhWcDRXdmZBNE1ac3JBVEI3VW5BMHFRM01xVGpNSFowb2hhQlBlZUhDS1gzNnUtOWdCdGpkZmQyWjQ2Sk9yMXlCOUU2MU5DWmFnZmJRUjQydGZWSE9ycjR3dDY2OEZTUktZOUxodXU1S3JGcC1sZW9qQnBTbFdTVGMxcTdYTjZTZFFZ?oc=5",
             "source": "Börse Express",
             "published": "26.05., 09:00"
+          },
+          {
+            "title": "Emerging Markets-Aktienausblick 2026: Von der Erholung zur Rotation - e-fundresearch.com",
+            "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTHpVSnRYWUtGN1FaTlZaRUQ0LVVOWVdRM1AtVU9lMlM2d244TjVzLW5ycnp3T09qeVlwdENBUEZXV3hIQlgxNlF6RkR2UEpfMVRzN1ZnUlB3WkZRMUhycGNtcDRRaGRVejFSWklUSkg3NS1RYnBmZUNEVzV4c3BscjlZM1psR091U044UDBvQVRDc3J6Y1A3VWJVQW1pSkxsek9vT3J4MnFDMXdFejJCdHRiVXlRcWNuMVlTc0k4eTllb3U2ckdrUzliTENRUlhjSHJtc3VVSmVSUHBaQTZXY1lyZjNQNGVIeS1ubjlQdw?oc=5",
+            "source": "e-fundresearch.com",
+            "published": "15.01., 09:00"
           },
           {
             "title": "EM-Anleihen: Diese rohstoffreichen Schwellenländer profitieren - das investment",
@@ -855,22 +855,18 @@
       "currency": "EUR",
       "description": "iShares MSCI World Small Cap UCITS ETF als Small-Cap-Proxy",
       "price_decimals": 3,
-      "last_date": "2026-09-29",
-      "last_close": 8.949000358581543,
-      "previous_close": 8.991999626159668,
-      "change_abs": -0.043,
-      "change_pct": -0.48,
-      "change_5d_pct": -0.92,
-      "change_1m_pct": -2.72,
-      "change_3m_pct": -3.69,
+      "last_date": "2026-09-30",
+      "last_close": 8.98799991607666,
+      "previous_close": 8.940999984741211,
+      "change_abs": 0.047,
+      "change_pct": 0.53,
+      "change_5d_pct": -0.99,
+      "change_1m_pct": -1.12,
+      "change_3m_pct": -2.07,
       "change_1y_pct": null,
-      "ytd_pct": 15.03,
-      "volatility_30d_pct": 10.23,
+      "ytd_pct": 15.53,
+      "volatility_30d_pct": 9.89,
       "sparkline": [
-        {
-          "date": "2026-05-26",
-          "close": 8.871000289916992
-        },
         {
           "date": "2026-05-27",
           "close": 8.904000282287598
@@ -1224,20 +1220,24 @@
           "close": 8.991999626159668
         },
         {
-          "date": "2026-09-29",
-          "close": 8.949000358581543
+          "date": "2026-09-28",
+          "close": 8.940999984741211
+        },
+        {
+          "date": "2026-09-30",
+          "close": 8.98799991607666
         }
       ],
       "explanation": {
-        "direction": "gefallen",
-        "confidence": "mittel",
-        "summary": "Plausibler Nachrichtenbezug: Der Kurs ist gefallen und die gefundenen Schlagzeilen enthalten überwiegend belastend wirkende Formulierungen. Die Quellen passen damit zur Richtung, beweisen aber keine Kausalität.",
+        "direction": "gestiegen",
+        "confidence": "niedrig",
+        "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
           "Zinsen/Fed",
           "China/EM"
         ],
         "bullets": [
-          "Der Kurs ist spürbar gefallen: -0.48 % gegenüber dem vorherigen Schlusskurs.",
+          "Der Kurs ist spürbar gestiegen: +0.53 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: Zinsen/Fed, China/EM.",
           "Wichtigste gefundene Headlines: Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraETF | Diese US-Small-Cap-Aktien sind jetzt attraktiv - Morningstar."
         ],
@@ -1255,16 +1255,16 @@
             "published": "06.07., 09:00"
           },
           {
-            "title": "S&P 500, Dow, Nasdaq Drop Under Pressure From Elevated Yields As Investors Shrug Off Trump’s Iran Sanction Relief — NVDA, BA, AMD, NVTS, CB…",
-            "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOemtOdFVmOXhjdFZkWVlWY3Zub0JxRzBfa2R4T3hzSmlfRl9kTWs0ZG56SUNMa0w4d00taEZuTEo5MUNzemNWcUxiTzlraWxMWi13TDNuR0JDdmo4dUljRHlhTVZ6YTFNWVp5Q01TX0JMWHhDQnJfS0VVWkdfdU10YWl1Zjl3cUxIdVdIUlh0YlVfQTZPaWkwOWdLcDRzSHZpZmstWmpBSTF2N3J2UHJKSS1MaDJyVGI4ZDFWSkJhU2dkZmVDMzNUNWNOcjIwb2pnWnlEN1dONTYxSzdhWDYzSUFmLXpQNVdWek9aYUFOakU5Y0tpZDZkZm9Nbk91b1FVYVNoa241RnhsLUpxVW9oeUJHeUp1dTZmaElFel9qWC1mN2J4QjJ3emJ3?oc=5",
-            "source": "TradingView",
-            "published": "29.09., 01:07"
-          },
-          {
             "title": "MSCI World Small Cap ETFs 2026 - LYNX Online Broker",
             "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcU4yRTBRZ25DSmViRmFBTVBTcFJDOGZUQ2JCcFpBaDZjaGlUY0dSRjc1dzl1OW51bC1kOUFoazhiTE5nblRzVzhIVVJoRE9Ec0NibURya0x3cnNSVkxjbGRzVWhyN1hvM0RLV3VyNEVxUHpjM0lwNk9reFFENThtam5ndU9hYlpwS3JaTEliQXB4dw?oc=5",
             "source": "LYNX Online Broker",
             "published": "13.09., 09:00"
+          },
+          {
+            "title": "ETF-Portfolio – die besten Musterportfolios und ETF-Strategien - Finanzen.net",
+            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAzbmFxUlNtQ2wyOTBPRk5raDBsUDNYZ0dqWTk0dkQxWU5KV0VfWDB5TS1ValNJTUY3OGFMcGtEVWM4NXRMZ0Y1eE9QcG1BT0dtYmZyTDFtTGFVdTY4a2tYSWlMUE5UQ1p3Uk9OcExIbmZHTW9hYWw2Wm9n?oc=5",
+            "source": "Finanzen.net",
+            "published": "03.06., 09:00"
           }
         ]
       }
@@ -1651,8 +1651,8 @@
       ],
       "explanation": {
         "direction": "gefallen",
-        "confidence": "mittel",
-        "summary": "Plausibler Nachrichtenbezug: Der Kurs ist gefallen und die gefundenen Schlagzeilen enthalten überwiegend belastend wirkende Formulierungen. Die Quellen passen damit zur Richtung, beweisen aber keine Kausalität.",
+        "confidence": "niedrig",
+        "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
           "KI/Tech",
           "Regulierung",
@@ -1661,9 +1661,15 @@
         "bullets": [
           "Der Kurs ist spürbar gefallen: -0.53 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: KI/Tech, Regulierung, Geopolitik/Sicherheit.",
-          "Wichtigste gefundene Headlines: Warum Rückt Alphabet (GOOGL) Mit Einem Cloud Auftragsbestand Von $514 Billionen In Den Fokus? - simplywall.st | Alphabet Aktie: Anthropics IPO-Pläne setzen Konkurrenz unter Druck - Börse Express."
+          "Wichtigste gefundene Headlines: Gemini Enterprise: Google Cloud bündelt Partner-Agenten für KI-Sicherheit - BornCity | Warum Rückt Alphabet (GOOGL) Mit Einem Cloud Auftragsbestand Von $514 Billionen In Den Fokus? - simplywall.st."
         ],
         "headlines": [
+          {
+            "title": "Gemini Enterprise: Google Cloud bündelt Partner-Agenten für KI-Sicherheit - BornCity",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaVM3dUhiNEFGd1FXMUhaNl8tbFY2LTF3a1N6T25QTUtfOWNuYXNGRDRZLVRiM2I5YXBzdGUwMFVYV0dlWk9Bemo4c19kUmM4RHF2TEhuRlBPQmlYdFBzOEdYMlR4TjhQcDFoOXZhU0FqRHktOTMyelJBYnNaXzNtZWJDamJlUUxKRHNsX3RfWXRXeXdjN1hIR2VDMnlpd3FxcjVB?oc=5",
+            "source": "BornCity",
+            "published": "30.09., 10:08"
+          },
           {
             "title": "Warum Rückt Alphabet (GOOGL) Mit Einem Cloud Auftragsbestand Von $514 Billionen In Den Fokus? - simplywall.st",
             "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeS0yT0dlXzVfVnpFdFlLYjAwbmRhS3pJUHpTRUpWWlRJVzJzNTIyWGxOclhmRHRYMlZXSzNhNmdqYzA0czJHVk1zWm1IM1JTaS1oUFdoS3REOVlZZlM3bW1fZUxnYng2WUs2ZGtIY0xsOW52eWJtdnZ4Z3A1RWhPWUYzNHBWSGhNYTJvY3FKaFBOLVh5ZzI2MUluN0NaU0dYSjJ0eVNBUlFkSlVtcVBBRkpYUzRWX2EySEswSTlkRFBRSElVU01qX09SY9IBywFBVV95cUxPeS0yT0dlXzVfVnpFdFlLYjAwbmRhS3pJUHpTRUpWWlRJVzJzNTIyWGxOclhmRHRYMlZXSzNhNmdqYzA0czJHVk1zWm1IM1JTaS1oUFdoS3REOVlZZlM3bW1fZUxnYng2WUs2ZGtIY0xsOW52eWJtdnZ4Z3A1RWhPWUYzNHBWSG…",
@@ -1677,16 +1683,10 @@
             "published": "29.09., 01:45"
           },
           {
-            "title": "Alphabet stock after-hours at EUR 297.08: minus 0.31 percent - AD HOC NEWS",
-            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNc0d1VlNFdTB4am9MUHFTVDdTcTdmV01jdGZiSHN1MjBzaTRjYkczUGEzek9oc1NFSHpwS0ZUcExtVTg2Sl9XOUh3czJtbUhWZmFiU3hBUDBUb1hrTnNWTVVpRTAzSDVQbGphb0NqMU5SZ0hWZ3p5aGlZUmRIQmFiN3RyYkl2T1ZFUmhGOEFDeVUxaDNWc2x4SE42eGlyNlJaWDBhX3BlcjVlQTk2RVVSdFBkX0dsMWYyTWc?oc=5",
+            "title": "Alphabet stock after-hours at EUR 300.63: minus 0.16 percent versus prior close - AD HOC NEWS",
+            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaVg2dWdPOFFpZEtMdHBZMHdwa3BnSzBDalp4NkZHeGF6YlJIejNoWlJ4eEZrTk5NOGsteFl6VTFreV8xVUUwdnNhYms2TGlSXzZZck1xSnBPZnA1ZmxGWmdKd00wbzRPbHhfQUJnckV6anR4bm9rVVFnZGpZVDhRNlA1bzNlWDFxR1hYV0cyNmdKbGNQdHNQNDRQMXB2RERWZ3VlS0NDdWRGeWE1Q2RZODhYc0lodFJ4dVlWNnR3cFpJRE8zenRMeTZKZw?oc=5",
             "source": "AD HOC NEWS",
-            "published": "29.09., 19:11"
-          },
-          {
-            "title": "Thales und Google Cloud erweitern Sicherheitskontrollen für agentische KI - Infopoint Security",
-            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTWcyd2VpRVJveGVGVDZkbnE5Z285RVlOWUNuaHRQMkIyX2NBa1haaTBqZGpIeEVQaVBBOWZKNWM2OTFaX05fZEZ2Uml2S0xpZkw4cWo5TnlFWjdVOEdWZE5JQ09YeDZJdDM3eFJzZW9uVmZaOHY2WmtjTHhzRFlIc0dGMzNoa2V0TEMzRXRBM1NERmJ2TWpFallWRzlYeDlXU3NyanBhMlJrZVVfVS1XemE1N2dsU3PSAbsBQVVfeXFMT21sZ1lwbEFFdmx4V25xbENPcmRORDlUanFUWXl5WlYtM2NPSTNEbGFlY3UxVDR4RnNNcG8zaldOVTQ1OWxMR0ktd2t0SWVQUDlMMUZQLW96UEVabVBHeFJjQUtvR0pxQUFQWGNkUzBBNmRYWDhUdmt3WDFORkZIck5UZ01tMDE0UGFOOEt1aEdyUGlIdjZJNHNWbn…",
-            "source": "Infopoint Security",
-            "published": "29.09., 14:51"
+            "published": "29.09., 22:13"
           }
         ]
       }
@@ -1698,22 +1698,18 @@
       "currency": "USD/oz",
       "description": "Goldpreis, primär über Gold-Future, fallback XAU/USD",
       "price_decimals": 2,
-      "last_date": "2026-09-29",
-      "last_close": 4204.5,
-      "previous_close": 4168.39990234375,
-      "change_abs": 36.1,
-      "change_pct": 0.87,
-      "change_5d_pct": -3.93,
-      "change_1m_pct": -7.18,
-      "change_3m_pct": 4.11,
+      "last_date": "2026-09-30",
+      "last_close": 4220.7001953125,
+      "previous_close": 4179.7001953125,
+      "change_abs": 41.0,
+      "change_pct": 0.98,
+      "change_5d_pct": -2.26,
+      "change_1m_pct": -5.82,
+      "change_3m_pct": 3.39,
       "change_1y_pct": null,
-      "ytd_pct": -3.15,
-      "volatility_30d_pct": 23.03,
+      "ytd_pct": -2.77,
+      "volatility_30d_pct": 22.92,
       "sparkline": [
-        {
-          "date": "2026-05-21",
-          "close": 4542.5
-        },
         {
           "date": "2026-05-22",
           "close": 4523.2001953125
@@ -2068,7 +2064,11 @@
         },
         {
           "date": "2026-09-29",
-          "close": 4204.5
+          "close": 4179.7001953125
+        },
+        {
+          "date": "2026-09-30",
+          "close": 4220.7001953125
         }
       ],
       "explanation": {
@@ -2078,13 +2078,12 @@
         "themes": [
           "Zinsen/Fed",
           "Inflation",
-          "US-Dollar",
-          "KI/Tech"
+          "Regulierung"
         ],
         "bullets": [
-          "Der Kurs ist spürbar gestiegen: +0.87 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: Zinsen/Fed, Inflation, US-Dollar, KI/Tech.",
-          "Wichtigste gefundene Headlines: Gold: Fed-Zinssorgen bremsen Rally - Börse Express | 4.300-Dollar-Gold und neue Bohrprogramme: Warum Kinross, Coeur und Sienna jetzt auf Nevada setzen - Wallstreet Online."
+          "Der Kurs ist spürbar gestiegen: +0.98 % gegenüber dem vorherigen Schlusskurs.",
+          "Gefundene Nachrichten-Themen: Zinsen/Fed, Inflation, Regulierung.",
+          "Wichtigste gefundene Headlines: Gold: Fed-Zinssorgen bremsen Rally - Börse Express | Steigende Ölpreise - Kampf gegen Inflation: Goldpreis gibt weiter nach - Kronen Zeitung."
         ],
         "headlines": [
           {
@@ -2094,22 +2093,22 @@
             "published": "25.09., 17:21"
           },
           {
-            "title": "4.300-Dollar-Gold und neue Bohrprogramme: Warum Kinross, Coeur und Sienna jetzt auf Nevada setzen - Wallstreet Online",
-            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTWhMZUIwbTFHMVN5T29feTE1bEF1SE9JdWNwbm9mQ3Z5ck9TSE5tSHVNaWt4R0RFNjJwTktNRG5rMFdxTXJ6NTdUTWNCLWl3cDNyMmx4SW1YU2tmb2VaNkpvbG8yX0JPSmJGczAtS0oybGlhQ0s5Q2FZUkxxbmxROWtCQ1Y0Zmh2SjdDVlZnN1dsdlhvM25VWEQ3emFhbGFlMDFvcWpwQ1RSSFlfN2xaR1Q4R19aVWl4SGc?oc=5",
-            "source": "Wallstreet Online",
-            "published": "29.09., 08:02"
-          },
-          {
-            "title": "Steigende Ölpreise - Kampf gegen Inflation: Goldpreis gibt weiter nach - krone.at",
+            "title": "Steigende Ölpreise - Kampf gegen Inflation: Goldpreis gibt weiter nach - Kronen Zeitung",
             "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9UWmdtRXZWNDhUVXZNZmcxSXNrOWlxYmRvQk9pYTAzLTl5MmVTTHRSNFFNTlc1QlRHSmZpZEE1T1dPQQ?oc=5",
-            "source": "krone.at",
+            "source": "Kronen Zeitung",
             "published": "28.09., 12:25"
           },
           {
-            "title": "Gold: Ein Tag zum Vergessen - Der Aktionär",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSWZ2UlRfNXc0M2p1YXZ0YUprcGYwMzUzdU9HenY4T2owa1NfMHFoMXQ1WFdSd0dPRTI2UDJrd2tEcWpnS1FiYnBFQXpTS3NTWXlHY2JHOWIzazNKOFFrMnY3WFhsRmdaQXlnc1lpN2VzUFRiQ2FaVjdMM1A3c2NxVUJHUnUzMHJZSXZj?oc=5",
-            "source": "Der Aktionär",
-            "published": "29.09., 07:17"
+            "title": "Gold erholt sich vom Acht-Wochen-Tief, während Händler den Fed-Zinspfad abwägen - DE.COM",
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSUVZM3Rrb1NDVXlvM3NHS1N0X2huaHllRzNPeXFuSDR2NUdFTk15UklvbzJtSEhmS0swcGp1THpBY3lGU1RRVV9wd0twVHdXZnV4NEEtcHZFWDdlYzhabHNpeEQ0YVdhRDEwUm9HZ3NsdjdnWTFPaVUwdFBWdDdmMnV1MmRzZXZHZl9Cd3Zhcm9XbkN0TTFfd1RnTkVFYjlSSTFqMTdRRTJVQXozenIyY1h5NWVLVDdrUGJHMlF5alE5Z9IBxwFBVV95cUxQbVo5Y0tfWW8td0VPeTNFMkV1SFlvZldWb1F0MVktZy1ycmdObXlrMmY4c05Ha24tbGdZOERKLUNoWWtVOXJ0Mk1mVlZ1cEM4VWpYMGFOazR1TlYzN0dFR01EQmFCZllrWmNhTnJ1MERTSC1MdnU4QUlzRkx3ZndzeDZfaGFrd0QxV3oyaHR1V3…",
+            "source": "DE.COM",
+            "published": "30.09., 01:31"
+          },
+          {
+            "title": "Goldpreis gibt nach: Hohe Anleiherenditen und Zinssorgen der Fed belasten - Investing.com Deutsch",
+            "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOOXNyTlpRSGRKWnRESDBtVXZZU21jZE5xLVJXZ3FreHoxbWpuX1hacFhEdHhFSHBHMmNiZURWVE9idnJ3bXFyZlMxUHJhbTFlWDZwdk1BbEdwU25jdkxXaHdEbzBzZzZ5ZC03eUk5WVhsQnl6X210TW1SSlVNYlVBYTVDRUhjSXdrQkVKdVlld2R2UUF2QWM3X1hDZUpyQTU4eW1lR19TbUtLdXlmbTBDNlZTUzkwU3FmT3NSdHFWZmRITE96cFhPdndmc1czMVVJdmlIREhRNFRtU0txRUE2X2dQR0ZnUQ?oc=5",
+            "source": "Investing.com Deutsch",
+            "published": "30.09., 03:14"
           }
         ]
       }
