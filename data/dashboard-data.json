@@ -1,8 +1,8 @@
 {
   "is_sample": false,
   "source": "Yahoo Finance Kursdaten + Google News RSS Kontext",
-  "generated_at_utc": "2026-10-03T09:39:45+00:00",
-  "generated_at_vienna": "03.10.2026, 11:39 Uhr",
+  "generated_at_utc": "2026-10-03T18:59:41+00:00",
+  "generated_at_vienna": "03.10.2026, 20:59 Uhr",
   "market_mood_internal": "neutral",
   "assets": [
     {
@@ -395,13 +395,13 @@
         "bullets": [
           "Der Kurs ist leicht gefallen: -0.25 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: China/EM.",
-          "Wichtigste gefundene Headlines: PowerBank Aktie: Nasdaq gewährt Fristverlängerung - Börse Express | Leverage Shares -5x Short Nasdaq 100 ETP Securities | XS3373449761 | A4AU1Y - extraETF."
+          "Wichtigste gefundene Headlines: PowerBank Aktie: Nasdaq gewährt Fristverlängerung - boerse-express.com | Leverage Shares -5x Short Nasdaq 100 ETP Securities | XS3373449761 | A4AU1Y - extraETF."
         ],
         "headlines": [
           {
-            "title": "PowerBank Aktie: Nasdaq gewährt Fristverlängerung - Börse Express",
+            "title": "PowerBank Aktie: Nasdaq gewährt Fristverlängerung - boerse-express.com",
             "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPR29SZ1JWMzg0aEY2bmVCaW9pR1ZRUFV6QlJDb3BJakFZOHZpMF91cHhJMXdycFlVTnM3VnZZcy1hUTZaaEtNODRxdEVBWWsxVU5SUnFJb0xIY0IwTF9jWjQ0OUhERFRyZ3B6YWZMemZQT0ppdFlBRXNCcTlQVUFiMUljQ0hLV3Q4bGNlRVdrVXpsRWNKU3N0bnlMQy0zVktFQ0phMg?oc=5",
-            "source": "Börse Express",
+            "source": "boerse-express.com",
             "published": "02.10., 21:35"
           },
           {
@@ -818,7 +818,7 @@
         "bullets": [
           "Der Kurs ist leicht gestiegen: +0.20 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: US-Dollar, Regulierung, China/EM, Geopolitik/Sicherheit.",
-          "Wichtigste gefundene Headlines: Emerging Markets Aktien: Generali Investments sieht neue Chancen - e-fundresearch.com | iShares MSCI EM ex China: Allzeithoch bei 99,78 USD - Börse Express."
+          "Wichtigste gefundene Headlines: Emerging Markets Aktien: Generali Investments sieht neue Chancen - e-fundresearch.com | iShares MSCI EM ex China: Allzeithoch bei 99,78 USD - boerse-express.com."
         ],
         "headlines": [
           {
@@ -828,9 +828,9 @@
             "published": "27.05., 09:00"
           },
           {
-            "title": "iShares MSCI EM ex China: Allzeithoch bei 99,78 USD - Börse Express",
+            "title": "iShares MSCI EM ex China: Allzeithoch bei 99,78 USD - boerse-express.com",
             "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVHg5cHVfWE8tQ2tteTRVS0liN0NxX3dtaHhWcDRXdmZBNE1ac3JBVEI3VW5BMHFRM01xVGpNSFowb2hhQlBlZUhDS1gzNnUtOWdCdGpkZmQyWjQ2Sk9yMXlCOUU2MU5DWmFnZmJRUjQydGZWSE9ycjR3dDY2OEZTUktZOUxodXU1S3JGcC1sZW9qQnBTbFdTVGMxcTdYTjZTZFFZ?oc=5",
-            "source": "Börse Express",
+            "source": "boerse-express.com",
             "published": "26.05., 09:00"
           },
           {
@@ -840,9 +840,9 @@
             "published": "29.05., 09:00"
           },
           {
-            "title": "Kapitalmärkte: Iran-Krieg wird zum Stresstest für die Schwellenländer - handelsblatt.com",
+            "title": "Kapitalmärkte: Iran-Krieg wird zum Stresstest für die Schwellenländer - Handelsblatt",
             "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWHhSNTdKdm9ENnlwNHVYMHVJa3M3VmctRWswSm5tWFFCc29DemNLQk1nVXd4dHcwcFZlemVYcTcxZTJvdm5sYTNFblhwUVZ2UExEbHQxdXFjSUhyV252TUNVam42cnp4Ti15R0pUWEp0S3k4azhUVlFqc1lxNEpRNmRfd09JaU5qTF91Uk91eHRTaW5TVHlBQjlfeHRmVVJvV0Y3Y1lYb1hvWTl3MkxBSkoxR1p6SVBLOGxRXzEzNkQzSV90MTVzY3Z2Mmw?oc=5",
-            "source": "handelsblatt.com",
+            "source": "Handelsblatt",
             "published": "17.04., 09:00"
           }
         ]
@@ -1653,41 +1653,13 @@
       "explanation": {
         "direction": "gestiegen",
         "confidence": "niedrig",
-        "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
-        "themes": [
-          "KI/Tech"
-        ],
+        "summary": "Keine belastbare Begründung gefunden: Für diesen Wert wurden beim automatischen Abruf keine aktuellen verwertbaren Schlagzeilen gefunden. Es wird daher bewusst keine Ursache behauptet.",
+        "themes": [],
         "bullets": [
           "Der Kurs ist deutlich gestiegen: +1.56 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: KI/Tech.",
-          "Wichtigste gefundene Headlines: Alphabet Aktie: Gemini 4 Argon tritt an - Börse Express | Datenschutz statt US-Cloud: 5 sichere Alternativen zu Google Drive - t3n."
+          "Nächster sinnvoller Schritt: Nachrichtenlage manuell prüfen oder eine bessere News-API anbinden."
         ],
-        "headlines": [
-          {
-            "title": "Alphabet Aktie: Gemini 4 Argon tritt an - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRmR5aVFjbDJVMll6d3pPMGxRa0NBVjFhUUhyWUtzeXVmdDVOLTl4VnBJS2RZQURrQnFvWVpwUjN5STY4Qk5iU241NmpGYkVOYnpQZlQzbUt1dEdOVEUzc3hWZldxWWtMV2pJMVowYURMbVBtU0stUkI2clB1c2NLdFBjaGlZTjE3NHBFMDBuN0Vvc0hY?oc=5",
-            "source": "Börse Express",
-            "published": "03.10., 06:44"
-          },
-          {
-            "title": "Datenschutz statt US-Cloud: 5 sichere Alternativen zu Google Drive - t3n",
-            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1zTk43RHp0bDBNWXNpQ2dBazZxNEZnMFUxTVZ1Q1VSMlN2cC16SXdsVDJFeF9BTkxURU1RaXE1cTVxU083dXJndVJFTVNRR2pVMU1jc2R0Uk9VU1d3SlVneDRtcG5kczdCdlhCNmNTVnppN1hLVHhF?oc=5",
-            "source": "t3n",
-            "published": "03.10., 08:30"
-          },
-          {
-            "title": "Technologie: Google fordert Nvidia mit eigenen Chips heraus - handelsblatt.com",
-            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVzdsUVV3a00wdHBoNHVvZnR3WEJNMzkwNVk4WThsbkFLbDJwQzEyOUZYamFtY0xDM3VfN0ZURFYtbUd4bXM1N1RySzZabjktNmdLSFVHWG03bjBTVno2VVBIUEtHbWhXM3AtS3VDamhSTnFvcV9rRjdNR2NjdFVteHM5MEVwakNLVnR0RjBZMmtnQWltUWxfU25JM0lYbXNDTTR0UGNEaENJUm52NFg0OTVULWtkZXJaeENGNTFVLXNqdw?oc=5",
-            "source": "handelsblatt.com",
-            "published": "02.10., 13:02"
-          },
-          {
-            "title": "Die Alphabet-Aktie (GOOGL) könnte nach den Meldungen zum Cloud-Auftragsbestand 30 % unter ihrem fairen Wert liegen - Simply Wall Street",
-            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOUhJV0I2UFpwMGVGVWUwcHdNeVRWeGpFa3NfNXdNRmE5eC1laktQTERDMGFENGhUVC1PNlZIYWY5aUgyTnFRdUNWZ01vZ2ZhOG9KWDRNRUlmMXVpcXY0WHBHclpuRzNESFFSM2lfWTU3WVctMGV6cFlvX0FkNFVseU5PWWE5S2xJN042MEg0MmtIYkdJcUd0N21vMTN0bE5DUDQ2di1YYmlJVjFJUkZJVllQMlFLSjVGZ0JqNEc5YlJxTVJ3elgtako0MTTSAcwBQVVfeXFMTzlISVdCNlBacDBlRlVlMHB3TXlUVnhqRWtzXzV3TUZhOXgtZWpLUExEQzBhRDRoVFQtTzZWSGFmOWlIMk5xUXVDVmdNb2dmYThvSlg0TUVJZjF1aXF2NFhwR3JabkczREhRUjNpX1k1N1lXLTBlenBZb19BZDRVbHlOT1lhOU…",
-            "source": "Simply Wall Street",
-            "published": "02.10., 16:58"
-          }
-        ]
+        "headlines": []
       }
     },
     {
@@ -2075,21 +2047,26 @@
         "confidence": "niedrig",
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
-          "Inflation",
           "US-Dollar",
           "Gewinne/Analysten"
         ],
         "bullets": [
           "Der Kurs ist spürbar gefallen: -0.95 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: Inflation, US-Dollar, Gewinne/Analysten.",
-          "Wichtigste gefundene Headlines: Gold: Dollar bremst Erholung - Börse Express | Von 3.500 bis über 5.250 Dollar: Analyst wagt drei Goldprognosen | Märkte | 02.10.2026 - FONDS professionell."
+          "Gefundene Nachrichten-Themen: US-Dollar, Gewinne/Analysten.",
+          "Wichtigste gefundene Headlines: Gold: Marke von 4.000 Dollar im Fokus - boerse-express.com | Goldpreis-Prognose: Kommt es jetzt zum finalen Abverkauf bei Gold? - Wallstreet Online."
         ],
         "headlines": [
           {
-            "title": "Gold: Dollar bremst Erholung - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcE9yVlZqbkdzNGtvY0JPRTNNdEdmZVNzVHAtWlVKSzM0UkdiLU9rM0Fva2tkVjd1U2h4UWlyb0RoMU5ubHdocTJLZ09XOXdsdjVFd3FKMWlNdWd0X2laLXFjM0hjUEtLei1yS1FiYmZJY2I1R0FkWkxFbEJUdkV2MlVfS2Y5UQ?oc=5",
-            "source": "Börse Express",
-            "published": "01.10., 09:30"
+            "title": "Gold: Marke von 4.000 Dollar im Fokus - boerse-express.com",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPa3BaR2Z2NnZYLXlFcmY1X0JaZ3JFb192eG9LNVBPQnkwcE1ndHpFbEN5NjFmU0puU2NDRWFhN2Y5b2NIaS1BdGJQZ2RSeDRROVZxS29pUTgybE15NzNhbEFzMl9sb2hZakJ5enR6cWtQeVhBc0traHc3N25QcEhWbThZRG9td1UzUmVkazc5dWU?oc=5",
+            "source": "boerse-express.com",
+            "published": "03.10., 18:53"
+          },
+          {
+            "title": "Goldpreis-Prognose: Kommt es jetzt zum finalen Abverkauf bei Gold? - Wallstreet Online",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNd2dmRno1ZmYwdzBDZUtQcjhWUm1ydG5UUE41YXBVNENyQlppNWRKN05iMWVyaWFQUzZiQzAwMmZNQ1hjcVZucGRtclZCSk4zSURuY1QtTkt5LVZzU1NBbDQ4bWpaUllzNmlndVNDXzZuNHpJX0U1LVAxUTM0TXF0TVRVVHZ0TFJHOGJFM2Z6YkRQeVlvcGkzZU1PLW9iZGZwc29lcW44czdYeFdVclMwVTdYMVNFNHQw?oc=5",
+            "source": "Wallstreet Online",
+            "published": "03.10., 13:00"
           },
           {
             "title": "Von 3.500 bis über 5.250 Dollar: Analyst wagt drei Goldprognosen | Märkte | 02.10.2026 - FONDS professionell",
@@ -2102,12 +2079,6 @@
             "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNX1E0S2pUSjd0b2UxaGJmLW9sVkZPNmEwUlAtME14bmtKNXZEQXJ3aWJWN2hzb3lwUGZtNDVaWTlpVHhUY052eEJLa1JMbnVxMWdfNDE3c0EzMEdXZFRMN05tSkVJU3l1SF9CUS1FTWhNdE03UVhVUzFaNkF1TUZkUnlHMkdUbHVrTmpBaXE5a1V6d0RyVEZlcWJlU0VEdXpUWGg2NHlCNA?oc=5",
             "source": "Ariva",
             "published": "02.10., 14:49"
-          },
-          {
-            "title": "Steigende Ölpreise - Kampf gegen Inflation: Goldpreis gibt weiter nach - Kronen Zeitung",
-            "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9UWmdtRXZWNDhUVXZNZmcxSXNrOWlxYmRvQk9pYTAzLTl5MmVTTHRSNFFNTlc1QlRHSmZpZEE1T1dPQQ?oc=5",
-            "source": "Kronen Zeitung",
-            "published": "28.09., 12:25"
           }
         ]
       }
