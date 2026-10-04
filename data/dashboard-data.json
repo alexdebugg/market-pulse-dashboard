@@ -1,8 +1,8 @@
 {
   "is_sample": false,
   "source": "Yahoo Finance Kursdaten + Google News RSS Kontext",
-  "generated_at_utc": "2026-10-04T10:24:32+00:00",
-  "generated_at_vienna": "04.10.2026, 12:24 Uhr",
+  "generated_at_utc": "2026-10-04T19:10:00+00:00",
+  "generated_at_vienna": "04.10.2026, 21:10 Uhr",
   "market_mood_internal": "risk-on",
   "assets": [
     {
@@ -390,11 +390,11 @@
         "confidence": "niedrig",
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
-          "China/EM"
+          "Zinsen/Fed"
         ],
         "bullets": [
           "Der Kurs ist spürbar gestiegen: +0.96 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: China/EM.",
+          "Gefundene Nachrichten-Themen: Zinsen/Fed.",
           "Wichtigste gefundene Headlines: PowerBank Aktie: Nasdaq gewährt Fristverlängerung - Börse Express | Leverage Shares -5x Short Nasdaq 100 ETP Securities (SQQQ.AS) Aktienkurs, Nachrichten, Kurs und Verlauf - de.finance.yahoo.com."
         ],
         "headlines": [
@@ -417,10 +417,10 @@
             "published": "19.06., 18:15"
           },
           {
-            "title": "MSCI Emerging Markets-ETF - die besten Schwellenländer-ETF - finanzen.net",
-            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRVlOYkZlUkRnYngxUWxzZWpmVzNXYWgtYnBnYW52WjI5Q25hZUcyQ01IRDdZUTV4S3BjNU9uQk1pZWlaMHUtUGJNczBQUUdoUTlZQkUzdEhzWXZiblVUQ0dPRktMZWhnU3lpUDhjQ0N1UWRqTmo0V09XSW96WUw5OWNldUl1TTJhdlNfYg?oc=5",
+            "title": "ETF-Portfolio – die besten Musterportfolios und ETF-Strategien - finanzen.net",
+            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAzbmFxUlNtQ2wyOTBPRk5raDBsUDNYZ0dqWTk0dkQxWU5KV0VfWDB5TS1ValNJTUY3OGFMcGtEVWM4NXRMZ0Y1eE9QcG1BT0dtYmZyTDFtTGFVdTY4a2tYSWlMUE5UQ1p3Uk9OcExIbmZHTW9hYWw2Wm9n?oc=5",
             "source": "finanzen.net",
-            "published": "30.09., 17:56"
+            "published": "30.09., 17:50"
           }
         ]
       }
@@ -1256,16 +1256,16 @@
             "published": "28.04., 10:37"
           },
           {
-            "title": "Diese US-Small-Cap-Aktien sind jetzt attraktiv - Morningstar",
+            "title": "Diese US-Small-Cap-Aktien sind jetzt attraktiv - global.morningstar.com",
             "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNXF1VURGVVhhSUhQWnc3NDlSUTVfU3BWb2hXd3pPN1Z5VWFGa2p4WV84cFd1WTlVaEFheEZ4eVhUVjBlVnBwdlBHTURVR2ptUGMzME5DeFNfR3lHVUhGTHRMVmIwU2ZXNFJUdlBlYW1XZ2M4aXJMTTlCWnNLbmxZc3FndTVMV1NXdmQ5cm9sdVQ?oc=5",
-            "source": "Morningstar",
+            "source": "global.morningstar.com",
             "published": "06.07., 09:00"
           },
           {
-            "title": "„Disziplin schlägt Glamour“ – Warum AllianzGI mit systematischem Faktor-Investing jetzt auf US Small Caps setzt - e-fundresearch.com",
-            "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQNnU3RmttMXdqOFdseEszZHBlbWZ1Yk9yd1ZPTWhvYUhoQnRSMkcyMGZPYUpTMDQzSDcwX3dZQms4OHJrbmZvR21XbFRlZXRjSzFNWXlLR2Q0b0NrZG5fdDRkM2JyV1JJeFEycTR3ZThPVUFyRGpkbnAwa09WdklUMV9aTVZWa1lkcks1WkR3NzIwbXIzalZqZ1pxRUJGWEdnWTFvN21LbndNVGtQbTNWNVExdVV0R3d2T2FDcGYxSm5ONFR1NzN6bXUyR3JZWjFhSU85TENvb3BOd09HMzFCQlloTE5lZ1FIM3RiVVBUdw?oc=5",
+            "title": "Warum zyklische Small Caps eine zweite Betrachtung verdienen - e-fundresearch.com",
+            "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOM2c4SmtyeW5GWUtkSFFrVW1oQkpCMTVzNVpsLWF4QnZmWlhVZ04xMzJTMVRYekh4VEZmUkwybVBMdmI3OTNhWHpXWl9kMl9XaGJ5TXVXVWdCV3lxTm8wc1FRNzNGY1J0TFB2eEk4VkMxVnF6NGtrQjdXVHBLUmhsOWw3SGVzZFBZcTM5Xy15cmEtRDNnUDJ3SjFPRXZzektsTlZzeXduLVFiVXZXVmhLYWhDdGxBaDBXVDRoaHQ1UkdKdWo5SGdJMTVTQlMyVGxiOXc?oc=5",
             "source": "e-fundresearch.com",
-            "published": "25.03., 08:00"
+            "published": "24.11., 09:00"
           }
         ]
       }
@@ -1655,11 +1655,13 @@
         "confidence": "niedrig",
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
-          "KI/Tech"
+          "Zinsen/Fed",
+          "KI/Tech",
+          "Regulierung"
         ],
         "bullets": [
           "Der Kurs ist deutlich gestiegen: +1.56 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: KI/Tech.",
+          "Gefundene Nachrichten-Themen: Zinsen/Fed, KI/Tech, Regulierung.",
           "Wichtigste gefundene Headlines: Alphabet Aktie: Gemini 4 Argon tritt an - Börse Express | Technologie: Google fordert Nvidia mit eigenen Chips heraus - Handelsblatt."
         ],
         "headlines": [
@@ -1676,16 +1678,16 @@
             "published": "02.10., 13:02"
           },
           {
-            "title": "Google sperrt Gemini Flash für kostenlose Nutzer, AI Plus verliert Pro - Pasquale Pillitteri",
-            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZWlPYWU0SV9TMlItZXNUV2FoYm8wV3pZNU5jckh4ZzcwWkUtY0NZRm9vbFQ0a2R4anNVRVotRXNTNldOM0V4S1NsTlhPYU4xclZNNXhOTjVXQ2ZQVW1wc0RWREp5c2Y1Q3ZJYlcwVGk5amJaQUF3V1ZGd0dzdmE2a2d2RjRiNktrY0F1cTM1OWR1TjlYZ3RLajhVQQ?oc=5",
-            "source": "Pasquale Pillitteri",
-            "published": "03.10., 21:26"
+            "title": "„Setzt bei der AI-Content-Strategie nicht nur auf ChatGPT!“ - trendingtopics.eu",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ya0JEOEZxNGEyakdSN0RXUE1EeEd0eEt6bU45Y0N2UWVWX01tVW4zZlVxV0dzNC1mMHZKQk1qemVuVE44TnRmRG9YQTNxWDByZ1NLd2ZSQzc5eGhraFhjVnJKVXR1UnJHaTdncDNieUd5ZFhRQTBYY2EyMTkxUQ?oc=5",
+            "source": "trendingtopics.eu",
+            "published": "02.10., 07:34"
           },
           {
-            "title": "Google schränkt kostenlose Nutzung von Gemini ein - qna.org.qa",
-            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWF9UVFIxVU1sNmVZbjF1dEw1a2duNS1IYlE3ZDdyNVhUVXYtUmgwRTRydWVJcl9JT3hIVDV1bXE5OENaMFJ2aXQxaGFDQTF5bFIteVBVSTYyYW1QSTVaMlNSZU4taXdzRTNKSzViTnpEdEFTWk8yQ1Zjb3lXZlVtWUxjbldRNDRoV0xFaE05UUtHdjFzN2p2M2xPRTVxQ0hJ?oc=5",
-            "source": "qna.org.qa",
-            "published": "04.10., 10:47"
+            "title": "Wir bringen AI Brief in weitere Sprachen und führen eine neue Berichtsfunktion für AI Max ein - blog.google",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWm9uVW0yR0hpWmgzV1FIdEJpNzVabS1DRXZpdjZfTUFhWEVHbXpwNXE5LWlFTXpxNmFyV0t3ejRMZkRfTjBNRk43MjEwOU5JVlo0eXl6Z3BDNFVBOTQwOXhWQkZUOUgxUzNHZUJfSkpFSDF2dm5LMjZKY1JCNTZGbUkyWmFuXzdYb2Zla25TQ1E?oc=5",
+            "source": "blog.google",
+            "published": "23.09., 20:49"
           }
         ]
       }
@@ -2075,28 +2077,26 @@
         "confidence": "niedrig",
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
-          "Zinsen/Fed",
           "US-Dollar",
-          "KI/Tech",
           "Gewinne/Analysten"
         ],
         "bullets": [
           "Der Kurs ist spürbar gefallen: -0.95 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: Zinsen/Fed, US-Dollar, KI/Tech, Gewinne/Analysten.",
-          "Wichtigste gefundene Headlines: Gold bei 4.350 Dollar – und De.mems jüngste Übernahme meldet bereits 20 Prozent Umsatzwachstum - Wallstreet Online | Gold: Marke von 4.000 Dollar im Fokus - Börse Express."
+          "Gefundene Nachrichten-Themen: US-Dollar, Gewinne/Analysten.",
+          "Wichtigste gefundene Headlines: Gold bei 4.350 Dollar – und De.mems jüngste Übernahme meldet bereits 20 Prozent Umsatzwachstum - Wallstreet Online | Gold: Schuldenberg übersteigt Goldschatz - Börse Express."
         ],
         "headlines": [
           {
             "title": "Gold bei 4.350 Dollar – und De.mems jüngste Übernahme meldet bereits 20 Prozent Umsatzwachstum - Wallstreet Online",
             "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdU95b1RnVnJBOWVvQ0pYOU5taG9NYk5qQTE0TEl3TjloRkIzOW5WcGJ6NU1RTU0ySnZ1X0I0LW1JaUdxVEZDREdGNjkyY2JMMjAzSE5xRHZQRV9LVEhlVF9QRF9nSDBiQnRWR3JQamFQbHIyT0FzRnhaRVlPV2xXNUowcEdPQzl1RkRfbDdteWNjemRUalJVWGd6dVBPNkZPRlBPeW9yUEowWnNPamo5VUlGcEdqb3Bfc0Z2T1c2SzNBa2t3LWZIdHhn?oc=5",
             "source": "Wallstreet Online",
-            "published": "04.10., 11:01"
+            "published": "04.10., 13:35"
           },
           {
-            "title": "Gold: Marke von 4.000 Dollar im Fokus - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPa3BaR2Z2NnZYLXlFcmY1X0JaZ3JFb192eG9LNVBPQnkwcE1ndHpFbEN5NjFmU0puU2NDRWFhN2Y5b2NIaS1BdGJQZ2RSeDRROVZxS29pUTgybE15NzNhbEFzMl9sb2hZakJ5enR6cWtQeVhBc0traHc3N25QcEhWbThZRG9td1UzUmVkazc5dWU?oc=5",
+            "title": "Gold: Schuldenberg übersteigt Goldschatz - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcGZBdGZJNGVFT25RS0poU1NLSDNXSlYybmh6U1Rya0FxWWhfNEF6Y2o5dFBiMUJwNkJzNzRwLUIxWXd6Vm1mY0M1UTJtVVZiVVRMaXpjMlNoN3hfQ25fX25BRGNuYzg2R1g4Y3Y3Wmx4clFVX2pyYnZTWU54MFFEU3E1WHpsUkJMT3BJMmRQcmpNRmlsaFI4?oc=5",
             "source": "Börse Express",
-            "published": "03.10., 18:53"
+            "published": "04.10., 09:36"
           },
           {
             "title": "Von 3.500 bis über 5.250 Dollar: Analyst wagt drei Goldprognosen | Märkte | 02.10.2026 - FONDS professionell",
@@ -2105,10 +2105,10 @@
             "published": "02.10., 12:30"
           },
           {
-            "title": "Kursziel 100.000 US-Dollar: Fidelity-Stratege Timmer sieht mehr Potenzial in Bitcoin als in Gold - Blocktrainer",
-            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTW55aEpjaFdmakp0Wk5PVXladEhmZmRxMGFqNFFqcXY3b2tuandZU2dJUExWQ3IxNWpZa2tCTU9kamJmVnhQNTRDSGVkOXljOWc4M2FZSDlaRWprVy1uSjRzUXNqVFJISkVPYV92QURSaEoxZVJpdEhFcGtCaFV3T1JSejNVdFVKREdteXJVS25qTnV1dU9ycFdZUVFWc0lSZzlr?oc=5",
-            "source": "Blocktrainer",
-            "published": "03.10., 18:30"
+            "title": "Goldpreis Prognose: Vermögensverwalter rechnet mit 'goldener Dekade' - Börse Online",
+            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVzZ3akNMbFBWNS1vcGVVYXVGYUU2Y1lZX3RwWUFTNkdRWVV3R3NteVFicmd5QTZQV1BDMzlUTlBfNFduMzZVemdIVUxCMnVJTExvM3NCRVFqOHljTUdOZ21iSnBqVzN1bGxiQlpHVi1FOVhaUUR4dlIxVGZlUUhMYmVOcjNHWHhDZnJKRVYtZnpRYjlVcHBydko4UUlCdlJrakk4YlVHb1EwYjJOdE9fNlZaNTRfN0VWVnZoZ0tQUFNLNURHYlJJWldvbw?oc=5",
+            "source": "Börse Online",
+            "published": "04.10., 12:00"
           }
         ]
       }
