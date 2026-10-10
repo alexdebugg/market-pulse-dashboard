@@ -1,8 +1,8 @@
 {
   "is_sample": false,
   "source": "Yahoo Finance Kursdaten + Google News RSS Kontext",
-  "generated_at_utc": "2026-10-10T10:24:45+00:00",
-  "generated_at_vienna": "10.10.2026, 12:24 Uhr",
+  "generated_at_utc": "2026-10-10T19:44:22+00:00",
+  "generated_at_vienna": "10.10.2026, 21:44 Uhr",
   "market_mood_internal": "neutral",
   "assets": [
     {
@@ -401,9 +401,9 @@
         "headlines": [
           {
             "title": "Direxion Daily S&P 500 Bear 3X Shares (SPXS) Optionskette - Yahoo Finanzen Deutschland",
-            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZW1jVXU2aEVvNW5pMFBKZDBMWFVjdlNVX0tuUEp1NEpOanRqcXhoUFRwc01fdEdjbTYzaU9wNjNFTTIxdEtpYjloQUZHcWRqRXhiNHF3aDB3WDk5N2ZfSk5PTi1tZDJRR2RjRXpUSWw0MGZaSkJINlNpNjZWNmhmUzRlWDNTVFpwYlBFS3FEeC0zZw?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVzV4Wk9GTHRZLWxDSkJhbVhOblJMc2trNjFSeVNuTlNyQkh2aWVCQnNuWVJLaE9Id0xHRDZFMm1ETDlzT2Jkc3VXVkh3X0pydVdGTDhFc1c2ZE94T1lOT3NvN1AwMXFJY0JyZ0ZlR0FsRGZnNldyRG10aDlVY21KRlR6bWdTU295bFk5aEFrbFVBdw?oc=5",
             "source": "Yahoo Finanzen Deutschland",
-            "published": "10.10., 03:16"
+            "published": "10.10., 05:08"
           },
           {
             "title": "Leverage Shares 3x Long Nasdaq 100 ETP Securities | XS2472197065 | A3GZVJ - extraETF",
@@ -1240,7 +1240,7 @@
         "bullets": [
           "Der Kurs ist spürbar gefallen: -0.79 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: Zinsen/Fed, China/EM.",
-          "Wichtigste gefundene Headlines: Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraETF | ETF-Portfolio – die besten Musterportfolios und ETF-Strategien - Finanzen.net."
+          "Wichtigste gefundene Headlines: Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraETF | Russell 2000 geht mit 0,59 Prozent Minus und Fed-Minuten in den Mittwoch - AD HOC NEWS."
         ],
         "headlines": [
           {
@@ -1248,6 +1248,12 @@
             "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBfSEFMN1dKOFVhZUdmcE5WbGh1V3VIUTVJTE5SdWVzS2hYemNGRWgzRi1MZF8xZXdrbUl3RHVKeTk0SDNRUmhSWGgyQUpMQlRXb2JPS0Jxb2txVm5LM0w3anphOWo5WWIwSDF5Qjg4clFwR0VWUkQ5Qg?oc=5",
             "source": "extraETF",
             "published": "28.04., 10:37"
+          },
+          {
+            "title": "Russell 2000 geht mit 0,59 Prozent Minus und Fed-Minuten in den Mittwoch - AD HOC NEWS",
+            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVXRQQ2ktRDRhTU56SGpFMnM0WXowQnhFVXdNNDNfSG9iRTBuVm9TOVZBN3hnTThFdHB2MUVSR1RjcHREbXItblRUNk9lMVFiSE1qQ3RFLUJxQTBDMDNqSlhRUXJWWXk2dmpVdzZNM2x2S2ZyQlZSS0dxSEttTV9OZ3d0QWNKcThwT0NwTm1OVWY5aWNRX0U3WEpzX25KX3pHZFlNV3pjX0NoeFI3UmNzcWlJYndSUXhmRnRINXBCdU5jMXZJRUZuYlpPRnoxTnN4?oc=5",
+            "source": "AD HOC NEWS",
+            "published": "07.10., 09:42"
           },
           {
             "title": "ETF-Portfolio – die besten Musterportfolios und ETF-Strategien - Finanzen.net",
@@ -1260,12 +1266,6 @@
             "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNXF1VURGVVhhSUhQWnc3NDlSUTVfU3BWb2hXd3pPN1Z5VWFGa2p4WV84cFd1WTlVaEFheEZ4eVhUVjBlVnBwdlBHTURVR2ptUGMzME5DeFNfR3lHVUhGTHRMVmIwU2ZXNFJUdlBlYW1XZ2M4aXJMTTlCWnNLbmxZc3FndTVMV1NXdmQ5cm9sdVQ?oc=5",
             "source": "Morningstar",
             "published": "06.07., 09:00"
-          },
-          {
-            "title": "S&P 500 And Nasdaq 100 Slip From Record Highs Amid Pressure From Soaring Treasury Yields — SPCX, AMD, NVDA, MRVL In Focus - TradingView",
-            "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNMHF2Zk9FM1lwZ2FneGV3Q1hzY2VXbDVkYnhnbjNnenZqUFFyeTFWNDFKMlVaX29PWHZscllETy1qQjM2dTdieFJFQXFCakVBUzk4aUJJaW9qeU0yQUR0dURUX3hjR3V2WFNpZEtPY3Qtbkd0bUVEa1U3d0FBYVRfcnNVVzh3TzVvTE54TEstaThnUWdUWTJaY0tHWl9XMzBMeEowNklMbERVdjJPS2JCZTN2US1CZ01RQUh6NFZWdjlnaVBJQkdxdTVCSnVlQ2FXY25EOUxVTWtYT1ZsdGgxWEt0V0lNT0U1dUVFS0RHRmNzaGhCVDZqNWpfaUJabjdMOHYwc3FLaw?oc=5",
-            "source": "TradingView",
-            "published": "08.10., 00:50"
           }
         ]
       }
@@ -1661,14 +1661,14 @@
         "bullets": [
           "Der Kurs ist spürbar gestiegen: +0.97 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: KI/Tech, Regulierung.",
-          "Wichtigste gefundene Headlines: LTM baut Zusammenarbeit mit Google Cloud aus, um die Einführung von Gemini Enterprise in großem Maßstab zu beschleunigen - Börse Social | Google: Gemini-Pro-Modelle erfordern ab Oktober ein AI-Pro-Abo - heise online."
+          "Wichtigste gefundene Headlines: Wie KI-Rechenzentren „grüner“ werden können - Kurier | Google: Gemini-Pro-Modelle erfordern ab Oktober ein AI-Pro-Abo - heise online."
         ],
         "headlines": [
           {
-            "title": "LTM baut Zusammenarbeit mit Google Cloud aus, um die Einführung von Gemini Enterprise in großem Maßstab zu beschleunigen - Börse Social",
-            "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOcXBJZlI5SWxmRzUyeU1CbzFvemZWaER2Z19nZkNKWTFDUU5CdnNmc0N2b3RzbGFHT2xWMlJzYXZRMkV5ODl5MGE3b1h3RDFzRmxRZEVOVm9HZnpkSWwxcm5aMlQ1R09yQU1SSGM1QkQ1d2JOMDdqV21FVjRVMGxnM0pCZGZLMk5HdEx0X285N3JKMDdvVDFZa2cwSU1Qd0VrYnB0clpGRkdzb3E0ZWxwbzVvSE9FVzZsX3FGZk1qMkdNNjRnemVEc3JJV1hadi1DNXA1Y2c2cC1oMU56c28yNDVuaFlOMzJlY09IcA?oc=5",
-            "source": "Börse Social",
-            "published": "07.10., 21:35"
+            "title": "Wie KI-Rechenzentren „grüner“ werden können - Kurier",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQVlZUjNMd1h0ZEF6Q19KTFY0amdTb0hPNmozdjBGem1LR2F4WnUzbTBNYXROanhCbjlhZ29ZWHFFN0xhUDRtbUM4eFRRSjNDLWc3cGR3QTl3Ry14al9tWTRwQ3dRdnJKU3pqd2w4bGt5dnRpT3lxXzVXci1TTGV2OTQxWGNCb2VzTkxV?oc=5",
+            "source": "Kurier",
+            "published": "09.10., 10:04"
           },
           {
             "title": "Google: Gemini-Pro-Modelle erfordern ab Oktober ein AI-Pro-Abo - heise online",
@@ -1677,16 +1677,16 @@
             "published": "05.10., 15:50"
           },
           {
-            "title": "Wie KI-Rechenzentren „grüner“ werden können - Kurier",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQVlZUjNMd1h0ZEF6Q19KTFY0amdTb0hPNmozdjBGem1LR2F4WnUzbTBNYXROanhCbjlhZ29ZWHFFN0xhUDRtbUM4eFRRSjNDLWc3cGR3QTl3Ry14al9tWTRwQ3dRdnJKU3pqd2w4bGt5dnRpT3lxXzVXci1TTGV2OTQxWGNCb2VzTkxV?oc=5",
-            "source": "Kurier",
-            "published": "09.10., 10:04"
+            "title": "LTM baut Zusammenarbeit mit Google Cloud aus, um die Einführung von Gemini Enterprise in großem Maßstab zu beschleunigen - Börse Social",
+            "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOcXBJZlI5SWxmRzUyeU1CbzFvemZWaER2Z19nZkNKWTFDUU5CdnNmc0N2b3RzbGFHT2xWMlJzYXZRMkV5ODl5MGE3b1h3RDFzRmxRZEVOVm9HZnpkSWwxcm5aMlQ1R09yQU1SSGM1QkQ1d2JOMDdqV21FVjRVMGxnM0pCZGZLMk5HdEx0X285N3JKMDdvVDFZa2cwSU1Qd0VrYnB0clpGRkdzb3E0ZWxwbzVvSE9FVzZsX3FGZk1qMkdNNjRnemVEc3JJV1hadi1DNXA1Y2c2cC1oMU56c28yNDVuaFlOMzJlY09IcA?oc=5",
+            "source": "Börse Social",
+            "published": "07.10., 21:35"
           },
           {
-            "title": "Wie Vodafone mit Google AI das Filialgeschäft stärkt - Google Business Profile",
-            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdFJISm1QLWEtRXo1aFE4MmV4ZVFuTjNZeGVSQTN2UGJDZTFaQl9LOTFpbFdZLTZNdmYzY3NxMXVJMHc0MnFXQTY4ZGREa2hGR0lRMzg3aUExa0RtZkJEbWdaeGtod3JwbUpjc2JGZGl5NGtIWjlFOFY2WkFvUXVQWjVFd2VEZUFUbmI3RkdiT3RTOWM?oc=5",
-            "source": "Google Business Profile",
-            "published": "08.10., 05:11"
+            "title": "Thales Aktie: Google Cloud vertieft KI-Kooperation - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbmRNVE5NYzQzcTdoZHVlMVE4T2JkLU93WGN1bmxMOVJLRmN3OHBlekdubkc4UVpVQUxGaERzYkY4NEJJdnZfaHNOQVhST0FPazdtWXkxcHoxQmFZN2RoeUEzRFlZRzhnZ3R5RGxMeEFLT3Y0a1pRMTdVT2F5dnZpMzNMX0VFUEs4MGwtYzlfcnM3aGtsQUNJeFpVeXRVY19Fd0NB?oc=5",
+            "source": "Börse Express",
+            "published": "06.10., 05:43"
           }
         ]
       }
@@ -2084,14 +2084,14 @@
         "bullets": [
           "Der Kurs ist deutlich gestiegen: +1.43 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: Zinsen/Fed, US-Dollar, Regulierung, Geopolitik/Sicherheit.",
-          "Wichtigste gefundene Headlines: Gold: Kursziel 5.000 Dollar - Der Aktionär | Gold: Fed-Zinsentscheid am 28. Oktober im Blick - Börse Express."
+          "Wichtigste gefundene Headlines: Gold: Dollar-Schwäche und sinkende Renditen stützen - AD HOC NEWS | Gold: Fed-Zinsentscheid am 28. Oktober im Blick - Börse Express."
         ],
         "headlines": [
           {
-            "title": "Gold: Kursziel 5.000 Dollar - Der Aktionär",
-            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMmRXNkgwQVpPaHpoQy1RcGgyVlJWai05aWh4SWZnQzVNMEdSU2V0a3VyX0JtalZUX0loTjhfaFNCRWRQdDJyNEFrVHlUb1dDVnRPVzVweUw0VWlMVWxkTGtkUmVnNzRJV1lHOHdacTA0YXU3OGt1X09EQnNEX3RrempSaHZNM1VlUEE?oc=5",
-            "source": "Der Aktionär",
-            "published": "10.10., 06:27"
+            "title": "Gold: Dollar-Schwäche und sinkende Renditen stützen - AD HOC NEWS",
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNakV5bTZGNTJxcUtEakpfd2VkYVphaV9KRlVHdjU3R1h1bFFmaXliOFh0dm4tOE9sRkZRUjhIWlRBRklMcndDWF9rcTZxT1NFeXJ4c0FIYkVhN1dvZHlucGJCWFIzN3VnYnktTm84Y1AweHFobUFydzI3ODlralhIcFpqYVdwV0dGaVFacUU1UkdXS01RaGFvNjFfUFczUzJDRzA1ME9Wdi1BNzJGa3FDbTBXSDlaaGJ0MUpQTzNFVzBQZw?oc=5",
+            "source": "AD HOC NEWS",
+            "published": "10.10., 14:18"
           },
           {
             "title": "Gold: Fed-Zinsentscheid am 28. Oktober im Blick - Börse Express",
@@ -2100,16 +2100,16 @@
             "published": "05.10., 07:45"
           },
           {
+            "title": "Gold: Kursziel 5.000 Dollar - Der Aktionär",
+            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMmRXNkgwQVpPaHpoQy1RcGgyVlJWai05aWh4SWZnQzVNMEdSU2V0a3VyX0JtalZUX0loTjhfaFNCRWRQdDJyNEFrVHlUb1dDVnRPVzVweUw0VWlMVWxkTGtkUmVnNzRJV1lHOHdacTA0YXU3OGt1X09EQnNEX3RrempSaHZNM1VlUEE?oc=5",
+            "source": "Der Aktionär",
+            "published": "10.10., 06:27"
+          },
+          {
             "title": "Neue Prognose: Goldpreis vor 5.000 Dollar? Experten erwarten kräftige Kursgewinne - Börse Online",
             "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbkZUaE5WdGI2Y0o5dnJ3RnVKNDF3YklxYkVzcm5DOEljWkRMWk45bzVYMGc2OHgxbVdTdDBPOVZCOWVmc1gxcFpwa1RxSmFCdk1jWnUxblk3aHEweFc3UnNVWFF3b1IwcXRYRVlXNWNqaFNHUkQ2c2pPc1VwX0w3ZEpKeXJ6NFItQlRvaGhFb1Nvdk1iOTVKZTdjWTlpRGN2NnZlYnVUdk1YM1lVVXZ5WFZGYWRXU3AyS29JUHFES0toNThEYXJsck5xeThJck11c3hQaTgyU3NVaTFj?oc=5",
             "source": "Börse Online",
             "published": "10.10., 10:00"
-          },
-          {
-            "title": "Gold: UBS erwartet 5.400 Dollar bis September 2027 - Finanztrends",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMEV0UlV2Ukt2bGlMQTBMWW9UTENwaFU3S05lblhMNzVjVC0tLUZPTUxTbG51TVQyNXRucW95dWFDZzBkZDZCclZTSHlGUVdHRVFxa01wTDZmMDZaekZmLUgxdEs4Z0ZIMHFIQ19Qd3dNbkJLVlp5UHdnVVNyYUdYbVZSQVNYaGl5TnQ4?oc=5",
-            "source": "Finanztrends",
-            "published": "10.10., 11:32"
           }
         ]
       }
