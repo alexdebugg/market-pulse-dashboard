@@ -1,9 +1,9 @@
 {
   "is_sample": false,
   "source": "Yahoo Finance Kursdaten + Google News RSS Kontext",
-  "generated_at_utc": "2026-10-10T19:44:22+00:00",
-  "generated_at_vienna": "10.10.2026, 21:44 Uhr",
-  "market_mood_internal": "neutral",
+  "generated_at_utc": "2026-10-11T10:35:59+00:00",
+  "generated_at_vienna": "11.10.2026, 12:35 Uhr",
+  "market_mood_internal": "risk-on",
   "assets": [
     {
       "name": "MSCI World",
@@ -12,22 +12,18 @@
       "currency": "EUR",
       "description": "iShares Core MSCI World UCITS ETF als handelbarer Developed-Markets-Proxy",
       "price_decimals": 2,
-      "last_date": "2026-10-08",
-      "last_close": 130.97000122070312,
-      "previous_close": 131.48500061035156,
-      "change_abs": -0.51,
-      "change_pct": -0.39,
-      "change_5d_pct": 1.68,
-      "change_1m_pct": 3.93,
-      "change_3m_pct": 3.7,
+      "last_date": "2026-10-09",
+      "last_close": 131.63999938964844,
+      "previous_close": 130.97000122070312,
+      "change_abs": 0.67,
+      "change_pct": 0.51,
+      "change_5d_pct": 1.23,
+      "change_1m_pct": 4.93,
+      "change_3m_pct": 4.43,
       "change_1y_pct": null,
-      "ytd_pct": 17.17,
-      "volatility_30d_pct": 9.52,
+      "ytd_pct": 17.77,
+      "volatility_30d_pct": 9.34,
       "sparkline": [
-        {
-          "date": "2026-06-05",
-          "close": 123.33499908447266
-        },
         {
           "date": "2026-06-08",
           "close": 122.62000274658203
@@ -383,10 +379,14 @@
         {
           "date": "2026-10-08",
           "close": 130.97000122070312
+        },
+        {
+          "date": "2026-10-09",
+          "close": 131.63999938964844
         }
       ],
       "explanation": {
-        "direction": "gefallen",
+        "direction": "gestiegen",
         "confidence": "niedrig",
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
@@ -394,17 +394,11 @@
           "Regulierung"
         ],
         "bullets": [
-          "Der Kurs ist spürbar gefallen: -0.39 % gegenüber dem vorherigen Schlusskurs.",
+          "Der Kurs ist spürbar gestiegen: +0.51 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: KI/Tech, Regulierung.",
-          "Wichtigste gefundene Headlines: Direxion Daily S&P 500 Bear 3X Shares (SPXS) Optionskette - Yahoo Finanzen Deutschland | Leverage Shares 3x Long Nasdaq 100 ETP Securities | XS2472197065 | A3GZVJ - extraETF."
+          "Wichtigste gefundene Headlines: Leverage Shares 3x Long Nasdaq 100 ETP Securities | XS2472197065 | A3GZVJ - extraETF | Nettoeinkommen von Chilwa Minerals Limited - American Depository Shares – NASDAQ:CHWM - TradingView."
         ],
         "headlines": [
-          {
-            "title": "Direxion Daily S&P 500 Bear 3X Shares (SPXS) Optionskette - Yahoo Finanzen Deutschland",
-            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVzV4Wk9GTHRZLWxDSkJhbVhOblJMc2trNjFSeVNuTlNyQkh2aWVCQnNuWVJLaE9Id0xHRDZFMm1ETDlzT2Jkc3VXVkh3X0pydVdGTDhFc1c2ZE94T1lOT3NvN1AwMXFJY0JyZ0ZlR0FsRGZnNldyRG10aDlVY21KRlR6bWdTU295bFk5aEFrbFVBdw?oc=5",
-            "source": "Yahoo Finanzen Deutschland",
-            "published": "10.10., 05:08"
-          },
           {
             "title": "Leverage Shares 3x Long Nasdaq 100 ETP Securities | XS2472197065 | A3GZVJ - extraETF",
             "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5mc1VTNlpkaWtrNFZLTF9USzNxWmV0SGJjWjFPckNDdzAxck9MZWFfb242UGtQMGpMc2xFb0hubngxYXRKYXQ2NGY5Z3I3SVR4UlhoVElKdTNjSDVJ?oc=5",
@@ -416,6 +410,12 @@
             "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRjEzdm1UaUxFc09XN2xhNXBLNWMxdjlKRzA1d29FWjEyQWlNaFFXYnd3VWlLck9VcjdNNl9mNWJiMUoyRVdCc0RuQVhkR2p3elVoUEFTRlB6WEFJNkozRWxVUm5vRlRJOXNsZjNVSkdfbF8ya280dUJ6bzhJLUtzd2EwTGlRR21Fa0lEbEFzUQ?oc=5",
             "source": "TradingView",
             "published": "08.10., 21:44"
+          },
+          {
+            "title": "Direxion Daily S&P 500 Bear 3X Shares (SPXS) Optionskette - Yahoo Finanzen Deutschland",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZW1jVXU2aEVvNW5pMFBKZDBMWFVjdlNVX0tuUEp1NEpOanRqcXhoUFRwc01fdEdjbTYzaU9wNjNFTTIxdEtpYjloQUZHcWRqRXhiNHF3aDB3WDk5N2ZfSk5PTi1tZDJRR2RjRXpUSWw0MGZaSkJINlNpNjZWNmhmUzRlWDNTVFpwYlBFS3FEeC0zZw?oc=5",
+            "source": "Yahoo Finanzen Deutschland",
+            "published": "10.10., 03:16"
           },
           {
             "title": "Flop-Aktien im NASDAQ DEVELOPED MARKETS FOOD, BEVERAGE AND TOBACCO LARGE MID CAP TR INDEX - Onvista",
@@ -433,22 +433,18 @@
       "currency": "EUR",
       "description": "iShares Core MSCI EM IMI UCITS ETF als Emerging-Markets-Proxy",
       "price_decimals": 2,
-      "last_date": "2026-10-08",
-      "last_close": 48.58399963378906,
-      "previous_close": 49.435001373291016,
-      "change_abs": -0.85,
-      "change_pct": -1.72,
-      "change_5d_pct": 0.46,
-      "change_1m_pct": 0.58,
-      "change_3m_pct": 3.85,
+      "last_date": "2026-10-09",
+      "last_close": 48.91699981689453,
+      "previous_close": 48.58399963378906,
+      "change_abs": 0.33,
+      "change_pct": 0.69,
+      "change_5d_pct": -0.34,
+      "change_1m_pct": 2.95,
+      "change_3m_pct": 4.29,
       "change_1y_pct": null,
-      "ytd_pct": 26.69,
-      "volatility_30d_pct": 18.12,
+      "ytd_pct": 27.56,
+      "volatility_30d_pct": 18.13,
       "sparkline": [
-        {
-          "date": "2026-06-05",
-          "close": 46.54999923706055
-        },
         {
           "date": "2026-06-08",
           "close": 46.45100021362305
@@ -804,10 +800,14 @@
         {
           "date": "2026-10-08",
           "close": 48.58399963378906
+        },
+        {
+          "date": "2026-10-09",
+          "close": 48.91699981689453
         }
       ],
       "explanation": {
-        "direction": "gefallen",
+        "direction": "gestiegen",
         "confidence": "niedrig",
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
@@ -817,7 +817,7 @@
           "Geopolitik/Sicherheit"
         ],
         "bullets": [
-          "Der Kurs ist deutlich gefallen: -1.72 % gegenüber dem vorherigen Schlusskurs.",
+          "Der Kurs ist spürbar gestiegen: +0.69 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: US-Dollar, Regulierung, China/EM, Geopolitik/Sicherheit.",
           "Wichtigste gefundene Headlines: Emerging Markets Aktien: Generali Investments sieht neue Chancen - e-fundresearch.com | iShares MSCI EM ex China: Allzeithoch bei 99,78 USD - Börse Express."
         ],
@@ -856,22 +856,18 @@
       "currency": "EUR",
       "description": "iShares MSCI World Small Cap UCITS ETF als Small-Cap-Proxy",
       "price_decimals": 3,
-      "last_date": "2026-10-08",
-      "last_close": 8.968999862670898,
-      "previous_close": 9.039999961853027,
-      "change_abs": -0.071,
-      "change_pct": -0.79,
-      "change_5d_pct": 0.13,
-      "change_1m_pct": -0.53,
-      "change_3m_pct": -1.34,
+      "last_date": "2026-10-09",
+      "last_close": 9.097999572753906,
+      "previous_close": 8.968999862670898,
+      "change_abs": 0.129,
+      "change_pct": 1.44,
+      "change_5d_pct": 0.24,
+      "change_1m_pct": 1.79,
+      "change_3m_pct": 0.24,
       "change_1y_pct": null,
-      "ytd_pct": 15.28,
-      "volatility_30d_pct": 11.18,
+      "ytd_pct": 16.94,
+      "volatility_30d_pct": 12.02,
       "sparkline": [
-        {
-          "date": "2026-06-05",
-          "close": 8.845000267028809
-        },
         {
           "date": "2026-06-08",
           "close": 8.838000297546387
@@ -1227,20 +1223,24 @@
         {
           "date": "2026-10-08",
           "close": 8.968999862670898
+        },
+        {
+          "date": "2026-10-09",
+          "close": 9.097999572753906
         }
       ],
       "explanation": {
-        "direction": "gefallen",
-        "confidence": "niedrig",
-        "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
+        "direction": "gestiegen",
+        "confidence": "mittel",
+        "summary": "Plausibler Nachrichtenbezug: Der Kurs ist gestiegen und die gefundenen Schlagzeilen enthalten überwiegend positiv wirkende Formulierungen. Die Quellen passen damit zur Richtung, beweisen aber keine Kausalität.",
         "themes": [
           "Zinsen/Fed",
           "China/EM"
         ],
         "bullets": [
-          "Der Kurs ist spürbar gefallen: -0.79 % gegenüber dem vorherigen Schlusskurs.",
+          "Der Kurs ist deutlich gestiegen: +1.44 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: Zinsen/Fed, China/EM.",
-          "Wichtigste gefundene Headlines: Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraETF | Russell 2000 geht mit 0,59 Prozent Minus und Fed-Minuten in den Mittwoch - AD HOC NEWS."
+          "Wichtigste gefundene Headlines: Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraETF | Diese US-Small-Cap-Aktien sind jetzt attraktiv - Morningstar."
         ],
         "headlines": [
           {
@@ -1250,10 +1250,10 @@
             "published": "28.04., 10:37"
           },
           {
-            "title": "Russell 2000 geht mit 0,59 Prozent Minus und Fed-Minuten in den Mittwoch - AD HOC NEWS",
-            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVXRQQ2ktRDRhTU56SGpFMnM0WXowQnhFVXdNNDNfSG9iRTBuVm9TOVZBN3hnTThFdHB2MUVSR1RjcHREbXItblRUNk9lMVFiSE1qQ3RFLUJxQTBDMDNqSlhRUXJWWXk2dmpVdzZNM2x2S2ZyQlZSS0dxSEttTV9OZ3d0QWNKcThwT0NwTm1OVWY5aWNRX0U3WEpzX25KX3pHZFlNV3pjX0NoeFI3UmNzcWlJYndSUXhmRnRINXBCdU5jMXZJRUZuYlpPRnoxTnN4?oc=5",
-            "source": "AD HOC NEWS",
-            "published": "07.10., 09:42"
+            "title": "Diese US-Small-Cap-Aktien sind jetzt attraktiv - Morningstar",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNXF1VURGVVhhSUhQWnc3NDlSUTVfU3BWb2hXd3pPN1Z5VWFGa2p4WV84cFd1WTlVaEFheEZ4eVhUVjBlVnBwdlBHTURVR2ptUGMzME5DeFNfR3lHVUhGTHRMVmIwU2ZXNFJUdlBlYW1XZ2M4aXJMTTlCWnNLbmxZc3FndTVMV1NXdmQ5cm9sdVQ?oc=5",
+            "source": "Morningstar",
+            "published": "06.07., 09:00"
           },
           {
             "title": "ETF-Portfolio – die besten Musterportfolios und ETF-Strategien - Finanzen.net",
@@ -1262,10 +1262,10 @@
             "published": "30.09., 09:00"
           },
           {
-            "title": "Diese US-Small-Cap-Aktien sind jetzt attraktiv - Morningstar",
-            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNXF1VURGVVhhSUhQWnc3NDlSUTVfU3BWb2hXd3pPN1Z5VWFGa2p4WV84cFd1WTlVaEFheEZ4eVhUVjBlVnBwdlBHTURVR2ptUGMzME5DeFNfR3lHVUhGTHRMVmIwU2ZXNFJUdlBlYW1XZ2M4aXJMTTlCWnNLbmxZc3FndTVMV1NXdmQ5cm9sdVQ?oc=5",
-            "source": "Morningstar",
-            "published": "06.07., 09:00"
+            "title": "S&P 500 And Nasdaq 100 Slip From Record Highs Amid Pressure From Soaring Treasury Yields — SPCX, AMD, NVDA, MRVL In Focus - TradingView",
+            "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNMHF2Zk9FM1lwZ2FneGV3Q1hzY2VXbDVkYnhnbjNnenZqUFFyeTFWNDFKMlVaX29PWHZscllETy1qQjM2dTdieFJFQXFCakVBUzk4aUJJaW9qeU0yQUR0dURUX3hjR3V2WFNpZEtPY3Qtbkd0bUVEa1U3d0FBYVRfcnNVVzh3TzVvTE54TEstaThnUWdUWTJaY0tHWl9XMzBMeEowNklMbERVdjJPS2JCZTN2US1CZ01RQUh6NFZWdjlnaVBJQkdxdTVCSnVlQ2FXY25EOUxVTWtYT1ZsdGgxWEt0V0lNT0U1dUVFS0RHRmNzaGhCVDZqNWpfaUJabjdMOHYwc3FLaw?oc=5",
+            "source": "TradingView",
+            "published": "08.10., 00:50"
           }
         ]
       }
@@ -1661,9 +1661,15 @@
         "bullets": [
           "Der Kurs ist spürbar gestiegen: +0.97 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: KI/Tech, Regulierung.",
-          "Wichtigste gefundene Headlines: Wie KI-Rechenzentren „grüner“ werden können - Kurier | Google: Gemini-Pro-Modelle erfordern ab Oktober ein AI-Pro-Abo - heise online."
+          "Wichtigste gefundene Headlines: LTM baut Zusammenarbeit mit Google Cloud aus, um die Einführung von Gemini Enterprise in großem Maßstab zu beschleunigen - Börse Social | Wie KI-Rechenzentren „grüner“ werden können - Kurier."
         ],
         "headlines": [
+          {
+            "title": "LTM baut Zusammenarbeit mit Google Cloud aus, um die Einführung von Gemini Enterprise in großem Maßstab zu beschleunigen - Börse Social",
+            "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOcXBJZlI5SWxmRzUyeU1CbzFvemZWaER2Z19nZkNKWTFDUU5CdnNmc0N2b3RzbGFHT2xWMlJzYXZRMkV5ODl5MGE3b1h3RDFzRmxRZEVOVm9HZnpkSWwxcm5aMlQ1R09yQU1SSGM1QkQ1d2JOMDdqV21FVjRVMGxnM0pCZGZLMk5HdEx0X285N3JKMDdvVDFZa2cwSU1Qd0VrYnB0clpGRkdzb3E0ZWxwbzVvSE9FVzZsX3FGZk1qMkdNNjRnemVEc3JJV1hadi1DNXA1Y2c2cC1oMU56c28yNDVuaFlOMzJlY09IcA?oc=5",
+            "source": "Börse Social",
+            "published": "07.10., 21:35"
+          },
           {
             "title": "Wie KI-Rechenzentren „grüner“ werden können - Kurier",
             "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQVlZUjNMd1h0ZEF6Q19KTFY0amdTb0hPNmozdjBGem1LR2F4WnUzbTBNYXROanhCbjlhZ29ZWHFFN0xhUDRtbUM4eFRRSjNDLWc3cGR3QTl3Ry14al9tWTRwQ3dRdnJKU3pqd2w4bGt5dnRpT3lxXzVXci1TTGV2OTQxWGNCb2VzTkxV?oc=5",
@@ -1677,16 +1683,10 @@
             "published": "05.10., 15:50"
           },
           {
-            "title": "LTM baut Zusammenarbeit mit Google Cloud aus, um die Einführung von Gemini Enterprise in großem Maßstab zu beschleunigen - Börse Social",
-            "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOcXBJZlI5SWxmRzUyeU1CbzFvemZWaER2Z19nZkNKWTFDUU5CdnNmc0N2b3RzbGFHT2xWMlJzYXZRMkV5ODl5MGE3b1h3RDFzRmxRZEVOVm9HZnpkSWwxcm5aMlQ1R09yQU1SSGM1QkQ1d2JOMDdqV21FVjRVMGxnM0pCZGZLMk5HdEx0X285N3JKMDdvVDFZa2cwSU1Qd0VrYnB0clpGRkdzb3E0ZWxwbzVvSE9FVzZsX3FGZk1qMkdNNjRnemVEc3JJV1hadi1DNXA1Y2c2cC1oMU56c28yNDVuaFlOMzJlY09IcA?oc=5",
-            "source": "Börse Social",
-            "published": "07.10., 21:35"
-          },
-          {
-            "title": "Thales Aktie: Google Cloud vertieft KI-Kooperation - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbmRNVE5NYzQzcTdoZHVlMVE4T2JkLU93WGN1bmxMOVJLRmN3OHBlekdubkc4UVpVQUxGaERzYkY4NEJJdnZfaHNOQVhST0FPazdtWXkxcHoxQmFZN2RoeUEzRFlZRzhnZ3R5RGxMeEFLT3Y0a1pRMTdVT2F5dnZpMzNMX0VFUEs4MGwtYzlfcnM3aGtsQUNJeFpVeXRVY19Fd0NB?oc=5",
-            "source": "Börse Express",
-            "published": "06.10., 05:43"
+            "title": "DPIA des niederländischen Justizministeriums zur Google Cloud - Dr. Datenschutz",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcFc2cXl4OC1Uc05LSlF2Umh2bUgwbWlWZzFMMEhfSFphckV1MkRCejh3UkV0U1N4bC0wcndOYk5oYk5lVW9UWEVORnM1a2ZHNmJJOTh4WXRsZUdQc3hoc1lRdGRTWF9fVktiamJza01GVjNuMEU3UzZDS2lYYVB5YmllRExwbXhVWUttY0dXMEhESWpZRWdyUw?oc=5",
+            "source": "Dr. Datenschutz",
+            "published": "07.10., 13:08"
           }
         ]
       }
@@ -2076,40 +2076,37 @@
         "confidence": "mittel",
         "summary": "Plausibler Nachrichtenbezug: Der Kurs ist gestiegen und die gefundenen Schlagzeilen enthalten überwiegend positiv wirkende Formulierungen. Die Quellen passen damit zur Richtung, beweisen aber keine Kausalität.",
         "themes": [
-          "Zinsen/Fed",
-          "US-Dollar",
-          "Regulierung",
-          "Geopolitik/Sicherheit"
+          "US-Dollar"
         ],
         "bullets": [
           "Der Kurs ist deutlich gestiegen: +1.43 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: Zinsen/Fed, US-Dollar, Regulierung, Geopolitik/Sicherheit.",
-          "Wichtigste gefundene Headlines: Gold: Dollar-Schwäche und sinkende Renditen stützen - AD HOC NEWS | Gold: Fed-Zinsentscheid am 28. Oktober im Blick - Börse Express."
+          "Gefundene Nachrichten-Themen: US-Dollar.",
+          "Wichtigste gefundene Headlines: Gold: Erholung von Zwei-Monats-Tief bleibt fragil - Börse Express | Goldpreis bei 130.000 Dollar: Reicht das, um Amerikas Schulden zu tilgen? - Wallstreet Online."
         ],
         "headlines": [
           {
-            "title": "Gold: Dollar-Schwäche und sinkende Renditen stützen - AD HOC NEWS",
-            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNakV5bTZGNTJxcUtEakpfd2VkYVphaV9KRlVHdjU3R1h1bFFmaXliOFh0dm4tOE9sRkZRUjhIWlRBRklMcndDWF9rcTZxT1NFeXJ4c0FIYkVhN1dvZHlucGJCWFIzN3VnYnktTm84Y1AweHFobUFydzI3ODlralhIcFpqYVdwV0dGaVFacUU1UkdXS01RaGFvNjFfUFczUzJDRzA1ME9Wdi1BNzJGa3FDbTBXSDlaaGJ0MUpQTzNFVzBQZw?oc=5",
-            "source": "AD HOC NEWS",
-            "published": "10.10., 14:18"
-          },
-          {
-            "title": "Gold: Fed-Zinsentscheid am 28. Oktober im Blick - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdjBDQjg2S3k2d1B5c29PM3F3NnVPU1pSRTZ1WVVUY3NFNV9ZdHZhSllxSWNlcjNrSUo4WXRTVllXajY4cldFUEFzUnh4bHp2cHcyemV0eHJFY0xvM0ZtZ0h1bWQ4eWlOWlV1VXRVZXdCcFpGTE9XVko1MFRoRURmRHZiOVBlN214ZklUZDRZUXFHMm9wN1BFd3R6QUIyZw?oc=5",
+            "title": "Gold: Erholung von Zwei-Monats-Tief bleibt fragil - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNV9JLWJqY0k0R2RLeTNjRmdTOUF1WlFmMTNMeUxwblJWMm9admZUSzRYZlRLWXRmLVZoM083Z0Q1YkVKdXg0QURiakY5bHlPSFhXMGRBUVRZdENWT2ttbDRsYkl4MEhmV29zcnhzVHJrb3kzUEM0NkhSUUxIQ25vMVNaajZGNkd6dVJTb1RJaVJxT2gtcVBfb3QwM2dvaFdfaHc?oc=5",
             "source": "Börse Express",
-            "published": "05.10., 07:45"
+            "published": "10.10., 21:34"
           },
           {
-            "title": "Gold: Kursziel 5.000 Dollar - Der Aktionär",
-            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMmRXNkgwQVpPaHpoQy1RcGgyVlJWai05aWh4SWZnQzVNMEdSU2V0a3VyX0JtalZUX0loTjhfaFNCRWRQdDJyNEFrVHlUb1dDVnRPVzVweUw0VWlMVWxkTGtkUmVnNzRJV1lHOHdacTA0YXU3OGt1X09EQnNEX3RrempSaHZNM1VlUEE?oc=5",
-            "source": "Der Aktionär",
-            "published": "10.10., 06:27"
+            "title": "Goldpreis bei 130.000 Dollar: Reicht das, um Amerikas Schulden zu tilgen? - Wallstreet Online",
+            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObG9RUkFBVVF3ZXhHbUZvV2hhQjQxckdmOWF4YUtlaHI3bTdXb1lXb0dmbTNiNzBQVm9UNzlyRl9pTDJWVFN3QmdZNk9tNWlRSTlCV0t4a1ZHeWhQQ2o3dGJadm1VbzBmQmloYVVvS0xFekh2eTZ1Qk8yUXFUb0ZmQ0U4ZkFPaDd1N2pDLXdjTW5SRmlzLW9jd0Y0SEJwOVQzQTE5MmJpczFnWFQzb1ZLNGdBY19mVndlN2JnX2ZiWTJJTGFX?oc=5",
+            "source": "Wallstreet Online",
+            "published": "07.10., 14:08"
           },
           {
-            "title": "Neue Prognose: Goldpreis vor 5.000 Dollar? Experten erwarten kräftige Kursgewinne - Börse Online",
-            "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbkZUaE5WdGI2Y0o5dnJ3RnVKNDF3YklxYkVzcm5DOEljWkRMWk45bzVYMGc2OHgxbVdTdDBPOVZCOWVmc1gxcFpwa1RxSmFCdk1jWnUxblk3aHEweFc3UnNVWFF3b1IwcXRYRVlXNWNqaFNHUkQ2c2pPc1VwX0w3ZEpKeXJ6NFItQlRvaGhFb1Nvdk1iOTVKZTdjWTlpRGN2NnZlYnVUdk1YM1lVVXZ5WFZGYWRXU3AyS29JUHFES0toNThEYXJsck5xeThJck11c3hQaTgyU3NVaTFj?oc=5",
-            "source": "Börse Online",
-            "published": "10.10., 10:00"
+            "title": "Gold: Zentralbanken kaufen Krisenwährung – und stabilisieren Preis - Handelsblatt",
+            "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQU1E3VWM3N2liRFpaWjV4OXRqY3B3bVpCMzJZMnNxQVNRV0Q1OHN6VVNaLVdyOTVoUFZSdUxXN0oyM1NZRjB3OGZCMmVTZkhLazVnYy1fVWo1eGttVGJ3QUN5UnhJdUJBcWVScUJFUzBVWVlDdHA0dDE4R0FWMlVGR3BfeTZadW9JMHJhdVB5MW51ektCcWpSeWd6VXNpMHJFWmFtS1pWaXVuaHJYWlMzY0FYRW0zR2RBRkZGZDVLMjRkVjNqbHBDLXhGNDV3YWJXaFgxN0pfMm90c1U?oc=5",
+            "source": "Handelsblatt",
+            "published": "08.10., 12:57"
+          },
+          {
+            "title": "Gold: Dollar-Schwäche und sinkende Renditen stützen - ad-hoc-news.de",
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNakV5bTZGNTJxcUtEakpfd2VkYVphaV9KRlVHdjU3R1h1bFFmaXliOFh0dm4tOE9sRkZRUjhIWlRBRklMcndDWF9rcTZxT1NFeXJ4c0FIYkVhN1dvZHlucGJCWFIzN3VnYnktTm84Y1AweHFobUFydzI3ODlralhIcFpqYVdwV0dGaVFacUU1UkdXS01RaGFvNjFfUFczUzJDRzA1ME9Wdi1BNzJGa3FDbTBXSDlaaGJ0MUpQTzNFVzBQZw?oc=5",
+            "source": "ad-hoc-news.de",
+            "published": "10.10., 14:18"
           }
         ]
       }
