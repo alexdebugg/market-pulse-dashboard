@@ -1,8 +1,8 @@
 {
   "is_sample": false,
   "source": "Yahoo Finance Kursdaten + Google News RSS Kontext",
-  "generated_at_utc": "2026-10-11T10:35:59+00:00",
-  "generated_at_vienna": "11.10.2026, 12:35 Uhr",
+  "generated_at_utc": "2026-10-11T19:54:21+00:00",
+  "generated_at_vienna": "11.10.2026, 21:54 Uhr",
   "market_mood_internal": "risk-on",
   "assets": [
     {
@@ -1661,9 +1661,15 @@
         "bullets": [
           "Der Kurs ist spürbar gestiegen: +0.97 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: KI/Tech, Regulierung.",
-          "Wichtigste gefundene Headlines: LTM baut Zusammenarbeit mit Google Cloud aus, um die Einführung von Gemini Enterprise in großem Maßstab zu beschleunigen - Börse Social | Wie KI-Rechenzentren „grüner“ werden können - Kurier."
+          "Wichtigste gefundene Headlines: Gemini Agent: Google Cloud bindet Claude für komplexe Aufgaben ein - BornCity | LTM baut Zusammenarbeit mit Google Cloud aus, um die Einführung von Gemini Enterprise in großem Maßstab zu beschleunigen - Börse Social."
         ],
         "headlines": [
+          {
+            "title": "Gemini Agent: Google Cloud bindet Claude für komplexe Aufgaben ein - BornCity",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQ29IUjFCNDBRLUQtX0ctN1VfcUZmc0VINkF4OTBqODlvRWdnb2k4ZDdTODQ5Ty1jN21ZeFBSeHVLZGk3aW1jdHNtbC1rZ0hTZEgzUWZURi0tdzJRWnVJckFxRmpLYmNMRjVua0NWRk5JV3dFX0JDRUIwVGRtOWFYazhjVldONEpJTHZIMnloSWZxem9oYWlndw?oc=5",
+            "source": "BornCity",
+            "published": "11.10., 13:40"
+          },
           {
             "title": "LTM baut Zusammenarbeit mit Google Cloud aus, um die Einführung von Gemini Enterprise in großem Maßstab zu beschleunigen - Börse Social",
             "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOcXBJZlI5SWxmRzUyeU1CbzFvemZWaER2Z19nZkNKWTFDUU5CdnNmc0N2b3RzbGFHT2xWMlJzYXZRMkV5ODl5MGE3b1h3RDFzRmxRZEVOVm9HZnpkSWwxcm5aMlQ1R09yQU1SSGM1QkQ1d2JOMDdqV21FVjRVMGxnM0pCZGZLMk5HdEx0X285N3JKMDdvVDFZa2cwSU1Qd0VrYnB0clpGRkdzb3E0ZWxwbzVvSE9FVzZsX3FGZk1qMkdNNjRnemVEc3JJV1hadi1DNXA1Y2c2cC1oMU56c28yNDVuaFlOMzJlY09IcA?oc=5",
@@ -1675,12 +1681,6 @@
             "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQVlZUjNMd1h0ZEF6Q19KTFY0amdTb0hPNmozdjBGem1LR2F4WnUzbTBNYXROanhCbjlhZ29ZWHFFN0xhUDRtbUM4eFRRSjNDLWc3cGR3QTl3Ry14al9tWTRwQ3dRdnJKU3pqd2w4bGt5dnRpT3lxXzVXci1TTGV2OTQxWGNCb2VzTkxV?oc=5",
             "source": "Kurier",
             "published": "09.10., 10:04"
-          },
-          {
-            "title": "Google: Gemini-Pro-Modelle erfordern ab Oktober ein AI-Pro-Abo - heise online",
-            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQV2NHemo4T0oxTjItOWxfRHFQc1lfaEl1TWo4MVBnZVVUVEZwRjNWaW9YUS05NGZpOWg0Ym9iZkE2ZE03QmswbDFrMU9YY2tWVmszYkJ1a2IzdDhPYmEzczc4YlU1dXUtc0lXcGlidmdVTVpQTjFNT1BZdTZJX0hGRG10cjJzbk1PSlo0SDgzRlh5ZFpFVWpfdXJjTUFwdTFnN3gw?oc=5",
-            "source": "heise online",
-            "published": "05.10., 15:50"
           },
           {
             "title": "DPIA des niederländischen Justizministeriums zur Google Cloud - Dr. Datenschutz",
@@ -2076,19 +2076,21 @@
         "confidence": "mittel",
         "summary": "Plausibler Nachrichtenbezug: Der Kurs ist gestiegen und die gefundenen Schlagzeilen enthalten überwiegend positiv wirkende Formulierungen. Die Quellen passen damit zur Richtung, beweisen aber keine Kausalität.",
         "themes": [
-          "US-Dollar"
+          "Inflation",
+          "US-Dollar",
+          "Geopolitik/Sicherheit"
         ],
         "bullets": [
           "Der Kurs ist deutlich gestiegen: +1.43 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: US-Dollar.",
-          "Wichtigste gefundene Headlines: Gold: Erholung von Zwei-Monats-Tief bleibt fragil - Börse Express | Goldpreis bei 130.000 Dollar: Reicht das, um Amerikas Schulden zu tilgen? - Wallstreet Online."
+          "Gefundene Nachrichten-Themen: Inflation, US-Dollar, Geopolitik/Sicherheit.",
+          "Wichtigste gefundene Headlines: Diesel-Deal oder Inflationsdaten: Was bewegt Gold und Anleihen am Mittwoch? - Börse Express | Goldpreis bei 130.000 Dollar: Reicht das, um Amerikas Schulden zu tilgen? - Wallstreet Online."
         ],
         "headlines": [
           {
-            "title": "Gold: Erholung von Zwei-Monats-Tief bleibt fragil - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNV9JLWJqY0k0R2RLeTNjRmdTOUF1WlFmMTNMeUxwblJWMm9admZUSzRYZlRLWXRmLVZoM083Z0Q1YkVKdXg0QURiakY5bHlPSFhXMGRBUVRZdENWT2ttbDRsYkl4MEhmV29zcnhzVHJrb3kzUEM0NkhSUUxIQ25vMVNaajZGNkd6dVJTb1RJaVJxT2gtcVBfb3QwM2dvaFdfaHc?oc=5",
+            "title": "Diesel-Deal oder Inflationsdaten: Was bewegt Gold und Anleihen am Mittwoch? - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTlpQckpkcHlXYUtiLVdKLU1fVHBKSnR4a293SF9EOUVtX1VHWWk2WFpWY0JDdVVCblJXYkZrWGlpNTJ5cXFueS1FMmlpU3MzY0JWYlJZMWRtakRoQzhYWEFNOFRIdDlHZFp0ZVhEQ0N3RGZsNm40ZTBFMnJkcmdtUEFpdlRsWGtKZmlYeHJYd3dGU1ZhTWNTaTA3emMxRnNYTUNCQ08xUkxRRXd2akhacTN3NHZwd2JBekVrUm1SUEZRSms?oc=5",
             "source": "Börse Express",
-            "published": "10.10., 21:34"
+            "published": "11.10., 12:40"
           },
           {
             "title": "Goldpreis bei 130.000 Dollar: Reicht das, um Amerikas Schulden zu tilgen? - Wallstreet Online",
@@ -2103,10 +2105,10 @@
             "published": "08.10., 12:57"
           },
           {
-            "title": "Gold: Dollar-Schwäche und sinkende Renditen stützen - ad-hoc-news.de",
-            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNakV5bTZGNTJxcUtEakpfd2VkYVphaV9KRlVHdjU3R1h1bFFmaXliOFh0dm4tOE9sRkZRUjhIWlRBRklMcndDWF9rcTZxT1NFeXJ4c0FIYkVhN1dvZHlucGJCWFIzN3VnYnktTm84Y1AweHFobUFydzI3ODlralhIcFpqYVdwV0dGaVFacUU1UkdXS01RaGFvNjFfUFczUzJDRzA1ME9Wdi1BNzJGa3FDbTBXSDlaaGJ0MUpQTzNFVzBQZw?oc=5",
-            "source": "ad-hoc-news.de",
-            "published": "10.10., 14:18"
+            "title": "Goldpreis über 4.000 Dollar: Warum das Edelmetall alle Lehrbuch-Regeln bricht - finanzen.at",
+            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTnpIOTV4SlJhTV82VnJheFpfVjNzQzRNOFlPM0YzZnVEa2d6RE50WXlobmM1Z0c5NF9kVXNhZmVNNXZJY01KRnV0V3Bac210dHpXY2N5SVc5YzNOaGpXX1hYUDRoYTd1YTZRcXhkUFgwMnRuWFNKZ2Q0QVd1MC1EakFEdjFKVnh0TGdYTXhIckNsc2NkTi05REZuMTREX1BQcHVPMWlsUWtINXlFSllFcmFXYV9YS1B1UlFJS1E3NmpyTWQ1dlFTeEtxNUdpc2M?oc=5",
+            "source": "finanzen.at",
+            "published": "07.10., 22:22"
           }
         ]
       }
