@@ -1,9 +1,9 @@
 {
   "is_sample": false,
   "source": "Yahoo Finance Kursdaten + Google News RSS Kontext",
-  "generated_at_utc": "2026-10-11T19:54:21+00:00",
-  "generated_at_vienna": "11.10.2026, 21:54 Uhr",
-  "market_mood_internal": "risk-on",
+  "generated_at_utc": "2026-10-12T11:38:57+00:00",
+  "generated_at_vienna": "12.10.2026, 13:38 Uhr",
+  "market_mood_internal": "neutral",
   "assets": [
     {
       "name": "MSCI World",
@@ -12,22 +12,18 @@
       "currency": "EUR",
       "description": "iShares Core MSCI World UCITS ETF als handelbarer Developed-Markets-Proxy",
       "price_decimals": 2,
-      "last_date": "2026-10-09",
-      "last_close": 131.63999938964844,
-      "previous_close": 130.97000122070312,
-      "change_abs": 0.67,
-      "change_pct": 0.51,
-      "change_5d_pct": 1.23,
-      "change_1m_pct": 4.93,
-      "change_3m_pct": 4.43,
+      "last_date": "2026-10-12",
+      "last_close": 132.25999450683594,
+      "previous_close": 131.63999938964844,
+      "change_abs": 0.62,
+      "change_pct": 0.47,
+      "change_5d_pct": 0.81,
+      "change_1m_pct": 4.44,
+      "change_3m_pct": 4.72,
       "change_1y_pct": null,
-      "ytd_pct": 17.77,
-      "volatility_30d_pct": 9.34,
+      "ytd_pct": 18.33,
+      "volatility_30d_pct": 8.65,
       "sparkline": [
-        {
-          "date": "2026-06-08",
-          "close": 122.62000274658203
-        },
         {
           "date": "2026-06-09",
           "close": 120.92500305175781
@@ -383,6 +379,10 @@
         {
           "date": "2026-10-09",
           "close": 131.63999938964844
+        },
+        {
+          "date": "2026-10-12",
+          "close": 132.25999450683594
         }
       ],
       "explanation": {
@@ -394,16 +394,16 @@
           "Regulierung"
         ],
         "bullets": [
-          "Der Kurs ist spürbar gestiegen: +0.51 % gegenüber dem vorherigen Schlusskurs.",
+          "Der Kurs ist spürbar gestiegen: +0.47 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: KI/Tech, Regulierung.",
-          "Wichtigste gefundene Headlines: Leverage Shares 3x Long Nasdaq 100 ETP Securities | XS2472197065 | A3GZVJ - extraETF | Nettoeinkommen von Chilwa Minerals Limited - American Depository Shares – NASDAQ:CHWM - TradingView."
+          "Wichtigste gefundene Headlines: IncomeShares Nasdaq 100 Options ETP | XS2875105608 | A4A50Q - extraETF | Nettoeinkommen von Chilwa Minerals Limited - American Depository Shares – NASDAQ:CHWM - TradingView."
         ],
         "headlines": [
           {
-            "title": "Leverage Shares 3x Long Nasdaq 100 ETP Securities | XS2472197065 | A3GZVJ - extraETF",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5mc1VTNlpkaWtrNFZLTF9USzNxWmV0SGJjWjFPckNDdzAxck9MZWFfb242UGtQMGpMc2xFb0hubngxYXRKYXQ2NGY5Z3I3SVR4UlhoVElKdTNjSDVJ?oc=5",
+            "title": "IncomeShares Nasdaq 100 Options ETP | XS2875105608 | A4A50Q - extraETF",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9pOXp6WnVQUmdKMWRkY1JPdlZxbHU3UnVkclh1OTctTGxtMmliSUV1NUFPUV9RODRsY2tQUTBUOHViZG5uS2hOTVh1MUNnMGFwTllGRGJtMHdBNExs?oc=5",
             "source": "extraETF",
-            "published": "02.10., 09:00"
+            "published": "09.10., 09:00"
           },
           {
             "title": "Nettoeinkommen von Chilwa Minerals Limited - American Depository Shares – NASDAQ:CHWM - TradingView",
@@ -433,22 +433,18 @@
       "currency": "EUR",
       "description": "iShares Core MSCI EM IMI UCITS ETF als Emerging-Markets-Proxy",
       "price_decimals": 2,
-      "last_date": "2026-10-09",
-      "last_close": 48.91699981689453,
-      "previous_close": 48.58399963378906,
-      "change_abs": 0.33,
-      "change_pct": 0.69,
-      "change_5d_pct": -0.34,
-      "change_1m_pct": 2.95,
-      "change_3m_pct": 4.29,
+      "last_date": "2026-10-12",
+      "last_close": 48.926998138427734,
+      "previous_close": 48.91699981689453,
+      "change_abs": 0.01,
+      "change_pct": 0.02,
+      "change_5d_pct": -2.44,
+      "change_1m_pct": 1.93,
+      "change_3m_pct": 4.64,
       "change_1y_pct": null,
-      "ytd_pct": 27.56,
-      "volatility_30d_pct": 18.13,
+      "ytd_pct": 27.59,
+      "volatility_30d_pct": 17.84,
       "sparkline": [
-        {
-          "date": "2026-06-08",
-          "close": 46.45100021362305
-        },
         {
           "date": "2026-06-09",
           "close": 46.1619987487793
@@ -804,12 +800,16 @@
         {
           "date": "2026-10-09",
           "close": 48.91699981689453
+        },
+        {
+          "date": "2026-10-12",
+          "close": 48.926998138427734
         }
       ],
       "explanation": {
-        "direction": "gestiegen",
+        "direction": "kaum verändert",
         "confidence": "niedrig",
-        "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
+        "summary": "Kaum Kursbewegung: Obwohl aktuelle Schlagzeilen gefunden wurden, ist die Tagesbewegung zu klein für eine sinnvolle Ursache-Wirkung-Aussage.",
         "themes": [
           "US-Dollar",
           "Regulierung",
@@ -817,7 +817,7 @@
           "Geopolitik/Sicherheit"
         ],
         "bullets": [
-          "Der Kurs ist spürbar gestiegen: +0.69 % gegenüber dem vorherigen Schlusskurs.",
+          "Der Kurs liegt nahezu unverändert gegenüber dem letzten Schlusskurs.",
           "Gefundene Nachrichten-Themen: US-Dollar, Regulierung, China/EM, Geopolitik/Sicherheit.",
           "Wichtigste gefundene Headlines: Emerging Markets Aktien: Generali Investments sieht neue Chancen - e-fundresearch.com | iShares MSCI EM ex China: Allzeithoch bei 99,78 USD - Börse Express."
         ],
@@ -856,22 +856,18 @@
       "currency": "EUR",
       "description": "iShares MSCI World Small Cap UCITS ETF als Small-Cap-Proxy",
       "price_decimals": 3,
-      "last_date": "2026-10-09",
-      "last_close": 9.097999572753906,
-      "previous_close": 8.968999862670898,
-      "change_abs": 0.129,
-      "change_pct": 1.44,
-      "change_5d_pct": 0.24,
-      "change_1m_pct": 1.79,
-      "change_3m_pct": 0.24,
+      "last_date": "2026-10-12",
+      "last_close": 9.125,
+      "previous_close": 9.097999572753906,
+      "change_abs": 0.027,
+      "change_pct": 0.3,
+      "change_5d_pct": -0.15,
+      "change_1m_pct": 1.41,
+      "change_3m_pct": 0.55,
       "change_1y_pct": null,
-      "ytd_pct": 16.94,
-      "volatility_30d_pct": 12.02,
+      "ytd_pct": 17.29,
+      "volatility_30d_pct": 11.54,
       "sparkline": [
-        {
-          "date": "2026-06-08",
-          "close": 8.838000297546387
-        },
         {
           "date": "2026-06-09",
           "close": 8.755999565124512
@@ -1227,6 +1223,10 @@
         {
           "date": "2026-10-09",
           "close": 9.097999572753906
+        },
+        {
+          "date": "2026-10-12",
+          "close": 9.125
         }
       ],
       "explanation": {
@@ -1238,7 +1238,7 @@
           "China/EM"
         ],
         "bullets": [
-          "Der Kurs ist deutlich gestiegen: +1.44 % gegenüber dem vorherigen Schlusskurs.",
+          "Der Kurs ist leicht gestiegen: +0.30 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: Zinsen/Fed, China/EM.",
           "Wichtigste gefundene Headlines: Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraETF | Diese US-Small-Cap-Aktien sind jetzt attraktiv - Morningstar."
         ],
@@ -1661,14 +1661,14 @@
         "bullets": [
           "Der Kurs ist spürbar gestiegen: +0.97 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: KI/Tech, Regulierung.",
-          "Wichtigste gefundene Headlines: Gemini Agent: Google Cloud bindet Claude für komplexe Aufgaben ein - BornCity | LTM baut Zusammenarbeit mit Google Cloud aus, um die Einführung von Gemini Enterprise in großem Maßstab zu beschleunigen - Börse Social."
+          "Wichtigste gefundene Headlines: Alphabet-Aktie vor Q3-Zahlen 2026: Kursmarken und Risiken - Admirals | LTM baut Zusammenarbeit mit Google Cloud aus, um die Einführung von Gemini Enterprise in großem Maßstab zu beschleunigen - Börse Social."
         ],
         "headlines": [
           {
-            "title": "Gemini Agent: Google Cloud bindet Claude für komplexe Aufgaben ein - BornCity",
-            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQ29IUjFCNDBRLUQtX0ctN1VfcUZmc0VINkF4OTBqODlvRWdnb2k4ZDdTODQ5Ty1jN21ZeFBSeHVLZGk3aW1jdHNtbC1rZ0hTZEgzUWZURi0tdzJRWnVJckFxRmpLYmNMRjVua0NWRk5JV3dFX0JDRUIwVGRtOWFYazhjVldONEpJTHZIMnloSWZxem9oYWlndw?oc=5",
-            "source": "BornCity",
-            "published": "11.10., 13:40"
+            "title": "Alphabet-Aktie vor Q3-Zahlen 2026: Kursmarken und Risiken - Admirals",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVGdlSTE0VWExWndoVkVGS3o0Q283cWQwcWJQUUNwSzdTcXA4SURseDh6TF9VZEJud0hOam12OXN3elgxQzNyWjNTaHhta0NrV09ab3dtdXpMaGNBTzBwNFMzeE1OZWRuVFJXby1hSGR0RGhxNDg5OC1ORVdJS21Za2VaS1NEWEQ1blRGVlY1MXNNZGREX3NWbGlFbnBVcG5X?oc=5",
+            "source": "Admirals",
+            "published": "12.10., 10:20"
           },
           {
             "title": "LTM baut Zusammenarbeit mit Google Cloud aus, um die Einführung von Gemini Enterprise in großem Maßstab zu beschleunigen - Börse Social",
@@ -1683,10 +1683,10 @@
             "published": "09.10., 10:04"
           },
           {
-            "title": "DPIA des niederländischen Justizministeriums zur Google Cloud - Dr. Datenschutz",
-            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcFc2cXl4OC1Uc05LSlF2Umh2bUgwbWlWZzFMMEhfSFphckV1MkRCejh3UkV0U1N4bC0wcndOYk5oYk5lVW9UWEVORnM1a2ZHNmJJOTh4WXRsZUdQc3hoc1lRdGRTWF9fVktiamJza01GVjNuMEU3UzZDS2lYYVB5YmllRExwbXhVWUttY0dXMEhESWpZRWdyUw?oc=5",
-            "source": "Dr. Datenschutz",
-            "published": "07.10., 13:08"
+            "title": "Gemini Agent: Google Cloud bindet Claude für komplexe Aufgaben ein - BornCity",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQ29IUjFCNDBRLUQtX0ctN1VfcUZmc0VINkF4OTBqODlvRWdnb2k4ZDdTODQ5Ty1jN21ZeFBSeHVLZGk3aW1jdHNtbC1rZ0hTZEgzUWZURi0tdzJRWnVJckFxRmpLYmNMRjVua0NWRk5JV3dFX0JDRUIwVGRtOWFYazhjVldONEpJTHZIMnloSWZxem9oYWlndw?oc=5",
+            "source": "BornCity",
+            "published": "11.10., 13:40"
           }
         ]
       }
@@ -1698,22 +1698,18 @@
       "currency": "USD/oz",
       "description": "Goldpreis, primär über Gold-Future, fallback XAU/USD",
       "price_decimals": 2,
-      "last_date": "2026-10-09",
-      "last_close": 4216.2998046875,
-      "previous_close": 4157.0,
-      "change_abs": 59.3,
-      "change_pct": 1.43,
-      "change_5d_pct": 1.3,
-      "change_1m_pct": -4.33,
-      "change_3m_pct": 5.26,
+      "last_date": "2026-10-12",
+      "last_close": 4195.7001953125,
+      "previous_close": 4216.2998046875,
+      "change_abs": -20.6,
+      "change_pct": -0.49,
+      "change_5d_pct": 0.94,
+      "change_1m_pct": -4.84,
+      "change_3m_pct": 3.1,
       "change_1y_pct": null,
-      "ytd_pct": -2.87,
-      "volatility_30d_pct": 20.2,
+      "ytd_pct": -3.35,
+      "volatility_30d_pct": 18.72,
       "sparkline": [
-        {
-          "date": "2026-06-03",
-          "close": 4466.89990234375
-        },
         {
           "date": "2026-06-04",
           "close": 4505.0
@@ -2069,46 +2065,51 @@
         {
           "date": "2026-10-09",
           "close": 4216.2998046875
+        },
+        {
+          "date": "2026-10-12",
+          "close": 4195.7001953125
         }
       ],
       "explanation": {
-        "direction": "gestiegen",
-        "confidence": "mittel",
-        "summary": "Plausibler Nachrichtenbezug: Der Kurs ist gestiegen und die gefundenen Schlagzeilen enthalten überwiegend positiv wirkende Formulierungen. Die Quellen passen damit zur Richtung, beweisen aber keine Kausalität.",
+        "direction": "gefallen",
+        "confidence": "niedrig",
+        "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
+          "Zinsen/Fed",
           "Inflation",
           "US-Dollar",
-          "Geopolitik/Sicherheit"
+          "China/EM"
         ],
         "bullets": [
-          "Der Kurs ist deutlich gestiegen: +1.43 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: Inflation, US-Dollar, Geopolitik/Sicherheit.",
-          "Wichtigste gefundene Headlines: Diesel-Deal oder Inflationsdaten: Was bewegt Gold und Anleihen am Mittwoch? - Börse Express | Goldpreis bei 130.000 Dollar: Reicht das, um Amerikas Schulden zu tilgen? - Wallstreet Online."
+          "Der Kurs ist spürbar gefallen: -0.49 % gegenüber dem vorherigen Schlusskurs.",
+          "Gefundene Nachrichten-Themen: Zinsen/Fed, Inflation, US-Dollar, China/EM.",
+          "Wichtigste gefundene Headlines: Gold: US-Inflationsdaten als Richtungsgeber - Börse Express | Gold-Rally geht weiter: State Street hält 5.000 US-Dollar für möglich - finanzen.at."
         ],
         "headlines": [
           {
-            "title": "Diesel-Deal oder Inflationsdaten: Was bewegt Gold und Anleihen am Mittwoch? - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTlpQckpkcHlXYUtiLVdKLU1fVHBKSnR4a293SF9EOUVtX1VHWWk2WFpWY0JDdVVCblJXYkZrWGlpNTJ5cXFueS1FMmlpU3MzY0JWYlJZMWRtakRoQzhYWEFNOFRIdDlHZFp0ZVhEQ0N3RGZsNm40ZTBFMnJkcmdtUEFpdlRsWGtKZmlYeHJYd3dGU1ZhTWNTaTA3emMxRnNYTUNCQ08xUkxRRXd2akhacTN3NHZwd2JBekVrUm1SUEZRSms?oc=5",
+            "title": "Gold: US-Inflationsdaten als Richtungsgeber - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQejFmVGlVYS1DQjdiSnZpOWJMUHZGSGwtTkxERS16SWcyVk5OZ0FiZmduWGVyU0Y3MTBaUWUzTTZzOFFHVGRFelE1TTlPQ3c2LXRvaEpKQUVsb1BNRXFIaUxPckVadjlGc3A3eEl3aFBJMEdFNEhYVjRvcHBvOXJrUGxqYjg1VFo4ZDk4WFJqOVlTbUMtOFdJYnpn?oc=5",
             "source": "Börse Express",
-            "published": "11.10., 12:40"
+            "published": "12.10., 08:19"
           },
           {
-            "title": "Goldpreis bei 130.000 Dollar: Reicht das, um Amerikas Schulden zu tilgen? - Wallstreet Online",
-            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObG9RUkFBVVF3ZXhHbUZvV2hhQjQxckdmOWF4YUtlaHI3bTdXb1lXb0dmbTNiNzBQVm9UNzlyRl9pTDJWVFN3QmdZNk9tNWlRSTlCV0t4a1ZHeWhQQ2o3dGJadm1VbzBmQmloYVVvS0xFekh2eTZ1Qk8yUXFUb0ZmQ0U4ZkFPaDd1N2pDLXdjTW5SRmlzLW9jd0Y0SEJwOVQzQTE5MmJpczFnWFQzb1ZLNGdBY19mVndlN2JnX2ZiWTJJTGFX?oc=5",
-            "source": "Wallstreet Online",
-            "published": "07.10., 14:08"
-          },
-          {
-            "title": "Gold: Zentralbanken kaufen Krisenwährung – und stabilisieren Preis - Handelsblatt",
-            "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQU1E3VWM3N2liRFpaWjV4OXRqY3B3bVpCMzJZMnNxQVNRV0Q1OHN6VVNaLVdyOTVoUFZSdUxXN0oyM1NZRjB3OGZCMmVTZkhLazVnYy1fVWo1eGttVGJ3QUN5UnhJdUJBcWVScUJFUzBVWVlDdHA0dDE4R0FWMlVGR3BfeTZadW9JMHJhdVB5MW51ektCcWpSeWd6VXNpMHJFWmFtS1pWaXVuaHJYWlMzY0FYRW0zR2RBRkZGZDVLMjRkVjNqbHBDLXhGNDV3YWJXaFgxN0pfMm90c1U?oc=5",
-            "source": "Handelsblatt",
-            "published": "08.10., 12:57"
-          },
-          {
-            "title": "Goldpreis über 4.000 Dollar: Warum das Edelmetall alle Lehrbuch-Regeln bricht - finanzen.at",
-            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTnpIOTV4SlJhTV82VnJheFpfVjNzQzRNOFlPM0YzZnVEa2d6RE50WXlobmM1Z0c5NF9kVXNhZmVNNXZJY01KRnV0V3Bac210dHpXY2N5SVc5YzNOaGpXX1hYUDRoYTd1YTZRcXhkUFgwMnRuWFNKZ2Q0QVd1MC1EakFEdjFKVnh0TGdYTXhIckNsc2NkTi05REZuMTREX1BQcHVPMWlsUWtINXlFSllFcmFXYV9YS1B1UlFJS1E3NmpyTWQ1dlFTeEtxNUdpc2M?oc=5",
+            "title": "Gold-Rally geht weiter: State Street hält 5.000 US-Dollar für möglich - finanzen.at",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQY014c0IzOW0ySHBBQ2RicnlFVnNHdWFVSkRUWjFfZkl1aXZ4Q3ZJNGtsaVB0Wlc1UTRoQjhvMkhwTDhkUHNIM0k4ekZuMDZzZXBmZjViY205Z2dJaWx3MDBDQlBsQ1FJVjJMQ2ozMUF4TzBsMDRLRTZYYnhUQktCd3JIOWlRY2VOckZSMnBwY0tlVV9HMnZMZ1JacERyM3piQU93bGtzR3g5SjFhMnpvQzRxUEZOeXVTVGkwZVVyRnVPb0s5blE?oc=5",
             "source": "finanzen.at",
-            "published": "07.10., 22:22"
+            "published": "12.10., 09:06"
+          },
+          {
+            "title": "Gold-Prognose: Hält Chinas Rekordnachfrage den Preis über 4.000 Dollar? - Der Aktionär",
+            "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQd3dPdHNfNEE3bWhQbWJUTnFPZ1Y5cXN1UlFYWlEzS1BHeWhYc3VWV3ZNN0t5Vml6OE5uUTFyM0JPVDJoZXBmYVVlT3NqU3ZZR0Z5TndKR1FyemJnZmhaS2hkT016TjNhTVNUUWNwWEhqY21nRV8xU2RsUVM2dDliaXFBTENlYkE2NEhjcDNfYnJXNGc2WVRoZDVCdTZxckNLb3VVSnE0RzlLV0x1S1dkRFN4Mm04eWZzZ1ZCLTA0d3JGRDNDZi1CUW5oNXJ6d2xjekE?oc=5",
+            "source": "Der Aktionär",
+            "published": "12.10., 06:57"
+          },
+          {
+            "title": "Goldpreis kämpft um 4.200 Dollar - US-Inflation entscheidet über Fed-Zinspause - Wallstreet Online",
+            "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNFBYWTdYLTJvdTVwcml5QXNvWHloYk5FQUNuUDJPcWZzZTlUQllGd1BwUWhCMkRMREZOME4wOHRvVFc1NEZjVnJ3V01kZjd6dlEyU1R3SXRPTEFfd2hvUmhDeWtkM3VpN193a2FXMXdEY1lGRnVIdFk5WERCdnRNRXNEUkRNemlfUHAzRXoxenVETVdaV1JqOFFyZXlvY0EwYVhLQlpOdjE0Ym92VTQ1RnM5TlRjWjRUUC1MZjRoOW0tbU52azVqUU5DMkNjZWhwZnN5ZmR6Q1Q?oc=5",
+            "source": "Wallstreet Online",
+            "published": "12.10., 07:26"
           }
         ]
       }
