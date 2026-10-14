@@ -1,8 +1,8 @@
 {
   "is_sample": false,
   "source": "Yahoo Finance Kursdaten + Google News RSS Kontext",
-  "generated_at_utc": "2026-10-13T20:58:09+00:00",
-  "generated_at_vienna": "13.10.2026, 22:58 Uhr",
+  "generated_at_utc": "2026-10-14T09:16:36+00:00",
+  "generated_at_vienna": "14.10.2026, 11:16 Uhr",
   "market_mood_internal": "neutral",
   "assets": [
     {
@@ -12,22 +12,18 @@
       "currency": "EUR",
       "description": "iShares Core MSCI World UCITS ETF als handelbarer Developed-Markets-Proxy",
       "price_decimals": 2,
-      "last_date": "2026-10-13",
-      "last_close": 131.74000549316406,
-      "previous_close": 131.63999938964844,
-      "change_abs": 0.1,
-      "change_pct": 0.08,
-      "change_5d_pct": 0.41,
-      "change_1m_pct": 4.03,
-      "change_3m_pct": 4.31,
+      "last_date": "2026-10-14",
+      "last_close": 132.19000244140625,
+      "previous_close": 132.25,
+      "change_abs": -0.06,
+      "change_pct": -0.05,
+      "change_5d_pct": 0.27,
+      "change_1m_pct": 4.58,
+      "change_3m_pct": 4.7,
       "change_1y_pct": null,
-      "ytd_pct": 17.86,
-      "volatility_30d_pct": 8.59,
+      "ytd_pct": 18.26,
+      "volatility_30d_pct": 8.62,
       "sparkline": [
-        {
-          "date": "2026-06-09",
-          "close": 120.92500305175781
-        },
         {
           "date": "2026-06-10",
           "close": 120.69000244140625
@@ -381,34 +377,36 @@
           "close": 131.63999938964844
         },
         {
-          "date": "2026-10-13",
-          "close": 131.74000549316406
+          "date": "2026-10-12",
+          "close": 132.25
+        },
+        {
+          "date": "2026-10-14",
+          "close": 132.19000244140625
         }
       ],
       "explanation": {
-        "direction": "gestiegen",
+        "direction": "gefallen",
         "confidence": "niedrig",
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
-        "themes": [
-          "China/EM"
-        ],
+        "themes": [],
         "bullets": [
-          "Der Kurs ist leicht gestiegen: +0.08 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: China/EM.",
-          "Wichtigste gefundene Headlines: Nasdaq Developed Markets Financial Services Large Mid Cap Index [Index] - boerse.de | Nasdaq Emerging Markets Chemicals Large Mid CapIndex [Index] - boerse.de."
+          "Der Kurs ist leicht gefallen: -0.05 % gegenüber dem vorherigen Schlusskurs.",
+          "Gefundene Nachrichten-Themen: keine klaren Themen erkannt.",
+          "Wichtigste gefundene Headlines: Nasdaq Developed Markets Financial Services Large Mid CapIndex [Index] - boerse.de | Nasdaq Developed Markets Consumer Staples Large Mid Cap Index [Index] - boerse.de."
         ],
         "headlines": [
           {
-            "title": "Nasdaq Developed Markets Financial Services Large Mid Cap Index [Index] - boerse.de",
-            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX1ZHd1JzQzBsTHFGb3gxWnRFbkw0aXJfWHpfTW51WDRodUUzRmVscjNhZ285X2lfakVZUEZxTUdqWXZhRDNiUHkzLVdwT2QwcEFmV1dmeXJ0d045azR3MGY0UjA3aTh6bkxWeWhTYXd3X29FWUp4eXlrRmE1ZVhXbFprX0dLd0JwenR6aVg4aVUtOGVVcnpDcU8zWlVySDVEcmYwb1UzczQzMk84RExST05ZNU54OGVjYnBJ?oc=5",
+            "title": "Nasdaq Developed Markets Financial Services Large Mid CapIndex [Index] - boerse.de",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQkVyVm1McEdxSDRGWHB6eW9pM0tjWWpMdWxaYWFmeGd5WENMbExoVU10bTNrel8zUndqbU9WQWJWNEhBWExmUlRiaUtWOEdTamxoTFRldjl3R3FiMVZPNlBrVzNHdHlCNHpXMkxibUp1NUpoR3pEMjhaYjlUSzJWRTdCSGdaQXkzZDJ3MnBIa2t3TTBGMXpFMmdnZEQ4WW5jaEJ2WDRyY01KVDd0OGgyTVEyVUpMaVdFa0E?oc=5",
             "source": "boerse.de",
-            "published": "13.10., 12:18"
+            "published": "13.10., 16:21"
           },
           {
-            "title": "Nasdaq Emerging Markets Chemicals Large Mid CapIndex [Index] - boerse.de",
-            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQakMyU3h3YmtnQWpsTUhYcG5CNjJJWXNUdEIxbGdHdFZkZFkyRzhaRVI0NF9JQXRKNHpLdm5jUHhwcEFxendhdUtyWDJRZTlXd0tXeFJVaVBuWUlvcm13TWdTNEpYYl9LQ2tnRVgzenRHeW1yYkZra2ZQVDJBWkJXMVU0aU5lX25leFZEVkhMYmp4T0l6M3lQYUcwZlQ1ZS1PcFYw?oc=5",
+            "title": "Nasdaq Developed Markets Consumer Staples Large Mid Cap Index [Index] - boerse.de",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPb1A1U0V6MzBGLWdEUEx2Nml4UWswUmItQlV0UlRZSWV3UHJhQVg3VTYyR0Zib3RwLUJiTE5VbzVqdXh0QVI4eks4ZUtQdG9qMl9ZbS10VWViU2VNNlVTaTJGeGVpd0NmRmFfVXZ4QVZwYi0tVURGT0xVanpXQ0Y3Yk5Wa0c3UGRwa0xyY2tab0J4ZVFQbUItdkdvRFN6eVZ5NmdVNXByVndtelAxZEhz?oc=5",
             "source": "boerse.de",
-            "published": "13.10., 06:22"
+            "published": "13.10., 11:52"
           },
           {
             "title": "Nasdaq Developed Markets Real Estate Large Mid Cap Index [Index] Charts | Jahresverlauf | Tageschart - boerse.de",
@@ -432,22 +430,18 @@
       "currency": "EUR",
       "description": "iShares Core MSCI EM IMI UCITS ETF als Emerging-Markets-Proxy",
       "price_decimals": 2,
-      "last_date": "2026-10-13",
-      "last_close": 48.111000061035156,
-      "previous_close": 48.91699981689453,
-      "change_abs": -0.81,
-      "change_pct": -1.65,
-      "change_5d_pct": -4.07,
-      "change_1m_pct": 0.23,
-      "change_3m_pct": 2.89,
+      "last_date": "2026-10-14",
+      "last_close": 48.05500030517578,
+      "previous_close": 48.749000549316406,
+      "change_abs": -0.69,
+      "change_pct": -1.42,
+      "change_5d_pct": -3.68,
+      "change_1m_pct": 2.21,
+      "change_3m_pct": 3.95,
       "change_1y_pct": null,
-      "ytd_pct": 25.46,
-      "volatility_30d_pct": 18.56,
+      "ytd_pct": 25.31,
+      "volatility_30d_pct": 18.35,
       "sparkline": [
-        {
-          "date": "2026-06-09",
-          "close": 46.1619987487793
-        },
         {
           "date": "2026-06-10",
           "close": 45.935001373291016
@@ -801,8 +795,12 @@
           "close": 48.91699981689453
         },
         {
-          "date": "2026-10-13",
-          "close": 48.111000061035156
+          "date": "2026-10-12",
+          "close": 48.749000549316406
+        },
+        {
+          "date": "2026-10-14",
+          "close": 48.05500030517578
         }
       ],
       "explanation": {
@@ -816,9 +814,9 @@
           "Gewinne/Analysten"
         ],
         "bullets": [
-          "Der Kurs ist deutlich gefallen: -1.65 % gegenüber dem vorherigen Schlusskurs.",
+          "Der Kurs ist deutlich gefallen: -1.42 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: US-Dollar, China/EM, Geopolitik/Sicherheit, Gewinne/Analysten.",
-          "Wichtigste gefundene Headlines: iShares MSCI EM ex China: Allzeithoch bei 99,78 USD - Börse Express | Emerging Markets-Aktienausblick 2026: Von der Erholung zur Rotation - e-fundresearch.com."
+          "Wichtigste gefundene Headlines: iShares MSCI EM ex China: Allzeithoch bei 99,78 USD - Börse Express | Schwacher US-Dollar und hohe Defizite: Rückenwind für Emerging Markets? - e-fundresearch.com."
         ],
         "headlines": [
           {
@@ -828,10 +826,10 @@
             "published": "26.05., 09:00"
           },
           {
-            "title": "Emerging Markets-Aktienausblick 2026: Von der Erholung zur Rotation - e-fundresearch.com",
-            "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTHpVSnRYWUtGN1FaTlZaRUQ0LVVOWVdRM1AtVU9lMlM2d244TjVzLW5ycnp3T09qeVlwdENBUEZXV3hIQlgxNlF6RkR2UEpfMVRzN1ZnUlB3WkZRMUhycGNtcDRRaGRVejFSWklUSkg3NS1RYnBmZUNEVzV4c3BscjlZM1psR091U044UDBvQVRDc3J6Y1A3VWJVQW1pSkxsek9vT3J4MnFDMXdFejJCdHRiVXlRcWNuMVlTc0k4eTllb3U2ckdrUzliTENRUlhjSHJtc3VVSmVSUHBaQTZXY1lyZjNQNGVIeS1ubjlQdw?oc=5",
+            "title": "Schwacher US-Dollar und hohe Defizite: Rückenwind für Emerging Markets? - e-fundresearch.com",
+            "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdW5LT0NkQVByWUhHM2JvRDZVWERXUW5RWnpWcEpzVVNxRDA2QzgwTEJBQ3p4Y2lYU1NEelhUa1hUZzJyUDg4SnJPTXVmQUppQzRoalhkVURTWEJtaHZ1Zk1MMHNXekE0ZkpyM2x4aTI3UmU0bkU3REl6NXYyVnZIWWxCckFXT3pKaVdvQlp0cFQxMmpPS3lTN0U4ajBWTHd0NGJHVFI2T0Nhc3hhQ2ZSQkJqclRfaWZYMUVEaERfYXcxdklzYXlvRXY5c2R3ZHJDVUpjZmt4TXlQYWNxSHhCSE83cGVjQzc2Nnc?oc=5",
             "source": "e-fundresearch.com",
-            "published": "15.01., 09:00"
+            "published": "25.11., 09:00"
           },
           {
             "title": "EM-Anleihen: Diese rohstoffreichen Schwellenländer profitieren - das investment",
@@ -855,22 +853,18 @@
       "currency": "EUR",
       "description": "iShares MSCI World Small Cap UCITS ETF als Small-Cap-Proxy",
       "price_decimals": 3,
-      "last_date": "2026-10-13",
-      "last_close": 9.052000045776367,
-      "previous_close": 9.097999572753906,
-      "change_abs": -0.046,
-      "change_pct": -0.51,
-      "change_5d_pct": -0.95,
-      "change_1m_pct": 0.6,
-      "change_3m_pct": -0.25,
+      "last_date": "2026-10-14",
+      "last_close": 9.10200023651123,
+      "previous_close": 9.121999740600586,
+      "change_abs": -0.02,
+      "change_pct": -0.22,
+      "change_5d_pct": -0.55,
+      "change_1m_pct": 1.28,
+      "change_3m_pct": 0.1,
       "change_1y_pct": null,
-      "ytd_pct": 16.35,
-      "volatility_30d_pct": 11.6,
+      "ytd_pct": 16.99,
+      "volatility_30d_pct": 11.54,
       "sparkline": [
-        {
-          "date": "2026-06-09",
-          "close": 8.755999565124512
-        },
         {
           "date": "2026-06-10",
           "close": 8.767999649047852
@@ -1224,8 +1218,12 @@
           "close": 9.097999572753906
         },
         {
-          "date": "2026-10-13",
-          "close": 9.052000045776367
+          "date": "2026-10-12",
+          "close": 9.121999740600586
+        },
+        {
+          "date": "2026-10-14",
+          "close": 9.10200023651123
         }
       ],
       "explanation": {
@@ -1234,20 +1232,19 @@
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
           "Zinsen/Fed",
-          "KI/Tech",
           "China/EM"
         ],
         "bullets": [
-          "Der Kurs ist spürbar gefallen: -0.51 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: Zinsen/Fed, KI/Tech, China/EM.",
-          "Wichtigste gefundene Headlines: Russell 2000 geht nach Chip-Schwäche 0,4 Prozent tiefer - ad-hoc-news.de | Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraETF."
+          "Der Kurs ist leicht gefallen: -0.22 % gegenüber dem vorherigen Schlusskurs.",
+          "Gefundene Nachrichten-Themen: Zinsen/Fed, China/EM.",
+          "Wichtigste gefundene Headlines: Russell 2000 Update: Durchbruch sehr wahrscheinlich - ad-hoc-news.de | Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraETF."
         ],
         "headlines": [
           {
-            "title": "Russell 2000 geht nach Chip-Schwäche 0,4 Prozent tiefer - ad-hoc-news.de",
-            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWlBGZ2FvVHB3cldtUFRsRE9OMjlNQWM3RFplQ1dWLXkyeF9IQTZMbkpXTF9NNVIteGJ5c2FUMmNQdXBIWm1mZmg2ZzY1UGNNamxtQW9yeDBkd201ZHVnaE5lUjZ1a21sMWptT29GM3hOWUhmcGNXNk9kNEV6SjlhOEIyTlFwX1A1VFl4cDhleTJ1SnFkcmhXSW5uVXM3NERxWXJUWjRPZzU2VVlkdkF4TzA5dVAxN3RzcGc?oc=5",
+            "title": "Russell 2000 Update: Durchbruch sehr wahrscheinlich - ad-hoc-news.de",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQclBrQzdUY0lIZ3AyMWd3QWE0ZUNIVHRWYlg0RVJKc0FFekIyM0JBaC1qQ1NKczhxaGpSYUtnSlVQYlU2TmN6NzhNWVhuWGRvZ3lvUEpxeFd0cFZjRXFOTXcyV2ZWNDQydWNXRVFlUExDajlRWHFCMkZIdGx4TjZySUlEU29zWm5VZjlIMmJiRG1iWjhqT0tSZzV1dWNGckMzVVh3?oc=5",
             "source": "ad-hoc-news.de",
-            "published": "13.10., 09:38"
+            "published": "14.10., 09:09"
           },
           {
             "title": "Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraETF",
@@ -1256,16 +1253,16 @@
             "published": "28.04., 10:37"
           },
           {
-            "title": "ETF-Portfolio – die besten Musterportfolios und ETF-Strategien - Finanzen.net",
-            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAzbmFxUlNtQ2wyOTBPRk5raDBsUDNYZ0dqWTk0dkQxWU5KV0VfWDB5TS1ValNJTUY3OGFMcGtEVWM4NXRMZ0Y1eE9QcG1BT0dtYmZyTDFtTGFVdTY4a2tYSWlMUE5UQ1p3Uk9OcExIbmZHTW9hYWw2Wm9n?oc=5",
-            "source": "Finanzen.net",
-            "published": "30.09., 09:00"
-          },
-          {
             "title": "Diese US-Small-Cap-Aktien sind jetzt attraktiv - Morningstar",
             "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNXF1VURGVVhhSUhQWnc3NDlSUTVfU3BWb2hXd3pPN1Z5VWFGa2p4WV84cFd1WTlVaEFheEZ4eVhUVjBlVnBwdlBHTURVR2ptUGMzME5DeFNfR3lHVUhGTHRMVmIwU2ZXNFJUdlBlYW1XZ2M4aXJMTTlCWnNLbmxZc3FndTVMV1NXdmQ5cm9sdVQ?oc=5",
             "source": "Morningstar",
             "published": "06.07., 09:00"
+          },
+          {
+            "title": "ETF-Portfolio – die besten Musterportfolios und ETF-Strategien - Finanzen.net",
+            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAzbmFxUlNtQ2wyOTBPRk5raDBsUDNYZ0dqWTk0dkQxWU5KV0VfWDB5TS1ValNJTUY3OGFMcGtEVWM4NXRMZ0Y1eE9QcG1BT0dtYmZyTDFtTGFVdTY4a2tYSWlMUE5UQ1p3Uk9OcExIbmZHTW9hYWw2Wm9n?oc=5",
+            "source": "Finanzen.net",
+            "published": "30.09., 09:00"
           }
         ]
       }
@@ -1661,14 +1658,20 @@
         "bullets": [
           "Der Kurs ist leicht gestiegen: +0.30 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: KI/Tech, Regulierung.",
-          "Wichtigste gefundene Headlines: Gemini 4 Argon: Entwickelt, um eure schwierigsten Probleme zu lösen - blog.google | Google AI Studio: KI-Apps landen privat im Play Store – ohne Entwicklerkonto - BornCity."
+          "Wichtigste gefundene Headlines: Alphabet Aktie: KI-Zugang für Forscher - Börse Express | Google DeepMind und Google Cloud ermöglichen europäischen Forschern Zugang zu Spitzenmodellen - MarketScreener Deutschland."
         ],
         "headlines": [
           {
-            "title": "Gemini 4 Argon: Entwickelt, um eure schwierigsten Probleme zu lösen - blog.google",
-            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1HSTJpZVhzNGNnQXQ1U0N1WENLR0N0ZktsOEFTZ0NQQXNKYnRHeVU5T1JBZWgtdjZqdVdIZUJHM3l0bHp2SkZ1alZSeGpxbXdNWXl4YjdqYTRoYWNNNDB3dHdmS2hSWHRhdE0tLVZTZGt2Rm4z?oc=5",
-            "source": "blog.google",
-            "published": "13.10., 18:28"
+            "title": "Alphabet Aktie: KI-Zugang für Forscher - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQS0diNEtmWmx3V1prYW1mRWJIczF6N2l3NjBSRGpyMktYVGtoaXJLYzQwOFBsOVhmbllEaDZnMk9CSTU1SmRhOE1rZVIxdFVQdEpRTC1QTTJHZEtGSnZjM2VYbVlCUFJSX3BJU3FTS3FFOFRaYURQSk5mX0NjSnpLaHdkVzVpdTlJeFJ1Y0lfTm44aHVk?oc=5",
+            "source": "Börse Express",
+            "published": "14.10., 08:42"
+          },
+          {
+            "title": "Google DeepMind und Google Cloud ermöglichen europäischen Forschern Zugang zu Spitzenmodellen - MarketScreener Deutschland",
+            "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOMGFLRHVXS3VqZ0s2Uk1fZnFxRmtVTzhTSE1XZTlkcEVDR1R3Z2loRVVDaHYyb0RmaElxNldoYmdxaHpKdExiaDloRko5WHhUb29DUWh1U1ZoU0hTSGhoRGt5d3NaaGFaSnhRUGxOYUlER29MOFQxUUg0aERuTmowbWFPbGxXazNaY20xbnlUODhfdmV2VF8zSzhQR0tJMlZBc00zVzVmVlVrcDk2b1VhOTlSOFdLQWNfb05vcG9nVm56NnFIcEVxYV9DYmJSY1lOS2ZiYmF6UHFpaUwzeS1wUndLMnFpR0JBR3RmZXU1Wkt4MWs?oc=5",
+            "source": "MarketScreener Deutschland",
+            "published": "14.10., 08:04"
           },
           {
             "title": "Google AI Studio: KI-Apps landen privat im Play Store – ohne Entwicklerkonto - BornCity",
@@ -1677,16 +1680,10 @@
             "published": "13.10., 20:49"
           },
           {
-            "title": "Google Cloud und Thales: Trotz deutscher Server kein Geheimschutz für Regierungsdaten - Golem",
-            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNR2RYRHNlZ2plS2I4ZEV0T3I4U2hwQ1NqYm5tZmZfT1pWZVlZaFMwZk5IeHduTTJYVEpRREZnb0hYWUtnclBOUEtzMHpiSFVSRnJnc1pJYmxqNm5vUHBGS3EycV8xX2s3Zy1mSjRKM09tY3hSY0lIVHQtYnpPbEZsRFFhdFJwaWluckVMR0ZZdGx1ejIwVFpfWjhKWWlROENXa2MtNS1wcjJxLXFrLXkxbDJ5TUM5VnNzS1d5T3Q0ZWR0a0RQYl9r?oc=5",
-            "source": "Golem",
-            "published": "13.10., 18:57"
-          },
-          {
-            "title": "Alphabet Aktie: Porat stellt höhere KI-Ausgaben in Aussicht - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSlIyb3hxNS1zVGhoMHdac3dpRnZLblpReGZ1ZDBzT3lZVUZyZGJRLUNfYnZ0Q0FTeVlVSzBGQUwyWWQ1dkQ4MzFVT1FGakwwTFJPTHQxaUJXOExsSTE1SWVSMVFqX19SbDVRUjJ0RWVoNmJ0Z1didzEwdXBmZVV1ZFZJOUI2ODNxRTA0bTlYeEtJaFQ3MXllSTRzc1d5dFVyTmhSSk91V2lMUW9FU3VVSA?oc=5",
-            "source": "Börse Express",
-            "published": "13.10., 11:16"
+            "title": "Gemini 4 Argon: Entwickelt, um eure schwierigsten Probleme zu lösen - blog.google",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1HSTJpZVhzNGNnQXQ1U0N1WENLR0N0ZktsOEFTZ0NQQXNKYnRHeVU5T1JBZWgtdjZqdVdIZUJHM3l0bHp2SkZ1alZSeGpxbXdNWXl4YjdqYTRoYWNNNDB3dHdmS2hSWHRhdE0tLVZTZGt2Rm4z?oc=5",
+            "source": "blog.google",
+            "published": "13.10., 18:28"
           }
         ]
       }
@@ -1698,22 +1695,18 @@
       "currency": "USD/oz",
       "description": "Goldpreis, primär über Gold-Future, fallback XAU/USD",
       "price_decimals": 2,
-      "last_date": "2026-10-13",
-      "last_close": 4181.7001953125,
-      "previous_close": 4190.60009765625,
-      "change_abs": -8.9,
-      "change_pct": -0.21,
-      "change_5d_pct": -0.13,
-      "change_1m_pct": -3.91,
-      "change_3m_pct": 3.21,
+      "last_date": "2026-10-14",
+      "last_close": 4165.5,
+      "previous_close": 4177.2998046875,
+      "change_abs": -11.8,
+      "change_pct": -0.28,
+      "change_5d_pct": 0.6,
+      "change_1m_pct": -3.86,
+      "change_3m_pct": 4.34,
       "change_1y_pct": null,
-      "ytd_pct": -3.67,
-      "volatility_30d_pct": 18.58,
+      "ytd_pct": -4.05,
+      "volatility_30d_pct": 17.89,
       "sparkline": [
-        {
-          "date": "2026-06-05",
-          "close": 4365.2998046875
-        },
         {
           "date": "2026-06-08",
           "close": 4363.39990234375
@@ -2068,7 +2061,11 @@
         },
         {
           "date": "2026-10-13",
-          "close": 4181.7001953125
+          "close": 4177.2998046875
+        },
+        {
+          "date": "2026-10-14",
+          "close": 4165.5
         }
       ],
       "explanation": {
@@ -2076,26 +2073,28 @@
         "confidence": "niedrig",
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
+          "Zinsen/Fed",
           "US-Dollar",
+          "Regulierung",
           "Geopolitik/Sicherheit"
         ],
         "bullets": [
-          "Der Kurs ist leicht gefallen: -0.21 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: US-Dollar, Geopolitik/Sicherheit.",
-          "Wichtigste gefundene Headlines: Gold: Dollar-Stärke überlagert Fondskäufe - Börse Express | Gold fällt - doch hinter den Kulissen passiert etwas Gewaltiges! - Wallstreet Online."
+          "Der Kurs ist leicht gefallen: -0.28 % gegenüber dem vorherigen Schlusskurs.",
+          "Gefundene Nachrichten-Themen: Zinsen/Fed, US-Dollar, Regulierung, Geopolitik/Sicherheit.",
+          "Wichtigste gefundene Headlines: Gold: Zinswetten bremsen Dollarschwäche - Börse Express | Goldpreis: Fed macht Hoffnung – doch heute wartet der nächste Härtetest - Wallstreet Online."
         ],
         "headlines": [
           {
-            "title": "Gold: Dollar-Stärke überlagert Fondskäufe - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRWc3d1JWSzR1b0tQMEd6cmVYVkluVm1xbUNnajVsSk55X2gyNF8tYll0bTNlMlBpTWpQOUxjMVpBTHdlN0ZHRzdhUElEWHdnZVZoWmIybnRBdkZ4d0gzcmV0S3BCcnlmZ3lVaGprUlN1enpaX3RVVzVtVGFuVWJZQ2htTlVsTHc5dEx4ZW1YTWMzZy00eXQ2Zy1YOA?oc=5",
+            "title": "Gold: Zinswetten bremsen Dollarschwäche - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdXMwNkIySDh4NjI0V1ZGMkxQUFhabVZPRVk4cWEwcXFRWDdWWXIzNmJTVHNMakVhYzZSRnl5bkJvNzljMHpTbkVhenZwSVN3YVpsYkdXYUpWbnhaaTlWNFAxSnlTem1OYVZCVFBSamhGVThiODN5Y292UHNhZEMxY1RrYVV2anlqU0pSRlpoMGVRSnNpRGc?oc=5",
             "source": "Börse Express",
-            "published": "13.10., 06:47"
+            "published": "14.10., 09:39"
           },
           {
-            "title": "Gold fällt - doch hinter den Kulissen passiert etwas Gewaltiges! - Wallstreet Online",
-            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPN3hPY3VJT2pIaWRJSGJVdDZJLXNvclRscjBYX3NVdHN0eGVHeVRkOXRYYWxyVjJvdjdoTW9CbmJMMjd3Tm4xTDdTeGJnRXg3Tk54Wk1KSVRLUUtXTXdQOGQ0aFJ0WlZTYS1MV0NGdU9CQWY5UlZWOVFlc0R0WU5panlvcFMybWlsWkh0aXQ2YWx3a1NCMV9mWlRVVEhwMnlMNWpyUFFyOTJiaVkwYkJF?oc=5",
+            "title": "Goldpreis: Fed macht Hoffnung – doch heute wartet der nächste Härtetest - Wallstreet Online",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQmV0OFZoTXNTeFY5eDVKcDgyOVJLczIyaXU1cXNXSkNvdURfWEhoNDUzTXd4dms0TTBBemZVMkxBQ0RfSkM1aHNPNmRJaU9INGxCVUhRejIxdFBQbVY3OXMwbExPZGNCZDdTS3gtS2tmVTVFeXFjWmhuWFVmcXhMbDAxT0hRdXhCdkJtVDVoc1VERWF4dW9iNG5nZ1dTcXQ3WFVBWm9ScmJxN29lUGs3bE16Qlg?oc=5",
             "source": "Wallstreet Online",
-            "published": "13.10., 17:05"
+            "published": "14.10., 10:33"
           },
           {
             "title": "Gold-Rally geht weiter: State Street hält 5.000 US-Dollar für möglich - finanzen.at",
@@ -2104,10 +2103,10 @@
             "published": "12.10., 23:18"
           },
           {
-            "title": "Goldpreis Prognose: Der Kurs wird bald einbrechen, warnt Investmentbank - Börse Online",
-            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZmlvWERUekJKZnFoclVZTXNRVG4ybkJheDJwbnZ6ZFI4Y1RsMTdWX0d0M3pIRWszMkFSTWxZWDNMbmdUTEEtTFVOMlN3SjRaYVlVYU1nckozbjhoYVNfOU45aUZ2RHZrekhsT1BDMi1rWlktUUNNUnpzaXNXMmxxSFBLTDhfeVF6WV9ZdHBIS01ySnlfNkxIaGZ0UzJsc1hHV1hCcnNUU0MzeFlzNDJOSnZXU0NLcHBNcnFka2dxcm55SFVPeW1wLUh2cGtIZXM?oc=5",
-            "source": "Börse Online",
-            "published": "13.10., 13:00"
+            "title": "40 Billionen Dollar Schulden, Gold über 4.000 Dollar – warum Barrick, Newmont & Co. jetzt um die nächsten Goldprojekte kämpfen - Small Micr…",
+            "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPaDZlR2QwbG9xNndOaTBjQ2lWczZSZV9EYnlaNmI1Qy1EOHNJMWFJV0tXUG8yTmZNbFY3N05ranN1ak5RSmdkZmoyU29LdE1RRnJoLU5NNTFZSngyZmZOM0Vuam1xTHUxbHZlblVTNlhUQlpVRjczSGdlT0xsdzRUWnZOYTg3WWt1eXlvME9ScXFwQUhNTW1xRFhlUHdiRkxNYUVRTS0xeE5UQ3QzSTVucl94Ti1qQmctWjFEeDlsdmdmZFhDdHM4cEZRaGhhOUJZWGwya2VURzQ0TlZVdkRxMUNJQWlFZw?oc=5",
+            "source": "Small Microcap",
+            "published": "14.10., 08:01"
           }
         ]
       }
