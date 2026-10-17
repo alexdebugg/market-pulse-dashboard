@@ -1,8 +1,8 @@
 {
   "is_sample": false,
   "source": "Yahoo Finance Kursdaten + Google News RSS Kontext",
-  "generated_at_utc": "2026-10-17T08:14:58+00:00",
-  "generated_at_vienna": "17.10.2026, 10:14 Uhr",
+  "generated_at_utc": "2026-10-17T18:09:13+00:00",
+  "generated_at_vienna": "17.10.2026, 20:09 Uhr",
   "market_mood_internal": "risk-off",
   "assets": [
     {
@@ -390,12 +390,13 @@
         "confidence": "mittel",
         "summary": "Plausibler Nachrichtenbezug: Der Kurs ist gefallen und die gefundenen Schlagzeilen enthalten überwiegend belastend wirkende Formulierungen. Die Quellen passen damit zur Richtung, beweisen aber keine Kausalität.",
         "themes": [
-          "Regulierung",
+          "Zinsen/Fed",
+          "KI/Tech",
           "China/EM"
         ],
         "bullets": [
           "Der Kurs ist spürbar gefallen: -0.77 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: Regulierung, China/EM.",
+          "Gefundene Nachrichten-Themen: Zinsen/Fed, KI/Tech, China/EM.",
           "Wichtigste gefundene Headlines: Nasdaq Emerging Markets Chemicals Large Mid Cap NTR Index [Index] - boerse.de | Nasdaq tumbles 2%, and these 10 stocks have fueled the selloff - TradingView."
         ],
         "headlines": [
@@ -418,10 +419,10 @@
             "published": "19.06., 18:15"
           },
           {
-            "title": "Nasdaq schließt Übernahme von LeveL Markets ab - MarketScreener Deutschland",
-            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObmhwcWo2eVUtU3BJdzZTZ0NzcVJIcm42UWF5WUNadW93cGJpY3QyZzBHVnJkOENESFVyT0VieFFrMDlHVXNBcVJSZ0JMSkYxdHBnOExSTE5sS3JlbWdubXBjWnIxNjlyVlNqWm42bm8yRFRhSWowdWRHd2oxS3VNLU96a3N1OGtkY1lTUlBqc0N2dGF4UkhNcVJrZWl5SVJWTGtLdXBZcHg2aFhtY0NXQ0NEYnY?oc=5",
-            "source": "MarketScreener Deutschland",
-            "published": "15.10., 16:26"
+            "title": "Global stocks edge lower as AI and rate fears hit tech - TradingView",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPd3M0cnBVVUNzcGtENXczZDIyZHVxQTZqMGdmQzhGZ3I5UGY0QVZzbmlwNVJuaFNrTmtTQmtaRWZxVmhQUU1fMFgyVzRZR0Q1eE1ZdGkxYkhvQjBSOEQxM0pKMDhiQWpRQURua0lMUWJLc1hQQXYtckQ1SDdqTHRSaTNZZjZHN3VwYkRBaGVfMzRfdE1xUjhIRjY2SE1XaGhmdzh3a2JZUWc2NkJHMl9nTHZHUGJrNTNyWXEwWHFqSFY?oc=5",
+            "source": "TradingView",
+            "published": "15.10., 18:16"
           }
         ]
       }
@@ -813,21 +814,15 @@
         "themes": [
           "US-Dollar",
           "KI/Tech",
-          "Geopolitik/Sicherheit",
-          "Gewinne/Analysten"
+          "China/EM",
+          "Geopolitik/Sicherheit"
         ],
         "bullets": [
           "Der Kurs ist deutlich gefallen: -1.98 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: US-Dollar, KI/Tech, Geopolitik/Sicherheit, Gewinne/Analysten.",
-          "Wichtigste gefundene Headlines: News von CNBC TV18 bei TradingView,2026-10-05 — cnbctv:7e819a9aa094b:0 - TradingView | Auftragsbestand an Cloud-Verpflichtungen der großen Hyperscaler knackt Zwei-Billionen-Dollar-Marke - e-fundresearch.com."
+          "Gefundene Nachrichten-Themen: US-Dollar, KI/Tech, China/EM, Geopolitik/Sicherheit.",
+          "Wichtigste gefundene Headlines: Auftragsbestand an Cloud-Verpflichtungen der großen Hyperscaler knackt Zwei-Billionen-Dollar-Marke - e-fundresearch.com | EM-Anleihen: Diese rohstoffreichen Schwellenländer profitieren - das investment."
         ],
         "headlines": [
-          {
-            "title": "News von CNBC TV18 bei TradingView,2026-10-05 — cnbctv:7e819a9aa094b:0 - TradingView",
-            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9tVXd3X2p3Wkx2TVVkSTgtcjZjMEpEWWtfeUREZEFWS0t4MGNoZzZERlVRSGJfWmpJYjYzX0thbk1EMEVIb0N2MkNWcmwtXzBpTGI2cFd4d1BTZnA4b1pHcmI0UF91dw?oc=5",
-            "source": "TradingView",
-            "published": "05.10., 05:26"
-          },
           {
             "title": "Auftragsbestand an Cloud-Verpflichtungen der großen Hyperscaler knackt Zwei-Billionen-Dollar-Marke - e-fundresearch.com",
             "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQQm5peXZPU0VVMm1WaG0xa3BtektaanZZQW5DY0RncjI3cm5uX1pZRlRnQW5xTHBITG5NWlNKVHlwVVdhb2cxVFUzZDM1cmVIOGZKbmhpT2h4cjJfdFJUQ3hiak1hVUFoc3Y1NzItYW1wS2l6OXRfSFlSWnIxWjhMZGh4SUZhYTZfaC02NHVVSTd1Z3FWTFU2TlpGanVKN3F1MVNwWmtwSGV6R2J6WFlSeFJuYXlwU0V4ZTRPWU1vYURfUmNBdGJacDVsYkdNa3B6ZG5VYUJySFd3c0YzNFIxcXFaRUJyRE54TW03QWpQR2VTQQ?oc=5",
@@ -845,6 +840,12 @@
             "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWHhSNTdKdm9ENnlwNHVYMHVJa3M3VmctRWswSm5tWFFCc29DemNLQk1nVXd4dHcwcFZlemVYcTcxZTJvdm5sYTNFblhwUVZ2UExEbHQxdXFjSUhyV252TUNVam42cnp4Ti15R0pUWEp0S3k4azhUVlFqc1lxNEpRNmRfd09JaU5qTF91Uk91eHRTaW5TVHlBQjlfeHRmVVJvV0Y3Y1lYb1hvWTl3MkxBSkoxR1p6SVBLOGxRXzEzNkQzSV90MTVzY3Z2Mmw?oc=5",
             "source": "Handelsblatt",
             "published": "17.04., 09:00"
+          },
+          {
+            "title": "Xtrackers Emerging Markets ETF: Erfolg durch Absicherung - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbHRDWERqQm5nODhKOE9KenRvbkNIVjBWZUFHRDRZTklSNk8xWkYzbDZtVmNfenEtY18wN3R6aklEZjFab2RMWlRCYXR6MjYwMk5nVjRBN2EtZDZYam84YlRjbVN0U2VvUEJSbXJpaE5rMmotZnRNLWZsa054clFjUFZCR0pKczl1dldILXZ0VXlsUk15LW1fU2w1el9tVkFTX0NCbmlEUzZMREE?oc=5",
+            "source": "Börse Express",
+            "published": "28.03., 08:00"
           }
         ]
       }
@@ -1262,10 +1263,10 @@
             "published": "06.07., 09:00"
           },
           {
-            "title": "Russell 2000 Update: Durchbruch sehr wahrscheinlich - ad-hoc-news.de",
-            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQclBrQzdUY0lIZ3AyMWd3QWE0ZUNIVHRWYlg0RVJKc0FFekIyM0JBaC1qQ1NKczhxaGpSYUtnSlVQYlU2TmN6NzhNWVhuWGRvZ3lvUEpxeFd0cFZjRXFOTXcyV2ZWNDQydWNXRVFlUExDajlRWHFCMkZIdGx4TjZySUlEU29zWm5VZjlIMmJiRG1iWjhqT0tSZzV1dWNGckMzVVh3?oc=5",
-            "source": "ad-hoc-news.de",
-            "published": "14.10., 09:09"
+            "title": "MSCI World Small Cap ETFs 2026 - LYNX Online Broker",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcU4yRTBRZ25DSmViRmFBTVBTcFJDOGZUQ2JCcFpBaDZjaGlUY0dSRjc1dzl1OW51bC1kOUFoazhiTE5nblRzVzhIVVJoRE9Ec0NibURya0x3cnNSVkxjbGRzVWhyN1hvM0RLV3VyNEVxUHpjM0lwNk9reFFENThtam5ndU9hYlpwS3JaTEliQXB4dw?oc=5",
+            "source": "LYNX Online Broker",
+            "published": "13.09., 09:00"
           }
         ]
       }
@@ -1669,7 +1670,7 @@
             "title": "Gemini 4 Argon: Entwickelt, um eure schwierigsten Probleme zu lösen - blog.google",
             "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1HSTJpZVhzNGNnQXQ1U0N1WENLR0N0ZktsOEFTZ0NQQXNKYnRHeVU5T1JBZWgtdjZqdVdIZUJHM3l0bHp2SkZ1alZSeGpxbXdNWXl4YjdqYTRoYWNNNDB3dHdmS2hSWHRhdE0tLVZTZGt2Rm4z?oc=5",
             "source": "blog.google",
-            "published": "16.10., 23:28"
+            "published": "17.10., 17:20"
           },
           {
             "title": "Alphabet Aktie: 200-Tage-Linie unter Druck - Börse Express",
@@ -2078,33 +2079,33 @@
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
           "Zinsen/Fed",
+          "Inflation",
           "US-Dollar",
-          "Regulierung",
-          "Geopolitik/Sicherheit"
+          "Regulierung"
         ],
         "bullets": [
           "Der Kurs ist leicht gestiegen: +0.26 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: Zinsen/Fed, US-Dollar, Regulierung, Geopolitik/Sicherheit.",
-          "Wichtigste gefundene Headlines: Gold: ETF-Zuflüsse erreichen 31 Milliarden im Quartal - Börse Express | Gold zurück über 4.180 Dollar – Yugo hat in Europa bereits 36 Meter mit 2,3 g/t entdeckt - Small Microcap."
+          "Gefundene Nachrichten-Themen: Zinsen/Fed, Inflation, US-Dollar, Regulierung.",
+          "Wichtigste gefundene Headlines: Gold: Rendite-Rückgang stützt, Inflation bremst - Börse Express | Goldpreis vor dem Rücksetzer? UBS sieht Kaufzone und Ziel von 5.400 US-Dollar - Finanzen.net."
         ],
         "headlines": [
           {
-            "title": "Gold: ETF-Zuflüsse erreichen 31 Milliarden im Quartal - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQME9DaEo0amRONERMcmFUMlhPalNqMWFOQWNtX0pnaHhidE9kV25NMW5ESFVmWHJSTDI1MFo1UEJyaGlTVmdiWndnRHNpU1gtY09TUnlidFgxdjlxakFPMHl0WmxLSkpISTJ2RDZtWlByeWhYdS05dU9kd0pORjVuc2czR0lSVTVwenFiWjdmRzQ3ZGd0cHZVcm5IM0M2T2dSZ3duY2pPV2Q?oc=5",
+            "title": "Gold: Rendite-Rückgang stützt, Inflation bremst - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTVpqT3hETGNvNjJJUWdoY0dMZG1aWS05MzE1OG9TQklhd05pS2otS2dLdHlRTVdNcy1WQjRqY1VWVzAtTEprNWRkRWp4SWhIVjJGWDg1WDNHNllYWGJOS0ZlY0p2NkFTMmNkQW84ZGc1UTJIbEdtUGF1MF9taDdzN2JGSTlMMWxSenRiSjVtZVg5d2FiaTRfMk9XUWF2bmRT?oc=5",
             "source": "Börse Express",
-            "published": "17.10., 07:39"
+            "published": "17.10., 17:34"
+          },
+          {
+            "title": "Goldpreis vor dem Rücksetzer? UBS sieht Kaufzone und Ziel von 5.400 US-Dollar - Finanzen.net",
+            "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQVng5SF9XMFhOQUF5YWwtX3ZkWlVzN1BLVWpQa1k2OWt2NXZCLXl6WnE2YmNRc2FNUVNfRmMteE4welg5MEVJQkVmaFpSWkVRSlk3THllc3VxbzFoUDRFS1lFZFZxa1RBRVl4NnRmM2x5REdaUml3V3R2S2ZGaksyam9yeFNVMnp3VHprTGdLMW1oR2h3M3RqTXE5NXEyd0liN09JRVZicEotZWZHdU1Va2RUdS1GTFVvdjNCZzlBb2RzVVktUDJvcU9fUmhaN1BibDFxa3NId1pIN3RVa2U4TVl4THlsMEk0WnFRNXlrM1RsQjQ?oc=5",
+            "source": "Finanzen.net",
+            "published": "17.10., 08:29"
           },
           {
             "title": "Gold zurück über 4.180 Dollar – Yugo hat in Europa bereits 36 Meter mit 2,3 g/t entdeckt - Small Microcap",
             "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeV96dU95ZWxsY0tFcUlKbV8zRlhMVWRFTmVEZDEzbmQxamk0bHZMYzMzdWdnR2FqbWdiem1xUFZvcHBtT3pyenppc3Q4YTY3dThtb3Vsc0llZG1taW8xX3ZiU0VIaWVGVy05ZjVDWmhZQkNlZ2YzUDFOY3BrRUY1c0RzUlVYUmhabFdGT1BUWWRRS1J5LUQ5TUdGcUZORjZsc1RPYjRsZmN0cTNndGNTcTUtZkE?oc=5",
             "source": "Small Microcap",
             "published": "17.10., 06:00"
-          },
-          {
-            "title": "Goldpreis: Rücksetzer als Einstiegschance? UBS hält 5.400 US-Dollar für möglich - finanzen.at",
-            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTTRtX0R2Z1l4Y19rdzktSUhZcXFGcWNxcl9fNlpqeWlWQjduTXNLVlIzel8waTRMTDNoemZqaFVtMmJjWXpFX2R5WmNSMUd1dG9DaWhVS015UGtGYXY2SGJ3Umk1akx1RE5Sd0RxVnNXNGVYVkxVQXhaSDNBamp0R1A3R21vN1lQcXJhMzg2WnVVb24zMHd5aGdNOTFRdFdMcXdOZFRjdFNVNzUwSkh3WDZrVXBydHVZQzlYSGE3R200a0wxd0lpdGktb1BkSXJzbW5B?oc=5",
-            "source": "finanzen.at",
-            "published": "16.10., 14:58"
           },
           {
             "title": "Goldpreis: Fed macht Hoffnung – doch heute wartet der nächste Härtetest - Wallstreet Online",
