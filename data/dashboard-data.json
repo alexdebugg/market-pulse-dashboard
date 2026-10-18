@@ -1,8 +1,8 @@
 {
   "is_sample": false,
   "source": "Yahoo Finance Kursdaten + Google News RSS Kontext",
-  "generated_at_utc": "2026-10-18T08:32:07+00:00",
-  "generated_at_vienna": "18.10.2026, 10:32 Uhr",
+  "generated_at_utc": "2026-10-18T18:26:34+00:00",
+  "generated_at_vienna": "18.10.2026, 20:26 Uhr",
   "market_mood_internal": "neutral",
   "assets": [
     {
@@ -812,14 +812,14 @@
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
           "US-Dollar",
+          "KI/Tech",
           "China/EM",
-          "Geopolitik/Sicherheit",
-          "Gewinne/Analysten"
+          "Geopolitik/Sicherheit"
         ],
         "bullets": [
           "Der Kurs ist deutlich gefallen: -1.00 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: US-Dollar, China/EM, Geopolitik/Sicherheit, Gewinne/Analysten.",
-          "Wichtigste gefundene Headlines: Xtrackers Emerging Markets ETF: Erfolg durch Absicherung - Börse Express | Schwacher US-Dollar und hohe Defizite: Rückenwind für Emerging Markets? - e-fundresearch.com."
+          "Gefundene Nachrichten-Themen: US-Dollar, KI/Tech, China/EM, Geopolitik/Sicherheit.",
+          "Wichtigste gefundene Headlines: Xtrackers Emerging Markets ETF: Erfolg durch Absicherung - Börse Express | EM-Anleihen: Diese rohstoffreichen Schwellenländer profitieren - das investment."
         ],
         "headlines": [
           {
@@ -829,16 +829,16 @@
             "published": "28.03., 08:00"
           },
           {
-            "title": "Schwacher US-Dollar und hohe Defizite: Rückenwind für Emerging Markets? - e-fundresearch.com",
-            "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdW5LT0NkQVByWUhHM2JvRDZVWERXUW5RWnpWcEpzVVNxRDA2QzgwTEJBQ3p4Y2lYU1NEelhUa1hUZzJyUDg4SnJPTXVmQUppQzRoalhkVURTWEJtaHZ1Zk1MMHNXekE0ZkpyM2x4aTI3UmU0bkU3REl6NXYyVnZIWWxCckFXT3pKaVdvQlp0cFQxMmpPS3lTN0U4ajBWTHd0NGJHVFI2T0Nhc3hhQ2ZSQkJqclRfaWZYMUVEaERfYXcxdklzYXlvRXY5c2R3ZHJDVUpjZmt4TXlQYWNxSHhCSE83cGVjQzc2Nnc?oc=5",
-            "source": "e-fundresearch.com",
-            "published": "25.11., 09:00"
-          },
-          {
             "title": "EM-Anleihen: Diese rohstoffreichen Schwellenländer profitieren - das investment",
             "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNGJtcEp3MGtIVGNpekNsNWQtbnNYaHhIS2JyMHhWYUlDai1mRjZuQ1VRVmZ5c3ZDRE5malN3TTBJMTMza2x4MGpWaUszZDNiZlJMWWd4TnM4RmxYQThTSDFlZF9USUNIQU1pVEpqRVhxYnU3WUNkcHdqYVBBQVFhX3FuZWpNSHpLNUp3N3ZDOTBwLXhJTk5iNDRtSnRYMXQzdE5vX2RR?oc=5",
             "source": "das investment",
             "published": "29.05., 09:00"
+          },
+          {
+            "title": "Auftragsbestand an Cloud-Verpflichtungen der großen Hyperscaler knackt Zwei-Billionen-Dollar-Marke - e-fundresearch.com",
+            "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQQm5peXZPU0VVMm1WaG0xa3BtektaanZZQW5DY0RncjI3cm5uX1pZRlRnQW5xTHBITG5NWlNKVHlwVVdhb2cxVFUzZDM1cmVIOGZKbmhpT2h4cjJfdFJUQ3hiak1hVUFoc3Y1NzItYW1wS2l6OXRfSFlSWnIxWjhMZGh4SUZhYTZfaC02NHVVSTd1Z3FWTFU2TlpGanVKN3F1MVNwWmtwSGV6R2J6WFlSeFJuYXlwU0V4ZTRPWU1vYURfUmNBdGJacDVsYkdNa3B6ZG5VYUJySFd3c0YzNFIxcXFaRUJyRE54TW03QWpQR2VTQQ?oc=5",
+            "source": "e-fundresearch.com",
+            "published": "06.07., 09:00"
           },
           {
             "title": "Kapitalmärkte: Iran-Krieg wird zum Stresstest für die Schwellenländer - Handelsblatt",
@@ -1235,11 +1235,12 @@
         "summary": "Kaum Kursbewegung: Obwohl aktuelle Schlagzeilen gefunden wurden, ist die Tagesbewegung zu klein für eine sinnvolle Ursache-Wirkung-Aussage.",
         "themes": [
           "Zinsen/Fed",
+          "KI/Tech",
           "China/EM"
         ],
         "bullets": [
           "Der Kurs liegt nahezu unverändert gegenüber dem letzten Schlusskurs.",
-          "Gefundene Nachrichten-Themen: Zinsen/Fed, China/EM.",
+          "Gefundene Nachrichten-Themen: Zinsen/Fed, KI/Tech, China/EM.",
           "Wichtigste gefundene Headlines: Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraETF | ETF-Portfolio – die besten Musterportfolios und ETF-Strategien - Finanzen.net."
         ],
         "headlines": [
@@ -1262,10 +1263,10 @@
             "published": "06.07., 09:00"
           },
           {
-            "title": "MSCI World Small Cap ETFs 2026 - LYNX Online Broker",
-            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcU4yRTBRZ25DSmViRmFBTVBTcFJDOGZUQ2JCcFpBaDZjaGlUY0dSRjc1dzl1OW51bC1kOUFoazhiTE5nblRzVzhIVVJoRE9Ec0NibURya0x3cnNSVkxjbGRzVWhyN1hvM0RLV3VyNEVxUHpjM0lwNk9reFFENThtam5ndU9hYlpwS3JaTEliQXB4dw?oc=5",
-            "source": "LYNX Online Broker",
-            "published": "13.09., 09:00"
+            "title": "Nasdaq 100 Records Worst Week In 18 Months As Investors Steer Clear Of Chipmakers — AAPL, MSTR, UBER, SOXX In Focus - TradingView",
+            "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPNzBfMW96enViTW1pelJCbEdmRmlxSjcwelFDa0ZHSnhuRlQ1VWQteTdidkQ5R2hpeWJUX2I1WlRzVkdrV2xjcElsTzFRS3ZLdmJIeUM5UENKTm94ZEZBMVJidVRFVXdDY25kanVLUHhvMVhqQzl6UUJLbmVTcFc1VjktaXJSV0VUQlhycWd1SVM2N2hwV3JfVldBaktsSUZmbGlaQ08zREdzM1IwVVh2bnR6Smg3cUhUWG9MNUFLczNJX3NiTXZlU0V0azFUM0N6WElqWk5QcXNZT1pTa3FTN0M3ZTZEanRjSm85eGg2TFBoc016OVNpYk9aZ2hRcTA?oc=5",
+            "source": "TradingView",
+            "published": "17.10., 00:15"
           }
         ]
       }
@@ -1652,16 +1653,15 @@
       ],
       "explanation": {
         "direction": "gefallen",
-        "confidence": "mittel",
-        "summary": "Plausibler Nachrichtenbezug: Der Kurs ist gefallen und die gefundenen Schlagzeilen enthalten überwiegend belastend wirkende Formulierungen. Die Quellen passen damit zur Richtung, beweisen aber keine Kausalität.",
+        "confidence": "niedrig",
+        "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
-          "US-Dollar",
           "KI/Tech",
           "Regulierung"
         ],
         "bullets": [
           "Der Kurs ist deutlich gefallen: -2.47 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: US-Dollar, KI/Tech, Regulierung.",
+          "Gefundene Nachrichten-Themen: KI/Tech, Regulierung.",
           "Wichtigste gefundene Headlines: Gemini 4 Argon: Entwickelt, um eure schwierigsten Probleme zu lösen - blog.google | Alphabet Aktie: Google kündigt Änderungen für AI Mode an - Börse Express."
         ],
         "headlines": [
@@ -1669,7 +1669,7 @@
             "title": "Gemini 4 Argon: Entwickelt, um eure schwierigsten Probleme zu lösen - blog.google",
             "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1HSTJpZVhzNGNnQXQ1U0N1WENLR0N0ZktsOEFTZ0NQQXNKYnRHeVU5T1JBZWgtdjZqdVdIZUJHM3l0bHp2SkZ1alZSeGpxbXdNWXl4YjdqYTRoYWNNNDB3dHdmS2hSWHRhdE0tLVZTZGt2Rm4z?oc=5",
             "source": "blog.google",
-            "published": "18.10., 09:51"
+            "published": "18.10., 18:22"
           },
           {
             "title": "Alphabet Aktie: Google kündigt Änderungen für AI Mode an - Börse Express",
@@ -1678,16 +1678,16 @@
             "published": "18.10., 03:41"
           },
           {
-            "title": "Google AI Plus: Gemini Pro fällt ab 13. November für 4,99-Dollar-Kunden weg - BornCity",
-            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ0NOQUtjRm5Qb0xFdzZXUEUxcndRbjBmWFYyUEh4WjBZdFgxUG10LXVnQlM5R1dkdE82b3hLY0VPWHFwYnZQSnNabmRmdWlLTHZTR3dKbTctM2RUaTI2VGdUZHZmNXhwRk9HbE8xMUJ3bUctcVVYLVd3eDNYUVJMVnFQNDF3N2Q3eXUzejFxbVJTR0Q3MjlPY2NRLVo1bzFvam5N?oc=5",
-            "source": "BornCity",
-            "published": "16.10., 09:59"
-          },
-          {
             "title": "Agentic AI mit Google Cloud skalieren - NTT Data",
             "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOEp3Q01YWnNSVUVlVlBoY3pBVExZTUhac1lSSVFlNldtYWRjQmV3dFBWdE1mWDQza1o2MWh5LTVFQzZCbXZBcVd3SW5TaV9zTFU5c2hRc1AzMEp2V0MtUjJkWENYTXg3UWZKc0F5UktMaGNKSk1HdHJ4ckNMVkFMQWp4WmhHRGpjRFIxeGVudVc4emxrLVIxNHhnZWtISzBqNWVjQXZn?oc=5",
             "source": "NTT Data",
             "published": "14.10., 00:11"
+          },
+          {
+            "title": "Gemini: Google streicht Pro-Modelle für AI-Plus-Abonnenten ab 13. November - Golem",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbDNnN095VE1iMlBNRE9ZdUZCUlEtUFoxak4wcXZMVG1wQ3dLZmp3WjJma0xpQTBWY3NBNmdWVDlrSlhzbkpHQzFxN3A2MWFLUW1maExTOFVsU0NWeHNQY3dLZEVNZFhxemFTZTFLOFlzcjlIcDVpemtnaFA2QmFMZnlDcFBhS3ZWVUlnbThoeWhjZXRPekFUNHBnR2lVTmpMMUdJTWRpX3V1NU9XaVEyRm90cw?oc=5",
+            "source": "Golem",
+            "published": "16.10., 09:34"
           }
         ]
       }
@@ -2077,20 +2077,21 @@
         "confidence": "niedrig",
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
+          "Zinsen/Fed",
           "Inflation",
           "US-Dollar"
         ],
         "bullets": [
           "Der Kurs ist leicht gestiegen: +0.26 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: Inflation, US-Dollar.",
-          "Wichtigste gefundene Headlines: Gold: Rendite-Rückgang stützt, Inflation bremst - Börse Express | Inflation drückt Gold – Hublot setzt auf Retro, Textilriesen auf Recycling - Wallstreet Online."
+          "Gefundene Nachrichten-Themen: Zinsen/Fed, Inflation, US-Dollar.",
+          "Wichtigste gefundene Headlines: Gold: Fed-Präsidentin Daly signalisiert Zins-Pause - Börse Express | Inflation drückt Gold – Hublot setzt auf Retro, Textilriesen auf Recycling - Wallstreet Online."
         ],
         "headlines": [
           {
-            "title": "Gold: Rendite-Rückgang stützt, Inflation bremst - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTVpqT3hETGNvNjJJUWdoY0dMZG1aWS05MzE1OG9TQklhd05pS2otS2dLdHlRTVdNcy1WQjRqY1VWVzAtTEprNWRkRWp4SWhIVjJGWDg1WDNHNllYWGJOS0ZlY0p2NkFTMmNkQW84ZGc1UTJIbEdtUGF1MF9taDdzN2JGSTlMMWxSenRiSjVtZVg5d2FiaTRfMk9XUWF2bmRT?oc=5",
+            "title": "Gold: Fed-Präsidentin Daly signalisiert Zins-Pause - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcnNRaXhoRXFiamIwc1V6cDlzaWxseFprb1pxR1dvb3JqdGREa2t1ZDh1eGliblJNZDJKQWVsWGpvREpmOUc1a2xuQXV2S3FPYjktODRkcjk1b2c3czJ0bF80cEZxSjNncGJNRFVSVHd4STFoYnZtNW1nODdOQ09GdFc2NTVjcGFRb3dOZnV6LTc2Z0dmQUg5OGJteG5LdnlhcGFzYQ?oc=5",
             "source": "Börse Express",
-            "published": "17.10., 17:34"
+            "published": "15.10., 14:56"
           },
           {
             "title": "Inflation drückt Gold – Hublot setzt auf Retro, Textilriesen auf Recycling - Wallstreet Online",
@@ -2099,16 +2100,16 @@
             "published": "18.10., 07:48"
           },
           {
+            "title": "Baldiger Gold-Boom? So kannst du ins Edelmetall investieren - Blick",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSDhkSkFzUmU4WS0tbUljSzU0TmxNdHRncW9LN0J1WHVqUjdORHdYTi00R29xelg4RE14bUFLUU5FaGFnYWI5RC1hNHRqUmhkS2Ezd0gxWTkyYkcxXzluUG0tWUNUNXVtcUJ3d2UtYkpXbEtmSG1PM2RlSlZaNUlIc1pqZ3hRWEJBblRlT2t2b1Y5NHFEXzFWNFpnRkVpSWJFNEZ3RQ?oc=5",
+            "source": "Blick",
+            "published": "18.10., 15:03"
+          },
+          {
             "title": "Goldpreis: Rücksetzer als Einstiegschance? UBS hält 5.400 US-Dollar für möglich - finanzen.at",
             "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTTRtX0R2Z1l4Y19rdzktSUhZcXFGcWNxcl9fNlpqeWlWQjduTXNLVlIzel8waTRMTDNoemZqaFVtMmJjWXpFX2R5WmNSMUd1dG9DaWhVS015UGtGYXY2SGJ3Umk1akx1RE5Sd0RxVnNXNGVYVkxVQXhaSDNBamp0R1A3R21vN1lQcXJhMzg2WnVVb24zMHd5aGdNOTFRdFdMcXdOZFRjdFNVNzUwSkh3WDZrVXBydHVZQzlYSGE3R200a0wxd0lpdGktb1BkSXJzbW5B?oc=5",
             "source": "finanzen.at",
-            "published": "16.10., 14:58"
-          },
-          {
-            "title": "Gold: Dollar-Stärke überlagert Fondskäufe - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRWc3d1JWSzR1b0tQMEd6cmVYVkluVm1xbUNnajVsSk55X2gyNF8tYll0bTNlMlBpTWpQOUxjMVpBTHdlN0ZHRzdhUElEWHdnZVZoWmIybnRBdkZ4d0gzcmV0S3BCcnlmZ3lVaGprUlN1enpaX3RVVzVtVGFuVWJZQ2htTlVsTHc5dEx4ZW1YTWMzZy00eXQ2Zy1YOA?oc=5",
-            "source": "Börse Express",
-            "published": "13.10., 06:47"
+            "published": "16.10., 22:47"
           }
         ]
       }
