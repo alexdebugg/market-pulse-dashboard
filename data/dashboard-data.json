@@ -1,8 +1,8 @@
 {
   "is_sample": false,
   "source": "Yahoo Finance Kursdaten + Google News RSS Kontext",
-  "generated_at_utc": "2026-10-21T09:06:40+00:00",
-  "generated_at_vienna": "21.10.2026, 11:06 Uhr",
+  "generated_at_utc": "2026-10-21T19:54:39+00:00",
+  "generated_at_vienna": "21.10.2026, 21:54 Uhr",
   "market_mood_internal": "neutral",
   "assets": [
     {
@@ -13,21 +13,17 @@
       "description": "iShares Core MSCI World UCITS ETF als handelbarer Developed-Markets-Proxy",
       "price_decimals": 2,
       "last_date": "2026-10-21",
-      "last_close": 130.67999267578125,
-      "previous_close": 130.72000122070312,
-      "change_abs": -0.04,
-      "change_pct": -0.03,
-      "change_5d_pct": -0.8,
-      "change_1m_pct": 1.64,
-      "change_3m_pct": 5.01,
+      "last_close": 131.22500610351562,
+      "previous_close": 130.43499755859375,
+      "change_abs": 0.79,
+      "change_pct": 0.61,
+      "change_5d_pct": -0.43,
+      "change_1m_pct": 1.44,
+      "change_3m_pct": 4.72,
       "change_1y_pct": null,
-      "ytd_pct": 16.91,
-      "volatility_30d_pct": 8.79,
+      "ytd_pct": 17.4,
+      "volatility_30d_pct": 8.45,
       "sparkline": [
-        {
-          "date": "2026-06-17",
-          "close": 124.20999908447266
-        },
         {
           "date": "2026-06-18",
           "close": 124.63999938964844
@@ -381,22 +377,28 @@
           "close": 130.72000122070312
         },
         {
+          "date": "2026-10-20",
+          "close": 130.43499755859375
+        },
+        {
           "date": "2026-10-21",
-          "close": 130.67999267578125
+          "close": 131.22500610351562
         }
       ],
       "explanation": {
-        "direction": "kaum verändert",
+        "direction": "gestiegen",
         "confidence": "niedrig",
-        "summary": "Kaum Kursbewegung: Obwohl aktuelle Schlagzeilen gefunden wurden, ist die Tagesbewegung zu klein für eine sinnvolle Ursache-Wirkung-Aussage.",
+        "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
-          "China/EM",
-          "Geopolitik/Sicherheit"
+          "KI/Tech",
+          "Regulierung",
+          "Geopolitik/Sicherheit",
+          "Gewinne/Analysten"
         ],
         "bullets": [
-          "Der Kurs liegt nahezu unverändert gegenüber dem letzten Schlusskurs.",
-          "Gefundene Nachrichten-Themen: China/EM, Geopolitik/Sicherheit.",
-          "Wichtigste gefundene Headlines: Die 15 größten Aktien im S&P 500 machen jetzt 47% des Indexwerts aus: Im Jahr 2000 waren es 27% - BeInCrypto | NASDAQ Global plus China A Shares Index - boerse.de."
+          "Der Kurs ist spürbar gestiegen: +0.61 % gegenüber dem vorherigen Schlusskurs.",
+          "Gefundene Nachrichten-Themen: KI/Tech, Regulierung, Geopolitik/Sicherheit, Gewinne/Analysten.",
+          "Wichtigste gefundene Headlines: Die 15 größten Aktien im S&P 500 machen jetzt 47% des Indexwerts aus: Im Jahr 2000 waren es 27% - BeInCrypto | Tesla und Meta: Zahlen zum 3. Quartal 2026 und Nasdaq 100 - Admirals."
         ],
         "headlines": [
           {
@@ -406,22 +408,22 @@
             "published": "21.10., 08:12"
           },
           {
-            "title": "NASDAQ Global plus China A Shares Index - boerse.de",
-            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZ3pRbEUxRGFPZ08tQnJNN3JjSURtVjVJX2tFdWI2ZFNORjhFZWw3MzdWTDdzZXJpbnY0NGJmM2VnRkROOFJteWE0V0NNWkg3WjN1RlRiam5PR1paem9lMG9JeHlVaERZaDQ1WDNYemxJTG9CZG1OeHFnRVhIellDV3BnV25ab05DZkE?oc=5",
-            "source": "boerse.de",
-            "published": "20.10., 07:46"
+            "title": "Tesla und Meta: Zahlen zum 3. Quartal 2026 und Nasdaq 100 - Admirals",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTks5ejRGbmZQQmRnYTdjeXpLVGNKSkIzaTBzQTg0TFdCRkRZYVk4OEFiZ2JJNEY2NXlWczhMeWdKSGFxajZHYUI0RGwxZ29WZVVFRE1EM1d0WDQxbkotZEJjNklpekd6dDlySmVFSV9yeTVDY3prVDFucnd1Y202cHFYcnVhSHpGNGhHZ1FaWnQ4YTM1REFkdnV3?oc=5",
+            "source": "Admirals",
+            "published": "21.10., 12:20"
           },
           {
-            "title": "Leverage Shares -5x Short Nasdaq 100 ETP Securities | XS3373449761 | A4AU1Y - extraETF",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmZUhjNmxQU3JodWVkRkFCMUR2M3d0Y0x6NTdOTDNIU0dvWFB2OFBGaUN4UktyMTdaV3hhQ0JsWG1mZUJPSkI5dnJYOC1sRXM1cVNRVElQaFZ5QmRY?oc=5",
-            "source": "extraETF",
-            "published": "19.06., 18:15"
+            "title": "Heutiger Marktrückblick: US-Aktien erholen sich, Nasdaq legt um 1,11 % zu, Speicherchip-Aktien im Aufwind, SanDisk klettert um 5,5 % - Trad…",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNU21EYTJkMDJVQmRUcEVyOWZFVkswTUs5RUdzVW5yZ1FBNFhOdUJ4SGR2QzZGVFg2c3FoT1NGOHVrc3ZDbW5BQ0N6U3pBUkowMUEzOVRzX3NLV29iSVZLYUcyMFg2eHotdTlWblhWcXBNLVl1RzZUVFloSldkelNmMXJtLTBNN01iYXlfUDRUTzRnZFRUQnl3NWd1bU9lblgxRVlpVzhqSGpsU1YzZlJESFJFV2NsT1R5VkZV?oc=5",
+            "source": "TradingKey",
+            "published": "19.10., 17:49"
           },
           {
-            "title": "Nasdaq Up Volume vs Down Volume — Indikator von NoNobilityInPoverty - TradingView",
-            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdG96SG5uU0QtOEVOckhmT0VtZmEzeEhEVWE4VGNnNDFyMEhObG5FQ0V1eFZ0UFN0SXZIUVZJOXBKNHNzLTlpVEhsRl9qdlJqZjJwQUl5ejBLeGZhdDNxWWtLRm5iSkJiQlVaTFJxSE5fM05YQ1VOWXBCN2FPRXFtMA?oc=5",
-            "source": "TradingView",
-            "published": "18.10., 18:11"
+            "title": "DeFi-Token führen Kryptowährungen nach oben, während die Nasdaq-Futures sich erholen und das chinesische BIP die Schätzungen übertrifft - C…",
+            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPV0hON2lqMjE4d1dNVzhlNlFSRlBxU0JYZW0wMkkzNTJ4VkFDU3E4bEQzb3lZVThSakdZWk82Z3hUY1M5Wmc1aU92bFNmNVB0Y2llcDZOR3RpSk91aFJVMjBvNERnUktrUUZHd0lTSDViT1VINFRSY3BoWms2c1BLWDF1Y3RoT1FheHhvakF0YXFoR3ZrRHFIWlJKZU1CRzlFT21ycC1BTEJOVG16OVNOYnJDM3NKWUxwQmY3NmxGbm9zel8xUDlRdlJUdGxCbHc?oc=5",
+            "source": "CoinDesk",
+            "published": "19.10., 12:26"
           }
         ]
       }
@@ -434,21 +436,17 @@
       "description": "iShares Core MSCI EM IMI UCITS ETF als Emerging-Markets-Proxy",
       "price_decimals": 2,
       "last_date": "2026-10-21",
-      "last_close": 46.4900016784668,
-      "previous_close": 46.73899841308594,
-      "change_abs": -0.25,
-      "change_pct": -0.53,
-      "change_5d_pct": -3.37,
-      "change_1m_pct": -4.99,
-      "change_3m_pct": 0.7,
+      "last_close": 46.59299850463867,
+      "previous_close": 46.380001068115234,
+      "change_abs": 0.21,
+      "change_pct": 0.46,
+      "change_5d_pct": -2.48,
+      "change_1m_pct": -5.21,
+      "change_3m_pct": 1.45,
       "change_1y_pct": null,
-      "ytd_pct": 21.23,
-      "volatility_30d_pct": 19.08,
+      "ytd_pct": 21.5,
+      "volatility_30d_pct": 19.18,
       "sparkline": [
-        {
-          "date": "2026-06-17",
-          "close": 49.24700164794922
-        },
         {
           "date": "2026-06-18",
           "close": 50.15399932861328
@@ -802,12 +800,16 @@
           "close": 46.73899841308594
         },
         {
+          "date": "2026-10-20",
+          "close": 46.380001068115234
+        },
+        {
           "date": "2026-10-21",
-          "close": 46.4900016784668
+          "close": 46.59299850463867
         }
       ],
       "explanation": {
-        "direction": "gefallen",
+        "direction": "gestiegen",
         "confidence": "niedrig",
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
@@ -817,9 +819,9 @@
           "Gewinne/Analysten"
         ],
         "bullets": [
-          "Der Kurs ist spürbar gefallen: -0.53 % gegenüber dem vorherigen Schlusskurs.",
+          "Der Kurs ist spürbar gestiegen: +0.46 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: US-Dollar, China/EM, Geopolitik/Sicherheit, Gewinne/Analysten.",
-          "Wichtigste gefundene Headlines: Xtrackers Emerging Markets ETF: Erfolg durch Absicherung - Börse Express | EM-Anleihen: Diese rohstoffreichen Schwellenländer profitieren - das investment."
+          "Wichtigste gefundene Headlines: Xtrackers Emerging Markets ETF: Erfolg durch Absicherung - Börse Express | Schwacher US-Dollar und hohe Defizite: Rückenwind für Emerging Markets? - e-fundresearch.com."
         ],
         "headlines": [
           {
@@ -829,16 +831,16 @@
             "published": "28.03., 08:00"
           },
           {
-            "title": "EM-Anleihen: Diese rohstoffreichen Schwellenländer profitieren - das investment",
-            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNGJtcEp3MGtIVGNpekNsNWQtbnNYaHhIS2JyMHhWYUlDai1mRjZuQ1VRVmZ5c3ZDRE5malN3TTBJMTMza2x4MGpWaUszZDNiZlJMWWd4TnM4RmxYQThTSDFlZF9USUNIQU1pVEpqRVhxYnU3WUNkcHdqYVBBQVFhX3FuZWpNSHpLNUp3N3ZDOTBwLXhJTk5iNDRtSnRYMXQzdE5vX2RR?oc=5",
-            "source": "das investment",
-            "published": "29.05., 09:00"
-          },
-          {
             "title": "Schwacher US-Dollar und hohe Defizite: Rückenwind für Emerging Markets? - e-fundresearch.com",
             "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdW5LT0NkQVByWUhHM2JvRDZVWERXUW5RWnpWcEpzVVNxRDA2QzgwTEJBQ3p4Y2lYU1NEelhUa1hUZzJyUDg4SnJPTXVmQUppQzRoalhkVURTWEJtaHZ1Zk1MMHNXekE0ZkpyM2x4aTI3UmU0bkU3REl6NXYyVnZIWWxCckFXT3pKaVdvQlp0cFQxMmpPS3lTN0U4ajBWTHd0NGJHVFI2T0Nhc3hhQ2ZSQkJqclRfaWZYMUVEaERfYXcxdklzYXlvRXY5c2R3ZHJDVUpjZmt4TXlQYWNxSHhCSE83cGVjQzc2Nnc?oc=5",
             "source": "e-fundresearch.com",
             "published": "25.11., 09:00"
+          },
+          {
+            "title": "EM-Anleihen: Diese rohstoffreichen Schwellenländer profitieren - das investment",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNGJtcEp3MGtIVGNpekNsNWQtbnNYaHhIS2JyMHhWYUlDai1mRjZuQ1VRVmZ5c3ZDRE5malN3TTBJMTMza2x4MGpWaUszZDNiZlJMWWd4TnM4RmxYQThTSDFlZF9USUNIQU1pVEpqRVhxYnU3WUNkcHdqYVBBQVFhX3FuZWpNSHpLNUp3N3ZDOTBwLXhJTk5iNDRtSnRYMXQzdE5vX2RR?oc=5",
+            "source": "das investment",
+            "published": "29.05., 09:00"
           },
           {
             "title": "Kapitalmärkte: Iran-Krieg wird zum Stresstest für die Schwellenländer - Handelsblatt",
@@ -857,21 +859,17 @@
       "description": "iShares MSCI World Small Cap UCITS ETF als Small-Cap-Proxy",
       "price_decimals": 3,
       "last_date": "2026-10-21",
-      "last_close": 9.053000450134277,
-      "previous_close": 9.003999710083008,
-      "change_abs": 0.049,
-      "change_pct": 0.54,
-      "change_5d_pct": 0.01,
-      "change_1m_pct": 0.23,
-      "change_3m_pct": 0.5,
+      "last_close": 9.097999572753906,
+      "previous_close": 9.038999557495117,
+      "change_abs": 0.059,
+      "change_pct": 0.65,
+      "change_5d_pct": 0.74,
+      "change_1m_pct": 0.22,
+      "change_3m_pct": 0.13,
       "change_1y_pct": null,
-      "ytd_pct": 16.36,
-      "volatility_30d_pct": 11.58,
+      "ytd_pct": 16.94,
+      "volatility_30d_pct": 11.11,
       "sparkline": [
-        {
-          "date": "2026-06-17",
-          "close": 9.081999778747559
-        },
         {
           "date": "2026-06-18",
           "close": 9.09000015258789
@@ -1225,22 +1223,26 @@
           "close": 9.003999710083008
         },
         {
+          "date": "2026-10-20",
+          "close": 9.038999557495117
+        },
+        {
           "date": "2026-10-21",
-          "close": 9.053000450134277
+          "close": 9.097999572753906
         }
       ],
       "explanation": {
         "direction": "gestiegen",
-        "confidence": "mittel",
-        "summary": "Plausibler Nachrichtenbezug: Der Kurs ist gestiegen und die gefundenen Schlagzeilen enthalten überwiegend positiv wirkende Formulierungen. Die Quellen passen damit zur Richtung, beweisen aber keine Kausalität.",
+        "confidence": "niedrig",
+        "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
           "Zinsen/Fed",
-          "KI/Tech",
+          "US-Dollar",
           "China/EM"
         ],
         "bullets": [
-          "Der Kurs ist spürbar gestiegen: +0.54 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: Zinsen/Fed, KI/Tech, China/EM.",
+          "Der Kurs ist spürbar gestiegen: +0.65 % gegenüber dem vorherigen Schlusskurs.",
+          "Gefundene Nachrichten-Themen: Zinsen/Fed, US-Dollar, China/EM.",
           "Wichtigste gefundene Headlines: Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraETF | Diese US-Small-Cap-Aktien sind jetzt attraktiv - Morningstar."
         ],
         "headlines": [
@@ -1263,10 +1265,10 @@
             "published": "30.09., 09:00"
           },
           {
-            "title": "Nasdaq 100 Records Worst Week In 18 Months As Investors Steer Clear Of Chipmakers — AAPL, MSTR, UBER, SOXX In Focus - TradingView",
-            "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPNzBfMW96enViTW1pelJCbEdmRmlxSjcwelFDa0ZHSnhuRlQ1VWQteTdidkQ5R2hpeWJUX2I1WlRzVkdrV2xjcElsTzFRS3ZLdmJIeUM5UENKTm94ZEZBMVJidVRFVXdDY25kanVLUHhvMVhqQzl6UUJLbmVTcFc1VjktaXJSV0VUQlhycWd1SVM2N2hwV3JfVldBaktsSUZmbGlaQ08zREdzM1IwVVh2bnR6Smg3cUhUWG9MNUFLczNJX3NiTXZlU0V0azFUM0N6WElqWk5QcXNZT1pTa3FTN0M3ZTZEanRjSm85eGg2TFBoc016OVNpYk9aZ2hRcTA?oc=5",
-            "source": "TradingView",
-            "published": "17.10., 00:15"
+            "title": "Altcoins legen bei geringem Handelsvolumen zu, während Bitcoin unter 83.500 US-Dollar bleibt - CoinDesk",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQV0hwcko4LTR2NktRQndZcl93WnlQR1JjWGlTU3RMYzNoU3FvYzRUX3RxaEtFdzRiUWtMVHhkeWdfdVROeHZ2UXR4MFZ2djRhUXk1ZUY3Z2M5dVZFS2h6dHFpRXY1YWUtdWVXWEthdHlJTlVMODVNX2ZjNVB2NE02YnJzbGVhRWVrazgwcVh6VHExNzZBVTRpV29WVUhsZmhtSnJWd2NBc1JJNlVmV2c?oc=5",
+            "source": "CoinDesk",
+            "published": "12.10., 09:00"
           }
         ]
       }
@@ -1278,22 +1280,18 @@
       "currency": "USD",
       "description": "Alphabet Inc. Class A",
       "price_decimals": 2,
-      "last_date": "2026-10-20",
-      "last_close": 340.2799987792969,
-      "previous_close": 344.17999267578125,
-      "change_abs": -3.9,
-      "change_pct": -1.13,
-      "change_5d_pct": -3.82,
-      "change_1m_pct": -4.14,
-      "change_3m_pct": -0.53,
+      "last_date": "2026-10-21",
+      "last_close": 335.010009765625,
+      "previous_close": 340.2799987792969,
+      "change_abs": -5.27,
+      "change_pct": -1.55,
+      "change_5d_pct": -3.63,
+      "change_1m_pct": -4.6,
+      "change_3m_pct": 5.45,
       "change_1y_pct": null,
-      "ytd_pct": 8.72,
-      "volatility_30d_pct": 23.65,
+      "ytd_pct": 7.03,
+      "volatility_30d_pct": 23.12,
       "sparkline": [
-        {
-          "date": "2026-06-12",
-          "close": 359.67999267578125
-        },
         {
           "date": "2026-06-15",
           "close": 369.3500061035156
@@ -1649,6 +1647,10 @@
         {
           "date": "2026-10-20",
           "close": 340.2799987792969
+        },
+        {
+          "date": "2026-10-21",
+          "close": 335.010009765625
         }
       ],
       "explanation": {
@@ -1660,16 +1662,16 @@
           "Regulierung"
         ],
         "bullets": [
-          "Der Kurs ist deutlich gefallen: -1.13 % gegenüber dem vorherigen Schlusskurs.",
+          "Der Kurs ist deutlich gefallen: -1.55 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: KI/Tech, Regulierung.",
-          "Wichtigste gefundene Headlines: Google-Cloud-Ausfall trifft Revolut und ING in Europa - FAZ | Großausfall bei Google führt zu zahlreichen Störungen - ORF."
+          "Wichtigste gefundene Headlines: Nvidia Aktie: Google Cloud kündigt Rubin-Instanzen an - Börse Express | Großausfall bei Google führt zu zahlreichen Störungen - ORF."
         ],
         "headlines": [
           {
-            "title": "Google-Cloud-Ausfall trifft Revolut und ING in Europa - FAZ",
-            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONFdMRUZ6RDdmVFFfVXh6ZTRxaC1RRW5DbW5zTzRuRTJQOUVRWGt2LXJJckxiakQ4OFcxSmw5UXNRX18xQl9iOVB3ZnRXMTFmWmQyTkVpZjEwNENKRmNBa3VMRjh6V1VXVXA0b055TlFwZF82U2F5bC1tQVdKNnN1Zm56bXBFQzV5VHZRVXNzTjdDX1FiM1BLYnc0VHJOTGhHVENLbS0yT2ZWSXBVXzJB?oc=5",
-            "source": "FAZ",
-            "published": "20.10., 15:00"
+            "title": "Nvidia Aktie: Google Cloud kündigt Rubin-Instanzen an - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZEp3OU1seER1bnRUdzNOajJTdXBGd1RjS0dPSTBvY0NsYTQ2a0h0Q2lXMGJlblRBNjZ2RU1lSTJxZF9hRlRlNWhHU083SGlKaEh3TDZwelJNQnNxeERtdG9HaURYX2xVUXFuLUVuMS1LaFpfMk5sOGlxcWxPbVJVem11RnNIbGhJR0VJNXYyQmI5aERINnM5TzRESjkyYjgxYjYtS09UZlM?oc=5",
+            "source": "Börse Express",
+            "published": "21.10., 20:43"
           },
           {
             "title": "Großausfall bei Google führt zu zahlreichen Störungen - ORF",
@@ -1678,16 +1680,16 @@
             "published": "20.10., 13:39"
           },
           {
-            "title": "Google-Cloud-Ausfall legt Revolut und weitere Unternehmen lahm - Heise Online",
-            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOR3FvaDk1WmFmN1BXZ0lNS0x2RHE1QmYwVmZ3WXNRWFltSHNxdFdXZGl6b0ZTUEFqYnJjM2wyejhqcDVfckQyME0wMDBzOWVrd0hha0Mzd3FCV2F6dGVzZVp1SFdOWERlTTFmWFUxcm5nQll1c29BWUdBNEdvejFNQWd4S29sb3d0N2tXU2Mzc1lSbjdnd1MxWDdvN2xGWEtvczUtMA?oc=5",
-            "source": "Heise Online",
-            "published": "20.10., 15:02"
+            "title": "Google-Cloud-Ausfall trifft Revolut und ING in Europa - FAZ",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONFdMRUZ6RDdmVFFfVXh6ZTRxaC1RRW5DbW5zTzRuRTJQOUVRWGt2LXJJckxiakQ4OFcxSmw5UXNRX18xQl9iOVB3ZnRXMTFmWmQyTkVpZjEwNENKRmNBa3VMRjh6V1VXVXA0b055TlFwZF82U2F5bC1tQVdKNnN1Zm56bXBFQzV5VHZRVXNzTjdDX1FiM1BLYnc0VHJOTGhHVENLbS0yT2ZWSXBVXzJB?oc=5",
+            "source": "FAZ",
+            "published": "20.10., 15:00"
           },
           {
-            "title": "Stromausfall bei Google Cloud legt Revolut, ING und Spotify lahm - Trending Topics",
-            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA0Z3gxOG81eG9oajdQcU5ORG5DNWxIZjM5MHozcllNdVRfc05CdzJZVDNfZnNEVUJhS21vb040VVBma0dlYkFLZ0xWakd3TFRSWFdFa1pFaEVEeGFORDE5Z0pidUhmczQxVmhrV0cxeVlQaE9GUG1pMk4zNA?oc=5",
-            "source": "Trending Topics",
-            "published": "20.10., 16:59"
+            "title": "Google-Cloud-Ausfall legt Revolut und weitere Unternehmen lahm - heise online",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOR3FvaDk1WmFmN1BXZ0lNS0x2RHE1QmYwVmZ3WXNRWFltSHNxdFdXZGl6b0ZTUEFqYnJjM2wyejhqcDVfckQyME0wMDBzOWVrd0hha0Mzd3FCV2F6dGVzZVp1SFdOWERlTTFmWFUxcm5nQll1c29BWUdBNEdvejFNQWd4S29sb3d0N2tXU2Mzc1lSbjdnd1MxWDdvN2xGWEtvczUtMA?oc=5",
+            "source": "heise online",
+            "published": "20.10., 15:02"
           }
         ]
       }
@@ -1700,16 +1702,16 @@
       "description": "Goldpreis, primär über Gold-Future, fallback XAU/USD",
       "price_decimals": 2,
       "last_date": "2026-10-21",
-      "last_close": 4137.89990234375,
+      "last_close": 4151.10009765625,
       "previous_close": 4142.60009765625,
-      "change_abs": -4.7,
-      "change_pct": -0.11,
-      "change_5d_pct": 0.73,
-      "change_1m_pct": -5.45,
-      "change_3m_pct": 2.17,
+      "change_abs": 8.5,
+      "change_pct": 0.21,
+      "change_5d_pct": 1.05,
+      "change_1m_pct": -5.15,
+      "change_3m_pct": 2.49,
       "change_1y_pct": null,
-      "ytd_pct": -4.68,
-      "volatility_30d_pct": 16.23,
+      "ytd_pct": -4.38,
+      "volatility_30d_pct": 16.28,
       "sparkline": [
         {
           "date": "2026-06-15",
@@ -2069,22 +2071,21 @@
         },
         {
           "date": "2026-10-21",
-          "close": 4137.89990234375
+          "close": 4151.10009765625
         }
       ],
       "explanation": {
-        "direction": "gefallen",
+        "direction": "gestiegen",
         "confidence": "niedrig",
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
           "Zinsen/Fed",
-          "US-Dollar",
-          "Regulierung"
+          "US-Dollar"
         ],
         "bullets": [
-          "Der Kurs ist leicht gefallen: -0.11 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: Zinsen/Fed, US-Dollar, Regulierung.",
-          "Wichtigste gefundene Headlines: Gold: Dollar und Renditen drücken vor Fed-Sitzung - Börse Express | Goldpreis aktuell: Zinssorgen nach erneutem Ölpreisanstieg drücken den Goldpreis - WirtschaftsWoche."
+          "Der Kurs ist leicht gestiegen: +0.21 % gegenüber dem vorherigen Schlusskurs.",
+          "Gefundene Nachrichten-Themen: Zinsen/Fed, US-Dollar.",
+          "Wichtigste gefundene Headlines: Gold: Dollar und Renditen drücken vor Fed-Sitzung - Börse Express | Gold: Fed-Sitzung bestimmt nächsten Impuls - AD HOC NEWS."
         ],
         "headlines": [
           {
@@ -2094,10 +2095,10 @@
             "published": "20.10., 07:42"
           },
           {
-            "title": "Goldpreis aktuell: Zinssorgen nach erneutem Ölpreisanstieg drücken den Goldpreis - WirtschaftsWoche",
-            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPN1hDb29SZTJ3Zmg1ZUJ2TUhZalI4ZWRzYm05M3NJZTNfZ1FqSHBlVmsxaG5ESWNiTURVYXFLUV9JSFctVkpFSDNDV1FuNTJPaUlUR3kwMV9qSDJDNlJZOHdUaVVsNlJpWHU5MnN5WWUzUEpralVFNkZreThLSkZodkJTZ3FDSHhiNmx0V1ViUWpReDRrN2dZcy0xNTVDWEVNbWt4NVNTSlRUSHdTODVmekNRajF3em9iei1vWFltc2NKSkw3WE1Ed1dtakYtX3VT?oc=5",
-            "source": "WirtschaftsWoche",
-            "published": "21.10., 09:28"
+            "title": "Gold: Fed-Sitzung bestimmt nächsten Impuls - AD HOC NEWS",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSWdMWHd5RjRfaDJaTWZOMVZHLUdrVUZfUmRDdV9leUVXeUVObXZGWmozdUNCeWdBcktqX0M4R052aEh3RktzN3lvdVZGZ0FVdkdLTGtOaURTUUh1VkZmMG1FYV9ja21vb1d6eVhrcWpFVlpWWUtPT1RVa0ttRjBLbVUtLUM3aVlZN3pvQ1B1ZmVIOXpERllPTUdQREpLbFFET21Pcm1fWEc1RHJCU2N0TUJqZ3A?oc=5",
+            "source": "AD HOC NEWS",
+            "published": "21.10., 21:17"
           },
           {
             "title": "Gold: 5.000 Dollar sind weiter drin - Der Aktionär",
