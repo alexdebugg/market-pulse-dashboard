@@ -1,8 +1,8 @@
 {
   "is_sample": false,
   "source": "Yahoo Finance Kursdaten + Google News RSS Kontext",
-  "generated_at_utc": "2026-10-24T08:37:51+00:00",
-  "generated_at_vienna": "24.10.2026, 10:37 Uhr",
+  "generated_at_utc": "2026-10-24T18:34:39+00:00",
+  "generated_at_vienna": "24.10.2026, 20:34 Uhr",
   "market_mood_internal": "risk-off",
   "assets": [
     {
@@ -12,22 +12,18 @@
       "currency": "EUR",
       "description": "iShares Core MSCI World UCITS ETF als handelbarer Developed-Markets-Proxy",
       "price_decimals": 2,
-      "last_date": "2026-10-22",
-      "last_close": 129.93499755859375,
-      "previous_close": 131.22500610351562,
-      "change_abs": -1.29,
-      "change_pct": -0.98,
-      "change_5d_pct": -0.65,
-      "change_1m_pct": 0.64,
-      "change_3m_pct": 4.19,
+      "last_date": "2026-10-23",
+      "last_close": 129.83999633789062,
+      "previous_close": 129.93499755859375,
+      "change_abs": -0.1,
+      "change_pct": -0.07,
+      "change_5d_pct": -0.54,
+      "change_1m_pct": 1.16,
+      "change_3m_pct": 3.7,
       "change_1y_pct": null,
-      "ytd_pct": 16.25,
-      "volatility_30d_pct": 8.9,
+      "ytd_pct": 16.16,
+      "volatility_30d_pct": 8.56,
       "sparkline": [
-        {
-          "date": "2026-06-19",
-          "close": 124.80500030517578
-        },
         {
           "date": "2026-06-22",
           "close": 125.05999755859375
@@ -383,6 +379,10 @@
         {
           "date": "2026-10-22",
           "close": 129.93499755859375
+        },
+        {
+          "date": "2026-10-23",
+          "close": 129.83999633789062
         }
       ],
       "explanation": {
@@ -394,7 +394,7 @@
           "China/EM"
         ],
         "bullets": [
-          "Der Kurs ist spürbar gefallen: -0.98 % gegenüber dem vorherigen Schlusskurs.",
+          "Der Kurs ist leicht gefallen: -0.07 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: KI/Tech, China/EM.",
           "Wichtigste gefundene Headlines: NASDAQ China A Shares Index Renditedreieck | NASDAQ China A Shares Index Rendite - boerse.de | Nasdaq rises as tech stocks begin the week with optimism - TradingView."
         ],
@@ -433,22 +433,18 @@
       "currency": "EUR",
       "description": "iShares Core MSCI EM IMI UCITS ETF als Emerging-Markets-Proxy",
       "price_decimals": 2,
-      "last_date": "2026-10-22",
-      "last_close": 45.40399932861328,
-      "previous_close": 46.59299850463867,
-      "change_abs": -1.19,
-      "change_pct": -2.55,
-      "change_5d_pct": -3.05,
-      "change_1m_pct": -7.1,
-      "change_3m_pct": 0.14,
+      "last_date": "2026-10-23",
+      "last_close": 45.50699996948242,
+      "previous_close": 45.40399932861328,
+      "change_abs": 0.1,
+      "change_pct": 0.23,
+      "change_5d_pct": -1.84,
+      "change_1m_pct": -5.89,
+      "change_3m_pct": 1.23,
       "change_1y_pct": null,
-      "ytd_pct": 18.4,
-      "volatility_30d_pct": 19.98,
+      "ytd_pct": 18.67,
+      "volatility_30d_pct": 19.71,
       "sparkline": [
-        {
-          "date": "2026-06-19",
-          "close": 49.805999755859375
-        },
         {
           "date": "2026-06-22",
           "close": 50.68600082397461
@@ -804,10 +800,14 @@
         {
           "date": "2026-10-22",
           "close": 45.40399932861328
+        },
+        {
+          "date": "2026-10-23",
+          "close": 45.50699996948242
         }
       ],
       "explanation": {
-        "direction": "gefallen",
+        "direction": "gestiegen",
         "confidence": "niedrig",
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
@@ -817,7 +817,7 @@
           "Geopolitik/Sicherheit"
         ],
         "bullets": [
-          "Der Kurs ist deutlich gefallen: -2.55 % gegenüber dem vorherigen Schlusskurs.",
+          "Der Kurs ist leicht gestiegen: +0.23 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: US-Dollar, Regulierung, China/EM, Geopolitik/Sicherheit.",
           "Wichtigste gefundene Headlines: Euro / US-Dollar (EUR/USD): Der Aufwärtstrend sollte weitergehen - Stockstreet | Schwacher US-Dollar und hohe Defizite: Rückenwind für Emerging Markets? - e-fundresearch.com."
         ],
@@ -835,16 +835,16 @@
             "published": "25.11., 09:00"
           },
           {
-            "title": "EM-Anleihen: Diese rohstoffreichen Schwellenländer profitieren - das investment",
-            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNGJtcEp3MGtIVGNpekNsNWQtbnNYaHhIS2JyMHhWYUlDai1mRjZuQ1VRVmZ5c3ZDRE5malN3TTBJMTMza2x4MGpWaUszZDNiZlJMWWd4TnM4RmxYQThTSDFlZF9USUNIQU1pVEpqRVhxYnU3WUNkcHdqYVBBQVFhX3FuZWpNSHpLNUp3N3ZDOTBwLXhJTk5iNDRtSnRYMXQzdE5vX2RR?oc=5",
-            "source": "das investment",
-            "published": "29.05., 09:00"
-          },
-          {
             "title": "Kapitalmärkte: Iran-Krieg wird zum Stresstest für die Schwellenländer - Handelsblatt",
             "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWHhSNTdKdm9ENnlwNHVYMHVJa3M3VmctRWswSm5tWFFCc29DemNLQk1nVXd4dHcwcFZlemVYcTcxZTJvdm5sYTNFblhwUVZ2UExEbHQxdXFjSUhyV252TUNVam42cnp4Ti15R0pUWEp0S3k4azhUVlFqc1lxNEpRNmRfd09JaU5qTF91Uk91eHRTaW5TVHlBQjlfeHRmVVJvV0Y3Y1lYb1hvWTl3MkxBSkoxR1p6SVBLOGxRXzEzNkQzSV90MTVzY3Z2Mmw?oc=5",
             "source": "Handelsblatt",
             "published": "17.04., 09:00"
+          },
+          {
+            "title": "EM-Anleihen: Diese rohstoffreichen Schwellenländer profitieren - das investment",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNGJtcEp3MGtIVGNpekNsNWQtbnNYaHhIS2JyMHhWYUlDai1mRjZuQ1VRVmZ5c3ZDRE5malN3TTBJMTMza2x4MGpWaUszZDNiZlJMWWd4TnM4RmxYQThTSDFlZF9USUNIQU1pVEpqRVhxYnU3WUNkcHdqYVBBQVFhX3FuZWpNSHpLNUp3N3ZDOTBwLXhJTk5iNDRtSnRYMXQzdE5vX2RR?oc=5",
+            "source": "das investment",
+            "published": "29.05., 09:00"
           }
         ]
       }
@@ -856,22 +856,18 @@
       "currency": "EUR",
       "description": "iShares MSCI World Small Cap UCITS ETF als Small-Cap-Proxy",
       "price_decimals": 3,
-      "last_date": "2026-10-22",
-      "last_close": 9.031000137329102,
-      "previous_close": 9.097999572753906,
-      "change_abs": -0.067,
-      "change_pct": -0.74,
-      "change_5d_pct": 0.13,
-      "change_1m_pct": -0.31,
-      "change_3m_pct": 0.0,
+      "last_date": "2026-10-23",
+      "last_close": 9.020000457763672,
+      "previous_close": 9.031000137329102,
+      "change_abs": -0.011,
+      "change_pct": -0.12,
+      "change_5d_pct": 0.0,
+      "change_1m_pct": 0.73,
+      "change_3m_pct": -0.15,
       "change_1y_pct": null,
-      "ytd_pct": 16.08,
-      "volatility_30d_pct": 11.02,
+      "ytd_pct": 15.94,
+      "volatility_30d_pct": 10.86,
       "sparkline": [
-        {
-          "date": "2026-06-19",
-          "close": 9.116000175476074
-        },
         {
           "date": "2026-06-22",
           "close": 9.152000427246094
@@ -1227,6 +1223,10 @@
         {
           "date": "2026-10-22",
           "close": 9.031000137329102
+        },
+        {
+          "date": "2026-10-23",
+          "close": 9.020000457763672
         }
       ],
       "explanation": {
@@ -1235,21 +1235,14 @@
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
           "Zinsen/Fed",
-          "US-Dollar",
-          "China/EM"
+          "US-Dollar"
         ],
         "bullets": [
-          "Der Kurs ist spürbar gefallen: -0.74 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: Zinsen/Fed, US-Dollar, China/EM.",
-          "Wichtigste gefundene Headlines: Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraETF | Diese US-Small-Cap-Aktien sind jetzt attraktiv - Morningstar."
+          "Der Kurs ist leicht gefallen: -0.12 % gegenüber dem vorherigen Schlusskurs.",
+          "Gefundene Nachrichten-Themen: Zinsen/Fed, US-Dollar.",
+          "Wichtigste gefundene Headlines: Diese US-Small-Cap-Aktien sind jetzt attraktiv - Morningstar | ETF-Portfolio – die besten Musterportfolios und ETF-Strategien - Finanzen.net."
         ],
         "headlines": [
-          {
-            "title": "Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraETF",
-            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBfSEFMN1dKOFVhZUdmcE5WbGh1V3VIUTVJTE5SdWVzS2hYemNGRWgzRi1MZF8xZXdrbUl3RHVKeTk0SDNRUmhSWGgyQUpMQlRXb2JPS0Jxb2txVm5LM0w3anphOWo5WWIwSDF5Qjg4clFwR0VWUkQ5Qg?oc=5",
-            "source": "extraETF",
-            "published": "28.04., 10:37"
-          },
           {
             "title": "Diese US-Small-Cap-Aktien sind jetzt attraktiv - Morningstar",
             "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNXF1VURGVVhhSUhQWnc3NDlSUTVfU3BWb2hXd3pPN1Z5VWFGa2p4WV84cFd1WTlVaEFheEZ4eVhUVjBlVnBwdlBHTURVR2ptUGMzME5DeFNfR3lHVUhGTHRMVmIwU2ZXNFJUdlBlYW1XZ2M4aXJMTTlCWnNLbmxZc3FndTVMV1NXdmQ5cm9sdVQ?oc=5",
@@ -1267,6 +1260,12 @@
             "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVndoZHMxdjJtSG8wSW12QjNWOFQwclFZSk5sY1ZiZWxmSzVvb2tYZTc5MHVneGhCZzlNbWdNcFhqNkJNWF9iZ3lLR1piNjJxQVhhbmdIQ1hjRHMwWU41SEVJang3QWQwNkJNMUVpeHJNOGRFejJOcnlsNTVqS0R6T25CdGlob0R0RXlqTVZ0bkh1NzEtVUhXTzVEZkt1RGJRVzJlXzZjelU1OEJHWGlnMDlEVTlzbnROMnFWTVVqWTlpVWFmdVhj?oc=5",
             "source": "CoinDesk",
             "published": "10.09., 09:00"
+          },
+          {
+            "title": "MSCI World Small Cap ETFs 2026 - LYNX Online Broker",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcU4yRTBRZ25DSmViRmFBTVBTcFJDOGZUQ2JCcFpBaDZjaGlUY0dSRjc1dzl1OW51bC1kOUFoazhiTE5nblRzVzhIVVJoRE9Ec0NibURya0x3cnNSVkxjbGRzVWhyN1hvM0RLV3VyNEVxUHpjM0lwNk9reFFENThtam5ndU9hYlpwS3JaTEliQXB4dw?oc=5",
+            "source": "LYNX Online Broker",
+            "published": "13.09., 09:00"
           }
         ]
       }
@@ -1678,16 +1677,16 @@
             "published": "20.10., 15:00"
           },
           {
+            "title": "Google Cloud A5X: Neue Rubin-Instanzen starten im November 2026 - BornCity",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZ2VIT1RZVkRYdWtjNzlWanpKdmZQMElQSTJqNEFIVlJJYUV6WFN2RGZrbUd4c0JoVHBUZE5udW01U0VXcDJHU25OVkEzclZDWENpOEhhZ01lamhyNEE3NGhxY1BycUdWR09uaGxvRXF0UVVfTG4zR0VyYnNrQTJqejNwSjVadHBpb0IxbmE4emR6LVE?oc=5",
+            "source": "BornCity",
+            "published": "24.10., 19:49"
+          },
+          {
             "title": "Google-Cloud-Ausfall legt Revolut und weitere Unternehmen lahm - heise online",
             "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOR3FvaDk1WmFmN1BXZ0lNS0x2RHE1QmYwVmZ3WXNRWFltSHNxdFdXZGl6b0ZTUEFqYnJjM2wyejhqcDVfckQyME0wMDBzOWVrd0hha0Mzd3FCV2F6dGVzZVp1SFdOWERlTTFmWFUxcm5nQll1c29BWUdBNEdvejFNQWd4S29sb3d0N2tXU2Mzc1lSbjdnd1MxWDdvN2xGWEtvczUtMA?oc=5",
             "source": "heise online",
             "published": "20.10., 15:02"
-          },
-          {
-            "title": "Cloud-Dienste gestört: Großausfall bei Google führt zu Störungen bei Banken - Handelsblatt",
-            "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPak5sYWg2TUZOVjRPMGpnaWN3QmZtc21XeFRIbU1IX1lhRUFrVmNaZFd0TS1zWVdZdDZvcUhEeDBySTBTU3JvS0xYSnZSaFhrVzNZRFRBZVU2ZlhRdVRLY3VwUk1Sdll0R21oNng0NUFCR3dFQVNtV01UY2xJSzRoVHpHanN2RUNxXzl1LVVNWWRjd0t5QUVpYWw4MU9OeUFtdHRfMXdKZE82RVlfRUQyYmhCTWFMa3BEU1NLc1NqUUlUWl9LNGdoenJscktmcWZvOGZRc3Z4RE5SUQ?oc=5",
-            "source": "Handelsblatt",
-            "published": "20.10., 14:49"
           }
         ]
       }
@@ -2098,16 +2097,16 @@
             "published": "23.10., 17:40"
           },
           {
-            "title": "Goldpreis fällt unter 4.000 Dollar: Was jetzt zählt - InvestmentWeek",
-            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNc29sTkFsMGdsdU1wQVg0NzQ4aGVHaWRkbE8yRnZ0Zldfc0NrSndhSTRqejdCaUlQelV2bXl6dXIySGVnMUdhWmVZaHM2TGZwUE42ZU13bmRDZmJmTlpUNHU0V1hGc2hQekM4Vi03elJPN09uNkVzRmhRNU43eEM5T3J2VGZQRnU5OFdkbjRwbGhLbTU5Y05IV2pxNWNaYlZwVkRmdkhJLVpwUi1sSG9zbENIVkJ0MFVYWkRwZUdxYVctc1lm?oc=5",
-            "source": "InvestmentWeek",
-            "published": "24.10., 08:00"
-          },
-          {
             "title": "Digitales Gold: World Gold Council sieht Marktpotenzial von 700 Milliarden Dollar - FAZ",
             "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQkROUERUSEFYZVNGLUVzLWZsVVBrRmMyc1psYUVaTjZaUTFYS0ltR2FDOFFiTkZJNUFCVTZjV09lUjhsb3Z2YU53dThNb0lvUF9xbUtrZnlRVnpGZkdzT1ZNbEdKaWZTb1FzckZPbnNMM21XSXFXZTFRZmx1cU9fSkl6MEp3R3NjRklnVFhLSy1IQlFBR3lxSE8zNTcxT3lPR194NHN4WmpxeF8tQVBod21LbC1aR2N2eXVZN0dqZkNoWEhydzd1aTBUSjlIVmY1NlFOUHZkR1pfaHpw?oc=5",
             "source": "FAZ",
             "published": "19.10., 18:00"
+          },
+          {
+            "title": "Goldpreis fällt unter 4.000 Dollar: Was jetzt zählt - InvestmentWeek",
+            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNc29sTkFsMGdsdU1wQVg0NzQ4aGVHaWRkbE8yRnZ0Zldfc0NrSndhSTRqejdCaUlQelV2bXl6dXIySGVnMUdhWmVZaHM2TGZwUE42ZU13bmRDZmJmTlpUNHU0V1hGc2hQekM4Vi03elJPN09uNkVzRmhRNU43eEM5T3J2VGZQRnU5OFdkbjRwbGhLbTU5Y05IV2pxNWNaYlZwVkRmdkhJLVpwUi1sSG9zbENIVkJ0MFVYWkRwZUdxYVctc1lm?oc=5",
+            "source": "InvestmentWeek",
+            "published": "24.10., 08:00"
           }
         ]
       }
