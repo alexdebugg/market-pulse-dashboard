@@ -1,8 +1,8 @@
 {
   "is_sample": false,
   "source": "Yahoo Finance Kursdaten + Google News RSS Kontext",
-  "generated_at_utc": "2026-10-25T08:56:19+00:00",
-  "generated_at_vienna": "25.10.2026, 09:56 Uhr",
+  "generated_at_utc": "2026-10-25T18:42:54+00:00",
+  "generated_at_vienna": "25.10.2026, 19:42 Uhr",
   "market_mood_internal": "risk-off",
   "assets": [
     {
@@ -391,25 +391,26 @@
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
           "KI/Tech",
+          "Regulierung",
           "China/EM"
         ],
         "bullets": [
           "Der Kurs ist leicht gefallen: -0.07 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: KI/Tech, China/EM.",
-          "Wichtigste gefundene Headlines: Nasdaq rises as tech stocks begin the week with optimism - TradingView | NASDAQ China A Shares Index Charttechnik | NASDAQ China A Shares Index Profichart | Indikatoren | GDs - boerse.de."
+          "Gefundene Nachrichten-Themen: KI/Tech, Regulierung, China/EM.",
+          "Wichtigste gefundene Headlines: NASDAQ China A Shares Index Charttechnik | NASDAQ China A Shares Index Profichart | Indikatoren | GDs - boerse.de | Nasdaq rises as tech stocks begin the week with optimism - TradingView."
         ],
         "headlines": [
-          {
-            "title": "Nasdaq rises as tech stocks begin the week with optimism - TradingView",
-            "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOOTBERHc2ajNxSDltaEtGRGFtaDFLTVBmbGFIYllTZjBpY21mTWhNVVJ5R1ZNYk9fUTJUQTVwV3VZek1feVFlUHF6ZmFubDNaaDEwQXBKaThvdG5UcVRpM1dZaXRFNmRHanpYWmUzaklSY1A0bjVCYlpYLUNRRzlJaXhObkEzYkY3WllmWDF5TnJ5b3hNR052aVVMbHBnNk9sellpTHNWVUVWUUE5YmJNdDd2VDZkVm9OMEdiU0ZGSVl4UE9CX3VFUUxmeGdwMTk1WnA3eg?oc=5",
-            "source": "TradingView",
-            "published": "19.10., 21:07"
-          },
           {
             "title": "NASDAQ China A Shares Index Charttechnik | NASDAQ China A Shares Index Profichart | Indikatoren | GDs - boerse.de",
             "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5VWktiOFdOWFVEbFlpYmJfZnktZnZQeGxIRnRoREVHQjk0ODB4RFdnTjhQRUMxU1ZzTTcwNHVDclhvNlREV1RaRE9mMUdpVkIzTXMwM0RFZmlxZUZtcTZ6N1o3eFlFZXlQU3pJWUlkSG54OTdsX1p5VWU2ZUV5dw?oc=5",
             "source": "boerse.de",
             "published": "22.10., 09:00"
+          },
+          {
+            "title": "Nasdaq rises as tech stocks begin the week with optimism - TradingView",
+            "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOOTBERHc2ajNxSDltaEtGRGFtaDFLTVBmbGFIYllTZjBpY21mTWhNVVJ5R1ZNYk9fUTJUQTVwV3VZek1feVFlUHF6ZmFubDNaaDEwQXBKaThvdG5UcVRpM1dZaXRFNmRHanpYWmUzaklSY1A0bjVCYlpYLUNRRzlJaXhObkEzYkY3WllmWDF5TnJ5b3hNR052aVVMbHBnNk9sellpTHNWVUVWUUE5YmJNdDd2VDZkVm9OMEdiU0ZGSVl4UE9CX3VFUUxmeGdwMTk1WnA3eg?oc=5",
+            "source": "TradingView",
+            "published": "19.10., 21:07"
           },
           {
             "title": "Leverage Shares -5x Short Nasdaq 100 ETP Securities | XS3373449761 | A4AU1Y - extraETF",
@@ -418,10 +419,10 @@
             "published": "19.06., 18:15"
           },
           {
-            "title": "NASDAQ China A Shares Index Renditedreieck | NASDAQ China A Shares Index Rendite - boerse.de",
-            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRXNicm8wUjBJNnp4Zzh3Y2xBMFNvVTFrZGVRUDZINVdSUklPNzhNMGJ1dlB3aGJEVWZuRVNRVUxyWjJaYkJIS2hBRGxNZDNpQTZPZTBqVXE0c0ZnejE3M3lPeEtxNWxhUWdGd1VIOENKSk82bGZNZXkzNW83SE5LOUs1aw?oc=5",
-            "source": "boerse.de",
-            "published": "23.10., 09:00"
+            "title": "Nasdaq schließt Übernahme von LeveL Markets ab - MarketScreener Deutschland",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObmhwcWo2eVUtU3BJdzZTZ0NzcVJIcm42UWF5WUNadW93cGJpY3QyZzBHVnJkOENESFVyT0VieFFrMDlHVXNBcVJSZ0JMSkYxdHBnOExSTE5sS3JlbWdubXBjWnIxNjlyVlNqWm42bm8yRFRhSWowdWRHd2oxS3VNLU96a3N1OGtkY1lTUlBqc0N2dGF4UkhNcVJrZWl5SVJWTGtLdXBZcHg2aFhtY0NXQ0NEYnY?oc=5",
+            "source": "MarketScreener Deutschland",
+            "published": "15.10., 16:26"
           }
         ]
       }
@@ -1662,15 +1663,9 @@
         "bullets": [
           "Der Kurs ist deutlich gefallen: -1.24 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: KI/Tech, Regulierung.",
-          "Wichtigste gefundene Headlines: Megatrend Folger: Microsoft, Alphabet und Amazon – der große Cloud-Showdown - Der Aktionär | Großausfall bei Google führt zu zahlreichen Störungen - ORF."
+          "Wichtigste gefundene Headlines: Großausfall bei Google führt zu zahlreichen Störungen - ORF | Google-Cloud-Ausfall trifft Revolut und ING in Europa - FAZ."
         ],
         "headlines": [
-          {
-            "title": "Megatrend Folger: Microsoft, Alphabet und Amazon – der große Cloud-Showdown - Der Aktionär",
-            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcWlHZHY4T0xhTW05ZFhRX2dQVndwLWpnZTJiY0JXckJNamFmMlpySjVrUTlrNFhvTG5pM3NXYTB2VjlRRmUwbXVmMFlDeGVmT1djcUJqODZvTURsMU02djRFVUZLVThYNmZWRy1BanFCUFRqcGJ1YlhOVU5xOHVjRVk1b0ZEUUZoVEJuYkt3U09lakhmQ0dpc3Jxdm15dEZoLW15WXpUZTBiMWhkM0RGa2Q5X0JCdGhKLUlZMXJMNi1SUk9JbVpuNQ?oc=5",
-            "source": "Der Aktionär",
-            "published": "25.10., 07:53"
-          },
           {
             "title": "Großausfall bei Google führt zu zahlreichen Störungen - ORF",
             "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5mcjl1MGYxRXpYZjNhU2VNc1BCR3lHa1BFaWhFRTB1VDhGdzVDX2RTbzhCWUZLRXpyOGx4TTBFbDk0THI0Ymc?oc=5",
@@ -1682,6 +1677,12 @@
             "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONFdMRUZ6RDdmVFFfVXh6ZTRxaC1RRW5DbW5zTzRuRTJQOUVRWGt2LXJJckxiakQ4OFcxSmw5UXNRX18xQl9iOVB3ZnRXMTFmWmQyTkVpZjEwNENKRmNBa3VMRjh6V1VXVXA0b055TlFwZF82U2F5bC1tQVdKNnN1Zm56bXBFQzV5VHZRVXNzTjdDX1FiM1BLYnc0VHJOTGhHVENLbS0yT2ZWSXBVXzJB?oc=5",
             "source": "FAZ",
             "published": "20.10., 15:00"
+          },
+          {
+            "title": "Megatrend Folger: Microsoft, Alphabet und Amazon – der große Cloud-Showdown - Der Aktionär",
+            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcWlHZHY4T0xhTW05ZFhRX2dQVndwLWpnZTJiY0JXckJNamFmMlpySjVrUTlrNFhvTG5pM3NXYTB2VjlRRmUwbXVmMFlDeGVmT1djcUJqODZvTURsMU02djRFVUZLVThYNmZWRy1BanFCUFRqcGJ1YlhOVU5xOHVjRVk1b0ZEUUZoVEJuYkt3U09lakhmQ0dpc3Jxdm15dEZoLW15WXpUZTBiMWhkM0RGa2Q5X0JCdGhKLUlZMXJMNi1SUk9JbVpuNQ?oc=5",
+            "source": "Der Aktionär",
+            "published": "25.10., 07:54"
           },
           {
             "title": "Google-Cloud-Ausfall legt Revolut und weitere Unternehmen lahm - heise online",
@@ -2074,19 +2075,24 @@
       ],
       "explanation": {
         "direction": "gefallen",
-        "confidence": "mittel",
-        "summary": "Plausibler Nachrichtenbezug: Der Kurs ist gefallen und die gefundenen Schlagzeilen enthalten überwiegend belastend wirkende Formulierungen. Die Quellen passen damit zur Richtung, beweisen aber keine Kausalität.",
+        "confidence": "niedrig",
+        "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
           "Zinsen/Fed",
-          "US-Dollar",
-          "Geopolitik/Sicherheit"
+          "US-Dollar"
         ],
         "bullets": [
           "Der Kurs ist deutlich gefallen: -1.29 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: Zinsen/Fed, US-Dollar, Geopolitik/Sicherheit.",
-          "Wichtigste gefundene Headlines: Das sind die Gründe - Goldpreis rutschte wieder unter 4000 US-Dollar - Kronen Zeitung | Gold: Dollar und Renditen drücken vor Fed-Sitzung - Börse Express."
+          "Gefundene Nachrichten-Themen: Zinsen/Fed, US-Dollar.",
+          "Wichtigste gefundene Headlines: Gold: Fed-Showdown ohne Entlastung? - Börse Express | Das sind die Gründe - Goldpreis rutschte wieder unter 4000 US-Dollar - Kronen Zeitung."
         ],
         "headlines": [
+          {
+            "title": "Gold: Fed-Showdown ohne Entlastung? - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdXFBemxuU2s0TGUydzd6MHhhMFplNmxYQlRKZXNHRURpRDY0RHlKOFdtRXE1cmoxdWVrUDBCQS1aUE5WdGVkV3Y1LTQtSjE5UzdhNHE2aWZXS3hpRFlnY1hPUmh5ZXJxeFpxYWpfczczamg1WUpYaHFobzRQQnhwYXN5V1pzcGpMdXp1Umd3?oc=5",
+            "source": "Börse Express",
+            "published": "25.10., 19:28"
+          },
           {
             "title": "Das sind die Gründe - Goldpreis rutschte wieder unter 4000 US-Dollar - Kronen Zeitung",
             "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1vTnpkT1NDR1A5a0VYUzByUkpmTGhnYWNZcV80REFHYm5uYWJ6Wm1DRHh0ZmFOZlJ5NXJ2S0xjaHlPUQ?oc=5",
@@ -2094,22 +2100,16 @@
             "published": "23.10., 20:11"
           },
           {
-            "title": "Gold: Dollar und Renditen drücken vor Fed-Sitzung - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOU9USkloa1RhaERlQWs0WS1pMVNNTmxTNW5tSTJTbU5QV3VWY1FMd1B0THdWMFFQXy1WYWVVZ3NLSFUzU1o2VDVuLWJLQW1OSzlWNTNucjFuNUJnbjBfREdSNWdCanpjbFBPZ2ZRT2thVllQTC1PZy05ellQY09wSWdQeWR1MmhBMnVKaktBUFVkZVVfV1BUcVNtUkxubk1hZlJV?oc=5",
-            "source": "Börse Express",
-            "published": "20.10., 07:42"
+            "title": "Goldpreis rutschte erstmals seit Sommer unter 4000 US-Dollar - Kleine Zeitung",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNR043VVRGVEpjaEp5NTBFTllhWWc0RUtSM3FqNlU5X1NYdkNMVk9MU2ZHUmxKdXpNdmhyUW5rY0tJbnlQenlGQW1zUmFieUhrWGszX1VPWXRiTW1NYV9WSnFDV1FlQm1uNUpQLUw0SllLTDFlc0dUSFdRSk9Mb3JiRXhya2dvby1CTFEyRzVVUzNUSGJDVlBaWURlNXBWYmp5djJhS2dPZGNhUQ?oc=5",
+            "source": "Kleine Zeitung",
+            "published": "23.10., 20:05"
           },
           {
-            "title": "Tiefster Stand seit mehr als drei Monaten: Warum der Goldpreis unter 4.000 US-Dollar rutscht - Finanzen.net",
-            "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOX24xUVBfTFd6SC1Gby1GbGo5cmxTTWhuaHJveU1NQVVyaS1JUUtDemdfYlYzYzBuXzAyOGZiVWRLbFZsellBN0h0Z0tNX0lCNFNGUExKVkc3Z3cwOTRzVlVmWmR5MV83V1hyUExyeVVqQkt0bVhnZm5qb1hRMUdIb0Y5Y2Y2eDlhS0Nrb0xVOFFwcVdtQ1k5SGUzT2dUQnVLcDdkTFh4RTV0clJmYzktYU5aQlZhb3Y1dXFFa0szT2g5b2hNekQ2LVBUZVBhWHNhU1RUNHlJVzRURkRlMUJUcjFFaWVFdXE1QlFZWWhjcDRDZw?oc=5",
-            "source": "Finanzen.net",
-            "published": "23.10., 21:12"
-          },
-          {
-            "title": "Goldpreis fällt unter 4.000 Dollar: Was jetzt zählt - InvestmentWeek",
-            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNc29sTkFsMGdsdU1wQVg0NzQ4aGVHaWRkbE8yRnZ0Zldfc0NrSndhSTRqejdCaUlQelV2bXl6dXIySGVnMUdhWmVZaHM2TGZwUE42ZU13bmRDZmJmTlpUNHU0V1hGc2hQekM4Vi03elJPN09uNkVzRmhRNU43eEM5T3J2VGZQRnU5OFdkbjRwbGhLbTU5Y05IV2pxNWNaYlZwVkRmdkhJLVpwUi1sSG9zbENIVkJ0MFVYWkRwZUdxYVctc1lm?oc=5",
-            "source": "InvestmentWeek",
-            "published": "24.10., 08:00"
+            "title": "Digitales Gold: World Gold Council sieht Marktpotenzial von 700 Milliarden Dollar - FAZ",
+            "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQkROUERUSEFYZVNGLUVzLWZsVVBrRmMyc1psYUVaTjZaUTFYS0ltR2FDOFFiTkZJNUFCVTZjV09lUjhsb3Z2YU53dThNb0lvUF9xbUtrZnlRVnpGZkdzT1ZNbEdKaWZTb1FzckZPbnNMM21XSXFXZTFRZmx1cU9fSkl6MEp3R3NjRklnVFhLSy1IQlFBR3lxSE8zNTcxT3lPR194NHN4WmpxeF8tQVBod21LbC1aR2N2eXVZN0dqZkNoWEhydzd1aTBUSjlIVmY1NlFOUHZkR1pfaHpw?oc=5",
+            "source": "FAZ",
+            "published": "19.10., 18:00"
           }
         ]
       }
