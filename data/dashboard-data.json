@@ -1,9 +1,9 @@
 {
   "is_sample": false,
   "source": "Yahoo Finance Kursdaten + Google News RSS Kontext",
-  "generated_at_utc": "2026-10-25T18:42:54+00:00",
-  "generated_at_vienna": "25.10.2026, 19:42 Uhr",
-  "market_mood_internal": "risk-off",
+  "generated_at_utc": "2026-10-26T09:41:35+00:00",
+  "generated_at_vienna": "26.10.2026, 10:41 Uhr",
+  "market_mood_internal": "neutral",
   "assets": [
     {
       "name": "MSCI World",
@@ -12,22 +12,18 @@
       "currency": "EUR",
       "description": "iShares Core MSCI World UCITS ETF als handelbarer Developed-Markets-Proxy",
       "price_decimals": 2,
-      "last_date": "2026-10-23",
-      "last_close": 129.83999633789062,
-      "previous_close": 129.93499755859375,
-      "change_abs": -0.1,
+      "last_date": "2026-10-26",
+      "last_close": 129.75,
+      "previous_close": 129.83999633789062,
+      "change_abs": -0.09,
       "change_pct": -0.07,
-      "change_5d_pct": -0.54,
-      "change_1m_pct": 1.16,
-      "change_3m_pct": 3.7,
+      "change_5d_pct": -0.74,
+      "change_1m_pct": 0.67,
+      "change_3m_pct": 4.34,
       "change_1y_pct": null,
-      "ytd_pct": 16.16,
-      "volatility_30d_pct": 8.56,
+      "ytd_pct": 16.08,
+      "volatility_30d_pct": 8.53,
       "sparkline": [
-        {
-          "date": "2026-06-22",
-          "close": 125.05999755859375
-        },
         {
           "date": "2026-06-23",
           "close": 123.9800033569336
@@ -383,6 +379,10 @@
         {
           "date": "2026-10-23",
           "close": 129.83999633789062
+        },
+        {
+          "date": "2026-10-26",
+          "close": 129.75
         }
       ],
       "explanation": {
@@ -390,21 +390,25 @@
         "confidence": "niedrig",
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
-          "KI/Tech",
-          "Regulierung",
-          "China/EM"
+          "KI/Tech"
         ],
         "bullets": [
           "Der Kurs ist leicht gefallen: -0.07 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: KI/Tech, Regulierung, China/EM.",
-          "Wichtigste gefundene Headlines: NASDAQ China A Shares Index Charttechnik | NASDAQ China A Shares Index Profichart | Indikatoren | GDs - boerse.de | Nasdaq rises as tech stocks begin the week with optimism - TradingView."
+          "Gefundene Nachrichten-Themen: KI/Tech.",
+          "Wichtigste gefundene Headlines: IncomeShares Nasdaq 100 Options ETP | XS2875105608 | A4A50Q - extraETF | Nasdaq Developed Markets Banks Large Mid Cap Index [Index] - boerse.de."
         ],
         "headlines": [
           {
-            "title": "NASDAQ China A Shares Index Charttechnik | NASDAQ China A Shares Index Profichart | Indikatoren | GDs - boerse.de",
-            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5VWktiOFdOWFVEbFlpYmJfZnktZnZQeGxIRnRoREVHQjk0ODB4RFdnTjhQRUMxU1ZzTTcwNHVDclhvNlREV1RaRE9mMUdpVkIzTXMwM0RFZmlxZUZtcTZ6N1o3eFlFZXlQU3pJWUlkSG54OTdsX1p5VWU2ZUV5dw?oc=5",
+            "title": "IncomeShares Nasdaq 100 Options ETP | XS2875105608 | A4A50Q - extraETF",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9pOXp6WnVQUmdKMWRkY1JPdlZxbHU3UnVkclh1OTctTGxtMmliSUV1NUFPUV9RODRsY2tQUTBUOHViZG5uS2hOTVh1MUNnMGFwTllGRGJtMHdBNExs?oc=5",
+            "source": "extraETF",
+            "published": "23.10., 09:00"
+          },
+          {
+            "title": "Nasdaq Developed Markets Banks Large Mid Cap Index [Index] - boerse.de",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNR2hQa1hHTXdaV2ZYQkNYaVRMQTZTMzIyMkM4djRmM1ZfSnk5S2ZzMXhSTjlBdmlQWDkwMDBUQk5PQlpCb0lfZXMwZkFWTFRoTWY0Y0lZcjlxMThaRG5ZX2V0YVFaMm52bGxINE5HdWxzYXlHdUFhU2paSkRuN051U08zT2tjUWU0OTVQZHNCWEZ3WF9VOEx5WmFDdXgtUEQwT3hoOU5XcWgwUQ?oc=5",
             "source": "boerse.de",
-            "published": "22.10., 09:00"
+            "published": "23.10., 09:00"
           },
           {
             "title": "Nasdaq rises as tech stocks begin the week with optimism - TradingView",
@@ -417,12 +421,6 @@
             "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmZUhjNmxQU3JodWVkRkFCMUR2M3d0Y0x6NTdOTDNIU0dvWFB2OFBGaUN4UktyMTdaV3hhQ0JsWG1mZUJPSkI5dnJYOC1sRXM1cVNRVElQaFZ5QmRY?oc=5",
             "source": "extraETF",
             "published": "19.06., 18:15"
-          },
-          {
-            "title": "Nasdaq schließt Übernahme von LeveL Markets ab - MarketScreener Deutschland",
-            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObmhwcWo2eVUtU3BJdzZTZ0NzcVJIcm42UWF5WUNadW93cGJpY3QyZzBHVnJkOENESFVyT0VieFFrMDlHVXNBcVJSZ0JMSkYxdHBnOExSTE5sS3JlbWdubXBjWnIxNjlyVlNqWm42bm8yRFRhSWowdWRHd2oxS3VNLU96a3N1OGtkY1lTUlBqc0N2dGF4UkhNcVJrZWl5SVJWTGtLdXBZcHg2aFhtY0NXQ0NEYnY?oc=5",
-            "source": "MarketScreener Deutschland",
-            "published": "15.10., 16:26"
           }
         ]
       }
@@ -434,22 +432,18 @@
       "currency": "EUR",
       "description": "iShares Core MSCI EM IMI UCITS ETF als Emerging-Markets-Proxy",
       "price_decimals": 2,
-      "last_date": "2026-10-23",
-      "last_close": 45.50699996948242,
-      "previous_close": 45.40399932861328,
-      "change_abs": 0.1,
-      "change_pct": 0.23,
-      "change_5d_pct": -1.84,
-      "change_1m_pct": -5.89,
-      "change_3m_pct": 1.23,
+      "last_date": "2026-10-26",
+      "last_close": 44.900001525878906,
+      "previous_close": 45.50699996948242,
+      "change_abs": -0.61,
+      "change_pct": -1.33,
+      "change_5d_pct": -3.93,
+      "change_1m_pct": -7.8,
+      "change_3m_pct": 1.94,
       "change_1y_pct": null,
-      "ytd_pct": 18.67,
-      "volatility_30d_pct": 19.71,
+      "ytd_pct": 17.09,
+      "volatility_30d_pct": 19.22,
       "sparkline": [
-        {
-          "date": "2026-06-22",
-          "close": 50.68600082397461
-        },
         {
           "date": "2026-06-23",
           "close": 48.50400161743164
@@ -805,10 +799,14 @@
         {
           "date": "2026-10-23",
           "close": 45.50699996948242
+        },
+        {
+          "date": "2026-10-26",
+          "close": 44.900001525878906
         }
       ],
       "explanation": {
-        "direction": "gestiegen",
+        "direction": "gefallen",
         "confidence": "niedrig",
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
@@ -818,7 +816,7 @@
           "Geopolitik/Sicherheit"
         ],
         "bullets": [
-          "Der Kurs ist leicht gestiegen: +0.23 % gegenüber dem vorherigen Schlusskurs.",
+          "Der Kurs ist deutlich gefallen: -1.33 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: US-Dollar, Regulierung, China/EM, Geopolitik/Sicherheit.",
           "Wichtigste gefundene Headlines: Euro / US-Dollar (EUR/USD): Der Aufwärtstrend sollte weitergehen - Stockstreet | Schwacher US-Dollar und hohe Defizite: Rückenwind für Emerging Markets? - e-fundresearch.com."
         ],
@@ -857,22 +855,18 @@
       "currency": "EUR",
       "description": "iShares MSCI World Small Cap UCITS ETF als Small-Cap-Proxy",
       "price_decimals": 3,
-      "last_date": "2026-10-23",
-      "last_close": 9.020000457763672,
-      "previous_close": 9.031000137329102,
-      "change_abs": -0.011,
-      "change_pct": -0.12,
-      "change_5d_pct": 0.0,
-      "change_1m_pct": 0.73,
-      "change_3m_pct": -0.15,
+      "last_date": "2026-10-26",
+      "last_close": 9.041999816894531,
+      "previous_close": 9.020000457763672,
+      "change_abs": 0.022,
+      "change_pct": 0.24,
+      "change_5d_pct": 0.42,
+      "change_1m_pct": 0.56,
+      "change_3m_pct": 1.08,
       "change_1y_pct": null,
-      "ytd_pct": 15.94,
-      "volatility_30d_pct": 10.86,
+      "ytd_pct": 16.22,
+      "volatility_30d_pct": 10.88,
       "sparkline": [
-        {
-          "date": "2026-06-22",
-          "close": 9.152000427246094
-        },
         {
           "date": "2026-06-23",
           "close": 9.081999778747559
@@ -1228,19 +1222,23 @@
         {
           "date": "2026-10-23",
           "close": 9.020000457763672
+        },
+        {
+          "date": "2026-10-26",
+          "close": 9.041999816894531
         }
       ],
       "explanation": {
-        "direction": "gefallen",
-        "confidence": "niedrig",
-        "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
+        "direction": "gestiegen",
+        "confidence": "mittel",
+        "summary": "Plausibler Nachrichtenbezug: Der Kurs ist gestiegen und die gefundenen Schlagzeilen enthalten überwiegend positiv wirkende Formulierungen. Die Quellen passen damit zur Richtung, beweisen aber keine Kausalität.",
         "themes": [
           "Zinsen/Fed",
           "KI/Tech",
           "China/EM"
         ],
         "bullets": [
-          "Der Kurs ist leicht gefallen: -0.12 % gegenüber dem vorherigen Schlusskurs.",
+          "Der Kurs ist leicht gestiegen: +0.24 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: Zinsen/Fed, KI/Tech, China/EM.",
           "Wichtigste gefundene Headlines: Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraETF | Diese US-Small-Cap-Aktien sind jetzt attraktiv - Morningstar."
         ],
@@ -1258,16 +1256,16 @@
             "published": "06.07., 09:00"
           },
           {
-            "title": "S&P 500, Nasdaq Gain, Powered By Meta, Tesla Stock — SPCX, META, TSLA, SKYD, IBM In Focus - TradingView",
-            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQT3JLbkxmS1IyYjZpNU94aGl6cllBYWV3a0hTcmxaSHIxb2xJM3c1LVhleE44MUd6eFRlYWR2VXY4aG4zTW92c0VuX28zb21CZndCTGtDMWVpaXJoOFR5OXA4SXBrMDhkM0R0c2VvRE1CVEIzcHRRM283UXRrTmFIa1dfTFNvbkRWT05lakxCN21BSVN0TXV6QmVSUEFpUDNTSE10anNZM2IwRGxpdjBpYmZpdllFQURnb0JnbzdieWVxbG03eEJJZnBiUWdGNFdJbFp4b2psaw?oc=5",
-            "source": "TradingView",
-            "published": "22.10., 01:15"
-          },
-          {
             "title": "ETF-Portfolio – die besten Musterportfolios und ETF-Strategien - Finanzen.net",
             "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAzbmFxUlNtQ2wyOTBPRk5raDBsUDNYZ0dqWTk0dkQxWU5KV0VfWDB5TS1ValNJTUY3OGFMcGtEVWM4NXRMZ0Y1eE9QcG1BT0dtYmZyTDFtTGFVdTY4a2tYSWlMUE5UQ1p3Uk9OcExIbmZHTW9hYWw2Wm9n?oc=5",
             "source": "Finanzen.net",
             "published": "30.09., 09:00"
+          },
+          {
+            "title": "S&P 500, Nasdaq Gain, Powered By Meta, Tesla Stock — SPCX, META, TSLA, SKYD, IBM In Focus - TradingView",
+            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQT3JLbkxmS1IyYjZpNU94aGl6cllBYWV3a0hTcmxaSHIxb2xJM3c1LVhleE44MUd6eFRlYWR2VXY4aG4zTW92c0VuX28zb21CZndCTGtDMWVpaXJoOFR5OXA4SXBrMDhkM0R0c2VvRE1CVEIzcHRRM283UXRrTmFIa1dfTFNvbkRWT05lakxCN21BSVN0TXV6QmVSUEFpUDNTSE10anNZM2IwRGxpdjBpYmZpdllFQURnb0JnbzdieWVxbG03eEJJZnBiUWdGNFdJbFp4b2psaw?oc=5",
+            "source": "TradingView",
+            "published": "22.10., 01:15"
           }
         ]
       }
@@ -1679,16 +1677,16 @@
             "published": "20.10., 15:00"
           },
           {
-            "title": "Megatrend Folger: Microsoft, Alphabet und Amazon – der große Cloud-Showdown - Der Aktionär",
-            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcWlHZHY4T0xhTW05ZFhRX2dQVndwLWpnZTJiY0JXckJNamFmMlpySjVrUTlrNFhvTG5pM3NXYTB2VjlRRmUwbXVmMFlDeGVmT1djcUJqODZvTURsMU02djRFVUZLVThYNmZWRy1BanFCUFRqcGJ1YlhOVU5xOHVjRVk1b0ZEUUZoVEJuYkt3U09lakhmQ0dpc3Jxdm15dEZoLW15WXpUZTBiMWhkM0RGa2Q5X0JCdGhKLUlZMXJMNi1SUk9JbVpuNQ?oc=5",
+            "title": "Megatrend Folger: Alphabet – KGV 16 vor den Zahlen: Ist Google jetzt zu günstig? - Der Aktionär",
+            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVHFnb2NyaVFyQ0dfT0xKVGh6UjJHZmJ2cUVQNnBEZHl3NnBZMzh1TzhWSlNPa0FSdTdQbUVGSHVVWlJVc21BbTJRdklLME9iMlpwWkZOZGdMZWZuSVdxMkgtR084R25IQnU2R2RKVTJEbFY2czVWdm5aVXFCUjlHYUd3MmY2RmFYa2FrSEFaeTd5dEdTQXRIT09KcU94YjdlUkdCaVVsbDIxOXBhYWpMYUdfU2JNeDNyOWNQMDVMbURGWndGaHUtNlNucWU2Zw?oc=5",
             "source": "Der Aktionär",
-            "published": "25.10., 07:54"
+            "published": "26.10., 10:37"
           },
           {
-            "title": "Google-Cloud-Ausfall legt Revolut und weitere Unternehmen lahm - heise online",
-            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOR3FvaDk1WmFmN1BXZ0lNS0x2RHE1QmYwVmZ3WXNRWFltSHNxdFdXZGl6b0ZTUEFqYnJjM2wyejhqcDVfckQyME0wMDBzOWVrd0hha0Mzd3FCV2F6dGVzZVp1SFdOWERlTTFmWFUxcm5nQll1c29BWUdBNEdvejFNQWd4S29sb3d0N2tXU2Mzc1lSbjdnd1MxWDdvN2xGWEtvczUtMA?oc=5",
-            "source": "heise online",
-            "published": "20.10., 15:02"
+            "title": "Google Cloud und Nvidia: A5X-Instanzen mit Vera Rubin starten im November - BornCity",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNkpjcXRMOW1BWVJGcWtTWTBia2FwMzZqYmU2UG13aW1mOFVNRjVmcVgydmY0Nzg3SlQ3UG1PZkNSYWt4S2tyVHZQRmh3UDZ6V1hSTmdKcnVDemVwOWVtMFdTYndrVUlFdllIZk14aVdhT2tmU0w4MU9fYU13U3Aza2VxajU3RkNBb2IzXzlyTzFaNHRmakFUNzY5ajVqbTFR?oc=5",
+            "source": "BornCity",
+            "published": "25.10., 20:19"
           }
         ]
       }
@@ -1700,22 +1698,18 @@
       "currency": "USD/oz",
       "description": "Goldpreis, primär über Gold-Future, fallback XAU/USD",
       "price_decimals": 2,
-      "last_date": "2026-10-23",
-      "last_close": 4007.89990234375,
-      "previous_close": 4060.39990234375,
-      "change_abs": -52.5,
-      "change_pct": -1.29,
-      "change_5d_pct": -4.14,
-      "change_1m_pct": -6.75,
-      "change_3m_pct": -1.69,
+      "last_date": "2026-10-26",
+      "last_close": 4031.10009765625,
+      "previous_close": 4007.89990234375,
+      "change_abs": 23.2,
+      "change_pct": 0.58,
+      "change_5d_pct": -3.1,
+      "change_1m_pct": -6.71,
+      "change_3m_pct": -0.19,
       "change_1y_pct": null,
-      "ytd_pct": -7.68,
-      "volatility_30d_pct": 17.22,
+      "ytd_pct": -7.14,
+      "volatility_30d_pct": 17.15,
       "sparkline": [
-        {
-          "date": "2026-06-17",
-          "close": 4381.39990234375
-        },
         {
           "date": "2026-06-18",
           "close": 4245.89990234375
@@ -2071,22 +2065,33 @@
         {
           "date": "2026-10-23",
           "close": 4007.89990234375
+        },
+        {
+          "date": "2026-10-26",
+          "close": 4031.10009765625
         }
       ],
       "explanation": {
-        "direction": "gefallen",
+        "direction": "gestiegen",
         "confidence": "niedrig",
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
           "Zinsen/Fed",
-          "US-Dollar"
+          "US-Dollar",
+          "Regulierung"
         ],
         "bullets": [
-          "Der Kurs ist deutlich gefallen: -1.29 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: Zinsen/Fed, US-Dollar.",
-          "Wichtigste gefundene Headlines: Gold: Fed-Showdown ohne Entlastung? - Börse Express | Das sind die Gründe - Goldpreis rutschte wieder unter 4000 US-Dollar - Kronen Zeitung."
+          "Der Kurs ist spürbar gestiegen: +0.58 % gegenüber dem vorherigen Schlusskurs.",
+          "Gefundene Nachrichten-Themen: Zinsen/Fed, US-Dollar, Regulierung.",
+          "Wichtigste gefundene Headlines: Gold fällt unter 4.000 Dollar, was nun? - Der Aktionär | Gold: Fed-Showdown ohne Entlastung? - Börse Express."
         ],
         "headlines": [
+          {
+            "title": "Gold fällt unter 4.000 Dollar, was nun? - Der Aktionär",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONnlTc1NNUWRHeDB6dU5nNVo1NjhPVlpHVjBiUG5WTnhCVEZuTXc1SXdxV2RvZzY5WU1fN3c3LVMwMTYzWkZROWRjOUxkNlVyWU1qQ1NkTldQanBEb3lXTEdKemU2ZnJheVBNZGlBT2cxaDd5NjBKTkZDY3MwM2dpQ05PMHo1WVRoUmxMUl9ablVCem5zTjFIMHZn?oc=5",
+            "source": "Der Aktionär",
+            "published": "26.10., 07:10"
+          },
           {
             "title": "Gold: Fed-Showdown ohne Entlastung? - Börse Express",
             "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdXFBemxuU2s0TGUydzd6MHhhMFplNmxYQlRKZXNHRURpRDY0RHlKOFdtRXE1cmoxdWVrUDBCQS1aUE5WdGVkV3Y1LTQtSjE5UzdhNHE2aWZXS3hpRFlnY1hPUmh5ZXJxeFpxYWpfczczamg1WUpYaHFobzRQQnhwYXN5V1pzcGpMdXp1Umd3?oc=5",
@@ -2094,22 +2099,16 @@
             "published": "25.10., 19:28"
           },
           {
+            "title": "Goldpreis stabilisiert sich nahe Dreimonatstief vor Fed-Sitzung - Investing.com Deutsch",
+            "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPa1hWdkJZNTNva2NtVlg1VXl1d1ZpWW8tVTJCZTFvd25JZGt6bE5USHJnYUs2U2N2UTRCNmtVNmxEUHRVOTRNaXVNRktyd2kyMUgwSG9xNlFPbmNGOW5uR2ZSdlo3MXdOd1ZZTWxyWFo3dS16VnRKeDFTejBYaVgtZzdIaGlhSWxnQjVPS0dhVE9XamNBV0J0UnVfRTJVSDJuVURIazRuenJrSURDcEtNTVlWRmhteUNoaWtRRWR1c2pyZFRFUEtTU0dXQ0hBajh6NThyczBEQkk?oc=5",
+            "source": "Investing.com Deutsch",
+            "published": "26.10., 04:00"
+          },
+          {
             "title": "Das sind die Gründe - Goldpreis rutschte wieder unter 4000 US-Dollar - Kronen Zeitung",
             "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1vTnpkT1NDR1A5a0VYUzByUkpmTGhnYWNZcV80REFHYm5uYWJ6Wm1DRHh0ZmFOZlJ5NXJ2S0xjaHlPUQ?oc=5",
             "source": "Kronen Zeitung",
             "published": "23.10., 20:11"
-          },
-          {
-            "title": "Goldpreis rutschte erstmals seit Sommer unter 4000 US-Dollar - Kleine Zeitung",
-            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNR043VVRGVEpjaEp5NTBFTllhWWc0RUtSM3FqNlU5X1NYdkNMVk9MU2ZHUmxKdXpNdmhyUW5rY0tJbnlQenlGQW1zUmFieUhrWGszX1VPWXRiTW1NYV9WSnFDV1FlQm1uNUpQLUw0SllLTDFlc0dUSFdRSk9Mb3JiRXhya2dvby1CTFEyRzVVUzNUSGJDVlBaWURlNXBWYmp5djJhS2dPZGNhUQ?oc=5",
-            "source": "Kleine Zeitung",
-            "published": "23.10., 20:05"
-          },
-          {
-            "title": "Digitales Gold: World Gold Council sieht Marktpotenzial von 700 Milliarden Dollar - FAZ",
-            "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQkROUERUSEFYZVNGLUVzLWZsVVBrRmMyc1psYUVaTjZaUTFYS0ltR2FDOFFiTkZJNUFCVTZjV09lUjhsb3Z2YU53dThNb0lvUF9xbUtrZnlRVnpGZkdzT1ZNbEdKaWZTb1FzckZPbnNMM21XSXFXZTFRZmx1cU9fSkl6MEp3R3NjRklnVFhLSy1IQlFBR3lxSE8zNTcxT3lPR194NHN4WmpxeF8tQVBod21LbC1aR2N2eXVZN0dqZkNoWEhydzd1aTBUSjlIVmY1NlFOUHZkR1pfaHpw?oc=5",
-            "source": "FAZ",
-            "published": "19.10., 18:00"
           }
         ]
       }
