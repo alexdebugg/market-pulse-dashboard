@@ -1,8 +1,8 @@
 {
   "is_sample": false,
   "source": "Yahoo Finance Kursdaten + Google News RSS Kontext",
-  "generated_at_utc": "2026-10-30T20:23:08+00:00",
-  "generated_at_vienna": "30.10.2026, 21:23 Uhr",
+  "generated_at_utc": "2026-10-31T10:10:22+00:00",
+  "generated_at_vienna": "31.10.2026, 11:10 Uhr",
   "market_mood_internal": "risk-off",
   "assets": [
     {
@@ -396,9 +396,15 @@
         "bullets": [
           "Der Kurs ist deutlich gefallen: -1.35 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: KI/Tech, Regulierung.",
-          "Wichtigste gefundene Headlines: Leverage Shares -5x Short Nasdaq 100 ETP Securities | XS3373449761 | A4AU1Y - extraETF | Bitcoin Flashes Bullish Signal Against NASDAQ: Is $100,000 in 2026 Possible? - TradingView."
+          "Wichtigste gefundene Headlines: Nasdaq Developed Markets MediaIndex [Index] - boerse.de | Leverage Shares -5x Short Nasdaq 100 ETP Securities | XS3373449761 | A4AU1Y - extraETF."
         ],
         "headlines": [
+          {
+            "title": "Nasdaq Developed Markets MediaIndex [Index] - boerse.de",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVjYtNDgzdHRzR0VBaktqbFhwWjBlelZtWlQ5am00TGpVNWNBb2xud2pqUlRFUVpkNlliek9VNDB5cWpyS0JnYmRMaE4wQVdMTjVFdXRVdm9OeGFacDcxc1RyVmhlRnlvQXdoTV9BTmg3RWo0NlpuY3dYTnNPbDBLVmk2dksyU0J1UjduemVldGlEQ1U?oc=5",
+            "source": "boerse.de",
+            "published": "29.10., 00:51"
+          },
           {
             "title": "Leverage Shares -5x Short Nasdaq 100 ETP Securities | XS3373449761 | A4AU1Y - extraETF",
             "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmZUhjNmxQU3JodWVkRkFCMUR2M3d0Y0x6NTdOTDNIU0dvWFB2OFBGaUN4UktyMTdaV3hhQ0JsWG1mZUJPSkI5dnJYOC1sRXM1cVNRVElQaFZ5QmRY?oc=5",
@@ -410,12 +416,6 @@
             "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQR0JuSHNxckJDZDI0UWE3LXJ3NXdCalp3LWRtZXdXTGVxcXg5T19lNk44TE5BVGdHSzB0b0Z2ZGRackFJOFEwZXJNM3Jjbm5mdkdGdEZwRkx1Z3h2bVUyY0Q2YlVmTmJFS3ZpN0JKaEw3U2lxU2JmaUZwd1FpV1RNMl9yQVZ0QzVWUXdDV2ZBSW9ZTW9mUmp3M09wQ1pmVXhDS3Jsc1ZXeS1za196N3hqMGk1MVpCaGFPSjBJWmRUdnpIUHhKUW9nR2c5TQ?oc=5",
             "source": "TradingView",
             "published": "26.10., 17:15"
-          },
-          {
-            "title": "Nasdaq Developed Markets Banks Large Mid Cap Index [Index] - boerse.de",
-            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNR2hQa1hHTXdaV2ZYQkNYaVRMQTZTMzIyMkM4djRmM1ZfSnk5S2ZzMXhSTjlBdmlQWDkwMDBUQk5PQlpCb0lfZXMwZkFWTFRoTWY0Y0lZcjlxMThaRG5ZX2V0YVFaMm52bGxINE5HdWxzYXlHdUFhU2paSkRuN051U08zT2tjUWU0OTVQZHNCWEZ3WF9VOEx5WmFDdXgtUEQwT3hoOU5XcWgwUQ?oc=5",
-            "source": "boerse.de",
-            "published": "13.10., 20:53"
           },
           {
             "title": "S&P, Nasdaq futures slip as markets await Iran sanctions, Nvidia results - MarketScreener Deutschland",
@@ -812,38 +812,39 @@
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
           "US-Dollar",
-          "China/EM",
+          "KI/Tech",
+          "Regulierung",
           "Geopolitik/Sicherheit"
         ],
         "bullets": [
           "Der Kurs ist deutlich gefallen: -2.14 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: US-Dollar, China/EM, Geopolitik/Sicherheit.",
-          "Wichtigste gefundene Headlines: Schwacher US-Dollar und hohe Defizite: Rückenwind für Emerging Markets? - e-fundresearch.com | Schwellenländer: Warum Emerging Markets vor Trendwende stehen - das investment."
+          "Gefundene Nachrichten-Themen: US-Dollar, KI/Tech, Regulierung, Geopolitik/Sicherheit.",
+          "Wichtigste gefundene Headlines: Auftragsbestand an Cloud-Verpflichtungen der großen Hyperscaler knackt Zwei-Billionen-Dollar-Marke - e-fundresearch.com | Kapitalmärkte: Iran-Krieg wird zum Stresstest für die Schwellenländer - Handelsblatt."
         ],
         "headlines": [
           {
-            "title": "Schwacher US-Dollar und hohe Defizite: Rückenwind für Emerging Markets? - e-fundresearch.com",
-            "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdW5LT0NkQVByWUhHM2JvRDZVWERXUW5RWnpWcEpzVVNxRDA2QzgwTEJBQ3p4Y2lYU1NEelhUa1hUZzJyUDg4SnJPTXVmQUppQzRoalhkVURTWEJtaHZ1Zk1MMHNXekE0ZkpyM2x4aTI3UmU0bkU3REl6NXYyVnZIWWxCckFXT3pKaVdvQlp0cFQxMmpPS3lTN0U4ajBWTHd0NGJHVFI2T0Nhc3hhQ2ZSQkJqclRfaWZYMUVEaERfYXcxdklzYXlvRXY5c2R3ZHJDVUpjZmt4TXlQYWNxSHhCSE83cGVjQzc2Nnc?oc=5",
+            "title": "Auftragsbestand an Cloud-Verpflichtungen der großen Hyperscaler knackt Zwei-Billionen-Dollar-Marke - e-fundresearch.com",
+            "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQQm5peXZPU0VVMm1WaG0xa3BtektaanZZQW5DY0RncjI3cm5uX1pZRlRnQW5xTHBITG5NWlNKVHlwVVdhb2cxVFUzZDM1cmVIOGZKbmhpT2h4cjJfdFJUQ3hiak1hVUFoc3Y1NzItYW1wS2l6OXRfSFlSWnIxWjhMZGh4SUZhYTZfaC02NHVVSTd1Z3FWTFU2TlpGanVKN3F1MVNwWmtwSGV6R2J6WFlSeFJuYXlwU0V4ZTRPWU1vYURfUmNBdGJacDVsYkdNa3B6ZG5VYUJySFd3c0YzNFIxcXFaRUJyRE54TW03QWpQR2VTQQ?oc=5",
             "source": "e-fundresearch.com",
-            "published": "25.11., 09:00"
+            "published": "06.07., 09:00"
           },
           {
-            "title": "Schwellenländer: Warum Emerging Markets vor Trendwende stehen - das investment",
-            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVHl1VzJBb3RVcDJSaDF4alVoU3JJdWtuN19sZWtwVXFxNEJnaHpmdlpFX0VVVDZqWVlHNElQQXc0cHY4MEpaRWMtUW9aalZXUF82aFRTekt2RWpna1VUTV9wNDZ6ak91R0dua0xSVjd2eVVNdzdwelIydkpGZTNSbGRVNjVJR2Q0Rmx0cQ?oc=5",
-            "source": "das investment",
-            "published": "10.02., 09:00"
-          },
-          {
-            "title": "Emerging Markets-Aktienausblick 2026: Von der Erholung zur Rotation - e-fundresearch.com",
-            "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTHpVSnRYWUtGN1FaTlZaRUQ0LVVOWVdRM1AtVU9lMlM2d244TjVzLW5ycnp3T09qeVlwdENBUEZXV3hIQlgxNlF6RkR2UEpfMVRzN1ZnUlB3WkZRMUhycGNtcDRRaGRVejFSWklUSkg3NS1RYnBmZUNEVzV4c3BscjlZM1psR091U044UDBvQVRDc3J6Y1A3VWJVQW1pSkxsek9vT3J4MnFDMXdFejJCdHRiVXlRcWNuMVlTc0k4eTllb3U2ckdrUzliTENRUlhjSHJtc3VVSmVSUHBaQTZXY1lyZjNQNGVIeS1ubjlQdw?oc=5",
-            "source": "e-fundresearch.com",
-            "published": "15.01., 09:00"
-          },
-          {
-            "title": "Emerging Markets: Warum China und Co. wieder ins Blickfeld der Anleger rücken - Handelsblatt",
-            "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOekRMc3hqVXpWV0pZWWZTZ2dZMG5Yb2U5aGw0OGdBdUQyNkdja0NBN1NRek5GN0pDYnlZNEU4d2RtQmRCX01FT0ozcGFQQjFZbG1HeVoxUGoxU01iazFESjJNQ3ByckltdnJPZ0xuRWxKOElDWWVTZS1pWXJlWm1FWHBCcnlvRkFXdVNXTTdyNmhrWWo5Mklxb0xfVmZJdTJ0c0gzYXBpWHljakxvSEkzazV6WmZmTFppUUFMdE1Lcm1xV19Mem1GTl9zUG0tNnVJOEl6VVpDSGNSNEdjWVAwZENwNzlsY1E?oc=5",
+            "title": "Kapitalmärkte: Iran-Krieg wird zum Stresstest für die Schwellenländer - Handelsblatt",
+            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWHhSNTdKdm9ENnlwNHVYMHVJa3M3VmctRWswSm5tWFFCc29DemNLQk1nVXd4dHcwcFZlemVYcTcxZTJvdm5sYTNFblhwUVZ2UExEbHQxdXFjSUhyV252TUNVam42cnp4Ti15R0pUWEp0S3k4azhUVlFqc1lxNEpRNmRfd09JaU5qTF91Uk91eHRTaW5TVHlBQjlfeHRmVVJvV0Y3Y1lYb1hvWTl3MkxBSkoxR1p6SVBLOGxRXzEzNkQzSV90MTVzY3Z2Mmw?oc=5",
             "source": "Handelsblatt",
-            "published": "04.06., 09:00"
+            "published": "17.04., 09:00"
+          },
+          {
+            "title": "EM-Anleihen: Diese rohstoffreichen Schwellenländer profitieren - das investment",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNGJtcEp3MGtIVGNpekNsNWQtbnNYaHhIS2JyMHhWYUlDai1mRjZuQ1VRVmZ5c3ZDRE5malN3TTBJMTMza2x4MGpWaUszZDNiZlJMWWd4TnM4RmxYQThTSDFlZF9USUNIQU1pVEpqRVhxYnU3WUNkcHdqYVBBQVFhX3FuZWpNSHpLNUp3N3ZDOTBwLXhJTk5iNDRtSnRYMXQzdE5vX2RR?oc=5",
+            "source": "das investment",
+            "published": "29.05., 09:00"
+          },
+          {
+            "title": "Euro / US-Dollar (EUR/USD): Der Aufwärtstrend sollte weitergehen - Stockstreet",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZHFTeG1BRkhtZ2d0SzhPT0FteGgzc2stTU43YVloa0ZzVWIteWVoYlhjQ0RNeEZGODBjdDJic0pTSDFMbk1PQ21WTzhWb2stLU9GXzhUNlVtbnAybkJJZlk2U014SGZ6eVNoMTUyRnoyb0ZrZ2RqZ2ZoTzNmMHlRSUsydEpoc1l1UDVPSGFEV1lRaXAxekU4WjAyZjd5ZVhod1lsN0tEZGlyRGs5Qm5fLVpHTFlGcGxaOUU0?oc=5",
+            "source": "Stockstreet",
+            "published": "21.10., 16:47"
           }
         ]
       }
@@ -1233,14 +1234,14 @@
         "confidence": "mittel",
         "summary": "Plausibler Nachrichtenbezug: Der Kurs ist gefallen und die gefundenen Schlagzeilen enthalten überwiegend belastend wirkende Formulierungen. Die Quellen passen damit zur Richtung, beweisen aber keine Kausalität.",
         "themes": [
+          "Zinsen/Fed",
           "KI/Tech",
-          "China/EM",
           "Gewinne/Analysten"
         ],
         "bullets": [
           "Der Kurs ist deutlich gefallen: -1.32 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: KI/Tech, China/EM, Gewinne/Analysten.",
-          "Wichtigste gefundene Headlines: S&P 500, Nasdaq Futures Dip As Weaker-Than-Expected Alphabet Earnings Reignite AI Spending Worries — GOOGL, MSFT, ORCL, NVDA, MRVL In Focus… | Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraETF."
+          "Gefundene Nachrichten-Themen: Zinsen/Fed, KI/Tech, Gewinne/Analysten.",
+          "Wichtigste gefundene Headlines: S&P 500, Nasdaq Futures Dip As Weaker-Than-Expected Alphabet Earnings Reignite AI Spending Worries — GOOGL, MSFT, ORCL, NVDA, MRVL In Focus… | Nasdaq 100 Futures Dip On Weak Intel, Amazon Earnings With Bloated Capex Worries Weighing On Sentiment — AMZN, INTC, SBUX, PLTR, ASTS In Fo…."
         ],
         "headlines": [
           {
@@ -1250,22 +1251,22 @@
             "published": "29.10., 01:10"
           },
           {
-            "title": "Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraETF",
-            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBfSEFMN1dKOFVhZUdmcE5WbGh1V3VIUTVJTE5SdWVzS2hYemNGRWgzRi1MZF8xZXdrbUl3RHVKeTk0SDNRUmhSWGgyQUpMQlRXb2JPS0Jxb2txVm5LM0w3anphOWo5WWIwSDF5Qjg4clFwR0VWUkQ5Qg?oc=5",
-            "source": "extraETF",
-            "published": "28.04., 10:37"
-          },
-          {
-            "title": "Historische Aufholjagd: Russell 2000 knackt Rekordhoch und lässt Tech-Giganten hinter sich - finanzen.at",
-            "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQcGU2MENDakpGa01zWXI2Zl9SRlZqbjBhQlNXY0dMdzVGSUxqV0wxMUNNT3k1b0hDRTJwX2RLQnBVUEE4bTJaU3NITzlKNzhaazlGRWZvcFBrQWY0X1VaSGhvUUgzUVF0bWFOWE9EY0tWdHRFa3BTMlR2Q0VrNFFyZkF4aUZabjFjekJEODVQaXV2RUFZeVNKT05TaHRlWXE3bUxNMGk0R2VDcGRyVDJpM0ttVkJTV29leWpsLXotb19oTkMwMkN4aVVvdGtWSzNHejl5ek5SRnM2YlE?oc=5",
-            "source": "finanzen.at",
-            "published": "25.08., 09:00"
+            "title": "Nasdaq 100 Futures Dip On Weak Intel, Amazon Earnings With Bloated Capex Worries Weighing On Sentiment — AMZN, INTC, SBUX, PLTR, ASTS In Fo…",
+            "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOV1ZnRl9QOVhDV0R4ZmZBY3lyVGZBaHhCamxTSlRzdVNRdlZQQjMtb1Rvak9za05nalNvbUpobXFyenNlX3p6dWxrRVl2MWtQNktpMGJDV2hLUEpxTGUzbnVBczV0QjVud3VPMTJ3R2NtaURNRlpZbXpCT0hTcjdMTmhkaVFQSTd1WkVTaVNBUWw1SFRYQWdvaVExMFNTYVk5OGp1QUpVX2VzSjBvMXd0Y3lFWWRwTDM1Z215S2M1WjFEelZreHBfeFhiR3h1cWRfVVNESV9SMGwyY2pXcUhaVEoyY3QyU0pMR0o4eWJLal9tREV0T1pYNU9mMjYzRGQtQjU1SkhVQ0RmY1lHQTQwMEdlb295c2ZPemVxZl9nX1U?oc=5",
+            "source": "TradingView",
+            "published": "30.10., 00:54"
           },
           {
             "title": "Diese US-Small-Cap-Aktien sind jetzt attraktiv - Morningstar",
             "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNXF1VURGVVhhSUhQWnc3NDlSUTVfU3BWb2hXd3pPN1Z5VWFGa2p4WV84cFd1WTlVaEFheEZ4eVhUVjBlVnBwdlBHTURVR2ptUGMzME5DeFNfR3lHVUhGTHRMVmIwU2ZXNFJUdlBlYW1XZ2M4aXJMTTlCWnNLbmxZc3FndTVMV1NXdmQ5cm9sdVQ?oc=5",
             "source": "Morningstar",
             "published": "06.07., 09:00"
+          },
+          {
+            "title": "ETF-Portfolio – die besten Musterportfolios und ETF-Strategien - Finanzen.net",
+            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAzbmFxUlNtQ2wyOTBPRk5raDBsUDNYZ0dqWTk0dkQxWU5KV0VfWDB5TS1ValNJTUY3OGFMcGtEVWM4NXRMZ0Y1eE9QcG1BT0dtYmZyTDFtTGFVdTY4a2tYSWlMUE5UQ1p3Uk9OcExIbmZHTW9hYWw2Wm9n?oc=5",
+            "source": "Finanzen.net",
+            "published": "30.09., 09:00"
           }
         ]
       }
@@ -1683,10 +1684,10 @@
             "published": "28.10., 23:53"
           },
           {
-            "title": "Google: Cloud-Wachstum satt – was Aktionäre übersehen - Der Aktionär",
-            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPY0VLZkJJNUp1NXNKT1lWbHJ0bUptbmpmeVIzUWh5S1dXMUxOZE5sUVVVbnhkWHRKMWhGd1hFX19FN2RIVzR2ZlpVc1pzakx1UGt1dmhSLXFTN0tqbXNJRFBVY3d1a2w2OGlWSkVhWWZBVDhGSmdCNjdfOWVWUDZJSUJfdGt3N2dNV3h1UDZUVkp6N0R4dlo5R2VTd3hZOUtXUGh5UXZUVFF5UEFnX1hiN005dnV6NTlqZzBoSWMyMTlYdzlK?oc=5",
-            "source": "Der Aktionär",
-            "published": "29.10., 17:39"
+            "title": "Google Cloud für BND, MAD und Verfassungsschutz: Unsouveräner geht es nicht - t3n",
+            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9zY3VPcTljNUVIZWhfaGdkT1EzS0h1bjlfWTZkeWlLQlo3MG1IdmRRRnVWNlBvdGs5MkdVY2hBaXlWT2hOMER0cl9HVnNveGhUVnczME1JOW9YZ25hRDVzOVQ4Y3QxSndNSGh0VlJTNEtpczZRRFVB?oc=5",
+            "source": "t3n",
+            "published": "31.10., 10:15"
           }
         ]
       }
@@ -1699,16 +1700,16 @@
       "description": "Goldpreis, primär über Gold-Future, fallback XAU/USD",
       "price_decimals": 2,
       "last_date": "2026-10-30",
-      "last_close": 3892.89990234375,
+      "last_close": 3898.89990234375,
       "previous_close": 4031.39990234375,
-      "change_abs": -138.5,
-      "change_pct": -3.44,
-      "change_5d_pct": -2.87,
-      "change_1m_pct": -7.36,
-      "change_3m_pct": -4.83,
+      "change_abs": -132.5,
+      "change_pct": -3.29,
+      "change_5d_pct": -2.72,
+      "change_1m_pct": -7.22,
+      "change_3m_pct": -4.68,
       "change_1y_pct": null,
-      "ytd_pct": -10.32,
-      "volatility_30d_pct": 19.02,
+      "ytd_pct": -10.19,
+      "volatility_30d_pct": 18.82,
       "sparkline": [
         {
           "date": "2026-06-25",
@@ -2068,7 +2069,7 @@
         },
         {
           "date": "2026-10-30",
-          "close": 3892.89990234375
+          "close": 3898.89990234375
         }
       ],
       "explanation": {
@@ -2081,7 +2082,7 @@
           "Regulierung"
         ],
         "bullets": [
-          "Der Kurs ist deutlich gefallen: -3.44 % gegenüber dem vorherigen Schlusskurs.",
+          "Der Kurs ist deutlich gefallen: -3.29 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: Zinsen/Fed, US-Dollar, Regulierung.",
           "Wichtigste gefundene Headlines: Trump, Dollar, Gold und Anleihen: Was die US-Wahlen für Anleger bedeuten - e-fundresearch.com | Goldpreis stürzt unter 3.900 Dollar ab: Liquiditätskollaps und Zinsfurcht 💥 - XTB.com."
         ],
@@ -2099,16 +2100,16 @@
             "published": "30.10., 16:56"
           },
           {
-            "title": "Gold und Silber mit Kursrutsch: Preise für Edelmetalle fallen auf Jahrestief - Manager Magazin",
-            "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQWnhRaVdRU01FLWM3WFpUUVpnb2prWndVNHFEVS1aRm1tWndFQWV2cHQ3T1dJSldKc2hNVlN4cWY2VlprZ2doWGlGLU4zME9Sc3AySjBkWEUwZmwxYUFyeXY5bFdjNTNwcjdYSzc1MHJxR1ZQZnhPQW5DTzU5RUZBRVRxbGhoQzZpYUR0NlpOS25saE1tZUtlMkFfdktyM2VHQVZPb3B4SkpReGtQRk9qS0lJckZ3NFBXWkJRcW52b3ozUUt2dWpLc0RtNE1nTzJFYU5ObWdRQkZ0QnNmT2I1bGkzVnZjcWtiV3dGUW5uNmNJTVZyVlBGZlBn?oc=5",
-            "source": "Manager Magazin",
-            "published": "30.10., 18:15"
-          },
-          {
             "title": "Gold: Zittern vor der Fed? - Der Aktionär",
             "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPT1otVnlZNE1LVUlNbVVBUVpFbk5JQXk2UkxNdkp1S0k3V3dRN1lOd25wVzJUTGVzSzI1VmtXNjNxR29XQ0dKanpEdDV0U3hNUXVmc3ZJOUtoSTRiNGpjMmF2TGpyNXA5a3NJQnVLdVdFeDlpcnAtVTlBazZRQnUxR3k4QjFtRGpQSGlUaVlTNEJ5cTg?oc=5",
             "source": "Der Aktionär",
             "published": "28.10., 14:55"
+          },
+          {
+            "title": "Gold und Silber mit Kursrutsch: Preise für Edelmetalle fallen auf Jahrestief - Manager Magazin",
+            "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQWnhRaVdRU01FLWM3WFpUUVpnb2prWndVNHFEVS1aRm1tWndFQWV2cHQ3T1dJSldKc2hNVlN4cWY2VlprZ2doWGlGLU4zME9Sc3AySjBkWEUwZmwxYUFyeXY5bFdjNTNwcjdYSzc1MHJxR1ZQZnhPQW5DTzU5RUZBRVRxbGhoQzZpYUR0NlpOS25saE1tZUtlMkFfdktyM2VHQVZPb3B4SkpReGtQRk9qS0lJckZ3NFBXWkJRcW52b3ozUUt2dWpLc0RtNE1nTzJFYU5ObWdRQkZ0QnNmT2I1bGkzVnZjcWtiV3dGUW5uNmNJTVZyVlBGZlBn?oc=5",
+            "source": "Manager Magazin",
+            "published": "30.10., 18:20"
           }
         ]
       }
