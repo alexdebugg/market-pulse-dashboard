@@ -1,9 +1,9 @@
 {
   "is_sample": false,
   "source": "Yahoo Finance Kursdaten + Google News RSS Kontext",
-  "generated_at_utc": "2026-11-06T11:48:36+00:00",
-  "generated_at_vienna": "06.11.2026, 12:48 Uhr",
-  "market_mood_internal": "risk-off",
+  "generated_at_utc": "2026-11-06T21:15:10+00:00",
+  "generated_at_vienna": "06.11.2026, 22:15 Uhr",
+  "market_mood_internal": "neutral",
   "assets": [
     {
       "name": "MSCI World",
@@ -13,16 +13,16 @@
       "description": "iShares Core MSCI World UCITS ETF als handelbarer Developed-Markets-Proxy",
       "price_decimals": 2,
       "last_date": "2026-11-06",
-      "last_close": 126.15499877929688,
+      "last_close": 127.31500244140625,
       "previous_close": 127.79000091552734,
-      "change_abs": -1.64,
-      "change_pct": -1.28,
-      "change_5d_pct": -2.72,
-      "change_1m_pct": -3.68,
-      "change_3m_pct": -1.99,
-      "change_1y_pct": 14.61,
-      "ytd_pct": 12.87,
-      "volatility_30d_pct": 11.65,
+      "change_abs": -0.47,
+      "change_pct": -0.37,
+      "change_5d_pct": -1.83,
+      "change_1m_pct": -2.79,
+      "change_3m_pct": -1.08,
+      "change_1y_pct": 15.67,
+      "ytd_pct": 13.9,
+      "volatility_30d_pct": 11.11,
       "sparkline": [
         {
           "date": "2026-07-06",
@@ -382,7 +382,7 @@
         },
         {
           "date": "2026-11-06",
-          "close": 126.15499877929688
+          "close": 127.31500244140625
         }
       ],
       "explanation": {
@@ -394,11 +394,23 @@
           "Regulierung"
         ],
         "bullets": [
-          "Der Kurs ist deutlich gefallen: -1.28 % gegenüber dem vorherigen Schlusskurs.",
+          "Der Kurs ist spürbar gefallen: -0.37 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: KI/Tech, Regulierung.",
-          "Wichtigste gefundene Headlines: Nasdaq 100 verliert über 1.000 Punkte – Tech unter Druck - IG | (3⁺) Wunschanalysen Aktien USA: NASDAQ INC., SHARKNINJA - stock3."
+          "Wichtigste gefundene Headlines: Nasdaq unter Druck: Wiederholt sich 1999? Nvidia, AAOI und Cloudflare im Check - stock3 | Dow Jones, S&P 500, Nasdaq: Rally an der Wall Street – US-Börsen schließen deutlich im Plus - Handelsblatt."
         ],
         "headlines": [
+          {
+            "title": "Nasdaq unter Druck: Wiederholt sich 1999? Nvidia, AAOI und Cloudflare im Check - stock3",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQblBuYnE5VndZVW9hZGtLVEFzekZDckZVOEI0Q19sejN6MXR0RGJnMmpUQ1R2ek5IcWZjaFh0WnlVTWZWRm1jYXVwZFZZSFB3dnU4bFRuMnNuMjZVSWVSZ0VoTlA1eWhYOXFDbE4wQVBiNXRtaUJIZnRKOUFxcDhFc1BJRFVaTXZ2dE1ZakM2YWw5SWdpS2Y0RTVVZFpiTFFmb2NEdWh2UXQ4S1F2?oc=5",
+            "source": "stock3",
+            "published": "06.11., 19:00"
+          },
+          {
+            "title": "Dow Jones, S&P 500, Nasdaq: Rally an der Wall Street – US-Börsen schließen deutlich im Plus - Handelsblatt",
+            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPR3J0a0QxSTRYY18zMEo4R2ZNX1JBVVUyZ2hxYTRkajUtamVFb01PZVdZWXlmVnRVLVAwa1c1WGVTU0tfYXZUQzB0OE1QeFRsSWxuRkRPOFhBZFN6ME42M2xRNGxxa2FINFI1SUFLUnlTT01KampCY3VNcjZZR2FUYUdhdi15QnNGQTdfNVZyTkVFYUFrZUJJNXF6bXVUdmRJemVEMGV0VjBFeFp3ZWNmNnQwX1Y1b29QcEdISGpVQjIwZGlBUGRHRHV3WUc3Z3BrNlV5Y3hEejRLR2VBT21vZGpqbHYyYWNQOEdxeXktYnVGUjlm?oc=5",
+            "source": "Handelsblatt",
+            "published": "04.11., 16:21"
+          },
           {
             "title": "Nasdaq 100 verliert über 1.000 Punkte – Tech unter Druck - IG",
             "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeVc4dXFvQUI2Z0t6bjVMNWc2ZjcxOV9jemlQMGxHSHEwZGRqTUZNWk9FUEpBSDFRYTgwamtUT1Q3bzRiS2tMU3l5YWoxMmlHWlRIMlRzVEltMTh2eG1XeHVQb3pVNk5fcTBHVmVXY3pFUzVQVGM5UnFoN1pKTWtodkxqVFVKc0NIWjhVNA?oc=5",
@@ -406,22 +418,10 @@
             "published": "05.11., 16:57"
           },
           {
-            "title": "(3⁺) Wunschanalysen Aktien USA: NASDAQ INC., SHARKNINJA - stock3",
-            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdktHQ1Y4ekJPbVd2cWdUSUpvZVhuaUlTTGI4YXNMYmw4a0ozRTB2RXR6NU5XcG5iVTVvZlJoQTF1VXBxaEZ2S3RXbFZtSVVaMVF1ZjVmUU1XR3cyejFOM3lLZXVxc3FtVXpIVDVWOW5QS014bG50MDNzeU1pMTNHbk4tMHZuYWs?oc=5",
-            "source": "stock3",
-            "published": "03.11., 17:20"
-          },
-          {
             "title": "TradingKey Täglicher Marktbericht: Nasdaq verliert über 5%, KI-Aktien brechen ein, während Nvidia um über 9% fällt, Micron um über 17% sink…",
             "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdGFLQTUzSFVMUU9WRHdmbXl5d0l0UW9CbzN2M21oeXVGa0VOeThtaklLOWtZWS0zbEJ5ZklHcnJJNU5VVlZham9YZDYzWlNrUktkcFRQdFJCZ2ZRamdCblNJOHA3VFdoMlZ2UW91cEVRNmFPQWpvYmVwTUd3T04zb3pzZE5qT2dhMTVCQTVCbzJEeVJfZGY1UTB2WTVFcVRMMzhkbi00VFNHZ0RBMmlWY0pFWVBjcnh6TGxfUzVR?oc=5",
             "source": "TradingKey",
             "published": "05.11., 16:47"
-          },
-          {
-            "title": "Nasdaq 100 rutscht in die Korrektur: Das macht Anlegern jetzt Sorgen - Business Insider Deutschland",
-            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQVplREd0SEpDdzg3OHhZazM1eXVhWExLbFIwbm11Y1phRW8xNzFHdV9BR2JBOTRzWVVaSHhNTEpuSlVDVnZaNFhTd1dlTExMTHhYczV3bDZVUko2eEdTS2d5MlRxQ0pRdmpSQ254VXp0LWxHaFBiaVdMX3FXa3NJbzJqTkJpUXJRNXRBczRHcHRmdnh1bDZCXzl3T2lpNlNTTU1VU1ZjUEppTXBxZEIw?oc=5",
-            "source": "Business Insider Deutschland",
-            "published": "03.11., 17:13"
           }
         ]
       }
@@ -434,16 +434,16 @@
       "description": "iShares Core MSCI EM IMI UCITS ETF als Emerging-Markets-Proxy",
       "price_decimals": 2,
       "last_date": "2026-11-06",
-      "last_close": 43.665000915527344,
+      "last_close": 43.849998474121094,
       "previous_close": 43.34700012207031,
-      "change_abs": 0.32,
-      "change_pct": 0.73,
-      "change_5d_pct": -2.89,
-      "change_1m_pct": -10.12,
-      "change_3m_pct": -6.4,
-      "change_1y_pct": 13.71,
-      "ytd_pct": 13.87,
-      "volatility_30d_pct": 21.62,
+      "change_abs": 0.5,
+      "change_pct": 1.16,
+      "change_5d_pct": -2.48,
+      "change_1m_pct": -9.74,
+      "change_3m_pct": -6.0,
+      "change_1y_pct": 14.19,
+      "ytd_pct": 14.35,
+      "volatility_30d_pct": 21.84,
       "sparkline": [
         {
           "date": "2026-07-06",
@@ -803,13 +803,13 @@
         },
         {
           "date": "2026-11-06",
-          "close": 43.665000915527344
+          "close": 43.849998474121094
         }
       ],
       "explanation": {
         "direction": "gestiegen",
-        "confidence": "mittel",
-        "summary": "Plausibler Nachrichtenbezug: Der Kurs ist gestiegen und die gefundenen Schlagzeilen enthalten überwiegend positiv wirkende Formulierungen. Die Quellen passen damit zur Richtung, beweisen aber keine Kausalität.",
+        "confidence": "niedrig",
+        "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
           "Zinsen/Fed",
           "US-Dollar",
@@ -817,11 +817,17 @@
           "Geopolitik/Sicherheit"
         ],
         "bullets": [
-          "Der Kurs ist spürbar gestiegen: +0.73 % gegenüber dem vorherigen Schlusskurs.",
+          "Der Kurs ist deutlich gestiegen: +1.16 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: Zinsen/Fed, US-Dollar, China/EM, Geopolitik/Sicherheit.",
-          "Wichtigste gefundene Headlines: BL - BOND EMERGING MARKETS DOLLAR B FONDS aktueller Kurs | A3EE6Q | LU2469037274 - Finanzen.net | Klimafinanzierung: Emerging Markets brauchen mehr Kapital - Börsianer."
+          "Wichtigste gefundene Headlines: Klimafinanzierung: Emerging Markets brauchen mehr Kapital - Börsianer | BL - BOND EMERGING MARKETS DOLLAR B FONDS aktueller Kurs | A3EE6Q | LU2469037274 - Finanzen.net."
         ],
         "headlines": [
+          {
+            "title": "Klimafinanzierung: Emerging Markets brauchen mehr Kapital - Börsianer",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdmd5OE92Sl90MHNjVjNTMUxqSE5VYzdrLWNXdG9jVGZSSk9YSGZZMXcwUlNkV1poaUZfa2FRVFVTZEpGNVBuNGFGUUFaV3l5WlkyeXBFQ3MyTWIyWTVsXzFVNlR6cVYzV2pFeWZYMEVhTUswb0d2ZFNHV3Fud1hoQWk2M1M?oc=5",
+            "source": "Börsianer",
+            "published": "03.11., 16:41"
+          },
           {
             "title": "BL - BOND EMERGING MARKETS DOLLAR B FONDS aktueller Kurs | A3EE6Q | LU2469037274 - Finanzen.net",
             "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORHBKRHpBRG1TaGFYNVZhNHpEUHZqTzYweTRoSUpncVZYbVd4Zy1uMF9VWjU2TFpCelVPQlpxaGdfc0hVMGV0UzJiOUt5R3BndjRoQzl1aWpDQW9HNExZa2lfaERjY3VoMlhhbWZrRUFWNENLYjM3bE16eVJRcGg0WXNpQQ?oc=5",
@@ -829,22 +835,16 @@
             "published": "02.11., 00:00"
           },
           {
-            "title": "Klimafinanzierung: Emerging Markets brauchen mehr Kapital - Börsianer",
-            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdmd5OE92Sl90MHNjVjNTMUxqSE5VYzdrLWNXdG9jVGZSSk9YSGZZMXcwUlNkV1poaUZfa2FRVFVTZEpGNVBuNGFGUUFaV3l5WlkyeXBFQ3MyTWIyWTVsXzFVNlR6cVYzV2pFeWZYMEVhTUswb0d2ZFNHV3Fud1hoQWk2M1M?oc=5",
-            "source": "Börsianer",
-            "published": "13.08., 07:28"
-          },
-          {
-            "title": "Emerging Markets-Aktienausblick 2026: Von der Erholung zur Rotation - e-fundresearch.com",
-            "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTHpVSnRYWUtGN1FaTlZaRUQ0LVVOWVdRM1AtVU9lMlM2d244TjVzLW5ycnp3T09qeVlwdENBUEZXV3hIQlgxNlF6RkR2UEpfMVRzN1ZnUlB3WkZRMUhycGNtcDRRaGRVejFSWklUSkg3NS1RYnBmZUNEVzV4c3BscjlZM1psR091U044UDBvQVRDc3J6Y1A3VWJVQW1pSkxsek9vT3J4MnFDMXdFejJCdHRiVXlRcWNuMVlTc0k4eTllb3U2ckdrUzliTENRUlhjSHJtc3VVSmVSUHBaQTZXY1lyZjNQNGVIeS1ubjlQdw?oc=5",
+            "title": "Schwacher US-Dollar und hohe Defizite: Rückenwind für Emerging Markets? - e-fundresearch.com",
+            "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdW5LT0NkQVByWUhHM2JvRDZVWERXUW5RWnpWcEpzVVNxRDA2QzgwTEJBQ3p4Y2lYU1NEelhUa1hUZzJyUDg4SnJPTXVmQUppQzRoalhkVURTWEJtaHZ1Zk1MMHNXekE0ZkpyM2x4aTI3UmU0bkU3REl6NXYyVnZIWWxCckFXT3pKaVdvQlp0cFQxMmpPS3lTN0U4ajBWTHd0NGJHVFI2T0Nhc3hhQ2ZSQkJqclRfaWZYMUVEaERfYXcxdklzYXlvRXY5c2R3ZHJDVUpjZmt4TXlQYWNxSHhCSE83cGVjQzc2Nnc?oc=5",
             "source": "e-fundresearch.com",
-            "published": "15.01., 09:00"
+            "published": "25.11., 09:00"
           },
           {
-            "title": "Schwellenländer: Warum Emerging Markets vor Trendwende stehen - das investment",
-            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVHl1VzJBb3RVcDJSaDF4alVoU3JJdWtuN19sZWtwVXFxNEJnaHpmdlpFX0VVVDZqWVlHNElQQXc0cHY4MEpaRWMtUW9aalZXUF82aFRTekt2RWpna1VUTV9wNDZ6ak91R0dua0xSVjd2eVVNdzdwelIydkpGZTNSbGRVNjVJR2Q0Rmx0cQ?oc=5",
-            "source": "das investment",
-            "published": "10.02., 09:00"
+            "title": "Emerging Markets: Warum China und Co. wieder ins Blickfeld der Anleger rücken - Handelsblatt",
+            "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOekRMc3hqVXpWV0pZWWZTZ2dZMG5Yb2U5aGw0OGdBdUQyNkdja0NBN1NRek5GN0pDYnlZNEU4d2RtQmRCX01FT0ozcGFQQjFZbG1HeVoxUGoxU01iazFESjJNQ3ByckltdnJPZ0xuRWxKOElDWWVTZS1pWXJlWm1FWHBCcnlvRkFXdVNXTTdyNmhrWWo5Mklxb0xfVmZJdTJ0c0gzYXBpWHljakxvSEkzazV6WmZmTFppUUFMdE1Lcm1xV19Mem1GTl9zUG0tNnVJOEl6VVpDSGNSNEdjWVAwZENwNzlsY1E?oc=5",
+            "source": "Handelsblatt",
+            "published": "04.06., 09:00"
           }
         ]
       }
@@ -857,16 +857,16 @@
       "description": "iShares MSCI World Small Cap UCITS ETF als Small-Cap-Proxy",
       "price_decimals": 3,
       "last_date": "2026-11-06",
-      "last_close": 8.932999610900879,
+      "last_close": 9.017000198364258,
       "previous_close": 9.072999954223633,
-      "change_abs": -0.14,
-      "change_pct": -1.54,
-      "change_5d_pct": -2.08,
-      "change_1m_pct": -0.4,
-      "change_3m_pct": -3.21,
-      "change_1y_pct": 19.28,
-      "ytd_pct": 14.82,
-      "volatility_30d_pct": 12.72,
+      "change_abs": -0.056,
+      "change_pct": -0.62,
+      "change_5d_pct": -1.16,
+      "change_1m_pct": 0.54,
+      "change_3m_pct": -2.3,
+      "change_1y_pct": 20.4,
+      "ytd_pct": 15.9,
+      "volatility_30d_pct": 12.02,
       "sparkline": [
         {
           "date": "2026-07-06",
@@ -1226,7 +1226,7 @@
         },
         {
           "date": "2026-11-06",
-          "close": 8.932999610900879
+          "close": 9.017000198364258
         }
       ],
       "explanation": {
@@ -1239,7 +1239,7 @@
           "China/EM"
         ],
         "bullets": [
-          "Der Kurs ist deutlich gefallen: -1.54 % gegenüber dem vorherigen Schlusskurs.",
+          "Der Kurs ist spürbar gefallen: -0.62 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: Zinsen/Fed, US-Dollar, China/EM.",
           "Wichtigste gefundene Headlines: Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraETF | Diese US-Small-Cap-Aktien sind jetzt attraktiv - Morningstar."
         ],
@@ -1278,22 +1278,18 @@
       "currency": "USD",
       "description": "Alphabet Inc. Class A",
       "price_decimals": 2,
-      "last_date": "2026-11-05",
-      "last_close": 282.57000732421875,
-      "previous_close": 288.92999267578125,
-      "change_abs": -6.36,
-      "change_pct": -2.2,
-      "change_5d_pct": -0.44,
-      "change_1m_pct": -19.38,
-      "change_3m_pct": -20.25,
+      "last_date": "2026-11-06",
+      "last_close": 284.7799987792969,
+      "previous_close": 282.57000732421875,
+      "change_abs": 2.21,
+      "change_pct": 0.78,
+      "change_5d_pct": 1.77,
+      "change_1m_pct": -18.23,
+      "change_3m_pct": -20.35,
       "change_1y_pct": null,
-      "ytd_pct": -9.72,
-      "volatility_30d_pct": 42.32,
+      "ytd_pct": -9.02,
+      "volatility_30d_pct": 42.4,
       "sparkline": [
-        {
-          "date": "2026-07-01",
-          "close": 361.2099914550781
-        },
         {
           "date": "2026-07-02",
           "close": 359.9100036621094
@@ -1649,27 +1645,36 @@
         {
           "date": "2026-11-05",
           "close": 282.57000732421875
+        },
+        {
+          "date": "2026-11-06",
+          "close": 284.7799987792969
         }
       ],
       "explanation": {
-        "direction": "gefallen",
-        "confidence": "mittel",
-        "summary": "Plausibler Nachrichtenbezug: Der Kurs ist gefallen und die gefundenen Schlagzeilen enthalten überwiegend belastend wirkende Formulierungen. Die Quellen passen damit zur Richtung, beweisen aber keine Kausalität.",
+        "direction": "gestiegen",
+        "confidence": "niedrig",
+        "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
-          "Zinsen/Fed",
           "KI/Tech"
         ],
         "bullets": [
-          "Der Kurs ist deutlich gefallen: -2.20 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: Zinsen/Fed, KI/Tech.",
-          "Wichtigste gefundene Headlines: Google Cloud-Ausfall in London ist „Wenn der Notstrom nicht funktioniert“Borns IT- und Windows-Blog - BornCity | Merz: Google-Cloud ausreichend souverän für Nachrichtendienste - heise online."
+          "Der Kurs ist spürbar gestiegen: +0.78 % gegenüber dem vorherigen Schlusskurs.",
+          "Gefundene Nachrichten-Themen: KI/Tech.",
+          "Wichtigste gefundene Headlines: Google Cloud erweitert Sicherheitsagenten CodeMender - it-daily.net | Google Cloud-Ausfall in London ist „Wenn der Notstrom nicht funktioniert“Borns IT- und Windows-Blog - BornCity."
         ],
         "headlines": [
+          {
+            "title": "Google Cloud erweitert Sicherheitsagenten CodeMender - it-daily.net",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1nSXhLTFNHQzNDX3BTQlF5TEtfZVhyMkY3SWx0ZFhZaXZDQ0pkSU5OT3Y2SFhQV1pDZXhkZ0VVVXc3YlNycWFrSzV5UHZSWEtHb1ZQVGFIeHVucUNtZ0J2ZWRKY0pPZ2tiTlE?oc=5",
+            "source": "it-daily.net",
+            "published": "06.11., 12:58"
+          },
           {
             "title": "Google Cloud-Ausfall in London ist „Wenn der Notstrom nicht funktioniert“Borns IT- und Windows-Blog - BornCity",
             "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNT2YwME5FS1U2S09oa3BfdUp0dzViT2JjNDMzR1Q5ZU9taEYxMmJxaU81bzA0UmktNmpyOVkzc1pSaGg0NWp1c3Q0V3Rrc05wZzJSSXB4VDFObVJldHJ1ZVVWeFVXS1JGYVRxVWx5SjRHQXRWSlh5LWJPU19RSWMwVWdsMThvT0JicDdLaEMtWHkxRXUyUTg2Z3Z3SEdzZjZDQkY0OXR0SWl5WHRBWWc?oc=5",
             "source": "BornCity",
-            "published": "06.11., 08:26"
+            "published": "06.11., 17:09"
           },
           {
             "title": "Merz: Google-Cloud ausreichend souverän für Nachrichtendienste - heise online",
@@ -1678,16 +1683,10 @@
             "published": "02.11., 17:56"
           },
           {
-            "title": "Alphabet: Nach dem Kursabsturz könnte der Demokratensieg Google Cloud sogar wertvoller machen - Onvista",
-            "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVVRBVkwxM1lTeW5LTDEzMkIxdWNRNUtmZ1RaSzR2Q19HNFdKX0doMHlCUDM2MUc0QlFWSzhrY3ItOU42M3o3S3FXVjcyMGFEMHZTY1pjaXZvRVJmd0xzYWdSNjZ4SXNNUDJkS1M3M2l1MkxMNGpkNGlRN0dxT1pNTEtCS0lvLXdoRExhd2R5bjJYdGdIbEN4dFN6QzRKUEZxcnZHb2MyYy1JM2ZLOWk5TERxYUJkOVRqWjFUWUJFVjZZbVY4Uk9rQTlza282STB2ZGJ2VkQxUk12UUVvUGc?oc=5",
-            "source": "Onvista",
-            "published": "05.11., 13:39"
-          },
-          {
-            "title": "Zalando will Google und Open AI mit eigenem Agenten Konkurrenz machen - FAZ",
-            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZjlBcmFabGlFdURDbV84Z01uU09IVFFBZ3A4NDhyZ0M0T2xwdVg4c3ZZZkFaUWhWSG5pdEwyaHRBczNDRGI1RlZWWlRsb25uUV92X0h6aW5fLXlXek9nUjBtZnlnMjFFZGlMZF9zZ3d6WFd2bGJBVm01U05aelFVVFlvZnIyRGJNVUxKS1NyTUN2QkdSYnhKVVQxR3llalV1UGMwWWZHdS1JMmNlTEozLWRSUGJGOFFUZTdtMWM1UnVqN1lRckxmNUtYOVJpZXE2?oc=5",
-            "source": "FAZ",
-            "published": "03.11., 14:48"
+            "title": "Alphabet Aktie: Aufstockung bei SpaceX gemeldet - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVldDVS1DRlFJVnhLR1dqSHdwWG1EX0ZTcWtWcmg0ZTN2MS1nNVVMVHVPT3dNb0FkY19idnhTYlBRS3JkQ1lOM1psX25COVZmS2FZNkxyQlVKaGVya0Zna0tlQ0Y5MUEyV2g0czBtaDZPSnFpRzFQRU5hc3hkek1KQUs0V290VlZodlpkLS0yYUNHSUFGOWlDenZ5YWFaSmM?oc=5",
+            "source": "Börse Express",
+            "published": "06.11., 16:58"
           }
         ]
       }
@@ -1700,16 +1699,16 @@
       "description": "Goldpreis, primär über Gold-Future, fallback XAU/USD",
       "price_decimals": 2,
       "last_date": "2026-11-06",
-      "last_close": 4079.800048828125,
+      "last_close": 4075.300048828125,
       "previous_close": 4113.5,
-      "change_abs": -33.7,
-      "change_pct": -0.82,
-      "change_5d_pct": 4.64,
-      "change_1m_pct": -1.86,
-      "change_3m_pct": -7.69,
+      "change_abs": -38.2,
+      "change_pct": -0.93,
+      "change_5d_pct": 4.52,
+      "change_1m_pct": -1.97,
+      "change_3m_pct": -7.79,
       "change_1y_pct": null,
-      "ytd_pct": -6.02,
-      "volatility_30d_pct": 22.56,
+      "ytd_pct": -6.12,
+      "volatility_30d_pct": 22.59,
       "sparkline": [
         {
           "date": "2026-07-02",
@@ -2069,7 +2068,7 @@
         },
         {
           "date": "2026-11-06",
-          "close": 4079.800048828125
+          "close": 4075.300048828125
         }
       ],
       "explanation": {
@@ -2077,14 +2076,22 @@
         "confidence": "niedrig",
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
-          "US-Dollar"
+          "US-Dollar",
+          "Regulierung",
+          "Geopolitik/Sicherheit"
         ],
         "bullets": [
-          "Der Kurs ist spürbar gefallen: -0.82 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: US-Dollar.",
-          "Wichtigste gefundene Headlines: Goldpreis steigt nach US-Wahl: Jetzt zählen 4.050 Dollar - IG | Gold knackt 4.000-Dollar-Marke: Trump-Pleite beflügelt Edelmetalle | Märkte | 04.11.2026 - FONDS professionell."
+          "Der Kurs ist spürbar gefallen: -0.93 % gegenüber dem vorherigen Schlusskurs.",
+          "Gefundene Nachrichten-Themen: US-Dollar, Regulierung, Geopolitik/Sicherheit.",
+          "Wichtigste gefundene Headlines: Gold nach dem Ausverkauf: Erholung in Sicht oder nur Zwischenspiel? - Finanzen.net | Goldpreis steigt nach US-Wahl: Jetzt zählen 4.050 Dollar - IG."
         ],
         "headlines": [
+          {
+            "title": "Gold nach dem Ausverkauf: Erholung in Sicht oder nur Zwischenspiel? - Finanzen.net",
+            "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQYlAtWHJ2Q0NUOUhNNnVmVnRaVE5hNXJseHE2cFA0cmpadkxFUmpUcENPdlZMVm1PSjY2akxtbm82NHNjWFFPQ1o2WlZfRU1laVBaWEROczg1WGQzRHdraEJwTDRMZFNza2o5a1NQMDBXY0R0VUpCa3RRbC1xWU0wM3RFNmZBZ1d4RThsNlNwXzQ4QWZtSVNGODcwRmZheURJY2hKdE90YTdlemJiRzVhc0hsSnpuRGMwVWhxQkV1eG5VeU5Hb2xyWW9ZaURqRTF3aXJUc2VpWXdaSm8?oc=5",
+            "source": "Finanzen.net",
+            "published": "06.11., 18:00"
+          },
           {
             "title": "Goldpreis steigt nach US-Wahl: Jetzt zählen 4.050 Dollar - IG",
             "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWUhUMllGMWlRY19SRWh5MHNHdFZ1b21JUE12RUI4cTVINEpkQkw4bGlXeHNGR2lOOEtDNEpvMWRDZGh3azBTZlJBNTFpUUZWTVhfVWlCUlRWUlcyVFp5LXFrcVJlaUZqM29JeGRWVjNRZ0s4U3NtZG1YeTlxZUdSdFN6VmdHNTBGNUVORVVyaG1GNlE?oc=5",
@@ -2092,22 +2099,16 @@
             "published": "04.11., 09:27"
           },
           {
-            "title": "Gold knackt 4.000-Dollar-Marke: Trump-Pleite beflügelt Edelmetalle | Märkte | 04.11.2026 - FONDS professionell",
-            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZ0UyUW5wZG5kTy1KcmdXUnhqVUtvSTlTSWdWakJpaHJXTHRVbmFkem96bDBvVDFMZUtCYzIzNnF0TmtXdjlKMVFKV0hIMzVPRVl3SVo5RzZZTTFVZ3dOdk1RVHA3X2MzVEk3cUhCa2tDc0szVmd4bUV1WXN3Q1NjM21nazFzZkY4bmVqdHJhajlGVkdmcUdzN3RISmxJR0ZkajAzT0FvcUhqajBnZ2VocVNRdUZmVHh0a3lpREQ2RWdmQ1VmWXlINA?oc=5",
-            "source": "FONDS professionell",
-            "published": "04.11., 09:55"
-          },
-          {
-            "title": "Unsicherheit nach der US-Wahl ist weg: Nun steigen Aktien, Gold und Bitcoin - DiePresse.com",
-            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMWdpQm53WHBiY0QwaUVWSk5JektzcER1MlFaOVJGNUtBeDFsZi02dDYxVHF5RWFRdzJhTlh3MVFRUjFEeXJmc1BjcTQ2bXpBelNNVUh3RVFYU0dfbTFDandwb09FY2RQYWNHTk9Obl9pdXNPekhDbHFaVTNFQzU4OWFVWl9iSHJVU2VxSWRkVUNKWk9ZaHUyZ2hRZGtLTnIySlZXNkdKZkE?oc=5",
-            "source": "DiePresse.com",
-            "published": "04.11., 10:07"
-          },
-          {
-            "title": "Gold zurück über 4.000 Dollar – Korrektur beendet? - Der Aktionär",
-            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRXFaVjIwVnR2aDVzLVJ2OGZ1aFRFVHQyZW16aHpiR3NvNldzZUpQa2p4aUNhN21ZRGJmQ2ZjRlhjaTFvNGR6WDZaMEdXVHNvS2RsclFqMVo5Vm1Rb001ZVE3bU92NVhRMjhZa2hwbi04OS1rVWxfbDdBajZFck9JNXU0cVNVZ282MDRDT3g4M1lOQm80RTBIajZJM2V0SmR0cDBDZkFGVGFxWTFoelg2dkozVQ?oc=5",
+            "title": "Gold vor Richtungsentscheid – Goldman Sachs senkt Kursziel deutlich - Der Aktionär",
+            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTnRLaWJ6ck0yOHIzbjdkMTVvalA0SVE0dl85MU5LdndGUTdJckgwOFZwM3YzekpLaFB2aW9XeGZtN3hzWFFoanR4UExJRjBRUVdRNExtVzgxLWxPWnJ6N2Jzdk9sWThzamFJaDh5SFg4VjJoSEtWdmhwQUpPNWs5OFBsZnc3bHpYSi00TGcwVkVDa0tWdFRvanUtMi1WRUN4RGg0YjJRSG1EM0lOak5XaGpHb21IdV9lelZOTktFREZKLWZidkhUVHdn?oc=5",
             "source": "Der Aktionär",
-            "published": "04.11., 09:50"
+            "published": "06.11., 12:56"
+          },
+          {
+            "title": "Goldpreis bei 4.050 Dollar: Warum Öl die Erholung ausbremst - Investor-Verlag",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUXJoNlVXX2JxMVdqLURNM3lmZGotcURTcldOdGVwWXUzVUJ5OUU3SW44dE1Hd0l3YjJ3WHVJaWJISnozNUcycllqMERPdVdyTWYzcG83T2lvcXJiTlJQX0lTYU85WUNWcmdmaXpDSVZka29HRDFiSE5udW53R01OYVlkZ1J3ZnlKQ1JVYmFRQjB3M1lfLTN5UEVILWk3ZExpekVDeFhCdTRNZw?oc=5",
+            "source": "Investor-Verlag",
+            "published": "06.11., 15:21"
           }
         ]
       }
