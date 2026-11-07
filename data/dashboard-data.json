@@ -1,8 +1,8 @@
 {
   "is_sample": false,
   "source": "Yahoo Finance Kursdaten + Google News RSS Kontext",
-  "generated_at_utc": "2026-11-06T21:15:10+00:00",
-  "generated_at_vienna": "06.11.2026, 22:15 Uhr",
+  "generated_at_utc": "2026-11-07T10:52:20+00:00",
+  "generated_at_vienna": "07.11.2026, 11:52 Uhr",
   "market_mood_internal": "neutral",
   "assets": [
     {
@@ -387,8 +387,8 @@
       ],
       "explanation": {
         "direction": "gefallen",
-        "confidence": "mittel",
-        "summary": "Plausibler Nachrichtenbezug: Der Kurs ist gefallen und die gefundenen Schlagzeilen enthalten überwiegend belastend wirkende Formulierungen. Die Quellen passen damit zur Richtung, beweisen aber keine Kausalität.",
+        "confidence": "niedrig",
+        "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
           "KI/Tech",
           "Regulierung"
@@ -412,16 +412,16 @@
             "published": "04.11., 16:21"
           },
           {
+            "title": "S&P 500 verzeichnet in fünf Monaten nahezu keine Gewinne: Bewertung fällt auf das 18,5-Fache, werden US-Aktien günstiger? - TradingKey",
+            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSmtKREJxTmQ5amI3OHdKanNicmxwR0FGUGpxMHBqTEZMQ244T19kNFlfMG9yOHdpT25KUFhjQ3p1S1lMUTNBQ3hCNTYtWGJKb2JaOUx5QkRJbWdPVVg3OFdIbEhpa3J5aXBKamRrZEdWMHZTckN1OXdQcU1wRk9yZXlLSWxWTzNCcXhNdDRZbWtPZjVYZE9BRlRBYktaajVfX2VvVVRaUnctOWdjNl80QXRhejQ5bExGbUtoX3VzY0tmb0NqZF9kVW9CVHVnZ2kzQkxfaUtjWQ?oc=5",
+            "source": "TradingKey",
+            "published": "06.11., 20:00"
+          },
+          {
             "title": "Nasdaq 100 verliert über 1.000 Punkte – Tech unter Druck - IG",
             "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeVc4dXFvQUI2Z0t6bjVMNWc2ZjcxOV9jemlQMGxHSHEwZGRqTUZNWk9FUEpBSDFRYTgwamtUT1Q3bzRiS2tMU3l5YWoxMmlHWlRIMlRzVEltMTh2eG1XeHVQb3pVNk5fcTBHVmVXY3pFUzVQVGM5UnFoN1pKTWtodkxqVFVKc0NIWjhVNA?oc=5",
             "source": "IG",
             "published": "05.11., 16:57"
-          },
-          {
-            "title": "TradingKey Täglicher Marktbericht: Nasdaq verliert über 5%, KI-Aktien brechen ein, während Nvidia um über 9% fällt, Micron um über 17% sink…",
-            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdGFLQTUzSFVMUU9WRHdmbXl5d0l0UW9CbzN2M21oeXVGa0VOeThtaklLOWtZWS0zbEJ5ZklHcnJJNU5VVlZham9YZDYzWlNrUktkcFRQdFJCZ2ZRamdCblNJOHA3VFdoMlZ2UW91cEVRNmFPQWpvYmVwTUd3T04zb3pzZE5qT2dhMTVCQTVCbzJEeVJfZGY1UTB2WTVFcVRMMzhkbi00VFNHZ0RBMmlWY0pFWVBjcnh6TGxfUzVR?oc=5",
-            "source": "TradingKey",
-            "published": "05.11., 16:47"
           }
         ]
       }
@@ -808,8 +808,8 @@
       ],
       "explanation": {
         "direction": "gestiegen",
-        "confidence": "niedrig",
-        "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
+        "confidence": "mittel",
+        "summary": "Plausibler Nachrichtenbezug: Der Kurs ist gestiegen und die gefundenen Schlagzeilen enthalten überwiegend positiv wirkende Formulierungen. Die Quellen passen damit zur Richtung, beweisen aber keine Kausalität.",
         "themes": [
           "Zinsen/Fed",
           "US-Dollar",
@@ -835,16 +835,16 @@
             "published": "02.11., 00:00"
           },
           {
-            "title": "Schwacher US-Dollar und hohe Defizite: Rückenwind für Emerging Markets? - e-fundresearch.com",
-            "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdW5LT0NkQVByWUhHM2JvRDZVWERXUW5RWnpWcEpzVVNxRDA2QzgwTEJBQ3p4Y2lYU1NEelhUa1hUZzJyUDg4SnJPTXVmQUppQzRoalhkVURTWEJtaHZ1Zk1MMHNXekE0ZkpyM2x4aTI3UmU0bkU3REl6NXYyVnZIWWxCckFXT3pKaVdvQlp0cFQxMmpPS3lTN0U4ajBWTHd0NGJHVFI2T0Nhc3hhQ2ZSQkJqclRfaWZYMUVEaERfYXcxdklzYXlvRXY5c2R3ZHJDVUpjZmt4TXlQYWNxSHhCSE83cGVjQzc2Nnc?oc=5",
+            "title": "Emerging Markets-Aktienausblick 2026: Von der Erholung zur Rotation - e-fundresearch.com",
+            "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTHpVSnRYWUtGN1FaTlZaRUQ0LVVOWVdRM1AtVU9lMlM2d244TjVzLW5ycnp3T09qeVlwdENBUEZXV3hIQlgxNlF6RkR2UEpfMVRzN1ZnUlB3WkZRMUhycGNtcDRRaGRVejFSWklUSkg3NS1RYnBmZUNEVzV4c3BscjlZM1psR091U044UDBvQVRDc3J6Y1A3VWJVQW1pSkxsek9vT3J4MnFDMXdFejJCdHRiVXlRcWNuMVlTc0k4eTllb3U2ckdrUzliTENRUlhjSHJtc3VVSmVSUHBaQTZXY1lyZjNQNGVIeS1ubjlQdw?oc=5",
             "source": "e-fundresearch.com",
-            "published": "25.11., 09:00"
+            "published": "15.01., 09:00"
           },
           {
-            "title": "Emerging Markets: Warum China und Co. wieder ins Blickfeld der Anleger rücken - Handelsblatt",
-            "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOekRMc3hqVXpWV0pZWWZTZ2dZMG5Yb2U5aGw0OGdBdUQyNkdja0NBN1NRek5GN0pDYnlZNEU4d2RtQmRCX01FT0ozcGFQQjFZbG1HeVoxUGoxU01iazFESjJNQ3ByckltdnJPZ0xuRWxKOElDWWVTZS1pWXJlWm1FWHBCcnlvRkFXdVNXTTdyNmhrWWo5Mklxb0xfVmZJdTJ0c0gzYXBpWHljakxvSEkzazV6WmZmTFppUUFMdE1Lcm1xV19Mem1GTl9zUG0tNnVJOEl6VVpDSGNSNEdjWVAwZENwNzlsY1E?oc=5",
-            "source": "Handelsblatt",
-            "published": "04.06., 09:00"
+            "title": "Schwellenländer: Warum Emerging Markets vor Trendwende stehen - das investment",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVHl1VzJBb3RVcDJSaDF4alVoU3JJdWtuN19sZWtwVXFxNEJnaHpmdlpFX0VVVDZqWVlHNElQQXc0cHY4MEpaRWMtUW9aalZXUF82aFRTekt2RWpna1VUTV9wNDZ6ak91R0dua0xSVjd2eVVNdzdwelIydkpGZTNSbGRVNjVJR2Q0Rmx0cQ?oc=5",
+            "source": "das investment",
+            "published": "10.02., 09:00"
           }
         ]
       }
@@ -1656,11 +1656,12 @@
         "confidence": "niedrig",
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
+          "Zinsen/Fed",
           "KI/Tech"
         ],
         "bullets": [
           "Der Kurs ist spürbar gestiegen: +0.78 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: KI/Tech.",
+          "Gefundene Nachrichten-Themen: Zinsen/Fed, KI/Tech.",
           "Wichtigste gefundene Headlines: Google Cloud erweitert Sicherheitsagenten CodeMender - it-daily.net | Google Cloud-Ausfall in London ist „Wenn der Notstrom nicht funktioniert“Borns IT- und Windows-Blog - BornCity."
         ],
         "headlines": [
@@ -1683,10 +1684,10 @@
             "published": "02.11., 17:56"
           },
           {
-            "title": "Alphabet Aktie: Aufstockung bei SpaceX gemeldet - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVldDVS1DRlFJVnhLR1dqSHdwWG1EX0ZTcWtWcmg0ZTN2MS1nNVVMVHVPT3dNb0FkY19idnhTYlBRS3JkQ1lOM1psX25COVZmS2FZNkxyQlVKaGVya0Zna0tlQ0Y5MUEyV2g0czBtaDZPSnFpRzFQRU5hc3hkek1KQUs0V290VlZodlpkLS0yYUNHSUFGOWlDenZ5YWFaSmM?oc=5",
-            "source": "Börse Express",
-            "published": "06.11., 16:58"
+            "title": "Alphabet: Nach dem Kursabsturz könnte der Demokratensieg Google Cloud sogar wertvoller machen - Onvista",
+            "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVVRBVkwxM1lTeW5LTDEzMkIxdWNRNUtmZ1RaSzR2Q19HNFdKX0doMHlCUDM2MUc0QlFWSzhrY3ItOU42M3o3S3FXVjcyMGFEMHZTY1pjaXZvRVJmd0xzYWdSNjZ4SXNNUDJkS1M3M2l1MkxMNGpkNGlRN0dxT1pNTEtCS0lvLXdoRExhd2R5bjJYdGdIbEN4dFN6QzRKUEZxcnZHb2MyYy1JM2ZLOWk5TERxYUJkOVRqWjFUWUJFVjZZbVY4Uk9rQTlza282STB2ZGJ2VkQxUk12UUVvUGc?oc=5",
+            "source": "Onvista",
+            "published": "05.11., 13:39"
           }
         ]
       }
@@ -1699,15 +1700,15 @@
       "description": "Goldpreis, primär über Gold-Future, fallback XAU/USD",
       "price_decimals": 2,
       "last_date": "2026-11-06",
-      "last_close": 4075.300048828125,
+      "last_close": 4074.89990234375,
       "previous_close": 4113.5,
-      "change_abs": -38.2,
-      "change_pct": -0.93,
-      "change_5d_pct": 4.52,
+      "change_abs": -38.6,
+      "change_pct": -0.94,
+      "change_5d_pct": 4.51,
       "change_1m_pct": -1.97,
-      "change_3m_pct": -7.79,
+      "change_3m_pct": -7.8,
       "change_1y_pct": null,
-      "ytd_pct": -6.12,
+      "ytd_pct": -6.13,
       "volatility_30d_pct": 22.59,
       "sparkline": [
         {
@@ -2068,7 +2069,7 @@
         },
         {
           "date": "2026-11-06",
-          "close": 4075.300048828125
+          "close": 4074.89990234375
         }
       ],
       "explanation": {
@@ -2077,20 +2078,19 @@
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
           "US-Dollar",
-          "Regulierung",
-          "Geopolitik/Sicherheit"
+          "Regulierung"
         ],
         "bullets": [
-          "Der Kurs ist spürbar gefallen: -0.93 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: US-Dollar, Regulierung, Geopolitik/Sicherheit.",
-          "Wichtigste gefundene Headlines: Gold nach dem Ausverkauf: Erholung in Sicht oder nur Zwischenspiel? - Finanzen.net | Goldpreis steigt nach US-Wahl: Jetzt zählen 4.050 Dollar - IG."
+          "Der Kurs ist spürbar gefallen: -0.94 % gegenüber dem vorherigen Schlusskurs.",
+          "Gefundene Nachrichten-Themen: US-Dollar, Regulierung.",
+          "Wichtigste gefundene Headlines: Gold als Absicherung im Börsenbeben? Was ihr jetzt wissen solltet - Business Insider Deutschland | Goldpreis steigt nach US-Wahl: Jetzt zählen 4.050 Dollar - IG."
         ],
         "headlines": [
           {
-            "title": "Gold nach dem Ausverkauf: Erholung in Sicht oder nur Zwischenspiel? - Finanzen.net",
-            "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQYlAtWHJ2Q0NUOUhNNnVmVnRaVE5hNXJseHE2cFA0cmpadkxFUmpUcENPdlZMVm1PSjY2akxtbm82NHNjWFFPQ1o2WlZfRU1laVBaWEROczg1WGQzRHdraEJwTDRMZFNza2o5a1NQMDBXY0R0VUpCa3RRbC1xWU0wM3RFNmZBZ1d4RThsNlNwXzQ4QWZtSVNGODcwRmZheURJY2hKdE90YTdlemJiRzVhc0hsSnpuRGMwVWhxQkV1eG5VeU5Hb2xyWW9ZaURqRTF3aXJUc2VpWXdaSm8?oc=5",
-            "source": "Finanzen.net",
-            "published": "06.11., 18:00"
+            "title": "Gold als Absicherung im Börsenbeben? Was ihr jetzt wissen solltet - Business Insider Deutschland",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZHliS1VfLTV5djg2cEpCeURiU2lxT1ZwbUgzMHREUTZZVFZJQ29XN3ZlVkF0MWRBZ0tPOXlPaXEtU1NadGNwMS1zWVB3azdDZEt1b1ROZTlJenRGQnhXOVBIb1diWE5wQWdwWlptdU5tNDJKTWNKSndyQVZXeGx2TlcydncxNndnVDZNNkQ4cUNpQmdBLW5OQnJHOHVwRFdic0FSRzVGcmJhaVdZ?oc=5",
+            "source": "Business Insider Deutschland",
+            "published": "07.11., 09:05"
           },
           {
             "title": "Goldpreis steigt nach US-Wahl: Jetzt zählen 4.050 Dollar - IG",
@@ -2099,16 +2099,16 @@
             "published": "04.11., 09:27"
           },
           {
-            "title": "Gold vor Richtungsentscheid – Goldman Sachs senkt Kursziel deutlich - Der Aktionär",
-            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTnRLaWJ6ck0yOHIzbjdkMTVvalA0SVE0dl85MU5LdndGUTdJckgwOFZwM3YzekpLaFB2aW9XeGZtN3hzWFFoanR4UExJRjBRUVdRNExtVzgxLWxPWnJ6N2Jzdk9sWThzamFJaDh5SFg4VjJoSEtWdmhwQUpPNWs5OFBsZnc3bHpYSi00TGcwVkVDa0tWdFRvanUtMi1WRUN4RGg0YjJRSG1EM0lOak5XaGpHb21IdV9lelZOTktFREZKLWZidkhUVHdn?oc=5",
-            "source": "Der Aktionär",
-            "published": "06.11., 12:56"
+            "title": "Gold und Silber: Darum läuft es für die Edelmetalle so schlecht - WirtschaftsWoche",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSnJYUUN4anRnaC01RGhDaFZOcS1yTjI4SUVsVDVDeVBDQmhlMFZ6SDBZRXBYNmo1bDVaZHA2UW4tOU90Z1RBcXBZeW9tOUo3YUFOZ2I3dzN0NVhoLVZUZmR4RDJhaE5zZDRGWW5ZVzRSZjN0WWFhOExhVURJMkI3cldBV0dTVm1jb0VzQlFVU3dmQmdSMXhCZkNqUEZ1Y0lKc29WQXdEdGo4UjdOLTV1RnRteUxiQQ?oc=5",
+            "source": "WirtschaftsWoche",
+            "published": "07.11., 08:09"
           },
           {
-            "title": "Goldpreis bei 4.050 Dollar: Warum Öl die Erholung ausbremst - Investor-Verlag",
-            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUXJoNlVXX2JxMVdqLURNM3lmZGotcURTcldOdGVwWXUzVUJ5OUU3SW44dE1Hd0l3YjJ3WHVJaWJISnozNUcycllqMERPdVdyTWYzcG83T2lvcXJiTlJQX0lTYU85WUNWcmdmaXpDSVZka29HRDFiSE5udW53R01OYVlkZ1J3ZnlKQ1JVYmFRQjB3M1lfLTN5UEVILWk3ZExpekVDeFhCdTRNZw?oc=5",
-            "source": "Investor-Verlag",
-            "published": "06.11., 15:21"
+            "title": "Gold nach dem Ausverkauf: Erholung in Sicht oder nur Zwischenspiel? - Finanzen.net",
+            "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQYlAtWHJ2Q0NUOUhNNnVmVnRaVE5hNXJseHE2cFA0cmpadkxFUmpUcENPdlZMVm1PSjY2akxtbm82NHNjWFFPQ1o2WlZfRU1laVBaWEROczg1WGQzRHdraEJwTDRMZFNza2o5a1NQMDBXY0R0VUpCa3RRbC1xWU0wM3RFNmZBZ1d4RThsNlNwXzQ4QWZtSVNGODcwRmZheURJY2hKdE90YTdlemJiRzVhc0hsSnpuRGMwVWhxQkV1eG5VeU5Hb2xyWW9ZaURqRTF3aXJUc2VpWXdaSm8?oc=5",
+            "source": "Finanzen.net",
+            "published": "06.11., 18:00"
           }
         ]
       }
