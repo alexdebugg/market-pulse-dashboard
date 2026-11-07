@@ -1,8 +1,8 @@
 {
   "is_sample": false,
   "source": "Yahoo Finance Kursdaten + Google News RSS Kontext",
-  "generated_at_utc": "2026-11-07T10:52:20+00:00",
-  "generated_at_vienna": "07.11.2026, 11:52 Uhr",
+  "generated_at_utc": "2026-11-07T19:51:34+00:00",
+  "generated_at_vienna": "07.11.2026, 20:51 Uhr",
   "market_mood_internal": "neutral",
   "assets": [
     {
@@ -387,41 +387,40 @@
       ],
       "explanation": {
         "direction": "gefallen",
-        "confidence": "niedrig",
-        "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
+        "confidence": "mittel",
+        "summary": "Plausibler Nachrichtenbezug: Der Kurs ist gefallen und die gefundenen Schlagzeilen enthalten überwiegend belastend wirkende Formulierungen. Die Quellen passen damit zur Richtung, beweisen aber keine Kausalität.",
         "themes": [
-          "KI/Tech",
-          "Regulierung"
+          "KI/Tech"
         ],
         "bullets": [
           "Der Kurs ist spürbar gefallen: -0.37 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: KI/Tech, Regulierung.",
-          "Wichtigste gefundene Headlines: Nasdaq unter Druck: Wiederholt sich 1999? Nvidia, AAOI und Cloudflare im Check - stock3 | Dow Jones, S&P 500, Nasdaq: Rally an der Wall Street – US-Börsen schließen deutlich im Plus - Handelsblatt."
+          "Gefundene Nachrichten-Themen: KI/Tech.",
+          "Wichtigste gefundene Headlines: Nasdaq unter Druck: Wiederholt sich 1999? Nvidia, AAOI und Cloudflare im Check - stock3 | Nasdaq 100 verliert über 1.000 Punkte – Tech unter Druck - IG."
         ],
         "headlines": [
           {
             "title": "Nasdaq unter Druck: Wiederholt sich 1999? Nvidia, AAOI und Cloudflare im Check - stock3",
             "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQblBuYnE5VndZVW9hZGtLVEFzekZDckZVOEI0Q19sejN6MXR0RGJnMmpUQ1R2ek5IcWZjaFh0WnlVTWZWRm1jYXVwZFZZSFB3dnU4bFRuMnNuMjZVSWVSZ0VoTlA1eWhYOXFDbE4wQVBiNXRtaUJIZnRKOUFxcDhFc1BJRFVaTXZ2dE1ZakM2YWw5SWdpS2Y0RTVVZFpiTFFmb2NEdWh2UXQ4S1F2?oc=5",
             "source": "stock3",
-            "published": "06.11., 19:00"
-          },
-          {
-            "title": "Dow Jones, S&P 500, Nasdaq: Rally an der Wall Street – US-Börsen schließen deutlich im Plus - Handelsblatt",
-            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPR3J0a0QxSTRYY18zMEo4R2ZNX1JBVVUyZ2hxYTRkajUtamVFb01PZVdZWXlmVnRVLVAwa1c1WGVTU0tfYXZUQzB0OE1QeFRsSWxuRkRPOFhBZFN6ME42M2xRNGxxa2FINFI1SUFLUnlTT01KampCY3VNcjZZR2FUYUdhdi15QnNGQTdfNVZyTkVFYUFrZUJJNXF6bXVUdmRJemVEMGV0VjBFeFp3ZWNmNnQwX1Y1b29QcEdISGpVQjIwZGlBUGRHRHV3WUc3Z3BrNlV5Y3hEejRLR2VBT21vZGpqbHYyYWNQOEdxeXktYnVGUjlm?oc=5",
-            "source": "Handelsblatt",
-            "published": "04.11., 16:21"
-          },
-          {
-            "title": "S&P 500 verzeichnet in fünf Monaten nahezu keine Gewinne: Bewertung fällt auf das 18,5-Fache, werden US-Aktien günstiger? - TradingKey",
-            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSmtKREJxTmQ5amI3OHdKanNicmxwR0FGUGpxMHBqTEZMQ244T19kNFlfMG9yOHdpT25KUFhjQ3p1S1lMUTNBQ3hCNTYtWGJKb2JaOUx5QkRJbWdPVVg3OFdIbEhpa3J5aXBKamRrZEdWMHZTckN1OXdQcU1wRk9yZXlLSWxWTzNCcXhNdDRZbWtPZjVYZE9BRlRBYktaajVfX2VvVVRaUnctOWdjNl80QXRhejQ5bExGbUtoX3VzY0tmb0NqZF9kVW9CVHVnZ2kzQkxfaUtjWQ?oc=5",
-            "source": "TradingKey",
-            "published": "06.11., 20:00"
+            "published": "06.11., 18:30"
           },
           {
             "title": "Nasdaq 100 verliert über 1.000 Punkte – Tech unter Druck - IG",
             "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeVc4dXFvQUI2Z0t6bjVMNWc2ZjcxOV9jemlQMGxHSHEwZGRqTUZNWk9FUEpBSDFRYTgwamtUT1Q3bzRiS2tMU3l5YWoxMmlHWlRIMlRzVEltMTh2eG1XeHVQb3pVNk5fcTBHVmVXY3pFUzVQVGM5UnFoN1pKTWtodkxqVFVKc0NIWjhVNA?oc=5",
             "source": "IG",
             "published": "05.11., 16:57"
+          },
+          {
+            "title": "Nasdaq erholt sich um 1 % nach gestrigem, von Tech-Werten angeführtem 5-%-Einbruch, SpaceX-Aktien springen um über 8 % an - TradingKey",
+            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQT3pTS2JMbGlDa0RoR1ZnUVY0bjY1OUREcUJpWHgta1U0MFBUdE10R2FOV0xSTTVPU2ZWTGd5bzBhckRhcUNKVDJnT291cjJFVG01QXI0bW00NWMzUE1NUjRfd3dNWkM0VkZjMDNldVZBWTNsbGZhdDdUSGJTS0hVQ0I3eVFQM1NfY290Ty1uN2F4LWljUXlwQk1UbnpsczNDWHJDd3laWUtNUTVzSE05elltQWVhc0lQS2ozbFJxVW8xWVhKNWpQdFhn?oc=5",
+            "source": "TradingKey",
+            "published": "06.11., 13:16"
+          },
+          {
+            "title": "Tikehau Capital: Disclosure of Shares Repurchases from 30 October 2026 to 05 November 2026 - Onvista",
+            "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOYWVnU0pjcVB6bnViRGRpVjZ4Tkt2Z053NkQ1YS1WVi1BQ01DaENwT1ZwT1VDTjlEalFEMU9aTzBHYlpLTWZQVzh0OWduUU5BblpDNGI5WWtncXdPTHRDcUxDVUZDMkp1VXZNYnZWRmNXQTY1djYwbmMxUG5XcjFwLW92ZHlqenVJZVpVQUc2MWx0STNnOUZpSW9CZ2I4YzVINVRsbW1YSkhUY29SeWZqcUFaQTB6NVotMV9Da3p1SXd4bk45V2FwU1RGOWR6OE5NT2UxcUIxTkE?oc=5",
+            "source": "Onvista",
+            "published": "06.11., 12:12"
           }
         ]
       }
@@ -1236,12 +1235,13 @@
         "themes": [
           "Zinsen/Fed",
           "US-Dollar",
+          "Regulierung",
           "China/EM"
         ],
         "bullets": [
           "Der Kurs ist spürbar gefallen: -0.62 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: Zinsen/Fed, US-Dollar, China/EM.",
-          "Wichtigste gefundene Headlines: Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraETF | Diese US-Small-Cap-Aktien sind jetzt attraktiv - Morningstar."
+          "Gefundene Nachrichten-Themen: Zinsen/Fed, US-Dollar, Regulierung, China/EM.",
+          "Wichtigste gefundene Headlines: Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraETF | ETF-Portfolio – die besten Musterportfolios und ETF-Strategien - Finanzen.net."
         ],
         "headlines": [
           {
@@ -1251,16 +1251,16 @@
             "published": "28.04., 10:37"
           },
           {
-            "title": "Diese US-Small-Cap-Aktien sind jetzt attraktiv - Morningstar",
-            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNXF1VURGVVhhSUhQWnc3NDlSUTVfU3BWb2hXd3pPN1Z5VWFGa2p4WV84cFd1WTlVaEFheEZ4eVhUVjBlVnBwdlBHTURVR2ptUGMzME5DeFNfR3lHVUhGTHRMVmIwU2ZXNFJUdlBlYW1XZ2M4aXJMTTlCWnNLbmxZc3FndTVMV1NXdmQ5cm9sdVQ?oc=5",
-            "source": "Morningstar",
-            "published": "06.07., 09:00"
-          },
-          {
             "title": "ETF-Portfolio – die besten Musterportfolios und ETF-Strategien - Finanzen.net",
             "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAzbmFxUlNtQ2wyOTBPRk5raDBsUDNYZ0dqWTk0dkQxWU5KV0VfWDB5TS1ValNJTUY3OGFMcGtEVWM4NXRMZ0Y1eE9QcG1BT0dtYmZyTDFtTGFVdTY4a2tYSWlMUE5UQ1p3Uk9OcExIbmZHTW9hYWw2Wm9n?oc=5",
             "source": "Finanzen.net",
             "published": "30.09., 09:00"
+          },
+          {
+            "title": "Drei europäische Small-Cap-Aktien für das Jahr 2026 - Morningstar",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMEs2TEZTckdDLWpCakI1eHFNUW45VXNjbk5LN3ZBWDgwNXJPUGFEa1JFVE9QYWpmdmdfUVpZRmxYVG92bGFzOURGZTBOY2JTcllqSUxhTDVoMktobkRPMUtlX0gyVTZmWGFTVUZCQnh2TFA1bHhXeEt4RWZoU0FWbFBzTjY4NXdRdmNYUDVGRWNwMjVL?oc=5",
+            "source": "Morningstar",
+            "published": "23.01., 09:00"
           },
           {
             "title": "Bitcoin notiert bei 78.000 USD, während Memecoins und Small Caps eine breite Krypto-Korrektur anführen - CoinDesk",
@@ -1662,21 +1662,9 @@
         "bullets": [
           "Der Kurs ist spürbar gestiegen: +0.78 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: Zinsen/Fed, KI/Tech.",
-          "Wichtigste gefundene Headlines: Google Cloud erweitert Sicherheitsagenten CodeMender - it-daily.net | Google Cloud-Ausfall in London ist „Wenn der Notstrom nicht funktioniert“Borns IT- und Windows-Blog - BornCity."
+          "Wichtigste gefundene Headlines: Merz: Google-Cloud ausreichend souverän für Nachrichtendienste - heise online | Alphabet: Nach dem Kursabsturz könnte der Demokratensieg Google Cloud sogar wertvoller machen - Onvista."
         ],
         "headlines": [
-          {
-            "title": "Google Cloud erweitert Sicherheitsagenten CodeMender - it-daily.net",
-            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1nSXhLTFNHQzNDX3BTQlF5TEtfZVhyMkY3SWx0ZFhZaXZDQ0pkSU5OT3Y2SFhQV1pDZXhkZ0VVVXc3YlNycWFrSzV5UHZSWEtHb1ZQVGFIeHVucUNtZ0J2ZWRKY0pPZ2tiTlE?oc=5",
-            "source": "it-daily.net",
-            "published": "06.11., 12:58"
-          },
-          {
-            "title": "Google Cloud-Ausfall in London ist „Wenn der Notstrom nicht funktioniert“Borns IT- und Windows-Blog - BornCity",
-            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNT2YwME5FS1U2S09oa3BfdUp0dzViT2JjNDMzR1Q5ZU9taEYxMmJxaU81bzA0UmktNmpyOVkzc1pSaGg0NWp1c3Q0V3Rrc05wZzJSSXB4VDFObVJldHJ1ZVVWeFVXS1JGYVRxVWx5SjRHQXRWSlh5LWJPU19RSWMwVWdsMThvT0JicDdLaEMtWHkxRXUyUTg2Z3Z3SEdzZjZDQkY0OXR0SWl5WHRBWWc?oc=5",
-            "source": "BornCity",
-            "published": "06.11., 17:09"
-          },
           {
             "title": "Merz: Google-Cloud ausreichend souverän für Nachrichtendienste - heise online",
             "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOEE5MC1FQzJ2MjNhVEV0aWJPdzBZYzM5a3pOQzlSYkJONVRNWktwWFJrRDlqSjlSaHpwUlgzd3JyU05sdk1mLTFHMGFZTldRVWY0eWRyUE1CeE1zaU5wWXR3S2k1Yzh0VjFxZnl3MVpxdFdXQzhLalJmVXUzbEE4WlhmYXVhT19XczY3RWY4b2dITWRuWWh1ejA1bHdQVUQ5OHdUcnpR?oc=5",
@@ -1688,6 +1676,18 @@
             "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVVRBVkwxM1lTeW5LTDEzMkIxdWNRNUtmZ1RaSzR2Q19HNFdKX0doMHlCUDM2MUc0QlFWSzhrY3ItOU42M3o3S3FXVjcyMGFEMHZTY1pjaXZvRVJmd0xzYWdSNjZ4SXNNUDJkS1M3M2l1MkxMNGpkNGlRN0dxT1pNTEtCS0lvLXdoRExhd2R5bjJYdGdIbEN4dFN6QzRKUEZxcnZHb2MyYy1JM2ZLOWk5TERxYUJkOVRqWjFUWUJFVjZZbVY4Uk9rQTlza282STB2ZGJ2VkQxUk12UUVvUGc?oc=5",
             "source": "Onvista",
             "published": "05.11., 13:39"
+          },
+          {
+            "title": "Google Cloud-Ausfall in London ist „Wenn der Notstrom nicht funktioniert“Borns IT- und Windows-Blog - BornCity",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNT2YwME5FS1U2S09oa3BfdUp0dzViT2JjNDMzR1Q5ZU9taEYxMmJxaU81bzA0UmktNmpyOVkzc1pSaGg0NWp1c3Q0V3Rrc05wZzJSSXB4VDFObVJldHJ1ZVVWeFVXS1JGYVRxVWx5SjRHQXRWSlh5LWJPU19RSWMwVWdsMThvT0JicDdLaEMtWHkxRXUyUTg2Z3Z3SEdzZjZDQkY0OXR0SWl5WHRBWWc?oc=5",
+            "source": "BornCity",
+            "published": "06.11., 17:09"
+          },
+          {
+            "title": "Alphabet Aktie: Wing plant Drohnenfabrik in Fort Worth - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcTB6YkZPNDBMMmJQQi1BS3NfbmxaMGlWel9fZmhmOGFWbUpHeUxlbnoxMW1PTkpWbjFQSE4zQjV0YnZBRWEyTFN1N3dteVlsVEVXTUlIRkVtZGFxWHBoT2JmQXVyeVhfVW0zMExOYWplQ2NiY3JheU9uSUF3akZIbTNmQkpwbFZheFlGbVJ3TlRDTURTeDRxZDVqeTgyVlExQmZmLThoQ1I?oc=5",
+            "source": "Börse Express",
+            "published": "07.11., 15:27"
           }
         ]
       }
@@ -2083,15 +2083,9 @@
         "bullets": [
           "Der Kurs ist spürbar gefallen: -0.94 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: US-Dollar, Regulierung.",
-          "Wichtigste gefundene Headlines: Gold als Absicherung im Börsenbeben? Was ihr jetzt wissen solltet - Business Insider Deutschland | Goldpreis steigt nach US-Wahl: Jetzt zählen 4.050 Dollar - IG."
+          "Wichtigste gefundene Headlines: Goldpreis steigt nach US-Wahl: Jetzt zählen 4.050 Dollar - IG | Gold als Absicherung im Börsenbeben? Was ihr jetzt wissen solltet - Business Insider Deutschland."
         ],
         "headlines": [
-          {
-            "title": "Gold als Absicherung im Börsenbeben? Was ihr jetzt wissen solltet - Business Insider Deutschland",
-            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZHliS1VfLTV5djg2cEpCeURiU2lxT1ZwbUgzMHREUTZZVFZJQ29XN3ZlVkF0MWRBZ0tPOXlPaXEtU1NadGNwMS1zWVB3azdDZEt1b1ROZTlJenRGQnhXOVBIb1diWE5wQWdwWlptdU5tNDJKTWNKSndyQVZXeGx2TlcydncxNndnVDZNNkQ4cUNpQmdBLW5OQnJHOHVwRFdic0FSRzVGcmJhaVdZ?oc=5",
-            "source": "Business Insider Deutschland",
-            "published": "07.11., 09:05"
-          },
           {
             "title": "Goldpreis steigt nach US-Wahl: Jetzt zählen 4.050 Dollar - IG",
             "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWUhUMllGMWlRY19SRWh5MHNHdFZ1b21JUE12RUI4cTVINEpkQkw4bGlXeHNGR2lOOEtDNEpvMWRDZGh3azBTZlJBNTFpUUZWTVhfVWlCUlRWUlcyVFp5LXFrcVJlaUZqM29JeGRWVjNRZ0s4U3NtZG1YeTlxZUdSdFN6VmdHNTBGNUVORVVyaG1GNlE?oc=5",
@@ -2099,16 +2093,22 @@
             "published": "04.11., 09:27"
           },
           {
-            "title": "Gold und Silber: Darum läuft es für die Edelmetalle so schlecht - WirtschaftsWoche",
-            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSnJYUUN4anRnaC01RGhDaFZOcS1yTjI4SUVsVDVDeVBDQmhlMFZ6SDBZRXBYNmo1bDVaZHA2UW4tOU90Z1RBcXBZeW9tOUo3YUFOZ2I3dzN0NVhoLVZUZmR4RDJhaE5zZDRGWW5ZVzRSZjN0WWFhOExhVURJMkI3cldBV0dTVm1jb0VzQlFVU3dmQmdSMXhCZkNqUEZ1Y0lKc29WQXdEdGo4UjdOLTV1RnRteUxiQQ?oc=5",
-            "source": "WirtschaftsWoche",
-            "published": "07.11., 08:09"
+            "title": "Gold als Absicherung im Börsenbeben? Was ihr jetzt wissen solltet - Business Insider Deutschland",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZHliS1VfLTV5djg2cEpCeURiU2lxT1ZwbUgzMHREUTZZVFZJQ29XN3ZlVkF0MWRBZ0tPOXlPaXEtU1NadGNwMS1zWVB3azdDZEt1b1ROZTlJenRGQnhXOVBIb1diWE5wQWdwWlptdU5tNDJKTWNKSndyQVZXeGx2TlcydncxNndnVDZNNkQ4cUNpQmdBLW5OQnJHOHVwRFdic0FSRzVGcmJhaVdZ?oc=5",
+            "source": "Business Insider Deutschland",
+            "published": "07.11., 09:05"
           },
           {
-            "title": "Gold nach dem Ausverkauf: Erholung in Sicht oder nur Zwischenspiel? - Finanzen.net",
-            "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQYlAtWHJ2Q0NUOUhNNnVmVnRaVE5hNXJseHE2cFA0cmpadkxFUmpUcENPdlZMVm1PSjY2akxtbm82NHNjWFFPQ1o2WlZfRU1laVBaWEROczg1WGQzRHdraEJwTDRMZFNza2o5a1NQMDBXY0R0VUpCa3RRbC1xWU0wM3RFNmZBZ1d4RThsNlNwXzQ4QWZtSVNGODcwRmZheURJY2hKdE90YTdlemJiRzVhc0hsSnpuRGMwVWhxQkV1eG5VeU5Hb2xyWW9ZaURqRTF3aXJUc2VpWXdaSm8?oc=5",
-            "source": "Finanzen.net",
-            "published": "06.11., 18:00"
+            "title": "Gold knackt 4.000-Dollar-Marke: Trump-Pleite beflügelt Edelmetalle | Märkte | 04.11.2026 - FONDS professionell",
+            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZ0UyUW5wZG5kTy1KcmdXUnhqVUtvSTlTSWdWakJpaHJXTHRVbmFkem96bDBvVDFMZUtCYzIzNnF0TmtXdjlKMVFKV0hIMzVPRVl3SVo5RzZZTTFVZ3dOdk1RVHA3X2MzVEk3cUhCa2tDc0szVmd4bUV1WXN3Q1NjM21nazFzZkY4bmVqdHJhajlGVkdmcUdzN3RISmxJR0ZkajAzT0FvcUhqajBnZ2VocVNRdUZmVHh0a3lpREQ2RWdmQ1VmWXlINA?oc=5",
+            "source": "FONDS professionell",
+            "published": "04.11., 09:55"
+          },
+          {
+            "title": "Unsicherheit nach der US-Wahl ist weg: Nun steigen Aktien, Gold und Bitcoin - DiePresse.com",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMWdpQm53WHBiY0QwaUVWSk5JektzcER1MlFaOVJGNUtBeDFsZi02dDYxVHF5RWFRdzJhTlh3MVFRUjFEeXJmc1BjcTQ2bXpBelNNVUh3RVFYU0dfbTFDandwb09FY2RQYWNHTk9Obl9pdXNPekhDbHFaVTNFQzU4OWFVWl9iSHJVU2VxSWRkVUNKWk9ZaHUyZ2hRZGtLTnIySlZXNkdKZkE?oc=5",
+            "source": "DiePresse.com",
+            "published": "04.11., 10:07"
           }
         ]
       }
