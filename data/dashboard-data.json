@@ -1,8 +1,8 @@
 {
   "is_sample": false,
   "source": "Yahoo Finance Kursdaten + Google News RSS Kontext",
-  "generated_at_utc": "2026-11-07T19:51:34+00:00",
-  "generated_at_vienna": "07.11.2026, 20:51 Uhr",
+  "generated_at_utc": "2026-11-08T11:01:27+00:00",
+  "generated_at_vienna": "08.11.2026, 12:01 Uhr",
   "market_mood_internal": "neutral",
   "assets": [
     {
@@ -395,7 +395,7 @@
         "bullets": [
           "Der Kurs ist spürbar gefallen: -0.37 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: KI/Tech.",
-          "Wichtigste gefundene Headlines: Nasdaq unter Druck: Wiederholt sich 1999? Nvidia, AAOI und Cloudflare im Check - stock3 | Nasdaq 100 verliert über 1.000 Punkte – Tech unter Druck - IG."
+          "Wichtigste gefundene Headlines: Nasdaq unter Druck: Wiederholt sich 1999? Nvidia, AAOI und Cloudflare im Check - stock3 | KI-Aktien mit Verlusten: „Wir sind jetzt mitten in der Korrektur“ - Kurier."
         ],
         "headlines": [
           {
@@ -403,6 +403,12 @@
             "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQblBuYnE5VndZVW9hZGtLVEFzekZDckZVOEI0Q19sejN6MXR0RGJnMmpUQ1R2ek5IcWZjaFh0WnlVTWZWRm1jYXVwZFZZSFB3dnU4bFRuMnNuMjZVSWVSZ0VoTlA1eWhYOXFDbE4wQVBiNXRtaUJIZnRKOUFxcDhFc1BJRFVaTXZ2dE1ZakM2YWw5SWdpS2Y0RTVVZFpiTFFmb2NEdWh2UXQ4S1F2?oc=5",
             "source": "stock3",
             "published": "06.11., 18:30"
+          },
+          {
+            "title": "KI-Aktien mit Verlusten: „Wir sind jetzt mitten in der Korrektur“ - Kurier",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNX0dNQlFHVHhKT1AwdkExb2VBVS1IbG9tX2tHakZTd3V3aEdVR3g5MEM5Mk1xd082RGtneU5BVk1TWUgwOWZmbEZjOWt3ZFJMaXZ3ZjVyempLZXE0R3pEV3Z6TDd6U1lBeU10SWp0MEtTcEJLUDl6TU90OUxHOXZSd21FcjVvV2t3Qk5n?oc=5",
+            "source": "Kurier",
+            "published": "06.11., 16:26"
           },
           {
             "title": "Nasdaq 100 verliert über 1.000 Punkte – Tech unter Druck - IG",
@@ -415,12 +421,6 @@
             "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQT3pTS2JMbGlDa0RoR1ZnUVY0bjY1OUREcUJpWHgta1U0MFBUdE10R2FOV0xSTTVPU2ZWTGd5bzBhckRhcUNKVDJnT291cjJFVG01QXI0bW00NWMzUE1NUjRfd3dNWkM0VkZjMDNldVZBWTNsbGZhdDdUSGJTS0hVQ0I3eVFQM1NfY290Ty1uN2F4LWljUXlwQk1UbnpsczNDWHJDd3laWUtNUTVzSE05elltQWVhc0lQS2ozbFJxVW8xWVhKNWpQdFhn?oc=5",
             "source": "TradingKey",
             "published": "06.11., 13:16"
-          },
-          {
-            "title": "Tikehau Capital: Disclosure of Shares Repurchases from 30 October 2026 to 05 November 2026 - Onvista",
-            "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOYWVnU0pjcVB6bnViRGRpVjZ4Tkt2Z053NkQ1YS1WVi1BQ01DaENwT1ZwT1VDTjlEalFEMU9aTzBHYlpLTWZQVzh0OWduUU5BblpDNGI5WWtncXdPTHRDcUxDVUZDMkp1VXZNYnZWRmNXQTY1djYwbmMxUG5XcjFwLW92ZHlqenVJZVpVQUc2MWx0STNnOUZpSW9CZ2I4YzVINVRsbW1YSkhUY29SeWZqcUFaQTB6NVotMV9Da3p1SXd4bk45V2FwU1RGOWR6OE5NT2UxcUIxTkE?oc=5",
-            "source": "Onvista",
-            "published": "06.11., 12:12"
           }
         ]
       }
@@ -1662,14 +1662,14 @@
         "bullets": [
           "Der Kurs ist spürbar gestiegen: +0.78 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: Zinsen/Fed, KI/Tech.",
-          "Wichtigste gefundene Headlines: Merz: Google-Cloud ausreichend souverän für Nachrichtendienste - heise online | Alphabet: Nach dem Kursabsturz könnte der Demokratensieg Google Cloud sogar wertvoller machen - Onvista."
+          "Wichtigste gefundene Headlines: IBM Aktie: Kooperation mit Google Cloud für Oracle-Kunden - Börse Express | Alphabet: Nach dem Kursabsturz könnte der Demokratensieg Google Cloud sogar wertvoller machen - Onvista."
         ],
         "headlines": [
           {
-            "title": "Merz: Google-Cloud ausreichend souverän für Nachrichtendienste - heise online",
-            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOEE5MC1FQzJ2MjNhVEV0aWJPdzBZYzM5a3pOQzlSYkJONVRNWktwWFJrRDlqSjlSaHpwUlgzd3JyU05sdk1mLTFHMGFZTldRVWY0eWRyUE1CeE1zaU5wWXR3S2k1Yzh0VjFxZnl3MVpxdFdXQzhLalJmVXUzbEE4WlhmYXVhT19XczY3RWY4b2dITWRuWWh1ejA1bHdQVUQ5OHdUcnpR?oc=5",
-            "source": "heise online",
-            "published": "02.11., 17:56"
+            "title": "IBM Aktie: Kooperation mit Google Cloud für Oracle-Kunden - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTjBIb3NzWFlDeUlwRmg1VzROd0pMWWdLYnhBemgxUTE5am4xUmlNdkM2LURGTWhFR3NHdTRNMFQxNld4X0lqQU4weDl3VXppZlA4QUVGUUlPbEpQNHR2cjJoNmNOdHU0cklaaTY0Yi1OeU8wcUVvLWRIT1ljN054aXF5bVBHVlBKd1lOQ19zZTJnbFZDQkR2aVJzWHNNTnRXd01mbThCbk1sUXVvc0E?oc=5",
+            "source": "Börse Express",
+            "published": "08.11., 05:45"
           },
           {
             "title": "Alphabet: Nach dem Kursabsturz könnte der Demokratensieg Google Cloud sogar wertvoller machen - Onvista",
@@ -1678,16 +1678,16 @@
             "published": "05.11., 13:39"
           },
           {
+            "title": "Merz: Google-Cloud ausreichend souverän für Nachrichtendienste - heise online",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOEE5MC1FQzJ2MjNhVEV0aWJPdzBZYzM5a3pOQzlSYkJONVRNWktwWFJrRDlqSjlSaHpwUlgzd3JyU05sdk1mLTFHMGFZTldRVWY0eWRyUE1CeE1zaU5wWXR3S2k1Yzh0VjFxZnl3MVpxdFdXQzhLalJmVXUzbEE4WlhmYXVhT19XczY3RWY4b2dITWRuWWh1ejA1bHdQVUQ5OHdUcnpR?oc=5",
+            "source": "heise online",
+            "published": "02.11., 17:56"
+          },
+          {
             "title": "Google Cloud-Ausfall in London ist „Wenn der Notstrom nicht funktioniert“Borns IT- und Windows-Blog - BornCity",
             "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNT2YwME5FS1U2S09oa3BfdUp0dzViT2JjNDMzR1Q5ZU9taEYxMmJxaU81bzA0UmktNmpyOVkzc1pSaGg0NWp1c3Q0V3Rrc05wZzJSSXB4VDFObVJldHJ1ZVVWeFVXS1JGYVRxVWx5SjRHQXRWSlh5LWJPU19RSWMwVWdsMThvT0JicDdLaEMtWHkxRXUyUTg2Z3Z3SEdzZjZDQkY0OXR0SWl5WHRBWWc?oc=5",
             "source": "BornCity",
             "published": "06.11., 17:09"
-          },
-          {
-            "title": "Alphabet Aktie: Wing plant Drohnenfabrik in Fort Worth - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcTB6YkZPNDBMMmJQQi1BS3NfbmxaMGlWel9fZmhmOGFWbUpHeUxlbnoxMW1PTkpWbjFQSE4zQjV0YnZBRWEyTFN1N3dteVlsVEVXTUlIRkVtZGFxWHBoT2JmQXVyeVhfVW0zMExOYWplQ2NiY3JheU9uSUF3akZIbTNmQkpwbFZheFlGbVJ3TlRDTURTeDRxZDVqeTgyVlExQmZmLThoQ1I?oc=5",
-            "source": "Börse Express",
-            "published": "07.11., 15:27"
           }
         ]
       }
@@ -2077,15 +2077,20 @@
         "confidence": "niedrig",
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
-          "US-Dollar",
-          "Regulierung"
+          "US-Dollar"
         ],
         "bullets": [
           "Der Kurs ist spürbar gefallen: -0.94 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: US-Dollar, Regulierung.",
-          "Wichtigste gefundene Headlines: Goldpreis steigt nach US-Wahl: Jetzt zählen 4.050 Dollar - IG | Gold als Absicherung im Börsenbeben? Was ihr jetzt wissen solltet - Business Insider Deutschland."
+          "Gefundene Nachrichten-Themen: US-Dollar.",
+          "Wichtigste gefundene Headlines: Lake Victoria Gold Aktie: 5 Millionen Dollar für Imwelo geplant - Börse Express | Goldpreis steigt nach US-Wahl: Jetzt zählen 4.050 Dollar - IG."
         ],
         "headlines": [
+          {
+            "title": "Lake Victoria Gold Aktie: 5 Millionen Dollar für Imwelo geplant - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNLXdLRDY2QVhlSWw1WjRGWVlxN0RrY3JLQ2YxVjhTQlhpTklKSVYycW5CSXREVlFQR1c3YWl1T0p1ZTI2Y2I4WXZOeHNYT0cxbnlDT2toQ0xNRWZLZldCVXc0MEpObmpwU3lqUFhCRlhqd0NMRkFHZnVyV09GUFozbFFGZXNsbVpCdnhqa2hqM2h2UW1RaE1mTUpSVXdzR0NrYnVOdkUzMWxrdFBOXzNKanNQMm1Zdw?oc=5",
+            "source": "Börse Express",
+            "published": "08.11., 09:59"
+          },
           {
             "title": "Goldpreis steigt nach US-Wahl: Jetzt zählen 4.050 Dollar - IG",
             "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWUhUMllGMWlRY19SRWh5MHNHdFZ1b21JUE12RUI4cTVINEpkQkw4bGlXeHNGR2lOOEtDNEpvMWRDZGh3azBTZlJBNTFpUUZWTVhfVWlCUlRWUlcyVFp5LXFrcVJlaUZqM29JeGRWVjNRZ0s4U3NtZG1YeTlxZUdSdFN6VmdHNTBGNUVORVVyaG1GNlE?oc=5",
@@ -2093,22 +2098,16 @@
             "published": "04.11., 09:27"
           },
           {
-            "title": "Gold als Absicherung im Börsenbeben? Was ihr jetzt wissen solltet - Business Insider Deutschland",
-            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZHliS1VfLTV5djg2cEpCeURiU2lxT1ZwbUgzMHREUTZZVFZJQ29XN3ZlVkF0MWRBZ0tPOXlPaXEtU1NadGNwMS1zWVB3azdDZEt1b1ROZTlJenRGQnhXOVBIb1diWE5wQWdwWlptdU5tNDJKTWNKSndyQVZXeGx2TlcydncxNndnVDZNNkQ4cUNpQmdBLW5OQnJHOHVwRFdic0FSRzVGcmJhaVdZ?oc=5",
-            "source": "Business Insider Deutschland",
-            "published": "07.11., 09:05"
+            "title": "Unsicherheit nach der US-Wahl ist weg: Nun steigen Aktien, Gold und Bitcoin - DiePresse.com",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMWdpQm53WHBiY0QwaUVWSk5JektzcER1MlFaOVJGNUtBeDFsZi02dDYxVHF5RWFRdzJhTlh3MVFRUjFEeXJmc1BjcTQ2bXpBelNNVUh3RVFYU0dfbTFDandwb09FY2RQYWNHTk9Obl9pdXNPekhDbHFaVTNFQzU4OWFVWl9iSHJVU2VxSWRkVUNKWk9ZaHUyZ2hRZGtLTnIySlZXNkdKZkE?oc=5",
+            "source": "DiePresse.com",
+            "published": "04.11., 10:07"
           },
           {
             "title": "Gold knackt 4.000-Dollar-Marke: Trump-Pleite beflügelt Edelmetalle | Märkte | 04.11.2026 - FONDS professionell",
             "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZ0UyUW5wZG5kTy1KcmdXUnhqVUtvSTlTSWdWakJpaHJXTHRVbmFkem96bDBvVDFMZUtCYzIzNnF0TmtXdjlKMVFKV0hIMzVPRVl3SVo5RzZZTTFVZ3dOdk1RVHA3X2MzVEk3cUhCa2tDc0szVmd4bUV1WXN3Q1NjM21nazFzZkY4bmVqdHJhajlGVkdmcUdzN3RISmxJR0ZkajAzT0FvcUhqajBnZ2VocVNRdUZmVHh0a3lpREQ2RWdmQ1VmWXlINA?oc=5",
             "source": "FONDS professionell",
             "published": "04.11., 09:55"
-          },
-          {
-            "title": "Unsicherheit nach der US-Wahl ist weg: Nun steigen Aktien, Gold und Bitcoin - DiePresse.com",
-            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMWdpQm53WHBiY0QwaUVWSk5JektzcER1MlFaOVJGNUtBeDFsZi02dDYxVHF5RWFRdzJhTlh3MVFRUjFEeXJmc1BjcTQ2bXpBelNNVUh3RVFYU0dfbTFDandwb09FY2RQYWNHTk9Obl9pdXNPekhDbHFaVTNFQzU4OWFVWl9iSHJVU2VxSWRkVUNKWk9ZaHUyZ2hRZGtLTnIySlZXNkdKZkE?oc=5",
-            "source": "DiePresse.com",
-            "published": "04.11., 10:07"
           }
         ]
       }
