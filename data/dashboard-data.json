@@ -1,8 +1,8 @@
 {
   "is_sample": false,
   "source": "Yahoo Finance Kursdaten + Google News RSS Kontext",
-  "generated_at_utc": "2026-11-08T11:01:27+00:00",
-  "generated_at_vienna": "08.11.2026, 12:01 Uhr",
+  "generated_at_utc": "2026-11-08T20:10:54+00:00",
+  "generated_at_vienna": "08.11.2026, 21:10 Uhr",
   "market_mood_internal": "neutral",
   "assets": [
     {
@@ -387,15 +387,16 @@
       ],
       "explanation": {
         "direction": "gefallen",
-        "confidence": "mittel",
-        "summary": "Plausibler Nachrichtenbezug: Der Kurs ist gefallen und die gefundenen Schlagzeilen enthalten überwiegend belastend wirkende Formulierungen. Die Quellen passen damit zur Richtung, beweisen aber keine Kausalität.",
+        "confidence": "niedrig",
+        "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
-          "KI/Tech"
+          "KI/Tech",
+          "Regulierung"
         ],
         "bullets": [
           "Der Kurs ist spürbar gefallen: -0.37 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: KI/Tech.",
-          "Wichtigste gefundene Headlines: Nasdaq unter Druck: Wiederholt sich 1999? Nvidia, AAOI und Cloudflare im Check - stock3 | KI-Aktien mit Verlusten: „Wir sind jetzt mitten in der Korrektur“ - Kurier."
+          "Gefundene Nachrichten-Themen: KI/Tech, Regulierung.",
+          "Wichtigste gefundene Headlines: Nasdaq unter Druck: Wiederholt sich 1999? Nvidia, AAOI und Cloudflare im Check - stock3 | Dow Jones, S&P 500, Nasdaq: Rally an der Wall Street – US-Börsen schließen deutlich im Plus - Handelsblatt."
         ],
         "headlines": [
           {
@@ -405,10 +406,10 @@
             "published": "06.11., 18:30"
           },
           {
-            "title": "KI-Aktien mit Verlusten: „Wir sind jetzt mitten in der Korrektur“ - Kurier",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNX0dNQlFHVHhKT1AwdkExb2VBVS1IbG9tX2tHakZTd3V3aEdVR3g5MEM5Mk1xd082RGtneU5BVk1TWUgwOWZmbEZjOWt3ZFJMaXZ3ZjVyempLZXE0R3pEV3Z6TDd6U1lBeU10SWp0MEtTcEJLUDl6TU90OUxHOXZSd21FcjVvV2t3Qk5n?oc=5",
-            "source": "Kurier",
-            "published": "06.11., 16:26"
+            "title": "Dow Jones, S&P 500, Nasdaq: Rally an der Wall Street – US-Börsen schließen deutlich im Plus - Handelsblatt",
+            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPR3J0a0QxSTRYY18zMEo4R2ZNX1JBVVUyZ2hxYTRkajUtamVFb01PZVdZWXlmVnRVLVAwa1c1WGVTU0tfYXZUQzB0OE1QeFRsSWxuRkRPOFhBZFN6ME42M2xRNGxxa2FINFI1SUFLUnlTT01KampCY3VNcjZZR2FUYUdhdi15QnNGQTdfNVZyTkVFYUFrZUJJNXF6bXVUdmRJemVEMGV0VjBFeFp3ZWNmNnQwX1Y1b29QcEdISGpVQjIwZGlBUGRHRHV3WUc3Z3BrNlV5Y3hEejRLR2VBT21vZGpqbHYyYWNQOEdxeXktYnVGUjlm?oc=5",
+            "source": "Handelsblatt",
+            "published": "04.11., 16:21"
           },
           {
             "title": "Nasdaq 100 verliert über 1.000 Punkte – Tech unter Druck - IG",
@@ -818,15 +819,9 @@
         "bullets": [
           "Der Kurs ist deutlich gestiegen: +1.16 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: Zinsen/Fed, US-Dollar, China/EM, Geopolitik/Sicherheit.",
-          "Wichtigste gefundene Headlines: Klimafinanzierung: Emerging Markets brauchen mehr Kapital - Börsianer | BL - BOND EMERGING MARKETS DOLLAR B FONDS aktueller Kurs | A3EE6Q | LU2469037274 - Finanzen.net."
+          "Wichtigste gefundene Headlines: BL - BOND EMERGING MARKETS DOLLAR B FONDS aktueller Kurs | A3EE6Q | LU2469037274 - Finanzen.net | Emerging Markets-Aktienausblick 2026: Von der Erholung zur Rotation - e-fundresearch.com."
         ],
         "headlines": [
-          {
-            "title": "Klimafinanzierung: Emerging Markets brauchen mehr Kapital - Börsianer",
-            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdmd5OE92Sl90MHNjVjNTMUxqSE5VYzdrLWNXdG9jVGZSSk9YSGZZMXcwUlNkV1poaUZfa2FRVFVTZEpGNVBuNGFGUUFaV3l5WlkyeXBFQ3MyTWIyWTVsXzFVNlR6cVYzV2pFeWZYMEVhTUswb0d2ZFNHV3Fud1hoQWk2M1M?oc=5",
-            "source": "Börsianer",
-            "published": "03.11., 16:41"
-          },
           {
             "title": "BL - BOND EMERGING MARKETS DOLLAR B FONDS aktueller Kurs | A3EE6Q | LU2469037274 - Finanzen.net",
             "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORHBKRHpBRG1TaGFYNVZhNHpEUHZqTzYweTRoSUpncVZYbVd4Zy1uMF9VWjU2TFpCelVPQlpxaGdfc0hVMGV0UzJiOUt5R3BndjRoQzl1aWpDQW9HNExZa2lfaERjY3VoMlhhbWZrRUFWNENLYjM3bE16eVJRcGg0WXNpQQ?oc=5",
@@ -844,6 +839,12 @@
             "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVHl1VzJBb3RVcDJSaDF4alVoU3JJdWtuN19sZWtwVXFxNEJnaHpmdlpFX0VVVDZqWVlHNElQQXc0cHY4MEpaRWMtUW9aalZXUF82aFRTekt2RWpna1VUTV9wNDZ6ak91R0dua0xSVjd2eVVNdzdwelIydkpGZTNSbGRVNjVJR2Q0Rmx0cQ?oc=5",
             "source": "das investment",
             "published": "10.02., 09:00"
+          },
+          {
+            "title": "Xtrackers Emerging Markets ETF: Erfolg durch Absicherung - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbHRDWERqQm5nODhKOE9KenRvbkNIVjBWZUFHRDRZTklSNk8xWkYzbDZtVmNfenEtY18wN3R6aklEZjFab2RMWlRCYXR6MjYwMk5nVjRBN2EtZDZYam84YlRjbVN0U2VvUEJSbXJpaE5rMmotZnRNLWZsa054clFjUFZCR0pKczl1dldILXZ0VXlsUk15LW1fU2w1el9tVkFTX0NCbmlEUzZMREE?oc=5",
+            "source": "Börse Express",
+            "published": "28.03., 08:00"
           }
         ]
       }
@@ -1234,13 +1235,12 @@
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
           "Zinsen/Fed",
-          "US-Dollar",
           "Regulierung",
           "China/EM"
         ],
         "bullets": [
           "Der Kurs ist spürbar gefallen: -0.62 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: Zinsen/Fed, US-Dollar, Regulierung, China/EM.",
+          "Gefundene Nachrichten-Themen: Zinsen/Fed, Regulierung, China/EM.",
           "Wichtigste gefundene Headlines: Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraETF | ETF-Portfolio – die besten Musterportfolios und ETF-Strategien - Finanzen.net."
         ],
         "headlines": [
@@ -1263,10 +1263,10 @@
             "published": "23.01., 09:00"
           },
           {
-            "title": "Bitcoin notiert bei 78.000 USD, während Memecoins und Small Caps eine breite Krypto-Korrektur anführen - CoinDesk",
-            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVndoZHMxdjJtSG8wSW12QjNWOFQwclFZSk5sY1ZiZWxmSzVvb2tYZTc5MHVneGhCZzlNbWdNcFhqNkJNWF9iZ3lLR1piNjJxQVhhbmdIQ1hjRHMwWU41SEVJang3QWQwNkJNMUVpeHJNOGRFejJOcnlsNTVqS0R6T25CdGlob0R0RXlqTVZ0bkh1NzEtVUhXTzVEZkt1RGJRVzJlXzZjelU1OEJHWGlnMDlEVTlzbnROMnFWTVVqWTlpVWFmdVhj?oc=5",
-            "source": "CoinDesk",
-            "published": "10.09., 09:00"
+            "title": "Russell 2000: Wagemut oder Leichtsinn? - LYNX Online Broker",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWFFPdWRGcmdpR2RFSXlkZV9jdWRPRUZpQkh4SGU0MmhrMlVMWWNDR3VWdk1NY3g4emN6M2d1bzFya3Vpd1JISE9WdE9PT1ZFZFoyOFRYRXRZUGI3M0xnTWhKMkZ1NTdOQS1HOFhFXzVRMENEMUI3U2RDZ2s0Z3FEZElBZFBSYUxuc3VWSGtvRkExUFVaci1hUi1R?oc=5",
+            "source": "LYNX Online Broker",
+            "published": "22.04., 09:00"
           }
         ]
       }
@@ -1662,9 +1662,15 @@
         "bullets": [
           "Der Kurs ist spürbar gestiegen: +0.78 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: Zinsen/Fed, KI/Tech.",
-          "Wichtigste gefundene Headlines: IBM Aktie: Kooperation mit Google Cloud für Oracle-Kunden - Börse Express | Alphabet: Nach dem Kursabsturz könnte der Demokratensieg Google Cloud sogar wertvoller machen - Onvista."
+          "Wichtigste gefundene Headlines: Google Cloud: Riskante KI-Strategie wird wohl bald das Werbegeschäft ablösen - bis die Blase platzt... - GoogleWatchBlog | IBM Aktie: Kooperation mit Google Cloud für Oracle-Kunden - Börse Express."
         ],
         "headlines": [
+          {
+            "title": "Google Cloud: Riskante KI-Strategie wird wohl bald das Werbegeschäft ablösen - bis die Blase platzt... - GoogleWatchBlog",
+            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB0LWVfU25WcXdPN2h6UU95MzRDWG1vdFp5SlVIX042bGZsMGRMdzZLU1luSkN2bTRRUUpvQlZEZ09BNG5XNkFGOWg4cmRHVGUwYkHSAeQBQVVfeXFMT1JKdTZyX21EVXUxdmFmMkRpTFlMVUE4Q09sMWtnb3BhZ0dlcUJPcUhnN2wyOE85bDE5VGRUT1YyNFFlT1gyb1VRYnFJdGJHWXlwVktOemk0andJU3dfdnA4TEZROE9rTlVWbjRSdWVnRkZPMWlUTFNNN0l6anhEdERYRTNFd1AyNTcyZTNKcjVxQVR1MHh2c0IxMUk5MlhtS19INDUzWGNkcTVPYnI0MUk1YmFFT3pMc1ZpT0cyY0FqcmxtcTQ0TllVWnlWSmJEYjBSUXl2OU5qenM4ZjlMeXd1WWpC?oc=5",
+            "source": "GoogleWatchBlog",
+            "published": "08.11., 17:00"
+          },
           {
             "title": "IBM Aktie: Kooperation mit Google Cloud für Oracle-Kunden - Börse Express",
             "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTjBIb3NzWFlDeUlwRmg1VzROd0pMWWdLYnhBemgxUTE5am4xUmlNdkM2LURGTWhFR3NHdTRNMFQxNld4X0lqQU4weDl3VXppZlA4QUVGUUlPbEpQNHR2cjJoNmNOdHU0cklaaTY0Yi1OeU8wcUVvLWRIT1ljN054aXF5bVBHVlBKd1lOQ19zZTJnbFZDQkR2aVJzWHNNTnRXd01mbThCbk1sUXVvc0E?oc=5",
@@ -1672,22 +1678,16 @@
             "published": "08.11., 05:45"
           },
           {
-            "title": "Alphabet: Nach dem Kursabsturz könnte der Demokratensieg Google Cloud sogar wertvoller machen - Onvista",
-            "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVVRBVkwxM1lTeW5LTDEzMkIxdWNRNUtmZ1RaSzR2Q19HNFdKX0doMHlCUDM2MUc0QlFWSzhrY3ItOU42M3o3S3FXVjcyMGFEMHZTY1pjaXZvRVJmd0xzYWdSNjZ4SXNNUDJkS1M3M2l1MkxMNGpkNGlRN0dxT1pNTEtCS0lvLXdoRExhd2R5bjJYdGdIbEN4dFN6QzRKUEZxcnZHb2MyYy1JM2ZLOWk5TERxYUJkOVRqWjFUWUJFVjZZbVY4Uk9rQTlza282STB2ZGJ2VkQxUk12UUVvUGc?oc=5",
-            "source": "Onvista",
-            "published": "05.11., 13:39"
+            "title": "Google Cloud-Ausfall in London ist „Wenn der Notstrom nicht funktioniert“Borns IT- und Windows-Blog - BornCity",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNT2YwME5FS1U2S09oa3BfdUp0dzViT2JjNDMzR1Q5ZU9taEYxMmJxaU81bzA0UmktNmpyOVkzc1pSaGg0NWp1c3Q0V3Rrc05wZzJSSXB4VDFObVJldHJ1ZVVWeFVXS1JGYVRxVWx5SjRHQXRWSlh5LWJPU19RSWMwVWdsMThvT0JicDdLaEMtWHkxRXUyUTg2Z3Z3SEdzZjZDQkY0OXR0SWl5WHRBWWc?oc=5",
+            "source": "BornCity",
+            "published": "06.11., 17:09"
           },
           {
             "title": "Merz: Google-Cloud ausreichend souverän für Nachrichtendienste - heise online",
             "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOEE5MC1FQzJ2MjNhVEV0aWJPdzBZYzM5a3pOQzlSYkJONVRNWktwWFJrRDlqSjlSaHpwUlgzd3JyU05sdk1mLTFHMGFZTldRVWY0eWRyUE1CeE1zaU5wWXR3S2k1Yzh0VjFxZnl3MVpxdFdXQzhLalJmVXUzbEE4WlhmYXVhT19XczY3RWY4b2dITWRuWWh1ejA1bHdQVUQ5OHdUcnpR?oc=5",
             "source": "heise online",
             "published": "02.11., 17:56"
-          },
-          {
-            "title": "Google Cloud-Ausfall in London ist „Wenn der Notstrom nicht funktioniert“Borns IT- und Windows-Blog - BornCity",
-            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNT2YwME5FS1U2S09oa3BfdUp0dzViT2JjNDMzR1Q5ZU9taEYxMmJxaU81bzA0UmktNmpyOVkzc1pSaGg0NWp1c3Q0V3Rrc05wZzJSSXB4VDFObVJldHJ1ZVVWeFVXS1JGYVRxVWx5SjRHQXRWSlh5LWJPU19RSWMwVWdsMThvT0JicDdLaEMtWHkxRXUyUTg2Z3Z3SEdzZjZDQkY0OXR0SWl5WHRBWWc?oc=5",
-            "source": "BornCity",
-            "published": "06.11., 17:09"
           }
         ]
       }
@@ -2077,19 +2077,22 @@
         "confidence": "niedrig",
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
-          "US-Dollar"
+          "Inflation",
+          "US-Dollar",
+          "KI/Tech",
+          "Regulierung"
         ],
         "bullets": [
           "Der Kurs ist spürbar gefallen: -0.94 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: US-Dollar.",
-          "Wichtigste gefundene Headlines: Lake Victoria Gold Aktie: 5 Millionen Dollar für Imwelo geplant - Börse Express | Goldpreis steigt nach US-Wahl: Jetzt zählen 4.050 Dollar - IG."
+          "Gefundene Nachrichten-Themen: Inflation, US-Dollar, KI/Tech, Regulierung.",
+          "Wichtigste gefundene Headlines: US-Inflation am Dienstag: Der Preis für KI-Aktien und Gold wird neu gesetzt - Börse Express | Goldpreis steigt nach US-Wahl: Jetzt zählen 4.050 Dollar - IG."
         ],
         "headlines": [
           {
-            "title": "Lake Victoria Gold Aktie: 5 Millionen Dollar für Imwelo geplant - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNLXdLRDY2QVhlSWw1WjRGWVlxN0RrY3JLQ2YxVjhTQlhpTklKSVYycW5CSXREVlFQR1c3YWl1T0p1ZTI2Y2I4WXZOeHNYT0cxbnlDT2toQ0xNRWZLZldCVXc0MEpObmpwU3lqUFhCRlhqd0NMRkFHZnVyV09GUFozbFFGZXNsbVpCdnhqa2hqM2h2UW1RaE1mTUpSVXdzR0NrYnVOdkUzMWxrdFBOXzNKanNQMm1Zdw?oc=5",
+            "title": "US-Inflation am Dienstag: Der Preis für KI-Aktien und Gold wird neu gesetzt - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdm5GQWllWDNKTHJyQXVwVjRSSGc1aVB6bTBHZFpkSnVUZGl5SUpkOGRQYVBlNmxSbEN5aU9Pd24yc1lPMUZKcWxaQThIMlY2dUJRZkFycGU5cDl5MDRWSGZybHFIeUFBTUNxMDV6U0ZTWGNvVERVRVQ5T3lmV280SGl4Ul80MldVaFdTLS1ScklPRXpvWm5SNjl6X0ZkdTBMTUxzdXVRcnB5TFpFcFV3R0xjMGRxalB2c2NaSXV2Y2JFOUVNTWc?oc=5",
             "source": "Börse Express",
-            "published": "08.11., 09:59"
+            "published": "08.11., 12:40"
           },
           {
             "title": "Goldpreis steigt nach US-Wahl: Jetzt zählen 4.050 Dollar - IG",
@@ -2098,16 +2101,16 @@
             "published": "04.11., 09:27"
           },
           {
-            "title": "Unsicherheit nach der US-Wahl ist weg: Nun steigen Aktien, Gold und Bitcoin - DiePresse.com",
-            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMWdpQm53WHBiY0QwaUVWSk5JektzcER1MlFaOVJGNUtBeDFsZi02dDYxVHF5RWFRdzJhTlh3MVFRUjFEeXJmc1BjcTQ2bXpBelNNVUh3RVFYU0dfbTFDandwb09FY2RQYWNHTk9Obl9pdXNPekhDbHFaVTNFQzU4OWFVWl9iSHJVU2VxSWRkVUNKWk9ZaHUyZ2hRZGtLTnIySlZXNkdKZkE?oc=5",
-            "source": "DiePresse.com",
-            "published": "04.11., 10:07"
-          },
-          {
             "title": "Gold knackt 4.000-Dollar-Marke: Trump-Pleite beflügelt Edelmetalle | Märkte | 04.11.2026 - FONDS professionell",
             "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZ0UyUW5wZG5kTy1KcmdXUnhqVUtvSTlTSWdWakJpaHJXTHRVbmFkem96bDBvVDFMZUtCYzIzNnF0TmtXdjlKMVFKV0hIMzVPRVl3SVo5RzZZTTFVZ3dOdk1RVHA3X2MzVEk3cUhCa2tDc0szVmd4bUV1WXN3Q1NjM21nazFzZkY4bmVqdHJhajlGVkdmcUdzN3RISmxJR0ZkajAzT0FvcUhqajBnZ2VocVNRdUZmVHh0a3lpREQ2RWdmQ1VmWXlINA?oc=5",
             "source": "FONDS professionell",
             "published": "04.11., 09:55"
+          },
+          {
+            "title": "Schwacher Dollar beflügelt Gold: Preis springt über 4.000 US-Dollar - finanzen.at",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTmZQdWdUc2cyYnZ4cWQ2ODVzUkFzSEs5d0J5OTVYWG94UW01RzFVMVNpOVV0OWtwdnItbnJubVBYRHBjX3Baa1hycDY5NlpaZU55cFlaZERjbFZGS3YxNTBYbjhjS0E0a0huYmk4MzNKSzhGWkVoUFJDeXgteEJ2S1ltc1REZ2ZsWTVUZldMX3lodklOaFg4RVhkUmxYMmk5UUdJOXY4eTdDV0xxZ0ZWeDFaLVpsUVJ2V24yNkxtMWtiUlE?oc=5",
+            "source": "finanzen.at",
+            "published": "04.11., 13:30"
           }
         ]
       }
