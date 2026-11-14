@@ -1,8 +1,8 @@
 {
   "is_sample": false,
   "source": "Yahoo Finance Kursdaten + Google News RSS Kontext",
-  "generated_at_utc": "2026-11-14T11:12:26+00:00",
-  "generated_at_vienna": "14.11.2026, 12:12 Uhr",
+  "generated_at_utc": "2026-11-14T20:24:26+00:00",
+  "generated_at_vienna": "14.11.2026, 21:24 Uhr",
   "market_mood_internal": "risk-off",
   "assets": [
     {
@@ -391,11 +391,12 @@
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
           "KI/Tech",
-          "Regulierung"
+          "Regulierung",
+          "Gewinne/Analysten"
         ],
         "bullets": [
           "Der Kurs ist spürbar gefallen: -0.90 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: KI/Tech, Regulierung.",
+          "Gefundene Nachrichten-Themen: KI/Tech, Regulierung, Gewinne/Analysten.",
           "Wichtigste gefundene Headlines: Nasdaq-Rallye bestätigt: Cboe Global Markets im Fokus der Anleger - aktien.news | Dow Jones, S&P 500, Nasdaq: KI-Euphorie ist zurück – Tech-Aktien schließen deutlich im Plus - Handelsblatt."
         ],
         "headlines": [
@@ -412,16 +413,16 @@
             "published": "11.11., 15:53"
           },
           {
-            "title": "Nasdaq, S&P 500 Close In The Red But Dow Posts Modest Gain - finanzen.ch",
-            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNG43NkxpS3oxMXhiaFJycUstcXdwTlVjVGwzeUxocWFsVU1IREpvMkMxS0tLM3RWVzNZaUFkOGRJSHpXSTM3VTMtVS1NZlphRE1ldGZRbF9XVzlUeFhGTlQyQW4tdDFJZF9lS0FjUXZQZWR5d2czMFRoWjBhUGdxSEY1SFMtSGYxTEdjSjJhVVQwWklIeS1oSFhUbW9UMlR6SDVadGRNcjJyMHllR0o4Ug?oc=5",
-            "source": "finanzen.ch",
-            "published": "13.11., 22:17"
-          },
-          {
             "title": "Aya Gold & Silver Inc. Common Shares (AYA) Aktienkurs, Chart & Analyse - www.debelegger.nl",
             "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zVzJqTVNiLVp6T0QxRVQ4MXRKcVJvNjhXNTFWdHRIRW1GRzJpOFdzN1htbFJQeFdCRXNMcHJ1MnZkR2l0ZUxIUmFqcnRJamN1SnNF?oc=5",
             "source": "www.debelegger.nl",
             "published": "13.11., 09:30"
+          },
+          {
+            "title": "Nasdaq baut Gewinne um 1,6 % aus, SOX springt um über 5 % an; Tech-Aktien führen den Markt an, da CoreWeave nach Quartalszahlen um über 25…",
+            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNV2F0R1N2eGVWalFXX1BvNU1oSW1jVGotWW1Ib0x4MXh0UzlReDBDMy04b1AwUzR6SFZlMFVLYzN6WGJiZU5uZVkyVGVCSWNhUFVZU1NHOVVkRHE4elJCZ3k4VjExbU9YZkU0c0l2OXJMT0RBVVlVVFBiSzNwaGl3MWZ2THZfeVFGdzFxRnJjN0tNVk55RnFia3VMNER0OFVzODRnbzNwZWRrN254b1VwVFZxaGhubVZCbDh5V2wzZkY4cmZ0dFA4QnJfYUFNb3dSSC1nMmdaVQ?oc=5",
+            "source": "TradingKey",
+            "published": "11.11., 13:15"
           }
         ]
       }
@@ -1261,10 +1262,10 @@
             "published": "10.09., 09:00"
           },
           {
-            "title": "Die besten Welt-ETFs - Finanzen.net",
-            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ZOGVyTEZEWUpERkpxaHpwUzlPSTFrNE5PTzJZRXJyTXJDV0tsWDhOMlhGTVZFWUFmWk1Pci1fOEFraHc3VHZrRDM0NkxpTjliMFpqN1ZJZW1TOFZpX3pyanpEVmh6X01sU0lz?oc=5",
-            "source": "Finanzen.net",
-            "published": "30.09., 09:00"
+            "title": "MSCI World Small Cap ETFs 2026 - LYNX Online Broker",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcU4yRTBRZ25DSmViRmFBTVBTcFJDOGZUQ2JCcFpBaDZjaGlUY0dSRjc1dzl1OW51bC1kOUFoazhiTE5nblRzVzhIVVJoRE9Ec0NibURya0x3cnNSVkxjbGRzVWhyN1hvM0RLV3VyNEVxUHpjM0lwNk9reFFENThtam5ndU9hYlpwS3JaTEliQXB4dw?oc=5",
+            "source": "LYNX Online Broker",
+            "published": "13.09., 09:00"
           }
         ]
       }
@@ -1654,16 +1655,21 @@
         "confidence": "niedrig",
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
-          "US-Dollar",
           "KI/Tech",
           "Regulierung"
         ],
         "bullets": [
           "Der Kurs ist spürbar gefallen: -0.98 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: US-Dollar, KI/Tech, Regulierung.",
-          "Wichtigste gefundene Headlines: Tigo Energy und Google Cloud kombinieren KI-gestützte Tools für Solarinstallateure und Energieversorger - Börse Social | AMD Turin: Google Cloud meldet Schwachstellen und Lösungen - All About SECURITY."
+          "Gefundene Nachrichten-Themen: KI/Tech, Regulierung.",
+          "Wichtigste gefundene Headlines: Alphabet Aktie: Huangs Abgang bei Nvidia öffnet Chancen - Börse Express | Tigo Energy und Google Cloud kombinieren KI-gestützte Tools für Solarinstallateure und Energieversorger - Börse Social."
         ],
         "headlines": [
+          {
+            "title": "Alphabet Aktie: Huangs Abgang bei Nvidia öffnet Chancen - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMFFEMHAxOW0xR19veTBqY2lzNUs1X045MVV0ZGxGV0xybEpGZ0JGaGhEcnM0amU0QURRTGZZS3F5eWRUM1ItbWp6dHNWNHVjSWM4elJ3b2ZTYXhLcHdKN0RtekFBeDRQSjB0MGk5ek1tYlJZeXo1UGdtNGFJSk44b0lJbDN6MDZFbGNrdnNSNlY2dFo4RFdBLXR4ZDM3c1Jkc2o5NDN4dTIxZTQ?oc=5",
+            "source": "Börse Express",
+            "published": "14.11., 18:53"
+          },
           {
             "title": "Tigo Energy und Google Cloud kombinieren KI-gestützte Tools für Solarinstallateure und Energieversorger - Börse Social",
             "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQOWNCZmE0RWVXUmZ3YUgza1FvLVRzUnEzUGxxTFp0YVFSY2pNbGtUMGZUdmE1S2pBZ3JEdVBELUZiT29kQjVOOHg2c2h6UXpKRGNCSlZJME9sRGZOM3RncG1Odi1raHUwaTBiS0diaFY0UjVjdzhwbF9MTjlacWxTVDZIa1BMTDRsS05uY0NWVkFfTFpDcjY5YVV6Z0tyelZQZjVTdnpITDVLZUpsRS1lN3JGNHZINXFQYmNrLURub3kxajV6SjhTM2RYb0JiUE1JYUJ0RjVadw?oc=5",
@@ -1677,16 +1683,10 @@
             "published": "12.11., 15:47"
           },
           {
-            "title": "Alphabet Aktie: HSBC nennt 360 Dollar Kursziel - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWV9hd0NjQUZZYkNyNjdnWlV3UlNOWFVoUHpldUhNZ3VwSnk5VXJrRmNvRVZTT0JkanJjUFZpMlAtSDIxNGwxcmVTMHR2OVpYMTc4YWdWc2J5eGR5bWg5Wjl5UTNxaFRFa2xBOEE1cldRUmtOakJ3N2QwNzFyWFFUa2V6REF5a2traW9PTzUyUGlUUllBYms2WUhlcldVUQ?oc=5",
-            "source": "Börse Express",
-            "published": "13.11., 19:43"
-          },
-          {
-            "title": "Google startet mit seinem bisher stärksten KI-Modell - Futurezone",
-            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVEVza3NVTk5sZ1NKR3JMb0pGVEtLT0tpYVlZUHNRSWw2bllHRy1MV3FTT0o1MFlaczBZY1MyMVpBYmtaVzVZQWFjZ3JBckNJWkFoakFQMzFCSENacTlUbUpTRHJqUmt4aWJyeEUyUXQwS1NVbkhvQzY0T2J3Q25tTG5XRk1fQnlKeS1sdGlIQXIxNTh6X0VLVmtNbXRxNnh0eUNlX0NldWN6UV9Sajd1T3gwQl9XY0dOMGYtYktJZ9IBxAFBVV95cUxQZkJBV0VudzN2cGNpMkJiOWNMUkFLaUctMEhwZXJ5YVV0RHhRTENyd0lFZUhEY3JCcE9Iam9JT1JIdE5HZ3EzVHBLWktxdVZoRFBYWTJwNC1fZWtXcUx1N2k1UWhKTHA0UkF2WU92UUtWaTFQRG5DeWtzeXBCeHZVcG4xMWdLV25NNDVTemR6RzdjX2…",
-            "source": "Futurezone",
-            "published": "11.11., 11:56"
+            "title": "Gemini 4 Hydrogen startet in der Google-Suche, was sich im KI-Modus ändert - Pasquale Pillitteri",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOS1pkSC1Ud0xTWWxWd3c5ZG0xMmhvNTVxVWNtV3cwbTBpRERydjZueEwyRUNPcmtiaFNvUU4zLXpURGlLOHJiZEF4MGVxX2JVMDdOTUs4TWN0QWkxVGdHZWlzQzNVMXNVbC1TTWtkV2VzeXlsdHRHYjlkVXJiNWlGY1ZKTl9zd0dERjZv?oc=5",
+            "source": "Pasquale Pillitteri",
+            "published": "14.11., 09:16"
           }
         ]
       }
@@ -2076,14 +2076,13 @@
         "confidence": "niedrig",
         "summary": "Kaum Kursbewegung: Obwohl aktuelle Schlagzeilen gefunden wurden, ist die Tagesbewegung zu klein für eine sinnvolle Ursache-Wirkung-Aussage.",
         "themes": [
-          "Zinsen/Fed",
           "Inflation",
           "US-Dollar"
         ],
         "bullets": [
           "Der Kurs liegt nahezu unverändert gegenüber dem letzten Schlusskurs.",
-          "Gefundene Nachrichten-Themen: Zinsen/Fed, Inflation, US-Dollar.",
-          "Wichtigste gefundene Headlines: Anleger lieben Gold – Inflation und Kaufkraftverlust zählen zu den größten Sorgen - Der Standard | Gold: Fed-Signale drücken auf Mehrwochentief - Börse Express."
+          "Gefundene Nachrichten-Themen: Inflation, US-Dollar.",
+          "Wichtigste gefundene Headlines: Anleger lieben Gold – Inflation und Kaufkraftverlust zählen zu den größten Sorgen - Der Standard | Bitcoin, Gold, Anleihen im Minus: Droht der Zinshammer? - BTC-ECHO."
         ],
         "headlines": [
           {
@@ -2093,10 +2092,10 @@
             "published": "12.11., 16:04"
           },
           {
-            "title": "Gold: Fed-Signale drücken auf Mehrwochentief - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdTlzeUZWRnplTkpJMmhvdnBXUk1nTU9EczgwZDNYUlJNRzg0eUJnaXhVc052NFo3R0FrdFkyMEYxNWMwSUZpeDU2ZjRlTzZMb1hHS1doWnMyOVZteC1Ca01sX2VZRjIxY3pIRDEwcENUNEwyYmJ4MlB6ckU0bWVQZ0lORnMxM1VFMHdzc0ZraERnMXprOUg3SDRHS1E?oc=5",
-            "source": "Börse Express",
-            "published": "13.11., 17:43"
+            "title": "Bitcoin, Gold, Anleihen im Minus: Droht der Zinshammer? - BTC-ECHO",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZkR6VlRvOHJXa2oxbE1rb2hZWExKazUtaFdkU0w1S1R3VkE2UVZ3Ql8wRXNkeWxDbmJsTUNqLWxLM2JfZUp1X3RZV21VNk9aVnRyQ3RNZXVRbVdSOGQydFl6MkJsU1hGQ1BiLUpLV3ZwRDBEQjhUamlJOHN3WjRYSnU0ajI5SWJJMkFvRTFacXFCYXZiWTFnMEdwbDQ3MFQ4YTFCMA?oc=5",
+            "source": "BTC-ECHO",
+            "published": "13.11., 19:00"
           },
           {
             "title": "Gold rutscht unter 4.000 Dollar: Wichtige Marke durchbrochen - finanzen.at",
@@ -2105,10 +2104,10 @@
             "published": "12.11., 07:55"
           },
           {
-            "title": "Bitcoin, Gold, Anleihen im Minus: Droht der Zinshammer? - BTC-ECHO",
-            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZkR6VlRvOHJXa2oxbE1rb2hZWExKazUtaFdkU0w1S1R3VkE2UVZ3Ql8wRXNkeWxDbmJsTUNqLWxLM2JfZUp1X3RZV21VNk9aVnRyQ3RNZXVRbVdSOGQydFl6MkJsU1hGQ1BiLUpLV3ZwRDBEQjhUamlJOHN3WjRYSnU0ajI5SWJJMkFvRTFacXFCYXZiWTFnMEdwbDQ3MFQ4YTFCMA?oc=5",
-            "source": "BTC-ECHO",
-            "published": "13.11., 19:00"
+            "title": "Gold wendet Abverkauf ab: Goldpreis-Prognose: Gold stemmt sich gegen den Dollar - bereit für die Wende? - FinanzNachrichten.de",
+            "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQV0Y3QmY1SXNKeDdqdUtsS0JaM0oycHZnUW1keHdBT3g4eldiQjh3cngtTHNPeE9kTDdNWUVqQmVWZzMzV1BtZWh4cV9lelhQZi1BNVFfVEZtQWFhS2NkTUdBTjZzR2R5bFhPQjFrLXB4cWZqX1QzN0RVTWFFVTd4TjlrN0VFVjBDWm9TdVZkcUl3aVpLZkFyQ3BSM2EwZ19RQmNhOFhqUzZydFoybDNzWnQ5SmNhTklUQldPOEdicVBaRlkwMWJNWmozeUFZcHZlZkU1NzI1TWI0Q0gxelFVVnltcXpKY25wRnJmZl80d0h5a2ZYd0ZRXzQweU5IQQ?oc=5",
+            "source": "FinanzNachrichten.de",
+            "published": "14.11., 13:23"
           }
         ]
       }
