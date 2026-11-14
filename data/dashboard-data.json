@@ -1,8 +1,8 @@
 {
   "is_sample": false,
   "source": "Yahoo Finance Kursdaten + Google News RSS Kontext",
-  "generated_at_utc": "2026-11-13T21:47:26+00:00",
-  "generated_at_vienna": "13.11.2026, 22:47 Uhr",
+  "generated_at_utc": "2026-11-14T11:12:26+00:00",
+  "generated_at_vienna": "14.11.2026, 12:12 Uhr",
   "market_mood_internal": "risk-off",
   "assets": [
     {
@@ -396,20 +396,20 @@
         "bullets": [
           "Der Kurs ist spürbar gefallen: -0.90 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: KI/Tech, Regulierung.",
-          "Wichtigste gefundene Headlines: Dow Jones, S&P 500, Nasdaq: KI-Euphorie ist zurück – Tech-Aktien schließen deutlich im Plus - Handelsblatt | Aya Gold & Silver Inc. Common Shares (AYA) Aktienkurs, Chart & Analyse - www.debelegger.nl."
+          "Wichtigste gefundene Headlines: Nasdaq-Rallye bestätigt: Cboe Global Markets im Fokus der Anleger - aktien.news | Dow Jones, S&P 500, Nasdaq: KI-Euphorie ist zurück – Tech-Aktien schließen deutlich im Plus - Handelsblatt."
         ],
         "headlines": [
+          {
+            "title": "Nasdaq-Rallye bestätigt: Cboe Global Markets im Fokus der Anleger - aktien.news",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbGlNWWRHcmZwUFBwal8xNEZLNDZiWC1ud1pmWTlJSzFNSy1mSjY3WERKRFlVazBmWDNGX1JVZDBIaGktYzdhTkIyUnZlTThYUWE3Q0l3NFBOeEdFdTZpYjF0OTRWV3d4b0xwak1lTVB0SnJ3SlBzWVRuUFhlSGtqUlZ2Rl92eGI1OWpwdGx6dnBsdw?oc=5",
+            "source": "aktien.news",
+            "published": "14.11., 08:50"
+          },
           {
             "title": "Dow Jones, S&P 500, Nasdaq: KI-Euphorie ist zurück – Tech-Aktien schließen deutlich im Plus - Handelsblatt",
             "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOQTRmczlCZTFhamtLOV9Od3pDU2NvMHcwaGt6dVowWlVZWFU0WHNfbjl6d25sMlJLYXhyNk9jUmFYb3hxMmhuY0x1YkM4OFREQVZ6WmlabVdrTl9UOVBXOGpXaUNvUHN5UkN5TllwSUZZU1FlaHZ6SDUzOFMyd0F6SkRnYUdZSEM2enRnLXhjYjQ3M2oyd3FBeTdEVF9SMXBiS1lzSURDYWIyQ0UtU1lxN0ZSa3A5VjZsQmpvbWdDVC0tX0N6QlRQc21CVXBfMTFRaUlYVFdxX2ZDMGdIemJSWlZYaVBma0p1UDhvbno4TjFRMzIz?oc=5",
             "source": "Handelsblatt",
             "published": "11.11., 15:53"
-          },
-          {
-            "title": "Aya Gold & Silver Inc. Common Shares (AYA) Aktienkurs, Chart & Analyse - www.debelegger.nl",
-            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zVzJqTVNiLVp6T0QxRVQ4MXRKcVJvNjhXNTFWdHRIRW1GRzJpOFdzN1htbFJQeFdCRXNMcHJ1MnZkR2l0ZUxIUmFqcnRJamN1SnNF?oc=5",
-            "source": "www.debelegger.nl",
-            "published": "13.11., 09:30"
           },
           {
             "title": "Nasdaq, S&P 500 Close In The Red But Dow Posts Modest Gain - finanzen.ch",
@@ -418,10 +418,10 @@
             "published": "13.11., 22:17"
           },
           {
-            "title": "Curis beantragt neue Anhörung bei Nasdaq - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVlJDMjE3MW1BTWRaZGhtT3N0MGlhVGg3N3NlZjRZZG5TckxVODdqTGYwSDNzTmtsWFdiMWVKYzduVkFqMjdxQnlKdUxYRjZOR2V2bnl1aDhOTzZFU21aSkYxVDBIbWNnQW9OekdWZkRxT0M1TTNUcjNWMjB5Nk9wNHMyRFk1QlVGRkRIdDRONGFSNVd0SXZXZA?oc=5",
-            "source": "Börse Express",
-            "published": "13.11., 07:40"
+            "title": "Aya Gold & Silver Inc. Common Shares (AYA) Aktienkurs, Chart & Analyse - www.debelegger.nl",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zVzJqTVNiLVp6T0QxRVQ4MXRKcVJvNjhXNTFWdHRIRW1GRzJpOFdzN1htbFJQeFdCRXNMcHJ1MnZkR2l0ZUxIUmFqcnRJamN1SnNF?oc=5",
+            "source": "www.debelegger.nl",
+            "published": "13.11., 09:30"
           }
         ]
       }
@@ -825,7 +825,7 @@
             "title": "BL - BOND EMERGING MARKETS DOLLAR B FONDS aktueller Kurs | A1421D | LU1305479401 - Finanzen.net",
             "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMEdhTFJmS2ZyYkxCd2hVa1VfVjFsRWNvTkJLdWhaOEZHWlFJWlg3cjQyNTdlNEpVdTVaMk5ReTF2N0RvZVRkM19tZzRJOThYR1FKcTJYOUVPNm9fc19XNHg3VklmS2lKLXMxSHNZTWZxVTA1XzJvMlhpeTlTM0ViSW95RQ?oc=5",
             "source": "Finanzen.net",
-            "published": "06.11., 00:00"
+            "published": "11.11., 00:00"
           },
           {
             "title": "Klimafinanzierung: Emerging Markets brauchen mehr Kapital - Börsianer",
@@ -1233,22 +1233,15 @@
         "confidence": "niedrig",
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
-          "Zinsen/Fed",
           "US-Dollar",
           "China/EM"
         ],
         "bullets": [
           "Der Kurs ist spürbar gefallen: -0.62 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: Zinsen/Fed, US-Dollar, China/EM.",
-          "Wichtigste gefundene Headlines: Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraETF | Diese US-Small-Cap-Aktien sind jetzt attraktiv - Morningstar."
+          "Gefundene Nachrichten-Themen: US-Dollar, China/EM.",
+          "Wichtigste gefundene Headlines: Diese US-Small-Cap-Aktien sind jetzt attraktiv - Morningstar | Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraETF."
         ],
         "headlines": [
-          {
-            "title": "Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraETF",
-            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBfSEFMN1dKOFVhZUdmcE5WbGh1V3VIUTVJTE5SdWVzS2hYemNGRWgzRi1MZF8xZXdrbUl3RHVKeTk0SDNRUmhSWGgyQUpMQlRXb2JPS0Jxb2txVm5LM0w3anphOWo5WWIwSDF5Qjg4clFwR0VWUkQ5Qg?oc=5",
-            "source": "extraETF",
-            "published": "28.04., 10:37"
-          },
           {
             "title": "Diese US-Small-Cap-Aktien sind jetzt attraktiv - Morningstar",
             "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNXF1VURGVVhhSUhQWnc3NDlSUTVfU3BWb2hXd3pPN1Z5VWFGa2p4WV84cFd1WTlVaEFheEZ4eVhUVjBlVnBwdlBHTURVR2ptUGMzME5DeFNfR3lHVUhGTHRMVmIwU2ZXNFJUdlBlYW1XZ2M4aXJMTTlCWnNLbmxZc3FndTVMV1NXdmQ5cm9sdVQ?oc=5",
@@ -1256,16 +1249,22 @@
             "published": "06.07., 09:00"
           },
           {
-            "title": "ETF-Portfolio – die besten Musterportfolios und ETF-Strategien - Finanzen.net",
-            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAzbmFxUlNtQ2wyOTBPRk5raDBsUDNYZ0dqWTk0dkQxWU5KV0VfWDB5TS1ValNJTUY3OGFMcGtEVWM4NXRMZ0Y1eE9QcG1BT0dtYmZyTDFtTGFVdTY4a2tYSWlMUE5UQ1p3Uk9OcExIbmZHTW9hYWw2Wm9n?oc=5",
-            "source": "Finanzen.net",
-            "published": "30.09., 09:00"
+            "title": "Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraETF",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBfSEFMN1dKOFVhZUdmcE5WbGh1V3VIUTVJTE5SdWVzS2hYemNGRWgzRi1MZF8xZXdrbUl3RHVKeTk0SDNRUmhSWGgyQUpMQlRXb2JPS0Jxb2txVm5LM0w3anphOWo5WWIwSDF5Qjg4clFwR0VWUkQ5Qg?oc=5",
+            "source": "extraETF",
+            "published": "28.04., 10:37"
           },
           {
             "title": "Bitcoin notiert bei 78.000 USD, während Memecoins und Small Caps eine breite Krypto-Korrektur anführen - CoinDesk",
             "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVndoZHMxdjJtSG8wSW12QjNWOFQwclFZSk5sY1ZiZWxmSzVvb2tYZTc5MHVneGhCZzlNbWdNcFhqNkJNWF9iZ3lLR1piNjJxQVhhbmdIQ1hjRHMwWU41SEVJang3QWQwNkJNMUVpeHJNOGRFejJOcnlsNTVqS0R6T25CdGlob0R0RXlqTVZ0bkh1NzEtVUhXTzVEZkt1RGJRVzJlXzZjelU1OEJHWGlnMDlEVTlzbnROMnFWTVVqWTlpVWFmdVhj?oc=5",
             "source": "CoinDesk",
             "published": "10.09., 09:00"
+          },
+          {
+            "title": "Die besten Welt-ETFs - Finanzen.net",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ZOGVyTEZEWUpERkpxaHpwUzlPSTFrNE5PTzJZRXJyTXJDV0tsWDhOMlhGTVZFWUFmWk1Pci1fOEFraHc3VHZrRDM0NkxpTjliMFpqN1ZJZW1TOFZpX3pyanpEVmh6X01sU0lz?oc=5",
+            "source": "Finanzen.net",
+            "published": "30.09., 09:00"
           }
         ]
       }
@@ -1662,15 +1661,9 @@
         "bullets": [
           "Der Kurs ist spürbar gefallen: -0.98 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: US-Dollar, KI/Tech, Regulierung.",
-          "Wichtigste gefundene Headlines: Alphabet Aktie: HSBC nennt 360 Dollar Kursziel - Börse Express | Tigo Energy und Google Cloud kombinieren KI-gestützte Tools für Solarinstallateure und Energieversorger - Börse Social."
+          "Wichtigste gefundene Headlines: Tigo Energy und Google Cloud kombinieren KI-gestützte Tools für Solarinstallateure und Energieversorger - Börse Social | AMD Turin: Google Cloud meldet Schwachstellen und Lösungen - All About SECURITY."
         ],
         "headlines": [
-          {
-            "title": "Alphabet Aktie: HSBC nennt 360 Dollar Kursziel - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWV9hd0NjQUZZYkNyNjdnWlV3UlNOWFVoUHpldUhNZ3VwSnk5VXJrRmNvRVZTT0JkanJjUFZpMlAtSDIxNGwxcmVTMHR2OVpYMTc4YWdWc2J5eGR5bWg5Wjl5UTNxaFRFa2xBOEE1cldRUmtOakJ3N2QwNzFyWFFUa2V6REF5a2traW9PTzUyUGlUUllBYms2WUhlcldVUQ?oc=5",
-            "source": "Börse Express",
-            "published": "13.11., 19:43"
-          },
           {
             "title": "Tigo Energy und Google Cloud kombinieren KI-gestützte Tools für Solarinstallateure und Energieversorger - Börse Social",
             "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQOWNCZmE0RWVXUmZ3YUgza1FvLVRzUnEzUGxxTFp0YVFSY2pNbGtUMGZUdmE1S2pBZ3JEdVBELUZiT29kQjVOOHg2c2h6UXpKRGNCSlZJME9sRGZOM3RncG1Odi1raHUwaTBiS0diaFY0UjVjdzhwbF9MTjlacWxTVDZIa1BMTDRsS05uY0NWVkFfTFpDcjY5YVV6Z0tyelZQZjVTdnpITDVLZUpsRS1lN3JGNHZINXFQYmNrLURub3kxajV6SjhTM2RYb0JiUE1JYUJ0RjVadw?oc=5",
@@ -1678,16 +1671,22 @@
             "published": "12.11., 20:22"
           },
           {
-            "title": "Gemini: Google AI Plus verliert am 13. November die Pro-Modelle - Notebookcheck",
-            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNXdfTHdhM1kxaUhQR3pVdFhoak5hd3BPejZqZ0R4MVNOOXhkWC1mTHR0TXdVZ1FxNDV0Ulp2LXpxRUVETjJHbHBjVDBQNFpILWJYaDhjZ25ENTBpbTRtZ1pTRVcyVnFKVGpaaTRKUHVMSlRBNTc2SjdkTW1qNFdDaXBYY3lrLXZSNlkzUDNMU3FiWW1OcE0wcnRJbDZldnRXQTN1NkJBYUxSQQ?oc=5",
-            "source": "Notebookcheck",
-            "published": "09.11., 08:43"
-          },
-          {
             "title": "AMD Turin: Google Cloud meldet Schwachstellen und Lösungen - All About SECURITY",
             "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOR1ZOVktjNnZzYXZYcExYWHdWSFBEVS1uamJOQjNyX2hQVUJ3cFNSSnFRQ0ZzUFE0SlY4WDdZZkxMYmlBSGVfRmdWUS1oQkxVOGZoZUpXeEE1XzFSb0NTal82cXBHRm44aVRpXzZBdXU4aEEweFBHemlkQ3Q5ZnBnbFJ6UHhLLVBrS29ZTlVLU18xc3MwWndOZTRETQ?oc=5",
             "source": "All About SECURITY",
             "published": "12.11., 15:47"
+          },
+          {
+            "title": "Alphabet Aktie: HSBC nennt 360 Dollar Kursziel - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWV9hd0NjQUZZYkNyNjdnWlV3UlNOWFVoUHpldUhNZ3VwSnk5VXJrRmNvRVZTT0JkanJjUFZpMlAtSDIxNGwxcmVTMHR2OVpYMTc4YWdWc2J5eGR5bWg5Wjl5UTNxaFRFa2xBOEE1cldRUmtOakJ3N2QwNzFyWFFUa2V6REF5a2traW9PTzUyUGlUUllBYms2WUhlcldVUQ?oc=5",
+            "source": "Börse Express",
+            "published": "13.11., 19:43"
+          },
+          {
+            "title": "Google startet mit seinem bisher stärksten KI-Modell - Futurezone",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVEVza3NVTk5sZ1NKR3JMb0pGVEtLT0tpYVlZUHNRSWw2bllHRy1MV3FTT0o1MFlaczBZY1MyMVpBYmtaVzVZQWFjZ3JBckNJWkFoakFQMzFCSENacTlUbUpTRHJqUmt4aWJyeEUyUXQwS1NVbkhvQzY0T2J3Q25tTG5XRk1fQnlKeS1sdGlIQXIxNTh6X0VLVmtNbXRxNnh0eUNlX0NldWN6UV9Sajd1T3gwQl9XY0dOMGYtYktJZ9IBxAFBVV95cUxQZkJBV0VudzN2cGNpMkJiOWNMUkFLaUctMEhwZXJ5YVV0RHhRTENyd0lFZUhEY3JCcE9Iam9JT1JIdE5HZ3EzVHBLWktxdVZoRFBYWTJwNC1fZWtXcUx1N2k1UWhKTHA0UkF2WU92UUtWaTFQRG5DeWtzeXBCeHZVcG4xMWdLV25NNDVTemR6RzdjX2…",
+            "source": "Futurezone",
+            "published": "11.11., 11:56"
           }
         ]
       }
@@ -1700,16 +1699,16 @@
       "description": "Goldpreis, primär über Gold-Future, fallback XAU/USD",
       "price_decimals": 2,
       "last_date": "2026-11-13",
-      "last_close": 3877.699951171875,
+      "last_close": 3886.300048828125,
       "previous_close": 3885.300048828125,
-      "change_abs": -7.6,
-      "change_pct": -0.2,
-      "change_5d_pct": -4.84,
-      "change_1m_pct": -7.01,
-      "change_3m_pct": -13.32,
+      "change_abs": 1.0,
+      "change_pct": 0.03,
+      "change_5d_pct": -4.63,
+      "change_1m_pct": -6.81,
+      "change_3m_pct": -13.13,
       "change_1y_pct": null,
-      "ytd_pct": -10.67,
-      "volatility_30d_pct": 22.57,
+      "ytd_pct": -10.48,
+      "volatility_30d_pct": 22.58,
       "sparkline": [
         {
           "date": "2026-07-10",
@@ -2069,30 +2068,24 @@
         },
         {
           "date": "2026-11-13",
-          "close": 3877.699951171875
+          "close": 3886.300048828125
         }
       ],
       "explanation": {
-        "direction": "gefallen",
-        "confidence": "mittel",
-        "summary": "Plausibler Nachrichtenbezug: Der Kurs ist gefallen und die gefundenen Schlagzeilen enthalten überwiegend belastend wirkende Formulierungen. Die Quellen passen damit zur Richtung, beweisen aber keine Kausalität.",
+        "direction": "kaum verändert",
+        "confidence": "niedrig",
+        "summary": "Kaum Kursbewegung: Obwohl aktuelle Schlagzeilen gefunden wurden, ist die Tagesbewegung zu klein für eine sinnvolle Ursache-Wirkung-Aussage.",
         "themes": [
           "Zinsen/Fed",
           "Inflation",
           "US-Dollar"
         ],
         "bullets": [
-          "Der Kurs ist leicht gefallen: -0.20 % gegenüber dem vorherigen Schlusskurs.",
+          "Der Kurs liegt nahezu unverändert gegenüber dem letzten Schlusskurs.",
           "Gefundene Nachrichten-Themen: Zinsen/Fed, Inflation, US-Dollar.",
-          "Wichtigste gefundene Headlines: Gold: Fed-Signale drücken auf Mehrwochentief - Börse Express | Anleger lieben Gold – Inflation und Kaufkraftverlust zählen zu den größten Sorgen - Der Standard."
+          "Wichtigste gefundene Headlines: Anleger lieben Gold – Inflation und Kaufkraftverlust zählen zu den größten Sorgen - Der Standard | Gold: Fed-Signale drücken auf Mehrwochentief - Börse Express."
         ],
         "headlines": [
-          {
-            "title": "Gold: Fed-Signale drücken auf Mehrwochentief - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdTlzeUZWRnplTkpJMmhvdnBXUk1nTU9EczgwZDNYUlJNRzg0eUJnaXhVc052NFo3R0FrdFkyMEYxNWMwSUZpeDU2ZjRlTzZMb1hHS1doWnMyOVZteC1Ca01sX2VZRjIxY3pIRDEwcENUNEwyYmJ4MlB6ckU0bWVQZ0lORnMxM1VFMHdzc0ZraERnMXprOUg3SDRHS1E?oc=5",
-            "source": "Börse Express",
-            "published": "13.11., 17:43"
-          },
           {
             "title": "Anleger lieben Gold – Inflation und Kaufkraftverlust zählen zu den größten Sorgen - Der Standard",
             "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMWVuUFZtWkJ1V0x6dkpNMG5rb2N4YXVsN1ZROXkyRGJGSDRCX1hVWFNsTUo5T0cwbFhFZDRGaDZHQi1wQjdINmZwZWlSQVhrbndVYno4dUxod2kxVnlJczFDTm9LdEw2ZDF0VG90ekNvaW9kSDhUb3RERHEzdDJ4R0UxT01wdzR5WGU4QnU4MlNhWjBvV2o4M1A2TFcwejVBdHd1UGtHNjVmYjZacnF0WjhJcldIZS16V1JKSDY2Z3hoU1ZxQldkdw?oc=5",
@@ -2100,10 +2093,16 @@
             "published": "12.11., 16:04"
           },
           {
-            "title": "Gold steigt: Öl fällt, Dollar schwächt sich ab - InvestmentWeek",
-            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMEJpOW1ZZWV0aS1hUEdlLU5PZEVwcGZ0SHlybGxYMVB4WHJlODNQUEVvOWQ1WmJpLVRfSG0tVXF5ZjJIUGtEMjMxdkt1bHRJV2o2dXhkd05vWG5IQXlkQTRmU0ZNZ0duaHRSanVYOXJUVDVwLTBPRHRhVVJwb1BkRUhDRU9sQlR6a1JidHdJZU83NDZrTUtReE5vS2dIRTJtbG5NbQ?oc=5",
-            "source": "InvestmentWeek",
-            "published": "13.11., 15:00"
+            "title": "Gold: Fed-Signale drücken auf Mehrwochentief - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdTlzeUZWRnplTkpJMmhvdnBXUk1nTU9EczgwZDNYUlJNRzg0eUJnaXhVc052NFo3R0FrdFkyMEYxNWMwSUZpeDU2ZjRlTzZMb1hHS1doWnMyOVZteC1Ca01sX2VZRjIxY3pIRDEwcENUNEwyYmJ4MlB6ckU0bWVQZ0lORnMxM1VFMHdzc0ZraERnMXprOUg3SDRHS1E?oc=5",
+            "source": "Börse Express",
+            "published": "13.11., 17:43"
+          },
+          {
+            "title": "Gold rutscht unter 4.000 Dollar: Wichtige Marke durchbrochen - finanzen.at",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSHgxeC1EbVJPa3ZVenBxYVpOUi12ajI5WVdlYUxqejV6TjktOWk0czA4RmVUMENxZUlSZ29senBKWDJ1WEVzTU9velV2Z0VJQ3dwUmJIN0NxNG0tWC1nbU1oc1VuUzA1TkhSNFFZaVlMeG8xOUg3cU44SnpFR0VUYmFJN3psU0ZQNmwyS21KaGdtMGdJRG9sV3ZRZUpndzlPSmw2V0Z1WlozQkd6VGswUlNoQTdRWkU?oc=5",
+            "source": "finanzen.at",
+            "published": "12.11., 07:55"
           },
           {
             "title": "Bitcoin, Gold, Anleihen im Minus: Droht der Zinshammer? - BTC-ECHO",
