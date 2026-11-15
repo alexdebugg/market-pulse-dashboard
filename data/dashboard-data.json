@@ -1,8 +1,8 @@
 {
   "is_sample": false,
   "source": "Yahoo Finance Kursdaten + Google News RSS Kontext",
-  "generated_at_utc": "2026-11-14T20:24:26+00:00",
-  "generated_at_vienna": "14.11.2026, 21:24 Uhr",
+  "generated_at_utc": "2026-11-15T11:44:50+00:00",
+  "generated_at_vienna": "15.11.2026, 12:44 Uhr",
   "market_mood_internal": "risk-off",
   "assets": [
     {
@@ -391,15 +391,20 @@
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
           "KI/Tech",
-          "Regulierung",
-          "Gewinne/Analysten"
+          "Regulierung"
         ],
         "bullets": [
           "Der Kurs ist spürbar gefallen: -0.90 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: KI/Tech, Regulierung, Gewinne/Analysten.",
-          "Wichtigste gefundene Headlines: Nasdaq-Rallye bestätigt: Cboe Global Markets im Fokus der Anleger - aktien.news | Dow Jones, S&P 500, Nasdaq: KI-Euphorie ist zurück – Tech-Aktien schließen deutlich im Plus - Handelsblatt."
+          "Gefundene Nachrichten-Themen: KI/Tech, Regulierung.",
+          "Wichtigste gefundene Headlines: Ist der Ausverkauf bei US-Aktien vorbei? Wall Street debattiert über KI-Blase, während S&P 500 und Chip-Aktien für 2027 divergieren - Tradi… | Nasdaq-Rallye bestätigt: Cboe Global Markets im Fokus der Anleger - aktien.news."
         ],
         "headlines": [
+          {
+            "title": "Ist der Ausverkauf bei US-Aktien vorbei? Wall Street debattiert über KI-Blase, während S&P 500 und Chip-Aktien für 2027 divergieren - Tradi…",
+            "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNM2drY1BLY3kxdXJNVzNZRFRManFSTzc2MzkyMkRfVlpzbUVfWGY4MDB1N3pnSm53SXFmZm5ERDJzUGFRWlE1d2ZudTI3Y3JOQzlPeDBPTERrb2h0M3hHNVFOM25NdFJfYUpBemQ3MlhUWWY1aUNsTmF6QmxkWDB3LTdRUjRzckt1eEJfbTE3Z3NNV1ZQVTFfaFZ5N1l2cU5vS1ozSTU0ZEZLOVZzS1pKcHJNbnYtMS16cWZJUXFpanBBSnU2TDliLTRtVkRGNVVoVDh0RFN4VVlfOU4zd21jWg?oc=5",
+            "source": "TradingKey",
+            "published": "14.11., 21:32"
+          },
           {
             "title": "Nasdaq-Rallye bestätigt: Cboe Global Markets im Fokus der Anleger - aktien.news",
             "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbGlNWWRHcmZwUFBwal8xNEZLNDZiWC1ud1pmWTlJSzFNSy1mSjY3WERKRFlVazBmWDNGX1JVZDBIaGktYzdhTkIyUnZlTThYUWE3Q0l3NFBOeEdFdTZpYjF0OTRWV3d4b0xwak1lTVB0SnJ3SlBzWVRuUFhlSGtqUlZ2Rl92eGI1OWpwdGx6dnBsdw?oc=5",
@@ -413,16 +418,10 @@
             "published": "11.11., 15:53"
           },
           {
-            "title": "Aya Gold & Silver Inc. Common Shares (AYA) Aktienkurs, Chart & Analyse - www.debelegger.nl",
-            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zVzJqTVNiLVp6T0QxRVQ4MXRKcVJvNjhXNTFWdHRIRW1GRzJpOFdzN1htbFJQeFdCRXNMcHJ1MnZkR2l0ZUxIUmFqcnRJamN1SnNF?oc=5",
-            "source": "www.debelegger.nl",
-            "published": "13.11., 09:30"
-          },
-          {
-            "title": "Nasdaq baut Gewinne um 1,6 % aus, SOX springt um über 5 % an; Tech-Aktien führen den Markt an, da CoreWeave nach Quartalszahlen um über 25…",
-            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNV2F0R1N2eGVWalFXX1BvNU1oSW1jVGotWW1Ib0x4MXh0UzlReDBDMy04b1AwUzR6SFZlMFVLYzN6WGJiZU5uZVkyVGVCSWNhUFVZU1NHOVVkRHE4elJCZ3k4VjExbU9YZkU0c0l2OXJMT0RBVVlVVFBiSzNwaGl3MWZ2THZfeVFGdzFxRnJjN0tNVk55RnFia3VMNER0OFVzODRnbzNwZWRrN254b1VwVFZxaGhubVZCbDh5V2wzZkY4cmZ0dFA4QnJfYUFNb3dSSC1nMmdaVQ?oc=5",
-            "source": "TradingKey",
-            "published": "11.11., 13:15"
+            "title": "Curis beantragt neue Anhörung bei Nasdaq - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVlJDMjE3MW1BTWRaZGhtT3N0MGlhVGg3N3NlZjRZZG5TckxVODdqTGYwSDNzTmtsWFdiMWVKYzduVkFqMjdxQnlKdUxYRjZOR2V2bnl1aDhOTzZFU21aSkYxVDBIbWNnQW9OekdWZkRxT0M1TTNUcjNWMjB5Nk9wNHMyRFk1QlVGRkRIdDRONGFSNVd0SXZXZA?oc=5",
+            "source": "Börse Express",
+            "published": "13.11., 07:40"
           }
         ]
       }
@@ -819,7 +818,7 @@
         "bullets": [
           "Der Kurs ist spürbar gefallen: -0.99 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: Zinsen/Fed, US-Dollar, China/EM.",
-          "Wichtigste gefundene Headlines: BL - BOND EMERGING MARKETS DOLLAR B FONDS aktueller Kurs | A1421D | LU1305479401 - Finanzen.net | Klimafinanzierung: Emerging Markets brauchen mehr Kapital - Börsianer."
+          "Wichtigste gefundene Headlines: BL - BOND EMERGING MARKETS DOLLAR B FONDS aktueller Kurs | A1421D | LU1305479401 - Finanzen.net | Wie sich die größten aktiven ETFs in der Schweiz im Oktober entwickelt haben - Morningstar."
         ],
         "headlines": [
           {
@@ -827,6 +826,12 @@
             "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMEdhTFJmS2ZyYkxCd2hVa1VfVjFsRWNvTkJLdWhaOEZHWlFJWlg3cjQyNTdlNEpVdTVaMk5ReTF2N0RvZVRkM19tZzRJOThYR1FKcTJYOUVPNm9fc19XNHg3VklmS2lKLXMxSHNZTWZxVTA1XzJvMlhpeTlTM0ViSW95RQ?oc=5",
             "source": "Finanzen.net",
             "published": "11.11., 00:00"
+          },
+          {
+            "title": "Wie sich die größten aktiven ETFs in der Schweiz im Oktober entwickelt haben - Morningstar",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONUlvYnAwWUxLS0JwTm1MX3Y3TWlGNDFTbzZHaFNsV01GbUVHaGZnekNzRG1iR2hLeHhpTlVTTnNyVXJ2aGdPRGctWHBFUV9qYmN6MjJ2RV8yekludjlEU3FNa1Q4azhQdnlIM3A4VWdfa0xzaVhiaUNMT1o5NXdlZXVGOFZqY2lzWmFQSG96Rnl5ZXRoM2NOcndIb2Vwank5?oc=5",
+            "source": "Morningstar",
+            "published": "05.11., 09:00"
           },
           {
             "title": "Klimafinanzierung: Emerging Markets brauchen mehr Kapital - Börsianer",
@@ -839,12 +844,6 @@
             "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORHBKRHpBRG1TaGFYNVZhNHpEUHZqTzYweTRoSUpncVZYbVd4Zy1uMF9VWjU2TFpCelVPQlpxaGdfc0hVMGV0UzJiOUt5R3BndjRoQzl1aWpDQW9HNExZa2lfaERjY3VoMlhhbWZrRUFWNENLYjM3bE16eVJRcGg0WXNpQQ?oc=5",
             "source": "Finanzen.net",
             "published": "02.11., 00:00"
-          },
-          {
-            "title": "Emerging Markets-Aktienausblick 2026: Von der Erholung zur Rotation - e-fundresearch.com",
-            "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTHpVSnRYWUtGN1FaTlZaRUQ0LVVOWVdRM1AtVU9lMlM2d244TjVzLW5ycnp3T09qeVlwdENBUEZXV3hIQlgxNlF6RkR2UEpfMVRzN1ZnUlB3WkZRMUhycGNtcDRRaGRVejFSWklUSkg3NS1RYnBmZUNEVzV4c3BscjlZM1psR091U044UDBvQVRDc3J6Y1A3VWJVQW1pSkxsek9vT3J4MnFDMXdFejJCdHRiVXlRcWNuMVlTc0k4eTllb3U2ckdrUzliTENRUlhjSHJtc3VVSmVSUHBaQTZXY1lyZjNQNGVIeS1ubjlQdw?oc=5",
-            "source": "e-fundresearch.com",
-            "published": "15.01., 09:00"
           }
         ]
       }
@@ -1235,12 +1234,12 @@
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
           "US-Dollar",
-          "China/EM"
+          "Geopolitik/Sicherheit"
         ],
         "bullets": [
           "Der Kurs ist spürbar gefallen: -0.62 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: US-Dollar, China/EM.",
-          "Wichtigste gefundene Headlines: Diese US-Small-Cap-Aktien sind jetzt attraktiv - Morningstar | Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraETF."
+          "Gefundene Nachrichten-Themen: US-Dollar, Geopolitik/Sicherheit.",
+          "Wichtigste gefundene Headlines: Diese US-Small-Cap-Aktien sind jetzt attraktiv - Morningstar | Bitcoin notiert bei 78.000 USD, während Memecoins und Small Caps eine breite Krypto-Korrektur anführen - CoinDesk."
         ],
         "headlines": [
           {
@@ -1248,12 +1247,6 @@
             "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNXF1VURGVVhhSUhQWnc3NDlSUTVfU3BWb2hXd3pPN1Z5VWFGa2p4WV84cFd1WTlVaEFheEZ4eVhUVjBlVnBwdlBHTURVR2ptUGMzME5DeFNfR3lHVUhGTHRMVmIwU2ZXNFJUdlBlYW1XZ2M4aXJMTTlCWnNLbmxZc3FndTVMV1NXdmQ5cm9sdVQ?oc=5",
             "source": "Morningstar",
             "published": "06.07., 09:00"
-          },
-          {
-            "title": "Die besten MSCI Emerging Markets IMI-ETFs 2026 - extraETF",
-            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBfSEFMN1dKOFVhZUdmcE5WbGh1V3VIUTVJTE5SdWVzS2hYemNGRWgzRi1MZF8xZXdrbUl3RHVKeTk0SDNRUmhSWGgyQUpMQlRXb2JPS0Jxb2txVm5LM0w3anphOWo5WWIwSDF5Qjg4clFwR0VWUkQ5Qg?oc=5",
-            "source": "extraETF",
-            "published": "28.04., 10:37"
           },
           {
             "title": "Bitcoin notiert bei 78.000 USD, während Memecoins und Small Caps eine breite Krypto-Korrektur anführen - CoinDesk",
@@ -1266,6 +1259,12 @@
             "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcU4yRTBRZ25DSmViRmFBTVBTcFJDOGZUQ2JCcFpBaDZjaGlUY0dSRjc1dzl1OW51bC1kOUFoazhiTE5nblRzVzhIVVJoRE9Ec0NibURya0x3cnNSVkxjbGRzVWhyN1hvM0RLV3VyNEVxUHpjM0lwNk9reFFENThtam5ndU9hYlpwS3JaTEliQXB4dw?oc=5",
             "source": "LYNX Online Broker",
             "published": "13.09., 09:00"
+          },
+          {
+            "title": "Warum zyklische Small Caps eine zweite Betrachtung verdienen - e-fundresearch.com",
+            "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOM2c4SmtyeW5GWUtkSFFrVW1oQkpCMTVzNVpsLWF4QnZmWlhVZ04xMzJTMVRYekh4VEZmUkwybVBMdmI3OTNhWHpXWl9kMl9XaGJ5TXVXVWdCV3lxTm8wc1FRNzNGY1J0TFB2eEk4VkMxVnF6NGtrQjdXVHBLUmhsOWw3SGVzZFBZcTM5Xy15cmEtRDNnUDJ3SjFPRXZzektsTlZzeXduLVFiVXZXVmhLYWhDdGxBaDBXVDRoaHQ1UkdKdWo5SGdJMTVTQlMyVGxiOXc?oc=5",
+            "source": "e-fundresearch.com",
+            "published": "24.11., 09:00"
           }
         ]
       }
@@ -1655,26 +1654,25 @@
         "confidence": "niedrig",
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
-          "KI/Tech",
-          "Regulierung"
+          "KI/Tech"
         ],
         "bullets": [
           "Der Kurs ist spürbar gefallen: -0.98 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: KI/Tech, Regulierung.",
-          "Wichtigste gefundene Headlines: Alphabet Aktie: Huangs Abgang bei Nvidia öffnet Chancen - Börse Express | Tigo Energy und Google Cloud kombinieren KI-gestützte Tools für Solarinstallateure und Energieversorger - Börse Social."
+          "Gefundene Nachrichten-Themen: KI/Tech.",
+          "Wichtigste gefundene Headlines: AI Visibility Report 2026:: Österreichs Handelsunternehmen bei KI-Suche im Spitzenfeld - Wirtschaftsnachrichten Süd | Alphabet Aktie: Huangs Abgang bei Nvidia öffnet Chancen - Börse Express."
         ],
         "headlines": [
+          {
+            "title": "AI Visibility Report 2026:: Österreichs Handelsunternehmen bei KI-Suche im Spitzenfeld - Wirtschaftsnachrichten Süd",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeEI5ZnlJcFJsU2RubHVyLWk0eGliWmtTYjhUbDJYRkRHM0tiR1FCeTNicWtHMUtlYWNSMGREd3NWRktUaGo5UzB2aVVPQW50eGtkN0ZxNTdWNTZDa0oyUzVtLW9HZXRFRWxUWkU2Q21adDRhY0cyWjFWSmdWNlVuV3ZZbEhFTUZsWGxoRUhUQXB2NmcwWlczd2tvZnd4ZW10eDZpQ1dkOVcxWTBDOEE?oc=5",
+            "source": "Wirtschaftsnachrichten Süd",
+            "published": "12.11., 16:32"
+          },
           {
             "title": "Alphabet Aktie: Huangs Abgang bei Nvidia öffnet Chancen - Börse Express",
             "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMFFEMHAxOW0xR19veTBqY2lzNUs1X045MVV0ZGxGV0xybEpGZ0JGaGhEcnM0amU0QURRTGZZS3F5eWRUM1ItbWp6dHNWNHVjSWM4elJ3b2ZTYXhLcHdKN0RtekFBeDRQSjB0MGk5ek1tYlJZeXo1UGdtNGFJSk44b0lJbDN6MDZFbGNrdnNSNlY2dFo4RFdBLXR4ZDM3c1Jkc2o5NDN4dTIxZTQ?oc=5",
             "source": "Börse Express",
             "published": "14.11., 18:53"
-          },
-          {
-            "title": "Tigo Energy und Google Cloud kombinieren KI-gestützte Tools für Solarinstallateure und Energieversorger - Börse Social",
-            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQOWNCZmE0RWVXUmZ3YUgza1FvLVRzUnEzUGxxTFp0YVFSY2pNbGtUMGZUdmE1S2pBZ3JEdVBELUZiT29kQjVOOHg2c2h6UXpKRGNCSlZJME9sRGZOM3RncG1Odi1raHUwaTBiS0diaFY0UjVjdzhwbF9MTjlacWxTVDZIa1BMTDRsS05uY0NWVkFfTFpDcjY5YVV6Z0tyelZQZjVTdnpITDVLZUpsRS1lN3JGNHZINXFQYmNrLURub3kxajV6SjhTM2RYb0JiUE1JYUJ0RjVadw?oc=5",
-            "source": "Börse Social",
-            "published": "12.11., 20:22"
           },
           {
             "title": "AMD Turin: Google Cloud meldet Schwachstellen und Lösungen - All About SECURITY",
@@ -1683,10 +1681,10 @@
             "published": "12.11., 15:47"
           },
           {
-            "title": "Gemini 4 Hydrogen startet in der Google-Suche, was sich im KI-Modus ändert - Pasquale Pillitteri",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOS1pkSC1Ud0xTWWxWd3c5ZG0xMmhvNTVxVWNtV3cwbTBpRERydjZueEwyRUNPcmtiaFNvUU4zLXpURGlLOHJiZEF4MGVxX2JVMDdOTUs4TWN0QWkxVGdHZWlzQzNVMXNVbC1TTWtkV2VzeXlsdHRHYjlkVXJiNWlGY1ZKTl9zd0dERjZv?oc=5",
-            "source": "Pasquale Pillitteri",
-            "published": "14.11., 09:16"
+            "title": "AI Visibility Report 2026 - Handelsverband Österreich",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbFI2cVozNXhxVVZITXV6N3F2NzRGY2RfQm1aUlZkdXJpcXlHUFFXYmhLcW5IUW8yOEtZVy1iZncwcWJjdlVZZ2VmQ2FybU1FRWM1bWtKaVplZUU5WjNnQ0tNYW56TXZBWXF0U09GdDdIaU1TRFVONlRZQlpSOGJOU0xTRVVwTWYyckp4X0RoLWRKbDJlNzVTMW9rQnNLVWhw?oc=5",
+            "source": "Handelsverband Österreich",
+            "published": "11.11., 17:07"
           }
         ]
       }
@@ -2104,10 +2102,10 @@
             "published": "12.11., 07:55"
           },
           {
-            "title": "Gold wendet Abverkauf ab: Goldpreis-Prognose: Gold stemmt sich gegen den Dollar - bereit für die Wende? - FinanzNachrichten.de",
-            "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQV0Y3QmY1SXNKeDdqdUtsS0JaM0oycHZnUW1keHdBT3g4eldiQjh3cngtTHNPeE9kTDdNWUVqQmVWZzMzV1BtZWh4cV9lelhQZi1BNVFfVEZtQWFhS2NkTUdBTjZzR2R5bFhPQjFrLXB4cWZqX1QzN0RVTWFFVTd4TjlrN0VFVjBDWm9TdVZkcUl3aVpLZkFyQ3BSM2EwZ19RQmNhOFhqUzZydFoybDNzWnQ5SmNhTklUQldPOEdicVBaRlkwMWJNWmozeUFZcHZlZkU1NzI1TWI0Q0gxelFVVnltcXpKY25wRnJmZl80d0h5a2ZYd0ZRXzQweU5IQQ?oc=5",
-            "source": "FinanzNachrichten.de",
-            "published": "14.11., 13:23"
+            "title": "Goldpreis fällt zurück unter 4.000 Dollar: Das Comeback ist gescheitert – Gold steht wieder am Jahrestief - AktienCheck.de",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQ0NuNTRBWU5peFFfSVEtWmRkTjR1TjZZRzhxcjdBRC0tZXN0OFJnRUgzOEgtUE9ydFp3TGtEVlZlQnFvUElWaUtPeDhtUng1YTFvVzZZTzcxMENHb2l1RTN5c3BQRkk3NE9ZYndEdEtkNklrVzR2ZmEwbm5HZjFtNkZIYWZ1MmRwUy1FRzFtUUVDT3UxOUtmVmlIUHFwUVM2MGFJQ2tCUXM?oc=5",
+            "source": "AktienCheck.de",
+            "published": "15.11., 10:29"
           }
         ]
       }
