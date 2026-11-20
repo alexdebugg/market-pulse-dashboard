@@ -1,8 +1,8 @@
 {
   "is_sample": false,
   "source": "Yahoo Finance Kursdaten + Google News RSS Kontext",
-  "generated_at_utc": "2026-11-19T22:53:36+00:00",
-  "generated_at_vienna": "19.11.2026, 23:53 Uhr",
+  "generated_at_utc": "2026-11-20T12:29:24+00:00",
+  "generated_at_vienna": "20.11.2026, 13:29 Uhr",
   "market_mood_internal": "risk-off",
   "assets": [
     {
@@ -12,22 +12,18 @@
       "currency": "EUR",
       "description": "iShares Core MSCI World UCITS ETF als handelbarer Developed-Markets-Proxy",
       "price_decimals": 2,
-      "last_date": "2026-11-19",
-      "last_close": 126.79000091552734,
-      "previous_close": 127.1050033569336,
-      "change_abs": -0.32,
-      "change_pct": -0.25,
-      "change_5d_pct": -3.68,
-      "change_1m_pct": -3.38,
-      "change_3m_pct": 0.44,
-      "change_1y_pct": 16.8,
-      "ytd_pct": 13.43,
-      "volatility_30d_pct": 13.75,
+      "last_date": "2026-11-20",
+      "last_close": 123.91000366210938,
+      "previous_close": 126.79000091552734,
+      "change_abs": -2.88,
+      "change_pct": -2.27,
+      "change_5d_pct": -5.01,
+      "change_1m_pct": -4.64,
+      "change_3m_pct": -2.07,
+      "change_1y_pct": 13.43,
+      "ytd_pct": 10.86,
+      "volatility_30d_pct": 14.98,
       "sparkline": [
-        {
-          "date": "2026-07-17",
-          "close": 124.87999725341797
-        },
         {
           "date": "2026-07-20",
           "close": 125.23999786376953
@@ -383,6 +379,10 @@
         {
           "date": "2026-11-19",
           "close": 126.79000091552734
+        },
+        {
+          "date": "2026-11-20",
+          "close": 123.91000366210938
         }
       ],
       "explanation": {
@@ -393,34 +393,34 @@
           "KI/Tech"
         ],
         "bullets": [
-          "Der Kurs ist leicht gefallen: -0.25 % gegenüber dem vorherigen Schlusskurs.",
+          "Der Kurs ist deutlich gefallen: -2.27 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: KI/Tech.",
-          "Wichtigste gefundene Headlines: U.S. Stocks Move Sharply Lower Following Anthropic's Debut - FinanzNachrichten.de | ROUNDUP/Aktien New York Schluss: Nasdaq stabilisiert sich - Dow sinkt weiter - Onvista."
+          "Wichtigste gefundene Headlines: Trotz Anthropic-IPO: Tech-Aktien weltweit im Sinkflug - Trending Topics | US-Börsen: Nasdaq stabilisiert sich nach Talfahrt - trend.at."
         ],
         "headlines": [
           {
-            "title": "U.S. Stocks Move Sharply Lower Following Anthropic's Debut - FinanzNachrichten.de",
-            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOEtMYkxYOXROa3ZjZUpQNWlib21tWlM1aWZITVJPOEpVQ1pGMDRiTjUzZ0FwdzFnQy0wT3Q2SGgzMHRrWkxqSXlRZHI0NXhFalYtdjFWTzZPTE8zYnhZdzdXMHhuRUhvU0xERzBTVnJ4bFNxc2RWQndTNVZXZWZTRkZhMllGa1RxQk1FRHhfZVZ5S1lfbm44R1ZDcnBhYU1vYnBDTldySk5Ed0ZlMjVaaDlnbU9LWDBqQldSay16aXRPVExnUFE?oc=5",
-            "source": "FinanzNachrichten.de",
-            "published": "19.11., 22:36"
+            "title": "Trotz Anthropic-IPO: Tech-Aktien weltweit im Sinkflug - Trending Topics",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE50ZVlkdS1hd3Rhdl9Qc1BubEd2VDBBdkVjZVVzY1hHYmlPYTNRUnJ1Zlh4RWlTaXlCMG5rc28wb2hnV3AzV0VyQ2NodEJ2M3dBTWEtY2xzYUdnY3FqZ242UUF4NjMzdmxCRUlRNTZQT0h1UQ?oc=5",
+            "source": "Trending Topics",
+            "published": "20.11., 08:40"
           },
           {
-            "title": "ROUNDUP/Aktien New York Schluss: Nasdaq stabilisiert sich - Dow sinkt weiter - Onvista",
-            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZUdxOVpQNW94R25aWDRPU05JUE1qYWhEOFVISUhzdGR6QXQ1X3JtbEtpbFlLSzhSbmFDYUZaWGRyMXJ4Z2doajItU3FDa3hjSmw5bEFBbUFHVDVkelBPeU9JSkxuSkpEcnRSbG1fNlpqbHdKM2p4bXFXQVNEMEJESDdHVUlLVVFlSjEwUVZBbG9jVlBSZGJvaWs1MU0yR3BiYWlDYjJ1YVBMQjNCTl9RaHd3cUN0NjgzZFdHU09QOU5mQk8w?oc=5",
-            "source": "Onvista",
-            "published": "18.11., 22:24"
+            "title": "US-Börsen: Nasdaq stabilisiert sich nach Talfahrt - trend.at",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOERyaW9OOFJjZW00WVVma3lPNGMySmg5UTZMZDdVZE15eVhsa0VYZm9ocWhXOHhxYVU4X1NiR2NWNHk1TFVUZ28zQmlVek4wam42d0p6MGpXMlhvaHRidnBiSHl1ZGUydEMyamR2WndDTkR0SHFTR1ZIVkRzRGxYSFozN0kxb0p1ZzVTNWxR?oc=5",
+            "source": "trend.at",
+            "published": "19.11., 02:11"
           },
           {
-            "title": "Anthropic-IPO-Vorschau: Hohe Zeichnungsnachfrage ist kein Einstiegszeitpunkt für Tech-Aktien, da der Nasdaq 100 60 Tage nach dem SpaceX-Bör…",
-            "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVGNETzVpdXBjeEN3RDJzbUp3aFpaZ1JUd2JrY1FSZkhGZzNKQ2FlUGppMlRRM2xwYWIzR21kd0FVeW45aUgxR3JTeWpaUU10ajlONW5mZS00eVl6ZlZaeV81cjRrZVJyalBFdFBnVnNaSnhYVjFVWDhUTnh6ZzVPS1lzZEU3WEF4X0hvRTlSNVdIbUJMam1hOWpyUFdtQW8tR2d4REdrcVlDeFhNU2ZtNm85bUtkRlZLbFJiaXFkdDNWV21UbFZsUjh6ZE9zTm54bHpCZk85WnRrRFM4?oc=5",
-            "source": "TradingKey",
-            "published": "18.11., 09:57"
+            "title": "Anthropic-IPO im Live-Ticker: Was Asset Manager zum KI-Börsengang sagen - e-fundresearch.com",
+            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSzdkdDNMYXZlWHJPN1BPTkY4ZUdEUl82bGFTcHRCSUFZRjBwQzRNbTBMQzA2aVl0SHBmRllLTGE0UVdDcXY2b2ZVZmppenVkeE9BbjlfVWxtbzBsRUJyX1pzbDAtY183a2VwV19ERDRIaW4tZFhpQWFMNDYwUFZWZUJzQXNOT3ZleHFvNEtTSjZKLUUxS1JEX2RMQ2hRU1ZoYXplazZ4Q3RsNE5OWnNXcm1yVDItZURreG9NUw?oc=5",
+            "source": "e-fundresearch.com",
+            "published": "19.11., 19:15"
           },
           {
-            "title": "TJX Companies Boosts FY26 Outlook; Shares Surge 7.8% - Update - finanzen.ch",
-            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcXJQaWVoNGRmdERSM0I4NGkzUElkUTJERTlCZFk0Wi13TlBrd2lUQmlaamMyMktTUVBBNWJpWjVqMFRPMTlkSENsQkl5RFlYc0JxeGdPcVVNQmFEWTR5YWVsX2JwdVAwSW16NDZGNHJWSEdnYldzYUVZUmhoaWszZGo0eFE1RTN6SVdWS1ZvOEZJQUxBX01LaHJ1TUZEdExUQkhqalFxUnY4LXdWdTNoeHR3OTFrWWNIcnJv?oc=5",
-            "source": "finanzen.ch",
-            "published": "18.11., 13:58"
+            "title": "WeRide Inc. American Depositary Shares (WRD) Aktienkurs, Chart & Analyse - www.debelegger.nl",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9oNFdRVHh4STlTNW9RMVdPTm1yWFlMVEhvWFd1Nk90Qk5SRVZQbU9pTjh2bEhEc0s3MlBwZHhDZEM1UHE4LXFPdkZLTnV1clFTaGZR?oc=5",
+            "source": "www.debelegger.nl",
+            "published": "20.11., 00:13"
           }
         ]
       }
@@ -432,22 +432,18 @@
       "currency": "EUR",
       "description": "iShares Core MSCI EM IMI UCITS ETF als Emerging-Markets-Proxy",
       "price_decimals": 2,
-      "last_date": "2026-11-19",
-      "last_close": 43.08000183105469,
-      "previous_close": 43.23699951171875,
-      "change_abs": -0.16,
-      "change_pct": -0.36,
-      "change_5d_pct": -5.21,
-      "change_1m_pct": -7.54,
-      "change_3m_pct": -7.29,
-      "change_1y_pct": 13.54,
-      "ytd_pct": 12.34,
-      "volatility_30d_pct": 23.85,
+      "last_date": "2026-11-20",
+      "last_close": 41.54399871826172,
+      "previous_close": 43.08000183105469,
+      "change_abs": -1.54,
+      "change_pct": -3.57,
+      "change_5d_pct": -7.68,
+      "change_1m_pct": -8.5,
+      "change_3m_pct": -11.88,
+      "change_1y_pct": 9.59,
+      "ytd_pct": 8.33,
+      "volatility_30d_pct": 25.32,
       "sparkline": [
-        {
-          "date": "2026-07-17",
-          "close": 45.323001861572266
-        },
         {
           "date": "2026-07-20",
           "close": 45.82600021362305
@@ -803,6 +799,10 @@
         {
           "date": "2026-11-19",
           "close": 43.08000183105469
+        },
+        {
+          "date": "2026-11-20",
+          "close": 41.54399871826172
         }
       ],
       "explanation": {
@@ -815,7 +815,7 @@
           "China/EM"
         ],
         "bullets": [
-          "Der Kurs ist spürbar gefallen: -0.36 % gegenüber dem vorherigen Schlusskurs.",
+          "Der Kurs ist deutlich gefallen: -3.57 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: Zinsen/Fed, US-Dollar, China/EM.",
           "Wichtigste gefundene Headlines: BL - BOND EMERGING MARKETS DOLLAR B FONDS aktueller Kurs | A3EE6Q | LU2469037274 - Finanzen.net | Klimafinanzierung: Emerging Markets brauchen mehr Kapital - Börsianer."
         ],
@@ -854,22 +854,18 @@
       "currency": "EUR",
       "description": "iShares MSCI World Small Cap UCITS ETF als Small-Cap-Proxy",
       "price_decimals": 3,
-      "last_date": "2026-11-19",
-      "last_close": 8.95199966430664,
-      "previous_close": 9.026000022888184,
-      "change_abs": -0.074,
-      "change_pct": -0.82,
-      "change_5d_pct": -3.69,
-      "change_1m_pct": -1.6,
-      "change_3m_pct": -1.95,
-      "change_1y_pct": 21.35,
-      "ytd_pct": 15.06,
-      "volatility_30d_pct": 13.85,
+      "last_date": "2026-11-20",
+      "last_close": 8.8100004196167,
+      "previous_close": 8.95199966430664,
+      "change_abs": -0.142,
+      "change_pct": -1.59,
+      "change_5d_pct": -4.62,
+      "change_1m_pct": -2.45,
+      "change_3m_pct": -3.89,
+      "change_1y_pct": 18.99,
+      "ytd_pct": 13.24,
+      "volatility_30d_pct": 13.89,
       "sparkline": [
-        {
-          "date": "2026-07-17",
-          "close": 8.987000465393066
-        },
         {
           "date": "2026-07-20",
           "close": 9.005000114440918
@@ -1225,6 +1221,10 @@
         {
           "date": "2026-11-19",
           "close": 8.95199966430664
+        },
+        {
+          "date": "2026-11-20",
+          "close": 8.8100004196167
         }
       ],
       "explanation": {
@@ -1236,7 +1236,7 @@
           "US-Dollar"
         ],
         "bullets": [
-          "Der Kurs ist spürbar gefallen: -0.82 % gegenüber dem vorherigen Schlusskurs.",
+          "Der Kurs ist deutlich gefallen: -1.59 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: Zinsen/Fed, US-Dollar.",
           "Wichtigste gefundene Headlines: ETF-Portfolio – die besten Musterportfolios und ETF-Strategien - Finanzen.net | Diese US-Small-Cap-Aktien sind jetzt attraktiv - Morningstar."
         ],
@@ -1653,15 +1653,28 @@
         "confidence": "niedrig",
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
+          "US-Dollar",
           "KI/Tech",
           "Regulierung"
         ],
         "bullets": [
           "Der Kurs ist deutlich gefallen: -3.46 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: KI/Tech, Regulierung.",
-          "Wichtigste gefundene Headlines: Alternative zu Google Drive: WhatsApp führt eigene Cloud ein – das ändert sich jetzt für Nutzer - CHIP | Gemini 4 Neon: Was sich im 22-Euro-Abo von Google AI Pro ändert - Notebookcheck."
+          "Gefundene Nachrichten-Themen: US-Dollar, KI/Tech, Regulierung.",
+          "Wichtigste gefundene Headlines: Google liefert neue Startseiten-Experience für AI Mode - OnlineMarketing.de | Alphabet Aktie: UBS stutzt das Kursziel auf 320 Dollar - Börse Express."
         ],
         "headlines": [
+          {
+            "title": "Google liefert neue Startseiten-Experience für AI Mode - OnlineMarketing.de",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZlI2MFBGaUFVVDBOczBjcFo1cEJxQXVDUk90b3VuLVJ6U3FRTVRnSTc3dEtOc2FGcHRDTWZiblBsOVVncjhBU3NWNXAxalhVRnZ6YzRVM3l0VmlRLVRzVXRaVFU2aEhaM0NaZG9WWWVGMUdwVTJaRDNlQVpJcFU2NzMwb2pGNmJY?oc=5",
+            "source": "OnlineMarketing.de",
+            "published": "20.11., 10:20"
+          },
+          {
+            "title": "Alphabet Aktie: UBS stutzt das Kursziel auf 320 Dollar - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOTFlUURfS3c5M21SNnYzcFlrVTRBU3RVSGJMeUw0Z1pGYWZxaUV1SkFqekp3OVVVLXRHcDdBaElqcE1uRDhmZ25NQmk1dDRvXy1NNlVRdDlQTVZiQ1MxOE9PWklJSkFjMUpYd284TGtUSmpOTEpiUzYxUmtXRXhablFYU0NZcVNUbENMek1vajkzc09SZnNyU0tvSy1DT2xHZ045aEU2a1A?oc=5",
+            "source": "Börse Express",
+            "published": "20.11., 04:50"
+          },
           {
             "title": "Alternative zu Google Drive: WhatsApp führt eigene Cloud ein – das ändert sich jetzt für Nutzer - CHIP",
             "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPbXFwQmx0U0tOSmI1TmtpQWZhdGJDdVdHQTZuRFUwcHh0c0Fid3F5SHU0ZWNvUXA1dFgxSDRFelNDbjJCVUpYSnVVVVljLUpEcnJGTGl6NUJNdWtSVWhSVnIzdUJkbGVQMm9kOE1rbkgwdmxmR05lLTJhU0dYY3lCZ0x6VUpFNjEzQzl2eWVhLUlHZ2pRcnFSOUdSUTdRdDA0Q01WTV90LWo0b0ZRWDlGT1BTNG1uNnFoVkxEZjltOTJZeEdBVG9oRlFUVEREVlFBZWtKSlUwbzdRdzNTTWZlcTdSYmxXQXgxd2lUQUhKNjJOc1lDSHo5ZlJTTGtRTTdl?oc=5",
@@ -1669,22 +1682,10 @@
             "published": "19.11., 21:10"
           },
           {
-            "title": "Gemini 4 Neon: Was sich im 22-Euro-Abo von Google AI Pro ändert - Notebookcheck",
-            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSjRKUUMyeTdSSFZOYm04MDI2Ti1QQ2wyX0QzX2pJQUxIZjMzanRFN2F4YnBkckdsT1g3aEQ2T3ZrU3RueDhxanRMTnAyc0pQUVQwOG13U21QWGt0REJmT3A3c2NSVHoyUXlONU9URFhHS04yVVNXXy1vQzlTOGQ4emkxTUxQV2JmeEJENjRWcVdEVUtaYjdtaV9BUGFmWXhLUHZ4WktSU1pXMnIx?oc=5",
-            "source": "Notebookcheck",
-            "published": "19.11., 08:51"
-          },
-          {
-            "title": "Google Genie 4: Interaktive KI-Welten jetzt für Abonnenten verfügbar - heise online",
-            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTGRhdEd2Q2prRDhmQk9oUXdFTnpkaV9RLU5ZMnN2QUpmVWpuTjhDeVpOeWlQUUlmUHRRUHhfOVNvM183REZmS1Y1SVRyQThzS3FJSHBveExvYnJxSEFtcWJuMUdYM1pJUmZhRGtlcUFSc29OcDh3d1Z4MEtJellXMGpWd0M1V1RtOG9uMzJHYnJaLUN1MnJBd1RvN3pSYWt3VllKa0huYjkxRXVGQkE?oc=5",
-            "source": "heise online",
-            "published": "19.11., 12:20"
-          },
-          {
-            "title": "Alphabet Aktienanalyse: Cloud verdoppelt, Anthropic-Anteil im Milliardenwert – wie viel Anthropic steckt in der Alphabet Aktie? - AktienChe…",
-            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQzdCNk1PemRseVJiSHJlclBuX2RINVFZWDJycVg2bmg3VFlXOGlsTGh5UTBXS09SbVdNaXhFLVQ4OEN3QWtaelhndWgyOU1OWklCQ3FxS19MaS1PR1I3cWhqZHVMbDNQdURCME5uTWN2eF91X0UzUWFPNG0ta21SWWhWaTZaZjFCb3RpTXVYb09EQlhYeVZ0cHZFbnVRNjJmWUpqc1piQ09QUjFQM0E?oc=5",
-            "source": "AktienCheck.de",
-            "published": "19.11., 20:51"
+            "title": "Google AI Mode: Was temporäre Chats wirklich ändern - NeoTeo",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUVhqa1kxSE1BeEVOS29tVENBYmFpYWh0SGpzNWJhQmUwX1JqTm43MnRqWVpqWDJ5SWV3aXZQX3k0eGJyVVFRSU1IdnNRdHVweXVkMUxzTTYtUWNWUU1wS0FKdW0tUERzU2FEZGg4eEU5LTBiRS1FMThDaUZZMHFjNDJJQVBIc3c?oc=5",
+            "source": "NeoTeo",
+            "published": "20.11., 05:56"
           }
         ]
       }
@@ -1696,22 +1697,18 @@
       "currency": "USD/oz",
       "description": "Goldpreis, primär über Gold-Future, fallback XAU/USD",
       "price_decimals": 2,
-      "last_date": "2026-11-19",
-      "last_close": 3627.89990234375,
-      "previous_close": 3741.89990234375,
-      "change_abs": -114.0,
-      "change_pct": -3.05,
-      "change_5d_pct": -6.62,
-      "change_1m_pct": -12.58,
-      "change_3m_pct": -22.49,
+      "last_date": "2026-11-20",
+      "last_close": 3576.10009765625,
+      "previous_close": 3685.5,
+      "change_abs": -109.4,
+      "change_pct": -2.97,
+      "change_5d_pct": -7.98,
+      "change_1m_pct": -11.93,
+      "change_3m_pct": -23.88,
       "change_1y_pct": null,
-      "ytd_pct": -16.43,
-      "volatility_30d_pct": 25.09,
+      "ytd_pct": -17.62,
+      "volatility_30d_pct": 24.57,
       "sparkline": [
-        {
-          "date": "2026-07-16",
-          "close": 3992.10009765625
-        },
         {
           "date": "2026-07-17",
           "close": 4018.800048828125
@@ -2066,7 +2063,11 @@
         },
         {
           "date": "2026-11-19",
-          "close": 3627.89990234375
+          "close": 3685.5
+        },
+        {
+          "date": "2026-11-20",
+          "close": 3576.10009765625
         }
       ],
       "explanation": {
@@ -2075,37 +2076,37 @@
         "summary": "Plausibler Nachrichtenbezug: Der Kurs ist gefallen und die gefundenen Schlagzeilen enthalten überwiegend belastend wirkende Formulierungen. Die Quellen passen damit zur Richtung, beweisen aber keine Kausalität.",
         "themes": [
           "US-Dollar",
-          "Regulierung"
+          "Geopolitik/Sicherheit"
         ],
         "bullets": [
-          "Der Kurs ist deutlich gefallen: -3.05 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: US-Dollar, Regulierung.",
-          "Wichtigste gefundene Headlines: Erstmals seit September 2025: Goldpreis fällt unter 3.800 Dollar - Der Standard | Goldpreis-Prognose von Goldman Sachs: Gold soll wieder auf über 5600 Dollar steigen - Börse Online."
+          "Der Kurs ist deutlich gefallen: -2.97 % gegenüber dem vorherigen Schlusskurs.",
+          "Gefundene Nachrichten-Themen: US-Dollar, Geopolitik/Sicherheit.",
+          "Wichtigste gefundene Headlines: Goldpreis stürzt weiter ab – Bitcoin fällt auf tiefsten Stand seit Monaten - DiePresse.com | Gold und Silber mit Kursrutsch: Preise für Edelmetalle fallen auf Jahrestiefs - Manager Magazin."
         ],
         "headlines": [
           {
-            "title": "Erstmals seit September 2025: Goldpreis fällt unter 3.800 Dollar - Der Standard",
-            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPalQ2YnEzWXBpbzFZOFUzRW94RlFkRk1UVjFlaC1iWFdqcktLVlEyb3NCYXpvZGhrUDQyU0piLVpfZTN4UWsyOWs3dThGdkk2WW1kbmJPVnQ2VHVGSnlsY2lCMFJON1dLNU5Jb25uVnp0dHJ1RzVra3JuS1RZRWg5M1IxVndBTlpvdXc?oc=5",
-            "source": "Der Standard",
-            "published": "18.11., 08:57"
+            "title": "Goldpreis stürzt weiter ab – Bitcoin fällt auf tiefsten Stand seit Monaten - DiePresse.com",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcFRtY0ZESWQ1QldQc3NGMjhjZjdOcHVQcDFpS0xtbWZvRHlmSGI3c3laRXBkNW50cWJNUHd5UXZGUTY1Q2trbHlzelNGOHA4ZEZSdHhWLUp4ZTlxcDZkaG1uclZhakE3czJrUFQ3bXh2V0JjMDM1cHJCTnM4bnY4dmhhVzc3ZENIa1VGaDFEVGt0NktTZ1ZFeXFrMGx3bWZuMndJ?oc=5",
+            "source": "DiePresse.com",
+            "published": "20.11., 08:15"
           },
           {
-            "title": "Goldpreis-Prognose von Goldman Sachs: Gold soll wieder auf über 5600 Dollar steigen - Börse Online",
-            "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQbF9UelZQSjNJSHNCdmtVVEJyckctVDNWTng3anRPcmJ5MHd6ajVMMVJhMmc0VFMwODhTN0ZEcGdBY29WQnVvYk1NLVZlOExTMm9xSURkanh5Tl90N21zR0trNi1hY282Z1RHWXh5QVItQXRMbGJaMllSSTgxcnBWam1EZnMtMEUxRmhzemE4OEJ0d2s3aEN4UGxWdGdDdkIxUFFETlRYOTgyb2ZOZXlZQnB3OUxsTzlLSTc4TldGUTJCTU54QUVnRWVLLVNSam9wc25XQWZPOEhwWW5BLTJkRTJn?oc=5",
-            "source": "Börse Online",
-            "published": "19.11., 17:01"
+            "title": "Gold und Silber mit Kursrutsch: Preise für Edelmetalle fallen auf Jahrestiefs - Manager Magazin",
+            "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNT1RoQlVvTU5EbFVSUGpRODByc2lTZ182eEVQYzZRNnBpdUNadGJjd1Z3dDlmdERMNDJWanZudHNhTXVLTGw5ZzE5MHNGdVRDQmhlZkdGYnc0UG4xSF9VVk1BLXZwVWFLVzNMQWJRWW03YlhYejhIWXZMdU1nQlg4RDlWQk93OTgwYkJLdGVtOHdyYlU5VWZ5RU0zM2RBclF6VVZROXhVTU1sQUU2V3dLTXNWNHV4Z2pheS1sRlNKbkFRT1g2bTByYzc1Q3ltMW5rbzVNd1hSMG1jak9vanBRejNocC1CM0FYbVlvbVF4MVlkYUhqQkt3WVVDNA?oc=5",
+            "source": "Manager Magazin",
+            "published": "20.11., 10:41"
           },
           {
-            "title": "GOLD - Trump jagt den Markt in die Luft - stock3",
-            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9FaTFDQTc3eld3ZUhaMGl0dXNCdzJJTU16eWg2b3BGcWVUbmVQY3JKazktTloyMzN6MzJoSEdXNVA3TVhTUTFndm5BelJPbHhHNVVPRHFVQ2k4bzljQnBZRkxRS0NWZk9SZFBYcnphM3R5V0xxUlBGZUV3?oc=5",
-            "source": "stock3",
-            "published": "18.11., 21:06"
+            "title": "Gold: Dollar-Stärke drückt auf Tiefstand seit September 2025 - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRmNGeUlONURxNkw3ZEhLMVQ1ajRMV3BNQkJKLWZWNGhlSlVFanU1ODJrX3Q3WlNtaV9uNTRmcGFtTWQ5bDdjdzRub3FjX0Vza0FNZ2p2ZEs0anJZM3FlVmN2SXp0cHZqXzhaVWhXSWF5aXZXSlFBNFlVMGtxMENnRVFxV0x0S28zdjFxdk9CRnIxaVBxX2U4cUJtZFFVcGUyMndJSGZvaW4tS2JSdVVpWkZJUQ?oc=5",
+            "source": "Börse Express",
+            "published": "20.11., 07:22"
           },
           {
-            "title": "Gold erreicht wegen starkem Dollar und Zinsspekulationen 14-Monats-Tief - MarketScreener Deutschland",
-            "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQb1FLNEk3dUVVVUl4cGd1dXZiZzQ0NXZjaDRNYzNwOWdoa1B3d0dXQVFzM1hjc3ROX083UUhDWFl1M2E2ZGdISHNfY2FXb25Qb01uUmxqQ25oeUhKenZTc05QSTJnR0xwY19kYlRXU0xHZFRCc2RkZHZpdURZdEZuUEQyeC1jZ0p5OUFyVXd0QWZQR0pjZlNYeFIteFFNZjlWbng0NHZRZ09iNnNQN3Zoa0l5RTlnQlRuWGVoSm1CckVoN2IzQzZlaGVvQlViUGZ4QUFmVF9RSzZYM1FPUXNvbDRuRnpsaDJRUGxfYUFQeko2M0k?oc=5",
-            "source": "MarketScreener Deutschland",
-            "published": "19.11., 16:47"
+            "title": "Goldpreis-Prognose: Was Experten jetzt erwarten - weekend.at",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Cb3ZVX3Y3bDB3OU1vZVRZSFRMRG9DSGVfRlFWNzNkMmIyV3NBUFlENTJPUnppSFk3OVFNUVBlazNiZGwwWXczREVmX2laVmhKM2hIbFFqUmo4SW0teWNzRmZaMDhSQk9MSWRsMk02QQ?oc=5",
+            "source": "weekend.at",
+            "published": "20.11., 09:12"
           }
         ]
       }
