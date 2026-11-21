@@ -1,8 +1,8 @@
 {
   "is_sample": false,
   "source": "Yahoo Finance Kursdaten + Google News RSS Kontext",
-  "generated_at_utc": "2026-11-20T22:28:56+00:00",
-  "generated_at_vienna": "20.11.2026, 23:28 Uhr",
+  "generated_at_utc": "2026-11-21T12:05:45+00:00",
+  "generated_at_vienna": "21.11.2026, 13:05 Uhr",
   "market_mood_internal": "risk-off",
   "assets": [
     {
@@ -389,18 +389,26 @@
         "direction": "gefallen",
         "confidence": "niedrig",
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
-        "themes": [],
+        "themes": [
+          "KI/Tech"
+        ],
         "bullets": [
           "Der Kurs ist deutlich gefallen: -3.21 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: keine klaren Themen erkannt.",
-          "Wichtigste gefundene Headlines: Nasdaq Developed Markets Consumer Staples NTR Index [Index] - boerse.de | Mercer International Aktie: Nasdaq hat den Stecker gezogen - Börse Express."
+          "Gefundene Nachrichten-Themen: KI/Tech.",
+          "Wichtigste gefundene Headlines: US-Börsen: Nasdaq stabilisiert sich nach Talfahrt - trend.at | Anthropic-IPO im Live-Ticker: Was Asset Manager zum KI-Börsengang sagen - e-fundresearch.com."
         ],
         "headlines": [
           {
-            "title": "Nasdaq Developed Markets Consumer Staples NTR Index [Index] - boerse.de",
-            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcVpkUlF1T19yUC1XVHBWYTlrRm00NzJJZnplVHZtODdYZk9uWmxEU21hYldwVGJrWVkxWml6RlVwZjJQd1ZmWUZ0bTQ3WnhiQzZyQTBQZFMzal9tbWZLeVktX1J3MzY1eC1wcUVMTWUybWRNNDUtUUVaMExKVWo5SHJ1Y012YmNraFZsZjlFcjRRYTBXVzk0bG9ldEtGR2M3TlZlR1E0a00?oc=5",
-            "source": "boerse.de",
-            "published": "20.11., 08:24"
+            "title": "US-Börsen: Nasdaq stabilisiert sich nach Talfahrt - trend.at",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOERyaW9OOFJjZW00WVVma3lPNGMySmg5UTZMZDdVZE15eVhsa0VYZm9ocWhXOHhxYVU4X1NiR2NWNHk1TFVUZ28zQmlVek4wam42d0p6MGpXMlhvaHRidnBiSHl1ZGUydEMyamR2WndDTkR0SHFTR1ZIVkRzRGxYSFozN0kxb0p1ZzVTNWxR?oc=5",
+            "source": "trend.at",
+            "published": "19.11., 02:11"
+          },
+          {
+            "title": "Anthropic-IPO im Live-Ticker: Was Asset Manager zum KI-Börsengang sagen - e-fundresearch.com",
+            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSzdkdDNMYXZlWHJPN1BPTkY4ZUdEUl82bGFTcHRCSUFZRjBwQzRNbTBMQzA2aVl0SHBmRllLTGE0UVdDcXY2b2ZVZmppenVkeE9BbjlfVWxtbzBsRUJyX1pzbDAtY183a2VwV19ERDRIaW4tZFhpQWFMNDYwUFZWZUJzQXNOT3ZleHFvNEtTSjZKLUUxS1JEX2RMQ2hRU1ZoYXplazZ4Q3RsNE5OWnNXcm1yVDItZURreG9NUw?oc=5",
+            "source": "e-fundresearch.com",
+            "published": "19.11., 19:15"
           },
           {
             "title": "Mercer International Aktie: Nasdaq hat den Stecker gezogen - Börse Express",
@@ -409,16 +417,10 @@
             "published": "20.11., 05:59"
           },
           {
-            "title": "INVESCO MARKETS PLC - INVESCO MSCI WORLD ETF Kurs | | IE000K8VMPE9 - Finanzen.net",
-            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQkdhQkRsUV9nenpUNEl6UTl6VUd0cHB1ekdzb3dLS2Z0RnJrWnYzQnZ6d2VMamd0c1c4SmZIRmJ6TmVvQTY5QVdiczdtYWszQU5INU5Yb3liUGxjRFlxZEduQ0lCdjJ0TTBIVkw5bUdwb1pXYm92eVJ3XzA2SHlGV0tuVF92VFZwZ2hQNA?oc=5",
-            "source": "Finanzen.net",
-            "published": "16.11., 00:00"
-          },
-          {
-            "title": "Summe Betriebsaufwand von Chilwa Minerals Limited - American Depository Shares – NASDAQ:CHWM - TradingView",
-            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNS2xzc1hYNmJ2eWpwLUcyTUIwSmp0QkdzSXFyTGxmTUYySENNMGwxc1RDa3VLSThBLUdrMm9ZSldiT1FYN0VlZUcySG9YQnBVbkNwR2ZrYUYxUjJFRzFMcUp1OVEwS2pQSThMMGRoN2gyaVVqZk1kOG5uMzNqVlUxTEFiQTFaY2FsNU9IaG5pNnFrY2lqUDRvRUtR?oc=5",
-            "source": "TradingView",
-            "published": "18.11., 11:57"
+            "title": "Aktien New York: Nasdaq stabilisiert ohne Nvidia-Begeisterung - Dow sinkt weiter - Onvista",
+            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNY2FWVHFmVWQ0VHBQbGE4Rm5DMDRFaVV0ZnM2cTJVMlRpZ1BaQTUtMlRuSEp5NC05YjVaVVEzVmNyWGF5SFMtdy0yd1B1WTctbTRTZWJNcDFIYTh5cVlqSHRodjg1aXRWNUxJS2JDem1ZTnNHVXVvYUVIYXB3Y0JxQ0VzbW1qQTZMYnduSE5GM2JPbXVKenoydlpwYUtfYm5mb1RVOGNvYXpjVktGMDliSjEyQU5IU0dwUmhLTnhtQnZ4YlE3S2xkOVl3?oc=5",
+            "source": "Onvista",
+            "published": "18.11., 20:22"
           }
         ]
       }
@@ -816,9 +818,15 @@
         "bullets": [
           "Der Kurs ist deutlich gefallen: -4.93 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: Zinsen/Fed, US-Dollar, KI/Tech, China/EM.",
-          "Wichtigste gefundene Headlines: BL - BOND EMERGING MARKETS DOLLAR B FONDS aktueller Kurs | A3EE6Q | LU2469037274 - Finanzen.net | „Risiko ist gut, wenn es falsch bepreist ist“ - private banking magazin."
+          "Wichtigste gefundene Headlines: BL - BOND EMERGING MARKETS DOLLAR B FONDS aktueller Kurs | A1421D | LU1305479401 - Finanzen.net | BL - BOND EMERGING MARKETS DOLLAR B FONDS aktueller Kurs | A3EE6Q | LU2469037274 - Finanzen.net."
         ],
         "headlines": [
+          {
+            "title": "BL - BOND EMERGING MARKETS DOLLAR B FONDS aktueller Kurs | A1421D | LU1305479401 - Finanzen.net",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMEdhTFJmS2ZyYkxCd2hVa1VfVjFsRWNvTkJLdWhaOEZHWlFJWlg3cjQyNTdlNEpVdTVaMk5ReTF2N0RvZVRkM19tZzRJOThYR1FKcTJYOUVPNm9fc19XNHg3VklmS2lKLXMxSHNZTWZxVTA1XzJvMlhpeTlTM0ViSW95RQ?oc=5",
+            "source": "Finanzen.net",
+            "published": "17.11., 00:00"
+          },
           {
             "title": "BL - BOND EMERGING MARKETS DOLLAR B FONDS aktueller Kurs | A3EE6Q | LU2469037274 - Finanzen.net",
             "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORHBKRHpBRG1TaGFYNVZhNHpEUHZqTzYweTRoSUpncVZYbVd4Zy1uMF9VWjU2TFpCelVPQlpxaGdfc0hVMGV0UzJiOUt5R3BndjRoQzl1aWpDQW9HNExZa2lfaERjY3VoMlhhbWZrRUFWNENLYjM3bE16eVJRcGg0WXNpQQ?oc=5",
@@ -826,22 +834,16 @@
             "published": "16.11., 00:00"
           },
           {
-            "title": "„Risiko ist gut, wenn es falsch bepreist ist“ - private banking magazin",
-            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUWtiOUdvOFd5UkRmdnFjaW55TXk1NzNwNmJCenphTWNpNjNwQjFISFM0TTk0YTNEWHQtdU5NdXk3cFBXdnUzZ25tNk54ZWc3NWE1UkpkVVQtUEhrVFZwdlhSSnFWRWQwSG9yQk84THF0dnowbC1NQzZPbmRzMjZoTDVKT0UtVDVySkRnWjdrWDVRcWV2QlJGZkY2V0tpRzJrdmh4eWdDbzNtcWhsT0hF?oc=5",
-            "source": "private banking magazin",
-            "published": "17.11., 11:30"
+            "title": "Auftragsbestand an Cloud-Verpflichtungen der großen Hyperscaler knackt Zwei-Billionen-Dollar-Marke - e-fundresearch.com",
+            "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQQm5peXZPU0VVMm1WaG0xa3BtektaanZZQW5DY0RncjI3cm5uX1pZRlRnQW5xTHBITG5NWlNKVHlwVVdhb2cxVFUzZDM1cmVIOGZKbmhpT2h4cjJfdFJUQ3hiak1hVUFoc3Y1NzItYW1wS2l6OXRfSFlSWnIxWjhMZGh4SUZhYTZfaC02NHVVSTd1Z3FWTFU2TlpGanVKN3F1MVNwWmtwSGV6R2J6WFlSeFJuYXlwU0V4ZTRPWU1vYURfUmNBdGJacDVsYkdNa3B6ZG5VYUJySFd3c0YzNFIxcXFaRUJyRE54TW03QWpQR2VTQQ?oc=5",
+            "source": "e-fundresearch.com",
+            "published": "06.07., 09:00"
           },
           {
-            "title": "Klimafinanzierung: Emerging Markets brauchen mehr Kapital - Börsianer",
-            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdmd5OE92Sl90MHNjVjNTMUxqSE5VYzdrLWNXdG9jVGZSSk9YSGZZMXcwUlNkV1poaUZfa2FRVFVTZEpGNVBuNGFGUUFaV3l5WlkyeXBFQ3MyTWIyWTVsXzFVNlR6cVYzV2pFeWZYMEVhTUswb0d2ZFNHV3Fud1hoQWk2M1M?oc=5",
-            "source": "Börsianer",
-            "published": "13.08., 07:28"
-          },
-          {
-            "title": "BL - BOND EMERGING MARKETS DOLLAR B FONDS aktueller Kurs | A1421D | LU1305479401 - Finanzen.net",
-            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMEdhTFJmS2ZyYkxCd2hVa1VfVjFsRWNvTkJLdWhaOEZHWlFJWlg3cjQyNTdlNEpVdTVaMk5ReTF2N0RvZVRkM19tZzRJOThYR1FKcTJYOUVPNm9fc19XNHg3VklmS2lKLXMxSHNZTWZxVTA1XzJvMlhpeTlTM0ViSW95RQ?oc=5",
-            "source": "Finanzen.net",
-            "published": "12.11., 00:00"
+            "title": "EM-Anleihen: Diese rohstoffreichen Schwellenländer profitieren - das investment",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNGJtcEp3MGtIVGNpekNsNWQtbnNYaHhIS2JyMHhWYUlDai1mRjZuQ1VRVmZ5c3ZDRE5malN3TTBJMTMza2x4MGpWaUszZDNiZlJMWWd4TnM4RmxYQThTSDFlZF9USUNIQU1pVEpqRVhxYnU3WUNkcHdqYVBBQVFhX3FuZWpNSHpLNUp3N3ZDOTBwLXhJTk5iNDRtSnRYMXQzdE5vX2RR?oc=5",
+            "source": "das investment",
+            "published": "29.05., 09:00"
           }
         ]
       }
@@ -1658,9 +1660,15 @@
         "bullets": [
           "Der Kurs ist deutlich gefallen: -2.70 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: KI/Tech, Regulierung.",
-          "Wichtigste gefundene Headlines: DSV fährt SAF-Kooperation mit Google Cloud hoch - Österreichische Verkehrszeitung - | Gemini 4 Neon: Was sich im 22-Euro-Abo von Google AI Pro ändert - Notebookcheck."
+          "Wichtigste gefundene Headlines: WhatsApp-Speicher voll? Bald kannst du deine Backups direkt bei Meta sichern - T3N | DSV fährt SAF-Kooperation mit Google Cloud hoch - Österreichische Verkehrszeitung -."
         ],
         "headlines": [
+          {
+            "title": "WhatsApp-Speicher voll? Bald kannst du deine Backups direkt bei Meta sichern - T3N",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBWaG5IRDFFREw5LTc2cWlxdWdCN0VtNTZVZVAtVFVwbC0tdzJjVjhySDg0Qll0VmtqOVJ6VlNrSEdYWnFrRFo3b1ZKcm5oM3ZwVXV3Rkt1QXcwLUpFcUxkVjlxdVZ0VURhcFlOUnZpbw?oc=5",
+            "source": "T3N",
+            "published": "21.11., 11:50"
+          },
           {
             "title": "DSV fährt SAF-Kooperation mit Google Cloud hoch - Österreichische Verkehrszeitung -",
             "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ncU94ZElYT3lUOHVEazN1TnUwTVRCTkR5a2huZXhoZWRkNzFNTGE0Q3BZTm80S3lNRTRJMFY5UEtEalVyMHc3aGFVR2tON1BFRFUtTTRDTUx6TmVmS3dMZWlzV1lOZVdOeHpldVdWeS1tdmd3?oc=5",
@@ -1668,22 +1676,16 @@
             "published": "18.11., 06:17"
           },
           {
+            "title": "Gemini 4 Neon ist im Google AI Pro-Tarif für 19,99 $ enthalten, nicht in Ultra. - OrcaRouter",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jTldkNEtnNjYzSnVQbGJ1eDlubnhMV1BwMG02cjVEMDR2SVZ0elQxREtpX3JyY1hKMExGZmtQQ2U0NlRFQ1lQUlRNOXc0SHhVVDFsdllQMXhrZnF0ME1lZHNSSklwZWdzS1NQajVLSm0?oc=5",
+            "source": "OrcaRouter",
+            "published": "21.11., 04:12"
+          },
+          {
             "title": "Gemini 4 Neon: Was sich im 22-Euro-Abo von Google AI Pro ändert - Notebookcheck",
             "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSjRKUUMyeTdSSFZOYm04MDI2Ti1QQ2wyX0QzX2pJQUxIZjMzanRFN2F4YnBkckdsT1g3aEQ2T3ZrU3RueDhxanRMTnAyc0pQUVQwOG13U21QWGt0REJmT3A3c2NSVHoyUXlONU9URFhHS04yVVNXXy1vQzlTOGQ4emkxTUxQV2JmeEJENjRWcVdEVUtaYjdtaV9BUGFmWXhLUHZ4WktSU1pXMnIx?oc=5",
             "source": "Notebookcheck",
             "published": "19.11., 08:51"
-          },
-          {
-            "title": "Google AI Tools für Developer: Sinnvoller Einsatz und Alternativen - heise online",
-            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWHVyX0ZOVmVYc283LTBFcWsxOWo5bDNTQmJkTW1Ua2xtcmxHcHNDZmpIc1dqc3hvSE9lQzlNdjNfWmsxQ1REbmJSdDdJWElIMk5ZdThXYWxyd0tsS3Z5eEdlWGVyTmVBRFhNUEw3THZUQmxLdWwtdGtYV0I1Wl9mTGg3bHRubTJPTGVOUWxFT0QwdnNQZlR3c0JOOGYxa1pWUmhhX0hDYlQxMUE?oc=5",
-            "source": "heise online",
-            "published": "16.11., 07:00"
-          },
-          {
-            "title": "Google AI Mode: Was temporäre Chats wirklich ändern - NeoTeo",
-            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUVhqa1kxSE1BeEVOS29tVENBYmFpYWh0SGpzNWJhQmUwX1JqTm43MnRqWVpqWDJ5SWV3aXZQX3k0eGJyVVFRSU1IdnNRdHVweXVkMUxzTTYtUWNWUU1wS0FKdW0tUERzU2FEZGg4eEU5LTBiRS1FMThDaUZZMHFjNDJJQVBIc3c?oc=5",
-            "source": "NeoTeo",
-            "published": "20.11., 05:56"
           }
         ]
       }
@@ -1696,16 +1698,16 @@
       "description": "Goldpreis, primär über Gold-Future, fallback XAU/USD",
       "price_decimals": 2,
       "last_date": "2026-11-20",
-      "last_close": 3539.0,
+      "last_close": 3515.39990234375,
       "previous_close": 3685.5,
-      "change_abs": -146.5,
-      "change_pct": -3.98,
-      "change_5d_pct": -8.94,
-      "change_1m_pct": -12.84,
-      "change_3m_pct": -24.67,
+      "change_abs": -170.1,
+      "change_pct": -4.62,
+      "change_5d_pct": -9.54,
+      "change_1m_pct": -13.42,
+      "change_3m_pct": -25.17,
       "change_1y_pct": null,
-      "ytd_pct": -18.48,
-      "volatility_30d_pct": 25.58,
+      "ytd_pct": -19.02,
+      "volatility_30d_pct": 26.38,
       "sparkline": [
         {
           "date": "2026-07-17",
@@ -2065,7 +2067,7 @@
         },
         {
           "date": "2026-11-20",
-          "close": 3539.0
+          "close": 3515.39990234375
         }
       ],
       "explanation": {
@@ -2076,34 +2078,34 @@
           "US-Dollar"
         ],
         "bullets": [
-          "Der Kurs ist deutlich gefallen: -3.98 % gegenüber dem vorherigen Schlusskurs.",
+          "Der Kurs ist deutlich gefallen: -4.62 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: US-Dollar.",
-          "Wichtigste gefundene Headlines: Goldpreis fällt weiter, Bitcoin stabilisiert sich auf tiefem Niveau - Kurier | Starker Dollar verschärft die Talfahrt von Gold und Silber - Miningscout."
+          "Wichtigste gefundene Headlines: Goldpreis-Prognose von Goldman Sachs: Gold soll wieder auf über 5600 Dollar steigen - Börse Online | Goldpreis stürzt weiter ab – Bitcoin fällt auf tiefsten Stand seit Monaten - DiePresse.com."
         ],
         "headlines": [
           {
-            "title": "Goldpreis fällt weiter, Bitcoin stabilisiert sich auf tiefem Niveau - Kurier",
-            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUS1yVlZkWlNQTFJ0bmIycm54b2w3ZUhlU2Z5cjd4ZDg0MmNXX09QZmdhcGRKb3lNMVJENGxEOFVub3ZlOGhzRktPcldlQ1c0OEpBMlFhZjB3dHZFbm1LWkZWUGxIUUZtTDdsMUFldUdQSEVSUmtSTDIwSmlEeWZmSHNRSXIxRkVsUHUyOHZESkdQOTFqZUxZaU10WQ?oc=5",
-            "source": "Kurier",
-            "published": "20.11., 08:38"
+            "title": "Goldpreis-Prognose von Goldman Sachs: Gold soll wieder auf über 5600 Dollar steigen - Börse Online",
+            "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQbF9UelZQSjNJSHNCdmtVVEJyckctVDNWTng3anRPcmJ5MHd6ajVMMVJhMmc0VFMwODhTN0ZEcGdBY29WQnVvYk1NLVZlOExTMm9xSURkanh5Tl90N21zR0trNi1hY282Z1RHWXh5QVItQXRMbGJaMllSSTgxcnBWam1EZnMtMEUxRmhzemE4OEJ0d2s3aEN4UGxWdGdDdkIxUFFETlRYOTgyb2ZOZXlZQnB3OUxsTzlLSTc4TldGUTJCTU54QUVnRWVLLVNSam9wc25XQWZPOEhwWW5BLTJkRTJn?oc=5",
+            "source": "Börse Online",
+            "published": "21.11., 07:45"
+          },
+          {
+            "title": "Goldpreis stürzt weiter ab – Bitcoin fällt auf tiefsten Stand seit Monaten - DiePresse.com",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcFRtY0ZESWQ1QldQc3NGMjhjZjdOcHVQcDFpS0xtbWZvRHlmSGI3c3laRXBkNW50cWJNUHd5UXZGUTY1Q2trbHlzelNGOHA4ZEZSdHhWLUp4ZTlxcDZkaG1uclZhakE3czJrUFQ3bXh2V0JjMDM1cHJCTnM4bnY4dmhhVzc3ZENIa1VGaDFEVGt0NktTZ1ZFeXFrMGx3bWZuMndJ?oc=5",
+            "source": "DiePresse.com",
+            "published": "20.11., 08:15"
+          },
+          {
+            "title": "Gold: Ist die Schwäche des Goldpreises eine Chance für Anleger? - Handelsblatt",
+            "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUkZJeEdhMjJCMzRvVEFOQzhxaTRWM2x3T0N1dDhfeTY1d1ZOZWt5MzdGaHlwc2hpRTFiSlpfZU0xNG1CQWlYZVZmZTRIN3Y0TVBYVnVRa0RZSU9lN2xGOE5sM1M3bWQ0YS00Xy13bjdVbDZwUnhWa3JzTUdzY1V3YmFPbmlzUHB0aVdpZzlMZDZWak53UHhWWU9CLW1JUzNmZG5rWDBfTXllNDQ1al9zcFB5WmpkamFmZU12aFFhMUNwNVozLVhZSTcyUTBybFVDem41SkNhUTVxUQ?oc=5",
+            "source": "Handelsblatt",
+            "published": "19.11., 16:27"
           },
           {
             "title": "Starker Dollar verschärft die Talfahrt von Gold und Silber - Miningscout",
             "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPalBnWWpFcUhXa3hUSUV5ampaZjZoZWI2MEo3MlRtV01RbUN4bWJiTFdCc0FIeFV4aVNZU0JnTWdOWDc5NXRxMFZsYndGUUFRNEVjVDI2eXRDaWFvQklVeWU5RkNLUHFaS09rUXNCbVA3TUJoaWhCZFNOSXRzMHV4VXdyU0Z3cVc2RzRNX2tjRlFJbnZqQTR4VGJKbElkRVZUWTJVTWpR?oc=5",
             "source": "Miningscout",
             "published": "20.11., 17:47"
-          },
-          {
-            "title": "Goldpreis fällt auf Jahrestief – auch Silber verliert - Manager Magazin",
-            "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNT1RoQlVvTU5EbFVSUGpRODByc2lTZ182eEVQYzZRNnBpdUNadGJjd1Z3dDlmdERMNDJWanZudHNhTXVLTGw5ZzE5MHNGdVRDQmhlZkdGYnc0UG4xSF9VVk1BLXZwVWFLVzNMQWJRWW03YlhYejhIWXZMdU1nQlg4RDlWQk93OTgwYkJLdGVtOHdyYlU5VWZ5RU0zM2RBclF6VVZROXhVTU1sQUU2V3dLTXNWNHV4Z2pheS1sRlNKbkFRT1g2bTByYzc1Q3ltMW5rbzVNd1hSMG1jak9vanBRejNocC1CM0FYbVlvbVF4MVlkYUhqQkt3WVVDNA?oc=5",
-            "source": "Manager Magazin",
-            "published": "20.11., 10:41"
-          },
-          {
-            "title": "Gold: Dollar-Stärke drückt auf Tiefstand seit September 2025 - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRmNGeUlONURxNkw3ZEhLMVQ1ajRMV3BNQkJKLWZWNGhlSlVFanU1ODJrX3Q3WlNtaV9uNTRmcGFtTWQ5bDdjdzRub3FjX0Vza0FNZ2p2ZEs0anJZM3FlVmN2SXp0cHZqXzhaVWhXSWF5aXZXSlFBNFlVMGtxMENnRVFxV0x0S28zdjFxdk9CRnIxaVBxX2U4cUJtZFFVcGUyMndJSGZvaW4tS2JSdVVpWkZJUQ?oc=5",
-            "source": "Börse Express",
-            "published": "20.11., 07:22"
           }
         ]
       }
