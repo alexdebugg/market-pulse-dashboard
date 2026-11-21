@@ -1,8 +1,8 @@
 {
   "is_sample": false,
   "source": "Yahoo Finance Kursdaten + Google News RSS Kontext",
-  "generated_at_utc": "2026-11-21T12:05:45+00:00",
-  "generated_at_vienna": "21.11.2026, 13:05 Uhr",
+  "generated_at_utc": "2026-11-21T21:26:16+00:00",
+  "generated_at_vienna": "21.11.2026, 22:26 Uhr",
   "market_mood_internal": "risk-off",
   "assets": [
     {
@@ -417,10 +417,10 @@
             "published": "20.11., 05:59"
           },
           {
-            "title": "Aktien New York: Nasdaq stabilisiert ohne Nvidia-Begeisterung - Dow sinkt weiter - Onvista",
-            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNY2FWVHFmVWQ0VHBQbGE4Rm5DMDRFaVV0ZnM2cTJVMlRpZ1BaQTUtMlRuSEp5NC05YjVaVVEzVmNyWGF5SFMtdy0yd1B1WTctbTRTZWJNcDFIYTh5cVlqSHRodjg1aXRWNUxJS2JDem1ZTnNHVXVvYUVIYXB3Y0JxQ0VzbW1qQTZMYnduSE5GM2JPbXVKenoydlpwYUtfYm5mb1RVOGNvYXpjVktGMDliSjEyQU5IU0dwUmhLTnhtQnZ4YlE3S2xkOVl3?oc=5",
-            "source": "Onvista",
-            "published": "18.11., 20:22"
+            "title": "Nasdaq bricht um 5 % ein, löscht alle Gewinne seit Jahresbeginn aus; Nvidia stürzt bei sich verschärfendem Ausverkauf von KI-Aktien um 13 %…",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbWctaFdtcTRnRXdCeWlBcXhqQnJNNjVyVnJvOE96eXdEZDEwZTZVYXl2VmdwTThyUjBUT0Vsc1Z5SWVsSk1IemE5VEtOaFFYQ1phcTZGbDJ6al9CZXNvbEU5WDVFOHh1SzhpOVo1VGFqajZxNi1mTFhiOW00eVZXMG1FMFN1OVI5NXVSYzl4WFFpNndvdzJhaFY0VXc1VWhOdW0weW5UVk5FS1FXTnlaQk1IM1Y2ZTJ1WkhVZ3VBTEE?oc=5",
+            "source": "TradingKey",
+            "published": "20.11., 13:17"
           }
         ]
       }
@@ -818,7 +818,7 @@
         "bullets": [
           "Der Kurs ist deutlich gefallen: -4.93 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: Zinsen/Fed, US-Dollar, KI/Tech, China/EM.",
-          "Wichtigste gefundene Headlines: BL - BOND EMERGING MARKETS DOLLAR B FONDS aktueller Kurs | A1421D | LU1305479401 - Finanzen.net | BL - BOND EMERGING MARKETS DOLLAR B FONDS aktueller Kurs | A3EE6Q | LU2469037274 - Finanzen.net."
+          "Wichtigste gefundene Headlines: BL - BOND EMERGING MARKETS DOLLAR B FONDS aktueller Kurs | A1421D | LU1305479401 - Finanzen.net | „Risiko ist gut, wenn es falsch bepreist ist“ - private banking magazin."
         ],
         "headlines": [
           {
@@ -828,22 +828,22 @@
             "published": "17.11., 00:00"
           },
           {
+            "title": "„Risiko ist gut, wenn es falsch bepreist ist“ - private banking magazin",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUWtiOUdvOFd5UkRmdnFjaW55TXk1NzNwNmJCenphTWNpNjNwQjFISFM0TTk0YTNEWHQtdU5NdXk3cFBXdnUzZ25tNk54ZWc3NWE1UkpkVVQtUEhrVFZwdlhSSnFWRWQwSG9yQk84THF0dnowbC1NQzZPbmRzMjZoTDVKT0UtVDVySkRnWjdrWDVRcWV2QlJGZkY2V0tpRzJrdmh4eWdDbzNtcWhsT0hF?oc=5",
+            "source": "private banking magazin",
+            "published": "17.11., 11:30"
+          },
+          {
             "title": "BL - BOND EMERGING MARKETS DOLLAR B FONDS aktueller Kurs | A3EE6Q | LU2469037274 - Finanzen.net",
             "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORHBKRHpBRG1TaGFYNVZhNHpEUHZqTzYweTRoSUpncVZYbVd4Zy1uMF9VWjU2TFpCelVPQlpxaGdfc0hVMGV0UzJiOUt5R3BndjRoQzl1aWpDQW9HNExZa2lfaERjY3VoMlhhbWZrRUFWNENLYjM3bE16eVJRcGg0WXNpQQ?oc=5",
             "source": "Finanzen.net",
             "published": "16.11., 00:00"
           },
           {
-            "title": "Auftragsbestand an Cloud-Verpflichtungen der großen Hyperscaler knackt Zwei-Billionen-Dollar-Marke - e-fundresearch.com",
-            "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQQm5peXZPU0VVMm1WaG0xa3BtektaanZZQW5DY0RncjI3cm5uX1pZRlRnQW5xTHBITG5NWlNKVHlwVVdhb2cxVFUzZDM1cmVIOGZKbmhpT2h4cjJfdFJUQ3hiak1hVUFoc3Y1NzItYW1wS2l6OXRfSFlSWnIxWjhMZGh4SUZhYTZfaC02NHVVSTd1Z3FWTFU2TlpGanVKN3F1MVNwWmtwSGV6R2J6WFlSeFJuYXlwU0V4ZTRPWU1vYURfUmNBdGJacDVsYkdNa3B6ZG5VYUJySFd3c0YzNFIxcXFaRUJyRE54TW03QWpQR2VTQQ?oc=5",
-            "source": "e-fundresearch.com",
-            "published": "06.07., 09:00"
-          },
-          {
-            "title": "EM-Anleihen: Diese rohstoffreichen Schwellenländer profitieren - das investment",
-            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNGJtcEp3MGtIVGNpekNsNWQtbnNYaHhIS2JyMHhWYUlDai1mRjZuQ1VRVmZ5c3ZDRE5malN3TTBJMTMza2x4MGpWaUszZDNiZlJMWWd4TnM4RmxYQThTSDFlZF9USUNIQU1pVEpqRVhxYnU3WUNkcHdqYVBBQVFhX3FuZWpNSHpLNUp3N3ZDOTBwLXhJTk5iNDRtSnRYMXQzdE5vX2RR?oc=5",
-            "source": "das investment",
-            "published": "29.05., 09:00"
+            "title": "Klimafinanzierung: Emerging Markets brauchen mehr Kapital - Börsianer",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdmd5OE92Sl90MHNjVjNTMUxqSE5VYzdrLWNXdG9jVGZSSk9YSGZZMXcwUlNkV1poaUZfa2FRVFVTZEpGNVBuNGFGUUFaV3l5WlkyeXBFQ3MyTWIyWTVsXzFVNlR6cVYzV2pFeWZYMEVhTUswb0d2ZFNHV3Fud1hoQWk2M1M?oc=5",
+            "source": "Börsianer",
+            "published": "13.08., 07:28"
           }
         ]
       }
@@ -1246,7 +1246,7 @@
             "title": "ETF-Portfolio – die besten Musterportfolios und ETF-Strategien - Finanzen.net",
             "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAzbmFxUlNtQ2wyOTBPRk5raDBsUDNYZ0dqWTk0dkQxWU5KV0VfWDB5TS1ValNJTUY3OGFMcGtEVWM4NXRMZ0Y1eE9QcG1BT0dtYmZyTDFtTGFVdTY4a2tYSWlMUE5UQ1p3Uk9OcExIbmZHTW9hYWw2Wm9n?oc=5",
             "source": "Finanzen.net",
-            "published": "12.11., 08:46"
+            "published": "12.11., 09:00"
           },
           {
             "title": "Diese US-Small-Cap-Aktien sind jetzt attraktiv - Morningstar",
@@ -1660,15 +1660,9 @@
         "bullets": [
           "Der Kurs ist deutlich gefallen: -2.70 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: KI/Tech, Regulierung.",
-          "Wichtigste gefundene Headlines: WhatsApp-Speicher voll? Bald kannst du deine Backups direkt bei Meta sichern - T3N | DSV fährt SAF-Kooperation mit Google Cloud hoch - Österreichische Verkehrszeitung -."
+          "Wichtigste gefundene Headlines: DSV fährt SAF-Kooperation mit Google Cloud hoch - Österreichische Verkehrszeitung - | WhatsApp-Speicher voll? Bald kannst du deine Backups direkt bei Meta sichern - t3n."
         ],
         "headlines": [
-          {
-            "title": "WhatsApp-Speicher voll? Bald kannst du deine Backups direkt bei Meta sichern - T3N",
-            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBWaG5IRDFFREw5LTc2cWlxdWdCN0VtNTZVZVAtVFVwbC0tdzJjVjhySDg0Qll0VmtqOVJ6VlNrSEdYWnFrRFo3b1ZKcm5oM3ZwVXV3Rkt1QXcwLUpFcUxkVjlxdVZ0VURhcFlOUnZpbw?oc=5",
-            "source": "T3N",
-            "published": "21.11., 11:50"
-          },
           {
             "title": "DSV fährt SAF-Kooperation mit Google Cloud hoch - Österreichische Verkehrszeitung -",
             "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ncU94ZElYT3lUOHVEazN1TnUwTVRCTkR5a2huZXhoZWRkNzFNTGE0Q3BZTm80S3lNRTRJMFY5UEtEalVyMHc3aGFVR2tON1BFRFUtTTRDTUx6TmVmS3dMZWlzV1lOZVdOeHpldVdWeS1tdmd3?oc=5",
@@ -1676,16 +1670,22 @@
             "published": "18.11., 06:17"
           },
           {
-            "title": "Gemini 4 Neon ist im Google AI Pro-Tarif für 19,99 $ enthalten, nicht in Ultra. - OrcaRouter",
-            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jTldkNEtnNjYzSnVQbGJ1eDlubnhMV1BwMG02cjVEMDR2SVZ0elQxREtpX3JyY1hKMExGZmtQQ2U0NlRFQ1lQUlRNOXc0SHhVVDFsdllQMXhrZnF0ME1lZHNSSklwZWdzS1NQajVLSm0?oc=5",
-            "source": "OrcaRouter",
-            "published": "21.11., 04:12"
+            "title": "WhatsApp-Speicher voll? Bald kannst du deine Backups direkt bei Meta sichern - t3n",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBWaG5IRDFFREw5LTc2cWlxdWdCN0VtNTZVZVAtVFVwbC0tdzJjVjhySDg0Qll0VmtqOVJ6VlNrSEdYWnFrRFo3b1ZKcm5oM3ZwVXV3Rkt1QXcwLUpFcUxkVjlxdVZ0VURhcFlOUnZpbw?oc=5",
+            "source": "t3n",
+            "published": "21.11., 11:50"
           },
           {
             "title": "Gemini 4 Neon: Was sich im 22-Euro-Abo von Google AI Pro ändert - Notebookcheck",
             "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSjRKUUMyeTdSSFZOYm04MDI2Ti1QQ2wyX0QzX2pJQUxIZjMzanRFN2F4YnBkckdsT1g3aEQ2T3ZrU3RueDhxanRMTnAyc0pQUVQwOG13U21QWGt0REJmT3A3c2NSVHoyUXlONU9URFhHS04yVVNXXy1vQzlTOGQ4emkxTUxQV2JmeEJENjRWcVdEVUtaYjdtaV9BUGFmWXhLUHZ4WktSU1pXMnIx?oc=5",
             "source": "Notebookcheck",
             "published": "19.11., 08:51"
+          },
+          {
+            "title": "Gemini 4 Neon ist im Google AI Pro-Tarif für 19,99 $ enthalten, nicht in Ultra. - OrcaRouter",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jTldkNEtnNjYzSnVQbGJ1eDlubnhMV1BwMG02cjVEMDR2SVZ0elQxREtpX3JyY1hKMExGZmtQQ2U0NlRFQ1lQUlRNOXc0SHhVVDFsdllQMXhrZnF0ME1lZHNSSklwZWdzS1NQajVLSm0?oc=5",
+            "source": "OrcaRouter",
+            "published": "21.11., 04:12"
           }
         ]
       }
@@ -2087,7 +2087,7 @@
             "title": "Goldpreis-Prognose von Goldman Sachs: Gold soll wieder auf über 5600 Dollar steigen - Börse Online",
             "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQbF9UelZQSjNJSHNCdmtVVEJyckctVDNWTng3anRPcmJ5MHd6ajVMMVJhMmc0VFMwODhTN0ZEcGdBY29WQnVvYk1NLVZlOExTMm9xSURkanh5Tl90N21zR0trNi1hY282Z1RHWXh5QVItQXRMbGJaMllSSTgxcnBWam1EZnMtMEUxRmhzemE4OEJ0d2s3aEN4UGxWdGdDdkIxUFFETlRYOTgyb2ZOZXlZQnB3OUxsTzlLSTc4TldGUTJCTU54QUVnRWVLLVNSam9wc25XQWZPOEhwWW5BLTJkRTJn?oc=5",
             "source": "Börse Online",
-            "published": "21.11., 07:45"
+            "published": "21.11., 15:30"
           },
           {
             "title": "Goldpreis stürzt weiter ab – Bitcoin fällt auf tiefsten Stand seit Monaten - DiePresse.com",
@@ -2102,10 +2102,10 @@
             "published": "19.11., 16:27"
           },
           {
-            "title": "Starker Dollar verschärft die Talfahrt von Gold und Silber - Miningscout",
-            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPalBnWWpFcUhXa3hUSUV5ampaZjZoZWI2MEo3MlRtV01RbUN4bWJiTFdCc0FIeFV4aVNZU0JnTWdOWDc5NXRxMFZsYndGUUFRNEVjVDI2eXRDaWFvQklVeWU5RkNLUHFaS09rUXNCbVA3TUJoaWhCZFNOSXRzMHV4VXdyU0Z3cVc2RzRNX2tjRlFJbnZqQTR4VGJKbElkRVZUWTJVTWpR?oc=5",
-            "source": "Miningscout",
-            "published": "20.11., 17:47"
+            "title": "Erstmals seit September 2025: Goldpreis fällt unter 3.800 Dollar - derStandard.de",
+            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOURYVFBFdGVpdExJWTVNdWx4cEZXNkk3UUlQUlhGY2xLamFqOWJ3QW5pUWhuaE55VmlISF9LNU9BemdCbmFEcFY1Qlc4YnNnenJzd1BJWTZ6MkFwaHpNWDRIcTVCVEIta2dGSnBOVUpGU1lqRnZfbFBtbFZiUzdtOUFEOHBjd0lVMHc?oc=5",
+            "source": "derStandard.de",
+            "published": "18.11., 08:57"
           }
         ]
       }
