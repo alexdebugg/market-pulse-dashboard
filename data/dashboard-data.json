@@ -1,8 +1,8 @@
 {
   "is_sample": false,
   "source": "Yahoo Finance Kursdaten + Google News RSS Kontext",
-  "generated_at_utc": "2026-11-22T12:15:40+00:00",
-  "generated_at_vienna": "22.11.2026, 13:15 Uhr",
+  "generated_at_utc": "2026-11-22T21:30:48+00:00",
+  "generated_at_vienna": "22.11.2026, 22:30 Uhr",
   "market_mood_internal": "risk-off",
   "assets": [
     {
@@ -387,29 +387,29 @@
       ],
       "explanation": {
         "direction": "gefallen",
-        "confidence": "mittel",
-        "summary": "Plausibler Nachrichtenbezug: Der Kurs ist gefallen und die gefundenen Schlagzeilen enthalten überwiegend belastend wirkende Formulierungen. Die Quellen passen damit zur Richtung, beweisen aber keine Kausalität.",
+        "confidence": "niedrig",
+        "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
           "KI/Tech",
-          "Geopolitik/Sicherheit"
+          "China/EM"
         ],
         "bullets": [
           "Der Kurs ist deutlich gefallen: -3.21 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: KI/Tech, Geopolitik/Sicherheit.",
-          "Wichtigste gefundene Headlines: Nur zwei von zehn Branchen im MSCI World sind noch günstig bewertet - InvestmentWeek | US-Börsen: Nasdaq stabilisiert sich nach Talfahrt - trend.at."
+          "Gefundene Nachrichten-Themen: KI/Tech, China/EM.",
+          "Wichtigste gefundene Headlines: US-Börsen: Nasdaq stabilisiert sich nach Talfahrt - trend.at | Nur zwei von zehn Branchen im MSCI World sind noch günstig bewertet - InvestmentWeek."
         ],
         "headlines": [
-          {
-            "title": "Nur zwei von zehn Branchen im MSCI World sind noch günstig bewertet - InvestmentWeek",
-            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWnZZcU9NOFQ5Z2dKd09HbDh1OVh2bTFTVWY4WHRBZkg0blpHSF9Nako3WjQ2bGxtTndrT043a21jN19LVi1CWFF3TG5Ibkw0MlBBS2RDNlRFeGh2cHF3WWx0SkNaTzJHR0FBWjZBamthN0Z0RTM4RnFVM0N1Z0pRMjJCUnU5VjUycFJOLU9BWVFQRlkzZ09KWTI2MkZQeTli?oc=5",
-            "source": "InvestmentWeek",
-            "published": "22.11., 07:00"
-          },
           {
             "title": "US-Börsen: Nasdaq stabilisiert sich nach Talfahrt - trend.at",
             "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOERyaW9OOFJjZW00WVVma3lPNGMySmg5UTZMZDdVZE15eVhsa0VYZm9ocWhXOHhxYVU4X1NiR2NWNHk1TFVUZ28zQmlVek4wam42d0p6MGpXMlhvaHRidnBiSHl1ZGUydEMyamR2WndDTkR0SHFTR1ZIVkRzRGxYSFozN0kxb0p1ZzVTNWxR?oc=5",
             "source": "trend.at",
             "published": "19.11., 02:11"
+          },
+          {
+            "title": "Nur zwei von zehn Branchen im MSCI World sind noch günstig bewertet - InvestmentWeek",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWnZZcU9NOFQ5Z2dKd09HbDh1OVh2bTFTVWY4WHRBZkg0blpHSF9Nako3WjQ2bGxtTndrT043a21jN19LVi1CWFF3TG5Ibkw0MlBBS2RDNlRFeGh2cHF3WWx0SkNaTzJHR0FBWjZBamthN0Z0RTM4RnFVM0N1Z0pRMjJCUnU5VjUycFJOLU9BWVFQRlkzZ09KWTI2MkZQeTli?oc=5",
+            "source": "InvestmentWeek",
+            "published": "22.11., 07:00"
           },
           {
             "title": "Anthropic-IPO im Live-Ticker: Was Asset Manager zum KI-Börsengang sagen - e-fundresearch.com",
@@ -418,10 +418,10 @@
             "published": "20.11., 12:45"
           },
           {
-            "title": "S&P 500 fällt unter 200-Tage-Durchschnitt: Buy-the-Dip-Gelegenheit oder Bärenmarktwarnung? - TradingKey",
-            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSFBJZElfZnkzMEdzNjd6X1c4SUlyS1o2UDZpS2tpaUQ4aFJELW5OVTdldGpEeVhWVlJ5dUNxMDRseDhVTk9DRmdPcHFIQnBZdDdYODM5Mk5VclJaREl3NkE0enQ3RW9NTml6ZEwtdGlkWmxXOERrVnNSOEpncno1SmxsREQ1eVpJWF84T254dVNZTkZtTm1Qcl9uRGk1RnFRWU9HblFUZ1RTMDlTWURnNVNSb3BWQQ?oc=5",
-            "source": "TradingKey",
-            "published": "21.11., 23:09"
+            "title": "China, Korea und Taiwan starten Rettungsmaßnahmen für Aktienmärkte vor Montag: Können sie dem S&P 500 helfen? - BeInCrypto",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBvZVZYdkV6RWpETVJJUHZFZ08ydnY2eG5hYk5IdHhfM1AycGpPU0JWYm5NcUtCYjNIZWNIb3labkF4YkoxOU4zd21oOURxdWlsUVNXb3ByZnZWWW9nSGh4dFBfQVc2VFlJZXNoNnBRRVJqWmU2UTVpaA?oc=5",
+            "source": "BeInCrypto",
+            "published": "22.11., 21:33"
           }
         ]
       }
@@ -1231,30 +1231,18 @@
       ],
       "explanation": {
         "direction": "gefallen",
-        "confidence": "mittel",
-        "summary": "Plausibler Nachrichtenbezug: Der Kurs ist gefallen und die gefundenen Schlagzeilen enthalten überwiegend belastend wirkende Formulierungen. Die Quellen passen damit zur Richtung, beweisen aber keine Kausalität.",
+        "confidence": "niedrig",
+        "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
           "Zinsen/Fed",
-          "KI/Tech"
+          "US-Dollar"
         ],
         "bullets": [
           "Der Kurs ist deutlich gefallen: -2.50 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: Zinsen/Fed, KI/Tech.",
-          "Wichtigste gefundene Headlines: S&P 500, Nasdaq, Dow End Lower As Anthropic Trading Debut Fails To Provide Adequate Confidence — ANT, META, AAPL, GME In Focus - TradingView | Small Caps: Chancen in der Realwirtschaft - e-fundresearch.com."
+          "Gefundene Nachrichten-Themen: Zinsen/Fed, US-Dollar.",
+          "Wichtigste gefundene Headlines: ETF-Portfolio – die besten Musterportfolios und ETF-Strategien - Finanzen.net | Diese US-Small-Cap-Aktien sind jetzt attraktiv - Morningstar."
         ],
         "headlines": [
-          {
-            "title": "S&P 500, Nasdaq, Dow End Lower As Anthropic Trading Debut Fails To Provide Adequate Confidence — ANT, META, AAPL, GME In Focus - TradingView",
-            "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNazNmTXZnSXVfN05qOTY2MmViUFZDSGZGOGszemYwMTN2SFF4b21sRnhESUhmV3R0MG4tcFA2RmN1N3RPZ1RzRHNHS3VtaUIwREYySEF0dGpaa3FqdXptajhRNFQySS1kVTNsREl3WHRzMmI5OG80UlNPbzlUdW1vNlNRblF2MU8zM192VEthb242N1l1QlpGNmh1SS0wa3NMdWREeThpMFU5Z3U1cjNWRmFrZG1uNldUZ1JiMk1PTUZjMERzaUhkUm5pWW03dlNIcEZnU0t4V2N4SmtJV00zdDlqcnhEM2VpWWpHMnRRZlp3QThJQ3QxbVRfVUZPcjUxYy1WTkR2TlQ1dEk?oc=5",
-            "source": "TradingView",
-            "published": "20.11., 00:01"
-          },
-          {
-            "title": "Small Caps: Chancen in der Realwirtschaft - e-fundresearch.com",
-            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUFM4UVhpQ1Q1R0JpNGhyc3ZXalJTeEoxajBVSzQxT01wakJHcmNsWVRDOE9yaUZpOVJ0WG1VWDBLNHdlNkpKOE5YZzNqX1E4Y3pqaHZhV1hrY2VPTW5BUDBwZTdIaThrTEdaNHE2bDZNWUdZS1hJd3RtamdZVmpzU1YzMGxmdkd1TFhFbm5MT1RReGxHNlRNZjNRaHdCLXBWTkZlRnNKcmhMODBjcGtVNVFteDAxNjg?oc=5",
-            "source": "e-fundresearch.com",
-            "published": "23.10., 09:00"
-          },
           {
             "title": "ETF-Portfolio – die besten Musterportfolios und ETF-Strategien - Finanzen.net",
             "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAzbmFxUlNtQ2wyOTBPRk5raDBsUDNYZ0dqWTk0dkQxWU5KV0VfWDB5TS1ValNJTUY3OGFMcGtEVWM4NXRMZ0Y1eE9QcG1BT0dtYmZyTDFtTGFVdTY4a2tYSWlMUE5UQ1p3Uk9OcExIbmZHTW9hYWw2Wm9n?oc=5",
@@ -1266,6 +1254,18 @@
             "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNXF1VURGVVhhSUhQWnc3NDlSUTVfU3BWb2hXd3pPN1Z5VWFGa2p4WV84cFd1WTlVaEFheEZ4eVhUVjBlVnBwdlBHTURVR2ptUGMzME5DeFNfR3lHVUhGTHRMVmIwU2ZXNFJUdlBlYW1XZ2M4aXJMTTlCWnNLbmxZc3FndTVMV1NXdmQ5cm9sdVQ?oc=5",
             "source": "Morningstar",
             "published": "06.07., 09:00"
+          },
+          {
+            "title": "Bitcoin notiert bei 78.000 USD, während Memecoins und Small Caps eine breite Krypto-Korrektur anführen - CoinDesk",
+            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVndoZHMxdjJtSG8wSW12QjNWOFQwclFZSk5sY1ZiZWxmSzVvb2tYZTc5MHVneGhCZzlNbWdNcFhqNkJNWF9iZ3lLR1piNjJxQVhhbmdIQ1hjRHMwWU41SEVJang3QWQwNkJNMUVpeHJNOGRFejJOcnlsNTVqS0R6T25CdGlob0R0RXlqTVZ0bkh1NzEtVUhXTzVEZkt1RGJRVzJlXzZjelU1OEJHWGlnMDlEVTlzbnROMnFWTVVqWTlpVWFmdVhj?oc=5",
+            "source": "CoinDesk",
+            "published": "10.09., 09:00"
+          },
+          {
+            "title": "MSCI World Small Cap ETFs 2026 - LYNX Online Broker",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcU4yRTBRZ25DSmViRmFBTVBTcFJDOGZUQ2JCcFpBaDZjaGlUY0dSRjc1dzl1OW51bC1kOUFoazhiTE5nblRzVzhIVVJoRE9Ec0NibURya0x3cnNSVkxjbGRzVWhyN1hvM0RLV3VyNEVxUHpjM0lwNk9reFFENThtam5ndU9hYlpwS3JaTEliQXB4dw?oc=5",
+            "source": "LYNX Online Broker",
+            "published": "13.09., 09:00"
           }
         ]
       }
@@ -1655,27 +1655,26 @@
         "confidence": "niedrig",
         "summary": "Quellenlage dünn: Es wurden zwar aktuelle Schlagzeilen gefunden, sie erklären die heutige Kursrichtung aber nicht eindeutig. Deshalb wird hier keine harte Begründung behauptet.",
         "themes": [
-          "US-Dollar",
           "KI/Tech",
           "Regulierung"
         ],
         "bullets": [
           "Der Kurs ist deutlich gefallen: -2.70 % gegenüber dem vorherigen Schlusskurs.",
-          "Gefundene Nachrichten-Themen: US-Dollar, KI/Tech, Regulierung.",
-          "Wichtigste gefundene Headlines: Streams AI: PanTerra plant Google-Workspace-Integration ab 4. Januar - BornCity | Google enthüllt, wie Duplex für Gemini Firmen anruft - Pasquale Pillitteri."
+          "Gefundene Nachrichten-Themen: KI/Tech, Regulierung.",
+          "Wichtigste gefundene Headlines: Google AI Edge Eloquent: Beschreibung nennt iOS-Tastatur und Kontextwörterbuch - Caschys Blog | Streams AI: PanTerra plant Google-Workspace-Integration ab 4. Januar - BornCity."
         ],
         "headlines": [
+          {
+            "title": "Google AI Edge Eloquent: Beschreibung nennt iOS-Tastatur und Kontextwörterbuch - Caschys Blog",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMjdGUWxXUkp6Und1WldFUVhRVDJwempFaWNTRUFHWU5ucWppNkN5c2tqZWJOc3p2OUEzNzE5N01nTjhwdkRXa1JvblFJZVFwRnFsY0tlcFYyaWItdWlDM0NVNjVjMHp2Y2VvWk84bzdseHhrQ3BSdW1RSWRfaFFMaVl3SnJwWXVlX252MzJaa25XYVhOb1NzVUROMXE2dEFRSHJHSzRSc1NiUkR2?oc=5",
+            "source": "Caschys Blog",
+            "published": "22.11., 15:00"
+          },
           {
             "title": "Streams AI: PanTerra plant Google-Workspace-Integration ab 4. Januar - BornCity",
             "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeXFrUVFKOVdscEZaOEZ3UDlFTnFZY3pnLVVfYnRQblVwdzc1dUZlbWNuRTI3ajBiWVhUbmFwUExRV0tMUUV2MEV6ZWNwWVp6eHpNWnNMX1U1YUp5SnRqTHFaX1ZhTzN1d2w0dS1kU1Nob1BVSHg4NmZMNGxwZEZWU2pmZzg2Q3RXT2JMRlJnQkhFZnotaWh6Xw?oc=5",
             "source": "BornCity",
             "published": "22.11., 10:31"
-          },
-          {
-            "title": "Google enthüllt, wie Duplex für Gemini Firmen anruft - Pasquale Pillitteri",
-            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOV0V2X1FtRXAwcUNpMmhYal9hZTlhZTk5R01CZHhUbjVGMThibE5nX1lVaElkTHJhdC1pelpVTVJiOXBYN2dHQlhUWkhFNWlseTdnNGdwbEdsZTFyaDFsM0NRUHpRLXBDa1MyUkZFWW5ocFZwbW1CSEoxUXRaajZxeDhJRTJsQQ?oc=5",
-            "source": "Pasquale Pillitteri",
-            "published": "22.11., 09:59"
           },
           {
             "title": "Gemini 4 Neon: Was sich im 22-Euro-Abo von Google AI Pro ändert - Notebookcheck",
@@ -1684,10 +1683,10 @@
             "published": "19.11., 08:51"
           },
           {
-            "title": "Alphabet Aktienanalyse: Cloud-Umsatz verdoppelt, 121 Milliarden Dollar von Anthropic – und trotzdem 30 Prozent unter Rekord: verkauft die B…",
-            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbDBfTVNzS1d5WHZBWlpfdEkzd1NtUVR3bUNfejJHc3hDQnVDYnh3Q2t6NS0tbXhPOG00RVZSSnpOV0FVVGNtTVJOVURiQVdYbk8zZTg2ZjhBSUl6T1pfRHNNZExESVd3UEFPSWw4UGhrWTkxVmVaR1BGLUR2czhucFlINjFSc3NQZFctUFJPcEV0RW1FMG1jQVBzTlVTSU9TaGdtUHlB?oc=5",
-            "source": "AktienCheck.de",
-            "published": "21.11., 23:28"
+            "title": "Google enthüllt, wie Duplex für Gemini Firmen anruft - Pasquale Pillitteri",
+            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOV0V2X1FtRXAwcUNpMmhYal9hZTlhZTk5R01CZHhUbjVGMThibE5nX1lVaElkTHJhdC1pelpVTVJiOXBYN2dHQlhUWkhFNWlseTdnNGdwbEdsZTFyaDFsM0NRUHpRLXBDa1MyUkZFWW5ocFZwbW1CSEoxUXRaajZxeDhJRTJsQQ?oc=5",
+            "source": "Pasquale Pillitteri",
+            "published": "22.11., 09:59"
           }
         ]
       }
@@ -2083,9 +2082,21 @@
         "bullets": [
           "Der Kurs ist deutlich gefallen: -4.62 % gegenüber dem vorherigen Schlusskurs.",
           "Gefundene Nachrichten-Themen: US-Dollar, Geopolitik/Sicherheit.",
-          "Wichtigste gefundene Headlines: Gold: Ist die Schwäche des Goldpreises eine Chance für Anleger? - Handelsblatt | Gold: Indiens Festtagskäufe konnten Abverkauf nicht stoppen - Börse Express."
+          "Wichtigste gefundene Headlines: Gold: UBS warnt vor Test der 3.500-Dollar-Marke - Börse Express | Goldpreis-Prognose: US-Großbank erwartet 5.600 Dollar - BTC-ECHO."
         ],
         "headlines": [
+          {
+            "title": "Gold: UBS warnt vor Test der 3.500-Dollar-Marke - Börse Express",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSVhuT1Rscl9VeGxoT3RtbVhhNXBtV0lER3NySzlQZ1hUS3ZCWE95dnF5QUpFUml6UENfbG1jYm9vaWliN0c0WWN0Tjktc1FxSVR5TzRFNHowc0pTQVJQSF9FanJxR2ZGYjg3dHU2U3JQOER0cU5Vb3Z0bGRSM0oyUFNMTW1JZThWY19aMmpsVnNXR0FCbWdndzRQYVhxZw?oc=5",
+            "source": "Börse Express",
+            "published": "22.11., 21:52"
+          },
+          {
+            "title": "Goldpreis-Prognose: US-Großbank erwartet 5.600 Dollar - BTC-ECHO",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWVREREJLenpZR01fczZaTnFPTFFqajh6UTY1UW1FM1pIdF84OFh1Y2xhblpDMjlvMDZGbWdNWDVqUU5sMXJ2eG5kUVhtRkxKbDhncnhDZ0ZSZW04akFGR3lyRlZhbFRySWZLdWwxUkkzXzREdDJpc3RYbUFhQ3lvV1FiWU5wZ2duaWcxUGt6ejc?oc=5",
+            "source": "BTC-ECHO",
+            "published": "22.11., 14:00"
+          },
           {
             "title": "Gold: Ist die Schwäche des Goldpreises eine Chance für Anleger? - Handelsblatt",
             "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUkZJeEdhMjJCMzRvVEFOQzhxaTRWM2x3T0N1dDhfeTY1d1ZOZWt5MzdGaHlwc2hpRTFiSlpfZU0xNG1CQWlYZVZmZTRIN3Y0TVBYVnVRa0RZSU9lN2xGOE5sM1M3bWQ0YS00Xy13bjdVbDZwUnhWa3JzTUdzY1V3YmFPbmlzUHB0aVdpZzlMZDZWak53UHhWWU9CLW1JUzNmZG5rWDBfTXllNDQ1al9zcFB5WmpkamFmZU12aFFhMUNwNVozLVhZSTcyUTBybFVDem41SkNhUTVxUQ?oc=5",
@@ -2093,22 +2104,10 @@
             "published": "19.11., 16:27"
           },
           {
-            "title": "Gold: Indiens Festtagskäufe konnten Abverkauf nicht stoppen - Börse Express",
-            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNV8xUjJDa1RMS1VGS3JNbk82ank2UU43THRDZlk5cG83cTBOZ1JEN0tJQXhDd0RRZ0xNdkxla0dvMWwzdG0tbXp6WmhaUWNra1lUajFqOHVYTU40dUhlRWk5YnBqbTNWNjBxOXVKOEtNaTJsTGV4REk5WUNudkdna0FzM2drZU9RUFVoMlRUcVlKSU5pVTNwbm1uZjZITEhJc3h4Nm5xY216eFRPMDRmZg?oc=5",
-            "source": "Börse Express",
-            "published": "22.11., 05:15"
-          },
-          {
             "title": "Rückschlag setzt sich fort: Goldpreis fällt kräftig und nähert sich 3.500 US-Dollar - finanzen.at",
             "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUXRadzlxNENoeVVVZjB1VmN1cjViRnplSDhMa0hKYVFIV1dQYTNaQVA0eGdjOVNkZ01McW93U295YXZRNUpiZTJYQXU2Z3RyOVNlandlUTlpMHJjcHI5MzlQZFVrUWdfdXMwOVZnSmNtVTdUVE52WXA0cHFJdEd5TTd4MnJGSWtkWTZuNlZZVlI5ZlJvWnFIVWMtNXBYck5LVE9IR1VmVFdHazRjLU9aMjIyNE1VenZDSjhzTnRTUGRLaGpoOFpVQTZLemhzZnptVkFEbldOWQ?oc=5",
             "source": "finanzen.at",
             "published": "20.11., 07:50"
-          },
-          {
-            "title": "Goldpreis-Prognose: Was Experten jetzt erwarten - weekend.at",
-            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Cb3ZVX3Y3bDB3OU1vZVRZSFRMRG9DSGVfRlFWNzNkMmIyV3NBUFlENTJPUnppSFk3OVFNUVBlazNiZGwwWXczREVmX2laVmhKM2hIbFFqUmo4SW0teWNzRmZaMDhSQk9MSWRsMk02QQ?oc=5",
-            "source": "weekend.at",
-            "published": "20.11., 09:12"
           }
         ]
       }
